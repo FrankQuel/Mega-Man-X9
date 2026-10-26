@@ -1,0 +1,65 @@
+{
+  "source": "Assets/Recursos/UI/Animated/StageIntro/Generated/ReadyPulse.png",
+  "selectedCell": 0,
+  "palette": "original blue/aqua only; orange/gold cells are not sampled",
+  "logicalCanvas": [
+    1600,
+    900
+  ],
+  "duration": 1.8,
+  "phases": [
+    {
+      "name": "LineSweep",
+      "start": 0,
+      "end": 0.28,
+      "behavior": "blue/cyan horizontal streak sweeps left to right"
+    },
+    {
+      "name": "ExpansionFlash",
+      "start": 0.28,
+      "end": 0.46,
+      "behavior": "cyan/white expansion over the existing background"
+    },
+    {
+      "name": "TextReveal",
+      "start": 0.46,
+      "end": 0.62,
+      "behavior": "the original word reveals from its horizontal center without stretching its texture"
+    },
+    {
+      "name": "Hold",
+      "start": 0.62,
+      "end": 1.44,
+      "behavior": "cyan word holds with a small initial settling motion"
+    },
+    {
+      "name": "Split",
+      "start": 1.44,
+      "end": 1.8,
+      "behavior": "two complete cyan READY word instances begin coincident, then slide in opposite directions with dark cyan shadows and final fade; both sample the full selected sprite"
+    }
+  ],
+  "suggestedCaptureTimes": [
+    0.07,
+    0.35,
+    0.54,
+    0.95,
+    1.53,
+    1.67,
+    1.8
+  ],
+  "integration": {
+    "builder": "StageReadySequenceBuilder.AttachTo(host)",
+    "automaticUpdate": false,
+    "automaticOnGUI": false,
+    "advance": "Advance(deltaAlreadyScaledByStage)",
+    "draw": "Draw(rectInCurrentLogicalGUICoordinates)",
+    "completed": "event Action Completed; once per normal playback; Seek never invokes it"
+  },
+  "visualVerification": "C# compilation checked separately; live Unity playback/capture still required",
+  "exitSampling": {
+    "leftWordUV": "full selected sprite [0,1]",
+    "rightWordUV": "full selected sprite [0,1]",
+    "clipping": "viewport clips complete words as they leave; letters are not split into UV halves"
+  }
+}

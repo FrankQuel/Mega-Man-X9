@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ffff9f2c919d4ed0bd0d2335b6f5f745, type: 3}
+  m_Name: RainStartupVideoAssets
+  m_EditorClassIdentifier: Assembly-CSharp::MegaManX9.Gameplay.RainStartupVideoAssets
+  video: {fileID: 32900000, guid: 360fa4ec70aec434c9b785f0138af723, type: 3}
+  volume: 1

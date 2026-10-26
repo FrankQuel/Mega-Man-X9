@@ -1,0 +1,147 @@
+[
+  {
+    "original": "Assets/Recursos/Sprites/Bosses/Dragon/Dragon.png",
+    "current": "SourceArt/Sprites/Bosses/Dragon/Dragon.png",
+    "reason": "Original sheet or palette preserved outside Unity import; PNG clips are in Assets/Recursos/Sprites."
+  },
+  {
+    "original": "Assets/Recursos/Sprites/Bosses/Axl/Axl_OriginalSpriteSheet.png",
+    "current": "SourceArt/Sprites/Bosses/Axl/Axl_OriginalSpriteSheet.png",
+    "reason": "Original sheet or palette preserved outside Unity import; PNG clips are in Assets/Recursos/Sprites."
+  },
+  {
+    "original": "Assets/Recursos/Sprites/Effects/Explosion.gif",
+    "current": "SourceArt/Sprites/Effects/Explosion.gif",
+    "reason": "Original sheet or palette preserved outside Unity import; PNG clips are in Assets/Recursos/Sprites."
+  },
+  {
+    "original": "Assets/Recursos/Sprites/Effects/Rain Effect.png",
+    "current": "SourceArt/Sprites/Effects/Rain Effect.png",
+    "reason": "Original sheet or palette preserved outside Unity import; PNG clips are in Assets/Recursos/Sprites."
+  },
+  {
+    "original": "Assets/Recursos/Sprites/Effects/Ready Text - Stage Intro Screen.png",
+    "current": "SourceArt/Sprites/Effects/Ready Text - Stage Intro Screen.png",
+    "reason": "Original sheet or palette preserved outside Unity import; PNG clips are in Assets/Recursos/Sprites."
+  },
+  {
+    "original": "Assets/Recursos/Sprites/Effects/bossdoor.gif",
+    "current": "SourceArt/Sprites/Effects/bossdoor.gif",
+    "reason": "Original sheet or palette preserved outside Unity import; PNG clips are in Assets/Recursos/Sprites."
+  },
+  {
+    "original": "Assets/Recursos/Sprites/Effects/meteor1.gif",
+    "current": "SourceArt/Sprites/Effects/meteor1.gif",
+    "reason": "Original sheet or palette preserved outside Unity import; PNG clips are in Assets/Recursos/Sprites."
+  },
+  {
+    "original": "Assets/Recursos/Sprites/Enemies/bird.gif",
+    "current": "SourceArt/Sprites/Enemies/bird.gif",
+    "reason": "Original sheet or palette preserved outside Unity import; PNG clips are in Assets/Recursos/Sprites."
+  },
+  {
+    "original": "Assets/Recursos/Sprites/Enemies/burnout.gif",
+    "current": "SourceArt/Sprites/Enemies/burnout.gif",
+    "reason": "Original sheet or palette preserved outside Unity import; PNG clips are in Assets/Recursos/Sprites."
+  },
+  {
+    "original": "Assets/Recursos/Sprites/Enemies/gigadeath.gif",
+    "current": "SourceArt/Sprites/Enemies/gigadeath.gif",
+    "reason": "Original sheet or palette preserved outside Unity import; PNG clips are in Assets/Recursos/Sprites."
+  },
+  {
+    "original": "Assets/Recursos/Sprites/Enemies/grenademan.gif",
+    "current": "SourceArt/Sprites/Enemies/grenademan.gif",
+    "reason": "Original sheet or palette preserved outside Unity import; PNG clips are in Assets/Recursos/Sprites."
+  },
+  {
+    "original": "Assets/Recursos/Sprites/Enemies/grenademan2.gif",
+    "current": "SourceArt/Sprites/Enemies/grenademan2.gif",
+    "reason": "Original sheet or palette preserved outside Unity import; PNG clips are in Assets/Recursos/Sprites."
+  },
+  {
+    "original": "Assets/Recursos/Sprites/Enemies/minilasercannon.gif",
+    "current": "SourceArt/Sprites/Enemies/minilasercannon.gif",
+    "reason": "Original sheet or palette preserved outside Unity import; PNG clips are in Assets/Recursos/Sprites."
+  },
+  {
+    "original": "Assets/Recursos/Sprites/Enemies/spikeball.gif",
+    "current": "SourceArt/Sprites/Enemies/spikeball.gif",
+    "reason": "Original sheet or palette preserved outside Unity import; PNG clips are in Assets/Recursos/Sprites."
+  },
+  {
+    "original": "Assets/Recursos/Sprites/Items/items.png",
+    "current": "SourceArt/Sprites/Items/items.png",
+    "reason": "Original sheet or palette preserved outside Unity import; PNG clips are in Assets/Recursos/Sprites."
+  },
+  {
+    "original": "Assets/Recursos/Sprites/Player/Robot futuristico azul/armadura definitiva del robot futuristico azul.png",
+    "current": "SourceArt/Sprites/Player/Robot futuristico azul/armadura definitiva del robot futuristico azul.png",
+    "reason": "Original sheet or palette preserved outside Unity import; PNG clips are in Assets/Recursos/Sprites."
+  },
+  {
+    "original": "Assets/Recursos/Sprites/Player/Robot futuristico azul/paleta de colores para la armadura definitiva del robot futuristico azul.gif",
+    "current": "SourceArt/Sprites/Player/Robot futuristico azul/paleta de colores para la armadura definitiva del robot futuristico azul.gif",
+    "reason": "Original sheet or palette preserved outside Unity import; PNG clips are in Assets/Recursos/Sprites."
+  },
+  {
+    "original": "Assets/Recursos/Sprites/Player/Robot futuristico azul/paleta de colores para robot futuristico azul.gif",
+    "current": "SourceArt/Sprites/Player/Robot futuristico azul/paleta de colores para robot futuristico azul.gif",
+    "reason": "Original sheet or palette preserved outside Unity import; PNG clips are in Assets/Recursos/Sprites."
+  },
+  {
+    "original": "Assets/Recursos/Sprites/Player/Robot futuristico azul/robot futuristico azul extra.png",
+    "current": "SourceArt/Sprites/Player/Robot futuristico azul/robot futuristico azul extra.png",
+    "reason": "Original sheet or palette preserved outside Unity import; PNG clips are in Assets/Recursos/Sprites."
+  },
+  {
+    "original": "Assets/Recursos/Sprites/Player/Robot futuristico azul/robot futuristico azul principal.png",
+    "current": "SourceArt/Sprites/Player/Robot futuristico azul/robot futuristico azul principal.png",
+    "reason": "Original sheet or palette preserved outside Unity import; PNG clips are in Assets/Recursos/Sprites."
+  },
+  {
+    "original": "Assets/Recursos/Sprites/Player/Robot futuristico rojo/ataques especiales del robot futuristico rojo.gif",
+    "current": "SourceArt/Sprites/Player/Robot futuristico rojo/ataques especiales del robot futuristico rojo.gif",
+    "reason": "Original sheet or palette preserved outside Unity import; PNG clips are in Assets/Recursos/Sprites."
+  },
+  {
+    "original": "Assets/Recursos/Sprites/Player/Robot futuristico rojo/paleta de colores del robot futuristico rojo.png",
+    "current": "SourceArt/Sprites/Player/Robot futuristico rojo/paleta de colores del robot futuristico rojo.png",
+    "reason": "Original sheet or palette preserved outside Unity import; PNG clips are in Assets/Recursos/Sprites."
+  },
+  {
+    "original": "Assets/Recursos/Sprites/Player/Robot futuristico rojo/robot futuristico rojo extra 1.gif",
+    "current": "SourceArt/Sprites/Player/Robot futuristico rojo/robot futuristico rojo extra 1.gif",
+    "reason": "Original sheet or palette preserved outside Unity import; PNG clips are in Assets/Recursos/Sprites."
+  },
+  {
+    "original": "Assets/Recursos/Sprites/Player/Robot futuristico rojo/robot futuristico rojo extra 2.gif",
+    "current": "SourceArt/Sprites/Player/Robot futuristico rojo/robot futuristico rojo extra 2.gif",
+    "reason": "Original sheet or palette preserved outside Unity import; PNG clips are in Assets/Recursos/Sprites."
+  },
+  {
+    "original": "Assets/Recursos/Sprites/Player/Robot futuristico rojo/robot futuristico rojo extra 3.gif",
+    "current": "SourceArt/Sprites/Player/Robot futuristico rojo/robot futuristico rojo extra 3.gif",
+    "reason": "Original sheet or palette preserved outside Unity import; PNG clips are in Assets/Recursos/Sprites."
+  },
+  {
+    "original": "Assets/Recursos/Sprites/Player/Robot futuristico rojo/robot futuristico rojo principal.gif",
+    "current": "SourceArt/Sprites/Player/Robot futuristico rojo/robot futuristico rojo principal.gif",
+    "reason": "Original sheet or palette preserved outside Unity import; PNG clips are in Assets/Recursos/Sprites."
+  },
+  {
+    "original": "Assets/Recursos/Sprites/Player/Robot futuristico rojo/segunda paleta de colores del robot futuristico rojo.gif",
+    "current": "SourceArt/Sprites/Player/Robot futuristico rojo/segunda paleta de colores del robot futuristico rojo.gif",
+    "reason": "Original sheet or palette preserved outside Unity import; PNG clips are in Assets/Recursos/Sprites."
+  },
+  {
+    "original": "Assets/Recursos/UI/HUD/HUD Elements.png",
+    "current": "SourceArt/UI/HUD/HUD Elements.png",
+    "reason": "Original sheet or palette preserved outside Unity import; PNG clips are in Assets/Recursos/Sprites."
+  },
+  {
+    "original": "Assets/Recursos/UI/Menus/MainMenu/Retro CRT Spanish Game Menu Sprite Sheet.png",
+    "current": "SourceArt/UI/Menus/MainMenu/Retro CRT Spanish Game Menu Sprite Sheet.png",
+    "reason": "Original sheet or palette preserved outside Unity import; PNG clips are in Assets/Recursos/Sprites."
+  }
+]

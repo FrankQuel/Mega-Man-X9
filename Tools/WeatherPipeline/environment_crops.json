@@ -1,0 +1,230 @@
+{
+    "coordinateOrigin": "top-left",
+    "outputFolder": "Assets/Recursos/Sprites/Environment/RainyFoundry/NativeEnvironment",
+    "alphaPolicy": "Edge-connected near-white flood, reviewed hole seeds, one-pixel white-matte defringe",
+    "crops": [
+        {
+            "name": "BlueGarage",
+            "source": "Assets/Recursos/Sprites/Environment/edificios.png",
+            "x": 46,
+            "y": 161,
+            "width": 358,
+            "height": 262,
+            "backgroundSeeds": [
+                211,
+                260,
+                235,
+                260,
+                258,
+                260,
+                88,
+                369
+            ]
+        },
+        {
+            "name": "BlueFactory",
+            "source": "Assets/Recursos/Sprites/Environment/edificios.png",
+            "x": 432,
+            "y": 62,
+            "width": 483,
+            "height": 361,
+            "backgroundSeeds": [
+                485,
+                350,
+                865,
+                350
+            ]
+        },
+        {
+            "name": "TwinTanks",
+            "source": "Assets/Recursos/Sprites/Environment/edificios.png",
+            "x": 933,
+            "y": 79,
+            "width": 475,
+            "height": 344,
+            "backgroundSeeds": [
+                1167,
+                190,
+                992,
+                320,
+                1349,
+                320
+            ]
+        },
+        {
+            "name": "CommunicationsTower",
+            "source": "Assets/Recursos/Sprites/Environment/edificios.png",
+            "x": 18,
+            "y": 448,
+            "width": 347,
+            "height": 565,
+            "backgroundSeeds": []
+        },
+        {
+            "name": "IndustrialFactory",
+            "source": "Assets/Recursos/Sprites/Environment/edificios.png",
+            "x": 376,
+            "y": 551,
+            "width": 652,
+            "height": 462,
+            "backgroundSeeds": [
+                804,
+                755,
+                904,
+                827,
+                408,
+                828,
+                428,
+                829,
+                452,
+                829,
+                434,
+                859,
+                415,
+                884,
+                452,
+                883,
+                432,
+                912,
+                431,
+                945,
+                414,
+                965,
+                446,
+                965,
+                430,
+                983
+            ]
+        },
+        {
+            "name": "BlueTower",
+            "source": "Assets/Recursos/Sprites/Environment/edificios.png",
+            "x": 1044,
+            "y": 458,
+            "width": 301,
+            "height": 555,
+            "backgroundSeeds": [
+                1128,
+                688,
+                1280,
+                850
+            ]
+        },
+        {
+            "name": "ExtraGarage",
+            "source": "Assets/Recursos/Sprites/Environment/postes, pinchos y edificios extra.png",
+            "x": 43,
+            "y": 281,
+            "width": 245,
+            "height": 255,
+            "backgroundSeeds": []
+        },
+        {
+            "name": "ExtraBannerBuilding",
+            "source": "Assets/Recursos/Sprites/Environment/postes, pinchos y edificios extra.png",
+            "x": 311,
+            "y": 248,
+            "width": 195,
+            "height": 288,
+            "backgroundSeeds": []
+        },
+        {
+            "name": "ExtraSlimTower",
+            "source": "Assets/Recursos/Sprites/Environment/postes, pinchos y edificios extra.png",
+            "x": 527,
+            "y": 123,
+            "width": 194,
+            "height": 413,
+            "backgroundSeeds": []
+        },
+        {
+            "name": "ExtraWideBuilding",
+            "source": "Assets/Recursos/Sprites/Environment/postes, pinchos y edificios extra.png",
+            "x": 742,
+            "y": 212,
+            "width": 305,
+            "height": 324,
+            "backgroundSeeds": []
+        },
+        {
+            "name": "ExtraTallBuilding",
+            "source": "Assets/Recursos/Sprites/Environment/postes, pinchos y edificios extra.png",
+            "x": 1067,
+            "y": 22,
+            "width": 278,
+            "height": 514,
+            "backgroundSeeds": []
+        },
+        {
+            "name": "LampShort",
+            "source": "Assets/Recursos/Sprites/Environment/postes, pinchos y edificios extra.png",
+            "x": 66,
+            "y": 812,
+            "width": 101,
+            "height": 179,
+            "backgroundSeeds": [
+                108,
+                842,
+                84,
+                844
+            ]
+        },
+        {
+            "name": "LampTall",
+            "source": "Assets/Recursos/Sprites/Environment/postes, pinchos y edificios extra.png",
+            "x": 193,
+            "y": 762,
+            "width": 112,
+            "height": 229,
+            "backgroundSeeds": [
+                237,
+                787
+            ]
+        },
+        {
+            "name": "BannerPole",
+            "source": "Assets/Recursos/Sprites/Environment/postes, pinchos y edificios extra.png",
+            "x": 380,
+            "y": 762,
+            "width": 89,
+            "height": 229,
+            "backgroundSeeds": []
+        },
+        {
+            "name": "SpikeLong",
+            "source": "Assets/Recursos/Sprites/Environment/pinchos.png",
+            "x": 577,
+            "y": 112,
+            "width": 663,
+            "height": 151,
+            "backgroundSeeds": []
+        },
+        {
+            "name": "SpikeTriple",
+            "source": "Assets/Recursos/Sprites/Environment/pinchos.png",
+            "x": 240,
+            "y": 115,
+            "width": 297,
+            "height": 148,
+            "backgroundSeeds": []
+        },
+        {
+            "name": "SpikeCompactFour",
+            "source": "Assets/Recursos/Sprites/Environment/postes, pinchos y edificios extra.png",
+            "x": 52,
+            "y": 628,
+            "width": 162,
+            "height": 64,
+            "backgroundSeeds": []
+        },
+        {
+            "name": "SpikeCompactSix",
+            "source": "Assets/Recursos/Sprites/Environment/postes, pinchos y edificios extra.png",
+            "x": 237,
+            "y": 624,
+            "width": 191,
+            "height": 68,
+            "backgroundSeeds": []
+        }
+    ]
+}

@@ -1,0 +1,4355 @@
+[
+  {
+    "source": "Assets/Recursos/Sprites/Player/Robot futuristico azul/robot futuristico azul principal.png",
+    "category": "Player",
+    "unit": "Blue",
+    "name": "TeleportBeam",
+    "rects": [
+      [
+        83,
+        14,
+        6,
+        80
+      ],
+      [
+        97,
+        30,
+        21,
+        64
+      ]
+    ],
+    "fps": 10,
+    "loop": false
+  },
+  {
+    "source": "Assets/Recursos/Sprites/Player/Robot futuristico azul/robot futuristico azul principal.png",
+    "category": "Player",
+    "unit": "Blue",
+    "name": "TeleportOrb",
+    "rects": [
+      [
+        122,
+        62,
+        40,
+        32
+      ],
+      [
+        169,
+        52,
+        60,
+        52
+      ],
+      [
+        236,
+        48,
+        64,
+        60
+      ],
+      [
+        308,
+        46,
+        64,
+        64
+      ],
+      [
+        381,
+        46,
+        64,
+        64
+      ],
+      [
+        454,
+        52,
+        54,
+        52
+      ]
+    ],
+    "fps": 10,
+    "loop": false
+  },
+  {
+    "source": "Assets/Recursos/Sprites/Player/Robot futuristico azul/robot futuristico azul principal.png",
+    "category": "Player",
+    "unit": "Blue",
+    "name": "TeleportArrival",
+    "rects": [
+      [
+        80,
+        131,
+        41,
+        41
+      ],
+      [
+        129,
+        127,
+        34,
+        41
+      ],
+      [
+        172,
+        125,
+        34,
+        43
+      ],
+      [
+        217,
+        123,
+        32,
+        45
+      ],
+      [
+        258,
+        114,
+        21,
+        54
+      ],
+      [
+        288,
+        113,
+        20,
+        55
+      ],
+      [
+        316,
+        121,
+        82,
+        47
+      ],
+      [
+        400,
+        125,
+        54,
+        43
+      ],
+      [
+        460,
+        123,
+        37,
+        45
+      ]
+    ],
+    "fps": 12,
+    "loop": false
+  },
+  {
+    "source": "Assets/Recursos/Sprites/Player/Robot futuristico azul/robot futuristico azul principal.png",
+    "category": "Player",
+    "unit": "Blue",
+    "name": "Idle",
+    "rects": [
+      [
+        189,
+        174,
+        35,
+        46
+      ],
+      [
+        231,
+        175,
+        35,
+        45
+      ],
+      [
+        274,
+        176,
+        35,
+        44
+      ],
+      [
+        317,
+        176,
+        35,
+        44
+      ],
+      [
+        359,
+        176,
+        35,
+        44
+      ]
+    ],
+    "fps": 8,
+    "loop": true
+  },
+  {
+    "source": "Assets/Recursos/Sprites/Player/Robot futuristico azul/robot futuristico azul principal.png",
+    "category": "Player",
+    "unit": "Blue",
+    "name": "Jump",
+    "rects": [
+      [
+        98,
+        230,
+        25,
+        48
+      ],
+      [
+        131,
+        229,
+        23,
+        51
+      ],
+      [
+        163,
+        231,
+        23,
+        53
+      ],
+      [
+        203,
+        229,
+        23,
+        57
+      ],
+      [
+        236,
+        232,
+        27,
+        53
+      ],
+      [
+        272,
+        233,
+        34,
+        50
+      ],
+      [
+        312,
+        232,
+        32,
+        52
+      ],
+      [
+        353,
+        231,
+        29,
+        54
+      ],
+      [
+        391,
+        234,
+        31,
+        51
+      ],
+      [
+        429,
+        237,
+        29,
+        47
+      ],
+      [
+        464,
+        238,
+        32,
+        43
+      ]
+    ],
+    "fps": 12,
+    "loop": false
+  },
+  {
+    "source": "Assets/Recursos/Sprites/Player/Robot futuristico azul/robot futuristico azul principal.png",
+    "category": "Player",
+    "unit": "Blue",
+    "name": "Shoot",
+    "rects": [
+      [
+        85,
+        298,
+        49,
+        44
+      ],
+      [
+        142,
+        298,
+        48,
+        44
+      ],
+      [
+        198,
+        298,
+        49,
+        44
+      ],
+      [
+        256,
+        297,
+        49,
+        45
+      ],
+      [
+        315,
+        297,
+        40,
+        45
+      ],
+      [
+        365,
+        298,
+        50,
+        44
+      ],
+      [
+        421,
+        298,
+        38,
+        44
+      ],
+      [
+        465,
+        297,
+        34,
+        45
+      ]
+    ],
+    "fps": 16,
+    "loop": false,
+    "anchors": [
+      [
+        18,
+        44
+      ],
+      [
+        18,
+        44
+      ],
+      [
+        18,
+        44
+      ],
+      [
+        18,
+        45
+      ],
+      [
+        18,
+        45
+      ],
+      [
+        27,
+        44
+      ],
+      [
+        18,
+        44
+      ],
+      [
+        17,
+        45
+      ]
+    ],
+    "notes": "Body/foot horizontal alignment is estimated visually for the wide muzzle frames."
+  },
+  {
+    "source": "Assets/Recursos/Sprites/Player/Robot futuristico azul/robot futuristico azul principal.png",
+    "category": "Player",
+    "unit": "Blue",
+    "name": "ChargeShot",
+    "rects": [
+      [
+        94,
+        363,
+        47,
+        55
+      ],
+      [
+        147,
+        356,
+        47,
+        62
+      ],
+      [
+        202,
+        352,
+        50,
+        68
+      ],
+      [
+        257,
+        349,
+        56,
+        74
+      ],
+      [
+        322,
+        348,
+        40,
+        76
+      ],
+      [
+        366,
+        347,
+        41,
+        78
+      ],
+      [
+        416,
+        369,
+        36,
+        49
+      ],
+      [
+        458,
+        367,
+        33,
+        51
+      ]
+    ],
+    "fps": 14,
+    "loop": false,
+    "anchors": [
+      [
+        18,
+        55
+      ],
+      [
+        20,
+        62
+      ],
+      [
+        18,
+        68
+      ],
+      [
+        20,
+        74
+      ],
+      [
+        21,
+        76
+      ],
+      [
+        24,
+        78
+      ],
+      [
+        18,
+        49
+      ],
+      [
+        17,
+        51
+      ]
+    ],
+    "notes": "The expanding shot is integral to these source frames; horizontal body anchors are estimated visually."
+  },
+  {
+    "source": "Assets/Recursos/Sprites/Player/Robot futuristico azul/robot futuristico azul principal.png",
+    "category": "Player",
+    "unit": "Blue",
+    "name": "RunStart",
+    "rects": [
+      [
+        114,
+        429,
+        33,
+        45
+      ],
+      [
+        153,
+        428,
+        31,
+        46
+      ]
+    ],
+    "fps": 12,
+    "loop": false
+  },
+  {
+    "source": "Assets/Recursos/Sprites/Player/Robot futuristico azul/robot futuristico azul principal.png",
+    "category": "Player",
+    "unit": "Blue",
+    "name": "Run",
+    "rects": [
+      [
+        191,
+        427,
+        32,
+        46
+      ],
+      [
+        230,
+        428,
+        40,
+        44
+      ],
+      [
+        275,
+        429,
+        48,
+        43
+      ],
+      [
+        329,
+        430,
+        48,
+        43
+      ],
+      [
+        384,
+        429,
+        39,
+        44
+      ],
+      [
+        433,
+        428,
+        30,
+        45
+      ],
+      [
+        119,
+        483,
+        27,
+        46
+      ],
+      [
+        155,
+        483,
+        35,
+        45
+      ],
+      [
+        196,
+        484,
+        40,
+        45
+      ],
+      [
+        240,
+        485,
+        42,
+        44
+      ],
+      [
+        291,
+        486,
+        42,
+        44
+      ],
+      [
+        340,
+        485,
+        38,
+        45
+      ],
+      [
+        388,
+        484,
+        32,
+        46
+      ],
+      [
+        427,
+        483,
+        27,
+        47
+      ]
+    ],
+    "fps": 14,
+    "loop": true
+  },
+  {
+    "source": "Assets/Recursos/Sprites/Player/Robot futuristico azul/robot futuristico azul principal.png",
+    "category": "Player",
+    "unit": "Blue",
+    "name": "Dash",
+    "rects": [
+      [
+        94,
+        541,
+        36,
+        42
+      ],
+      [
+        136,
+        548,
+        46,
+        36
+      ],
+      [
+        188,
+        553,
+        53,
+        31
+      ],
+      [
+        246,
+        553,
+        57,
+        31
+      ],
+      [
+        309,
+        541,
+        38,
+        43
+      ],
+      [
+        353,
+        540,
+        30,
+        44
+      ],
+      [
+        386,
+        541,
+        45,
+        43
+      ],
+      [
+        437,
+        541,
+        34,
+        43
+      ]
+    ],
+    "fps": 16,
+    "loop": false
+  },
+  {
+    "source": "Assets/Recursos/Sprites/Player/Robot futuristico azul/robot futuristico azul principal.png",
+    "category": "Player",
+    "unit": "Blue",
+    "name": "JumpShoot",
+    "rects": [
+      [
+        55,
+        594,
+        34,
+        48
+      ],
+      [
+        134,
+        594,
+        34,
+        51
+      ],
+      [
+        210,
+        595,
+        34,
+        53
+      ],
+      [
+        291,
+        592,
+        34,
+        57
+      ],
+      [
+        369,
+        594,
+        37,
+        53
+      ],
+      [
+        457,
+        595,
+        40,
+        50
+      ],
+      [
+        70,
+        658,
+        39,
+        52
+      ],
+      [
+        159,
+        658,
+        38,
+        53
+      ],
+      [
+        245,
+        663,
+        38,
+        51
+      ],
+      [
+        340,
+        666,
+        38,
+        47
+      ],
+      [
+        431,
+        667,
+        42,
+        43
+      ]
+    ],
+    "fps": 12,
+    "loop": false,
+    "notes": "Alternating source frames are separated into the base and bright palette variants; no new frames are generated."
+  },
+  {
+    "source": "Assets/Recursos/Sprites/Player/Robot futuristico azul/robot futuristico azul principal.png",
+    "category": "Player",
+    "unit": "Blue",
+    "name": "JumpShootFlash",
+    "rects": [
+      [
+        96,
+        594,
+        34,
+        48
+      ],
+      [
+        172,
+        594,
+        34,
+        51
+      ],
+      [
+        252,
+        595,
+        34,
+        53
+      ],
+      [
+        330,
+        592,
+        34,
+        57
+      ],
+      [
+        412,
+        593,
+        37,
+        53
+      ],
+      [
+        501,
+        595,
+        40,
+        50
+      ],
+      [
+        115,
+        658,
+        39,
+        52
+      ],
+      [
+        202,
+        658,
+        38,
+        53
+      ],
+      [
+        292,
+        663,
+        38,
+        51
+      ],
+      [
+        387,
+        666,
+        38,
+        47
+      ],
+      [
+        481,
+        667,
+        42,
+        43
+      ]
+    ],
+    "fps": 12,
+    "loop": false,
+    "notes": "Alternating source frames are separated into the base and bright palette variants; no new frames are generated."
+  },
+  {
+    "source": "Assets/Recursos/Sprites/Player/Robot futuristico azul/robot futuristico azul principal.png",
+    "category": "Player",
+    "unit": "Blue",
+    "name": "IdleAim",
+    "rects": [
+      [
+        94,
+        718,
+        45,
+        45
+      ],
+      [
+        193,
+        717,
+        44,
+        46
+      ]
+    ],
+    "fps": 8,
+    "loop": true,
+    "notes": "Alternating source frames are separated into the base and bright palette variants; no new frames are generated."
+  },
+  {
+    "source": "Assets/Recursos/Sprites/Player/Robot futuristico azul/robot futuristico azul principal.png",
+    "category": "Player",
+    "unit": "Blue",
+    "name": "IdleAimFlash",
+    "rects": [
+      [
+        146,
+        718,
+        45,
+        45
+      ],
+      [
+        245,
+        717,
+        44,
+        46
+      ]
+    ],
+    "fps": 8,
+    "loop": true,
+    "notes": "Alternating source frames are separated into the base and bright palette variants; no new frames are generated."
+  },
+  {
+    "source": "Assets/Recursos/Sprites/Player/Robot futuristico azul/robot futuristico azul principal.png",
+    "category": "Player",
+    "unit": "Blue",
+    "name": "RunShoot",
+    "rects": [
+      [
+        293,
+        717,
+        45,
+        46
+      ],
+      [
+        397,
+        718,
+        50,
+        44
+      ],
+      [
+        73,
+        771,
+        54,
+        43
+      ],
+      [
+        189,
+        772,
+        53,
+        43
+      ],
+      [
+        307,
+        771,
+        48,
+        44
+      ],
+      [
+        419,
+        770,
+        43,
+        45
+      ],
+      [
+        89,
+        820,
+        39,
+        46
+      ],
+      [
+        181,
+        820,
+        46,
+        45
+      ],
+      [
+        285,
+        821,
+        49,
+        45
+      ],
+      [
+        394,
+        822,
+        53,
+        44
+      ],
+      [
+        84,
+        874,
+        52,
+        44
+      ],
+      [
+        200,
+        873,
+        50,
+        45
+      ],
+      [
+        313,
+        872,
+        44,
+        46
+      ],
+      [
+        414,
+        871,
+        41,
+        47
+      ]
+    ],
+    "fps": 14,
+    "loop": true,
+    "notes": "Alternating source frames are separated into the base and bright palette variants; no new frames are generated."
+  },
+  {
+    "source": "Assets/Recursos/Sprites/Player/Robot futuristico azul/robot futuristico azul principal.png",
+    "category": "Player",
+    "unit": "Blue",
+    "name": "RunShootFlash",
+    "rects": [
+      [
+        347,
+        717,
+        45,
+        46
+      ],
+      [
+        452,
+        718,
+        50,
+        44
+      ],
+      [
+        131,
+        771,
+        54,
+        43
+      ],
+      [
+        248,
+        772,
+        53,
+        43
+      ],
+      [
+        364,
+        771,
+        48,
+        44
+      ],
+      [
+        470,
+        770,
+        43,
+        45
+      ],
+      [
+        136,
+        820,
+        39,
+        46
+      ],
+      [
+        234,
+        820,
+        46,
+        45
+      ],
+      [
+        339,
+        821,
+        49,
+        45
+      ],
+      [
+        452,
+        822,
+        53,
+        44
+      ],
+      [
+        144,
+        874,
+        52,
+        44
+      ],
+      [
+        255,
+        873,
+        50,
+        45
+      ],
+      [
+        363,
+        872,
+        44,
+        46
+      ],
+      [
+        462,
+        871,
+        41,
+        47
+      ]
+    ],
+    "fps": 14,
+    "loop": true,
+    "notes": "Alternating source frames are separated into the base and bright palette variants; no new frames are generated."
+  },
+  {
+    "source": "Assets/Recursos/Sprites/Player/Robot futuristico azul/robot futuristico azul principal.png",
+    "category": "Player",
+    "unit": "Blue",
+    "name": "DashShoot",
+    "rects": [
+      [
+        44,
+        927,
+        46,
+        42
+      ],
+      [
+        146,
+        934,
+        56,
+        36
+      ],
+      [
+        269,
+        939,
+        62,
+        31
+      ],
+      [
+        403,
+        939,
+        66,
+        31
+      ],
+      [
+        79,
+        985,
+        48,
+        43
+      ],
+      [
+        185,
+        984,
+        45,
+        44
+      ],
+      [
+        285,
+        985,
+        44,
+        43
+      ],
+      [
+        387,
+        985,
+        48,
+        43
+      ]
+    ],
+    "fps": 16,
+    "loop": false,
+    "notes": "Alternating source frames are separated into the base and bright palette variants; no new frames are generated."
+  },
+  {
+    "source": "Assets/Recursos/Sprites/Player/Robot futuristico azul/robot futuristico azul principal.png",
+    "category": "Player",
+    "unit": "Blue",
+    "name": "DashShootFlash",
+    "rects": [
+      [
+        94,
+        927,
+        45,
+        42
+      ],
+      [
+        205,
+        934,
+        56,
+        36
+      ],
+      [
+        336,
+        939,
+        62,
+        31
+      ],
+      [
+        470,
+        939,
+        66,
+        31
+      ],
+      [
+        132,
+        985,
+        48,
+        43
+      ],
+      [
+        236,
+        984,
+        45,
+        44
+      ],
+      [
+        335,
+        985,
+        44,
+        43
+      ],
+      [
+        439,
+        985,
+        48,
+        43
+      ]
+    ],
+    "fps": 16,
+    "loop": false,
+    "notes": "Alternating source frames are separated into the base and bright palette variants; no new frames are generated."
+  },
+  {
+    "source": "Assets/Recursos/Sprites/Player/Robot futuristico azul/robot futuristico azul principal.png",
+    "category": "Player",
+    "unit": "Blue",
+    "name": "WallJump",
+    "rects": [
+      [
+        67,
+        1040,
+        32,
+        51
+      ],
+      [
+        104,
+        1040,
+        34,
+        57
+      ],
+      [
+        147,
+        1040,
+        34,
+        55
+      ],
+      [
+        189,
+        1038,
+        32,
+        58
+      ],
+      [
+        230,
+        1043,
+        31,
+        53
+      ],
+      [
+        272,
+        1043,
+        28,
+        54
+      ]
+    ],
+    "fps": 12,
+    "loop": false
+  },
+  {
+    "source": "Assets/Recursos/Sprites/Player/Robot futuristico azul/robot futuristico azul principal.png",
+    "category": "Player",
+    "unit": "Blue",
+    "name": "WallJumpShoot",
+    "rects": [
+      [
+        310,
+        1043,
+        38,
+        51
+      ],
+      [
+        397,
+        1043,
+        43,
+        57
+      ],
+      [
+        102,
+        1108,
+        44,
+        55
+      ],
+      [
+        200,
+        1105,
+        41,
+        58
+      ],
+      [
+        298,
+        1108,
+        38,
+        53
+      ],
+      [
+        383,
+        1108,
+        37,
+        54
+      ]
+    ],
+    "fps": 12,
+    "loop": false,
+    "notes": "Alternating source frames are separated into the base and bright palette variants; no new frames are generated."
+  },
+  {
+    "source": "Assets/Recursos/Sprites/Player/Robot futuristico azul/robot futuristico azul principal.png",
+    "category": "Player",
+    "unit": "Blue",
+    "name": "WallJumpShootFlash",
+    "rects": [
+      [
+        352,
+        1043,
+        38,
+        51
+      ],
+      [
+        449,
+        1041,
+        43,
+        57
+      ],
+      [
+        150,
+        1108,
+        44,
+        55
+      ],
+      [
+        249,
+        1104,
+        41,
+        58
+      ],
+      [
+        341,
+        1109,
+        38,
+        53
+      ],
+      [
+        424,
+        1108,
+        37,
+        54
+      ]
+    ],
+    "fps": 12,
+    "loop": false,
+    "notes": "Alternating source frames are separated into the base and bright palette variants; no new frames are generated."
+  },
+  {
+    "source": "Assets/Recursos/Sprites/Player/Robot futuristico azul/robot futuristico azul principal.png",
+    "category": "Player",
+    "unit": "Blue",
+    "name": "WallCling",
+    "rects": [
+      [
+        19,
+        1197,
+        26,
+        48
+      ]
+    ],
+    "fps": 1,
+    "loop": true
+  },
+  {
+    "source": "Assets/Recursos/Sprites/Player/Robot futuristico azul/robot futuristico azul principal.png",
+    "category": "Player",
+    "unit": "Blue",
+    "name": "LadderClimb",
+    "rects": [
+      [
+        52,
+        1191,
+        33,
+        47
+      ],
+      [
+        88,
+        1184,
+        28,
+        61
+      ],
+      [
+        124,
+        1182,
+        24,
+        62
+      ],
+      [
+        157,
+        1187,
+        30,
+        49
+      ],
+      [
+        196,
+        1186,
+        33,
+        47
+      ],
+      [
+        239,
+        1180,
+        28,
+        58
+      ],
+      [
+        274,
+        1181,
+        24,
+        58
+      ],
+      [
+        304,
+        1186,
+        29,
+        49
+      ]
+    ],
+    "fps": 10,
+    "loop": true
+  },
+  {
+    "source": "Assets/Recursos/Sprites/Player/Robot futuristico azul/robot futuristico azul principal.png",
+    "category": "Player",
+    "unit": "Blue",
+    "name": "LadderDismount",
+    "rects": [
+      [
+        337,
+        1182,
+        34,
+        48
+      ],
+      [
+        378,
+        1173,
+        31,
+        37
+      ],
+      [
+        418,
+        1163,
+        31,
+        40
+      ]
+    ],
+    "fps": 10,
+    "loop": false
+  },
+  {
+    "source": "Assets/Recursos/Sprites/Player/Robot futuristico azul/robot futuristico azul principal.png",
+    "category": "Player",
+    "unit": "Blue",
+    "name": "LadderShoot",
+    "rects": [
+      [
+        458,
+        1165,
+        36,
+        58
+      ],
+      [
+        500,
+        1166,
+        34,
+        59
+      ],
+      [
+        540,
+        1166,
+        36,
+        58
+      ]
+    ],
+    "fps": 12,
+    "loop": false,
+    "notes": "The sheet supplies one bright aiming pose followed by two base-palette poses."
+  },
+  {
+    "source": "Assets/Recursos/Sprites/Player/Robot futuristico azul/robot futuristico azul principal.png",
+    "category": "Player",
+    "unit": "Blue",
+    "name": "HitElectrical",
+    "rects": [
+      [
+        100,
+        1256,
+        32,
+        48
+      ],
+      [
+        139,
+        1249,
+        34,
+        55
+      ],
+      [
+        181,
+        1256,
+        34,
+        48
+      ],
+      [
+        222,
+        1256,
+        35,
+        52
+      ]
+    ],
+    "fps": 12,
+    "loop": false
+  },
+  {
+    "source": "Assets/Recursos/Sprites/Player/Robot futuristico azul/robot futuristico azul principal.png",
+    "category": "Player",
+    "unit": "Blue",
+    "name": "AlternateIdle",
+    "rects": [
+      [
+        262,
+        1257,
+        33,
+        46
+      ],
+      [
+        302,
+        1258,
+        33,
+        45
+      ],
+      [
+        343,
+        1259,
+        33,
+        44
+      ],
+      [
+        383,
+        1257,
+        33,
+        46
+      ],
+      [
+        422,
+        1258,
+        33,
+        45
+      ],
+      [
+        460,
+        1259,
+        33,
+        44
+      ]
+    ],
+    "fps": 8,
+    "loop": true
+  },
+  {
+    "source": "Assets/Recursos/Sprites/Player/Robot futuristico azul/robot futuristico azul principal.png",
+    "category": "Player",
+    "unit": "Blue",
+    "name": "AirHit",
+    "rects": [
+      [
+        171,
+        1324,
+        31,
+        39
+      ],
+      [
+        213,
+        1319,
+        36,
+        48
+      ],
+      [
+        259,
+        1320,
+        36,
+        48
+      ],
+      [
+        302,
+        1314,
+        44,
+        56
+      ],
+      [
+        356,
+        1310,
+        46,
+        59
+      ]
+    ],
+    "fps": 12,
+    "loop": false,
+    "notes": "The last rectangle includes the detached electrical sparks at its left; these belong to the same visible frame."
+  },
+  {
+    "source": "Assets/Recursos/Sprites/Player/Robot futuristico azul/robot futuristico azul principal.png",
+    "category": "Player",
+    "unit": "Blue",
+    "name": "TeleportDeparture",
+    "rects": [
+      [
+        94,
+        1406,
+        35,
+        42
+      ],
+      [
+        135,
+        1409,
+        33,
+        39
+      ],
+      [
+        175,
+        1404,
+        34,
+        44
+      ],
+      [
+        217,
+        1395,
+        38,
+        54
+      ],
+      [
+        263,
+        1408,
+        35,
+        42
+      ],
+      [
+        302,
+        1406,
+        46,
+        48
+      ],
+      [
+        358,
+        1379,
+        58,
+        77
+      ],
+      [
+        424,
+        1376,
+        57,
+        74
+      ],
+      [
+        489,
+        1383,
+        6,
+        64
+      ]
+    ],
+    "fps": 12,
+    "loop": false
+  },
+  {
+    "source": "Assets/Recursos/Sprites/Player/Robot futuristico azul/robot futuristico azul extra.png",
+    "category": "Player",
+    "unit": "Blue",
+    "name": "Somersault",
+    "rects": [
+      [
+        126,
+        0,
+        36,
+        46
+      ],
+      [
+        171,
+        1,
+        39,
+        34
+      ],
+      [
+        219,
+        1,
+        37,
+        33
+      ],
+      [
+        267,
+        0,
+        40,
+        34
+      ],
+      [
+        119,
+        50,
+        40,
+        42
+      ],
+      [
+        170,
+        50,
+        40,
+        41
+      ],
+      [
+        222,
+        50,
+        40,
+        34
+      ],
+      [
+        274,
+        50,
+        40,
+        33
+      ],
+      [
+        174,
+        100,
+        29,
+        47
+      ],
+      [
+        223,
+        110,
+        41,
+        38
+      ]
+    ],
+    "fps": 14,
+    "loop": false,
+    "notes": "The first source pose touches the top edge of the sheet; no missing pixels are invented."
+  },
+  {
+    "source": "Assets/Recursos/Sprites/Player/Robot futuristico azul/robot futuristico azul extra.png",
+    "category": "Player",
+    "unit": "Blue",
+    "name": "NovaStrikeStartup",
+    "rects": [
+      [
+        73,
+        158,
+        33,
+        44
+      ],
+      [
+        133,
+        156,
+        35,
+        54
+      ],
+      [
+        197,
+        154,
+        35,
+        55
+      ],
+      [
+        262,
+        158,
+        38,
+        44
+      ]
+    ],
+    "fps": 14,
+    "loop": false
+  },
+  {
+    "source": "Assets/Recursos/Sprites/Player/Robot futuristico azul/robot futuristico azul extra.png",
+    "category": "Player",
+    "unit": "Blue",
+    "name": "NovaStrikeTravel",
+    "rects": [
+      [
+        323,
+        166,
+        62,
+        31
+      ],
+      [
+        6,
+        238,
+        62,
+        31
+      ],
+      [
+        297,
+        223,
+        117,
+        60
+      ]
+    ],
+    "fps": 14,
+    "loop": false,
+    "anchors": [
+      [
+        42,
+        28
+      ],
+      [
+        45,
+        28
+      ],
+      [
+        94,
+        45
+      ]
+    ],
+    "notes": "Travel frames contain the actor. Body alignment is approximate because the final frame includes a long trail."
+  },
+  {
+    "source": "Assets/Recursos/Sprites/Player/Robot futuristico azul/robot futuristico azul extra.png",
+    "category": "Player",
+    "unit": "Blue",
+    "name": "NovaStrikeTrail",
+    "rects": [
+      [
+        83,
+        234,
+        85,
+        40
+      ],
+      [
+        182,
+        224,
+        108,
+        60
+      ]
+    ],
+    "fps": 14,
+    "loop": false,
+    "notes": "Standalone trail/effect frames, deliberately separate from the actor animation."
+  },
+  {
+    "source": "Assets/Recursos/Sprites/Player/Robot futuristico azul/robot futuristico azul extra.png",
+    "category": "Player",
+    "unit": "Blue",
+    "name": "AirDash",
+    "rects": [
+      [
+        168,
+        295,
+        37,
+        38
+      ],
+      [
+        212,
+        302,
+        57,
+        24
+      ],
+      [
+        276,
+        299,
+        58,
+        26
+      ]
+    ],
+    "fps": 14,
+    "loop": false
+  },
+  {
+    "source": "Assets/Recursos/Sprites/Player/Robot futuristico azul/robot futuristico azul extra.png",
+    "category": "Player",
+    "unit": "Blue",
+    "name": "AirRecover",
+    "rects": [
+      [
+        84,
+        321,
+        33,
+        51
+      ],
+      [
+        124,
+        321,
+        31,
+        53
+      ],
+      [
+        174,
+        349,
+        21,
+        44
+      ],
+      [
+        226,
+        340,
+        24,
+        57
+      ],
+      [
+        289,
+        341,
+        26,
+        58
+      ]
+    ],
+    "fps": 12,
+    "loop": false,
+    "notes": "Descriptive name: airborne recovery poses; the source does not document a gameplay trigger."
+  },
+  {
+    "source": "Assets/Recursos/Sprites/Player/Robot futuristico azul/robot futuristico azul extra.png",
+    "category": "Player",
+    "unit": "Blue",
+    "name": "CrouchIdle",
+    "rects": [
+      [
+        162,
+        425,
+        40,
+        28
+      ],
+      [
+        210,
+        424,
+        40,
+        29
+      ],
+      [
+        259,
+        423,
+        40,
+        30
+      ]
+    ],
+    "fps": 8,
+    "loop": true
+  },
+  {
+    "source": "Assets/Recursos/Sprites/Player/Robot futuristico azul/armadura definitiva del robot futuristico azul.png",
+    "category": "Player",
+    "unit": "BlueUltimate",
+    "name": "Idle",
+    "rects": [
+      [
+        292,
+        7,
+        31,
+        43
+      ],
+      [
+        332,
+        7,
+        32,
+        43
+      ],
+      [
+        372,
+        7,
+        32,
+        43
+      ]
+    ],
+    "fps": 8,
+    "loop": true,
+    "notes": "Only the final three grounded, arms-lowered breathing poses are used for Idle. The opening arm gesture is a separate IntroSalute action."
+  },
+  {
+    "source": "Assets/Recursos/Sprites/Player/Robot futuristico azul/armadura definitiva del robot futuristico azul.png",
+    "category": "Player",
+    "unit": "BlueUltimate",
+    "name": "IntroSalute",
+    "rects": [
+      [
+        134,
+        8,
+        35,
+        42
+      ],
+      [
+        176,
+        7,
+        33,
+        43
+      ],
+      [
+        215,
+        6,
+        32,
+        44
+      ],
+      [
+        253,
+        7,
+        31,
+        43
+      ],
+      [
+        292,
+        7,
+        31,
+        43
+      ],
+      [
+        332,
+        7,
+        32,
+        43
+      ],
+      [
+        372,
+        7,
+        32,
+        43
+      ]
+    ],
+    "fps": 10,
+    "loop": false,
+    "notes": "Original complete arm-opening/lowering gesture, preserved as an explicit one-shot introduction instead of looping it as Idle."
+  },
+  {
+    "source": "Assets/Recursos/Sprites/Player/Robot futuristico azul/armadura definitiva del robot futuristico azul.png",
+    "category": "Player",
+    "unit": "BlueUltimate",
+    "name": "Jump",
+    "rects": [
+      [
+        96,
+        62,
+        24,
+        46
+      ],
+      [
+        125,
+        60,
+        21,
+        48
+      ],
+      [
+        151,
+        58,
+        21,
+        50
+      ],
+      [
+        179,
+        56,
+        22,
+        52
+      ],
+      [
+        209,
+        56,
+        24,
+        50
+      ],
+      [
+        239,
+        56,
+        31,
+        48
+      ],
+      [
+        276,
+        56,
+        29,
+        49
+      ],
+      [
+        310,
+        56,
+        26,
+        51
+      ],
+      [
+        344,
+        60,
+        28,
+        48
+      ],
+      [
+        378,
+        64,
+        28,
+        45
+      ],
+      [
+        410,
+        67,
+        30,
+        41
+      ]
+    ],
+    "fps": 12,
+    "loop": false
+  },
+  {
+    "source": "Assets/Recursos/Sprites/Player/Robot futuristico azul/armadura definitiva del robot futuristico azul.png",
+    "category": "Player",
+    "unit": "BlueUltimate",
+    "name": "Shoot",
+    "rects": [
+      [
+        80,
+        116,
+        44,
+        42
+      ],
+      [
+        130,
+        116,
+        43,
+        42
+      ],
+      [
+        181,
+        116,
+        44,
+        42
+      ],
+      [
+        233,
+        116,
+        44,
+        42
+      ],
+      [
+        284,
+        116,
+        37,
+        42
+      ],
+      [
+        329,
+        116,
+        43,
+        42
+      ],
+      [
+        378,
+        116,
+        34,
+        42
+      ],
+      [
+        420,
+        115,
+        32,
+        43
+      ]
+    ],
+    "fps": 16,
+    "loop": false,
+    "anchors": [
+      [
+        16,
+        42
+      ],
+      [
+        16,
+        42
+      ],
+      [
+        16,
+        42
+      ],
+      [
+        16,
+        42
+      ],
+      [
+        17,
+        42
+      ],
+      [
+        23,
+        42
+      ],
+      [
+        16,
+        42
+      ],
+      [
+        16,
+        43
+      ]
+    ],
+    "notes": "Wide muzzle frame body anchors estimated visually."
+  },
+  {
+    "source": "Assets/Recursos/Sprites/Player/Robot futuristico azul/armadura definitiva del robot futuristico azul.png",
+    "category": "Player",
+    "unit": "BlueUltimate",
+    "name": "ChargeShot",
+    "rects": [
+      [
+        82,
+        178,
+        42,
+        49
+      ],
+      [
+        129,
+        172,
+        45,
+        62
+      ],
+      [
+        176,
+        168,
+        45,
+        66
+      ],
+      [
+        226,
+        165,
+        51,
+        67
+      ],
+      [
+        286,
+        164,
+        36,
+        68
+      ],
+      [
+        333,
+        164,
+        37,
+        67
+      ],
+      [
+        379,
+        182,
+        32,
+        45
+      ],
+      [
+        422,
+        181,
+        31,
+        46
+      ]
+    ],
+    "fps": 14,
+    "loop": false,
+    "anchors": [
+      [
+        17,
+        49
+      ],
+      [
+        17,
+        62
+      ],
+      [
+        17,
+        66
+      ],
+      [
+        18,
+        67
+      ],
+      [
+        18,
+        68
+      ],
+      [
+        20,
+        67
+      ],
+      [
+        16,
+        45
+      ],
+      [
+        16,
+        46
+      ]
+    ],
+    "notes": "Expanding shot included in original frames. Body anchors estimated visually."
+  },
+  {
+    "source": "Assets/Recursos/Sprites/Player/Robot futuristico azul/armadura definitiva del robot futuristico azul.png",
+    "category": "Player",
+    "unit": "BlueUltimate",
+    "name": "RunStart",
+    "rects": [
+      [
+        115,
+        234,
+        30,
+        43
+      ],
+      [
+        151,
+        234,
+        28,
+        43
+      ]
+    ],
+    "fps": 12,
+    "loop": false
+  },
+  {
+    "source": "Assets/Recursos/Sprites/Player/Robot futuristico azul/armadura definitiva del robot futuristico azul.png",
+    "category": "Player",
+    "unit": "BlueUltimate",
+    "name": "Run",
+    "rects": [
+      [
+        186,
+        234,
+        29,
+        43
+      ],
+      [
+        219,
+        235,
+        36,
+        42
+      ],
+      [
+        259,
+        236,
+        43,
+        41
+      ],
+      [
+        307,
+        235,
+        44,
+        42
+      ],
+      [
+        355,
+        234,
+        35,
+        43
+      ],
+      [
+        394,
+        236,
+        27,
+        42
+      ],
+      [
+        121,
+        284,
+        25,
+        44
+      ],
+      [
+        151,
+        287,
+        32,
+        43
+      ],
+      [
+        187,
+        286,
+        37,
+        43
+      ],
+      [
+        229,
+        287,
+        38,
+        42
+      ],
+      [
+        272,
+        285,
+        38,
+        43
+      ],
+      [
+        314,
+        287,
+        35,
+        43
+      ],
+      [
+        353,
+        286,
+        29,
+        44
+      ],
+      [
+        388,
+        284,
+        24,
+        45
+      ]
+    ],
+    "fps": 14,
+    "loop": true
+  },
+  {
+    "source": "Assets/Recursos/Sprites/Player/Robot futuristico azul/armadura definitiva del robot futuristico azul.png",
+    "category": "Player",
+    "unit": "BlueUltimate",
+    "name": "Dash",
+    "rects": [
+      [
+        93,
+        337,
+        32,
+        39
+      ],
+      [
+        129,
+        342,
+        42,
+        35
+      ],
+      [
+        178,
+        345,
+        47,
+        31
+      ],
+      [
+        227,
+        347,
+        48,
+        31
+      ],
+      [
+        278,
+        336,
+        35,
+        41
+      ],
+      [
+        317,
+        335,
+        28,
+        42
+      ],
+      [
+        350,
+        337,
+        37,
+        40
+      ],
+      [
+        392,
+        336,
+        31,
+        40
+      ]
+    ],
+    "fps": 16,
+    "loop": false
+  },
+  {
+    "source": "Assets/Recursos/Sprites/Player/Robot futuristico azul/armadura definitiva del robot futuristico azul.png",
+    "category": "Player",
+    "unit": "BlueUltimate",
+    "name": "Hover",
+    "rects": [
+      [
+        105,
+        386,
+        30,
+        51
+      ],
+      [
+        142,
+        387,
+        29,
+        49
+      ],
+      [
+        179,
+        390,
+        28,
+        48
+      ],
+      [
+        214,
+        384,
+        26,
+        55
+      ],
+      [
+        246,
+        384,
+        25,
+        53
+      ],
+      [
+        282,
+        386,
+        24,
+        52
+      ],
+      [
+        314,
+        381,
+        30,
+        56
+      ],
+      [
+        353,
+        383,
+        30,
+        55
+      ],
+      [
+        390,
+        384,
+        29,
+        53
+      ],
+      [
+        131,
+        442,
+        36,
+        46
+      ],
+      [
+        176,
+        444,
+        35,
+        46
+      ],
+      [
+        218,
+        444,
+        34,
+        46
+      ],
+      [
+        259,
+        441,
+        37,
+        46
+      ],
+      [
+        306,
+        443,
+        37,
+        46
+      ],
+      [
+        351,
+        445,
+        35,
+        46
+      ]
+    ],
+    "fps": 12,
+    "loop": true,
+    "notes": "Boot thrust belongs to the actor frames."
+  },
+  {
+    "source": "Assets/Recursos/Sprites/Player/Robot futuristico azul/armadura definitiva del robot futuristico azul.png",
+    "category": "Player",
+    "unit": "BlueUltimate",
+    "name": "JumpShoot",
+    "rects": [
+      [
+        51,
+        498,
+        31,
+        46
+      ],
+      [
+        126,
+        498,
+        31,
+        48
+      ],
+      [
+        197,
+        498,
+        31,
+        50
+      ],
+      [
+        270,
+        499,
+        31,
+        52
+      ],
+      [
+        343,
+        499,
+        33,
+        50
+      ],
+      [
+        418,
+        499,
+        36,
+        47
+      ],
+      [
+        68,
+        557,
+        36,
+        48
+      ],
+      [
+        149,
+        556,
+        34,
+        51
+      ],
+      [
+        228,
+        556,
+        34,
+        49
+      ],
+      [
+        306,
+        561,
+        37,
+        44
+      ],
+      [
+        389,
+        565,
+        38,
+        41
+      ]
+    ],
+    "fps": 12,
+    "loop": false,
+    "notes": "Alternating source frames are separated into the base and bright palette variants; no new frames are generated."
+  },
+  {
+    "source": "Assets/Recursos/Sprites/Player/Robot futuristico azul/armadura definitiva del robot futuristico azul.png",
+    "category": "Player",
+    "unit": "BlueUltimate",
+    "name": "JumpShootFlash",
+    "rects": [
+      [
+        89,
+        498,
+        31,
+        46
+      ],
+      [
+        162,
+        498,
+        31,
+        48
+      ],
+      [
+        233,
+        499,
+        31,
+        50
+      ],
+      [
+        306,
+        499,
+        31,
+        52
+      ],
+      [
+        381,
+        499,
+        33,
+        50
+      ],
+      [
+        457,
+        499,
+        36,
+        47
+      ],
+      [
+        108,
+        558,
+        35,
+        48
+      ],
+      [
+        187,
+        556,
+        35,
+        51
+      ],
+      [
+        268,
+        556,
+        34,
+        49
+      ],
+      [
+        349,
+        561,
+        36,
+        44
+      ],
+      [
+        431,
+        564,
+        39,
+        41
+      ]
+    ],
+    "fps": 12,
+    "loop": false,
+    "notes": "Alternating source frames are separated into the base and bright palette variants; no new frames are generated."
+  },
+  {
+    "source": "Assets/Recursos/Sprites/Player/Robot futuristico azul/armadura definitiva del robot futuristico azul.png",
+    "category": "Player",
+    "unit": "BlueUltimate",
+    "name": "IdleAim",
+    "rects": [
+      [
+        89,
+        610,
+        40,
+        43
+      ],
+      [
+        179,
+        610,
+        39,
+        43
+      ]
+    ],
+    "fps": 8,
+    "loop": true,
+    "notes": "Alternating source frames are separated into the base and bright palette variants; no new frames are generated."
+  },
+  {
+    "source": "Assets/Recursos/Sprites/Player/Robot futuristico azul/armadura definitiva del robot futuristico azul.png",
+    "category": "Player",
+    "unit": "BlueUltimate",
+    "name": "IdleAimFlash",
+    "rects": [
+      [
+        133,
+        610,
+        40,
+        43
+      ],
+      [
+        223,
+        611,
+        39,
+        43
+      ]
+    ],
+    "fps": 8,
+    "loop": true,
+    "notes": "Alternating source frames are separated into the base and bright palette variants; no new frames are generated."
+  },
+  {
+    "source": "Assets/Recursos/Sprites/Player/Robot futuristico azul/armadura definitiva del robot futuristico azul.png",
+    "category": "Player",
+    "unit": "BlueUltimate",
+    "name": "RunShoot",
+    "rects": [
+      [
+        267,
+        610,
+        40,
+        44
+      ],
+      [
+        354,
+        613,
+        45,
+        40
+      ],
+      [
+        75,
+        658,
+        48,
+        42
+      ],
+      [
+        179,
+        658,
+        47,
+        42
+      ],
+      [
+        282,
+        658,
+        43,
+        42
+      ],
+      [
+        377,
+        657,
+        39,
+        43
+      ],
+      [
+        85,
+        704,
+        35,
+        44
+      ],
+      [
+        163,
+        705,
+        41,
+        43
+      ],
+      [
+        251,
+        706,
+        44,
+        43
+      ],
+      [
+        345,
+        707,
+        48,
+        42
+      ],
+      [
+        88,
+        760,
+        47,
+        40
+      ],
+      [
+        187,
+        757,
+        45,
+        43
+      ],
+      [
+        284,
+        756,
+        40,
+        44
+      ],
+      [
+        371,
+        755,
+        37,
+        45
+      ]
+    ],
+    "fps": 14,
+    "loop": true,
+    "notes": "Alternating source frames are separated into the base and bright palette variants; no new frames are generated."
+  },
+  {
+    "source": "Assets/Recursos/Sprites/Player/Robot futuristico azul/armadura definitiva del robot futuristico azul.png",
+    "category": "Player",
+    "unit": "BlueUltimate",
+    "name": "RunShootFlash",
+    "rects": [
+      [
+        310,
+        610,
+        41,
+        44
+      ],
+      [
+        403,
+        613,
+        45,
+        40
+      ],
+      [
+        127,
+        658,
+        48,
+        42
+      ],
+      [
+        231,
+        658,
+        47,
+        42
+      ],
+      [
+        329,
+        658,
+        44,
+        42
+      ],
+      [
+        419,
+        657,
+        39,
+        43
+      ],
+      [
+        125,
+        704,
+        35,
+        44
+      ],
+      [
+        208,
+        705,
+        41,
+        43
+      ],
+      [
+        299,
+        706,
+        44,
+        43
+      ],
+      [
+        396,
+        707,
+        48,
+        42
+      ],
+      [
+        137,
+        760,
+        47,
+        40
+      ],
+      [
+        235,
+        757,
+        45,
+        43
+      ],
+      [
+        328,
+        756,
+        39,
+        44
+      ],
+      [
+        411,
+        755,
+        37,
+        45
+      ]
+    ],
+    "fps": 14,
+    "loop": true,
+    "notes": "Alternating source frames are separated into the base and bright palette variants; no new frames are generated."
+  },
+  {
+    "source": "Assets/Recursos/Sprites/Player/Robot futuristico azul/armadura definitiva del robot futuristico azul.png",
+    "category": "Player",
+    "unit": "BlueUltimate",
+    "name": "DashShoot",
+    "rects": [
+      [
+        56,
+        807,
+        41,
+        39
+      ],
+      [
+        144,
+        811,
+        50,
+        35
+      ],
+      [
+        249,
+        815,
+        56,
+        31
+      ],
+      [
+        363,
+        815,
+        59,
+        31
+      ],
+      [
+        79,
+        854,
+        43,
+        42
+      ],
+      [
+        173,
+        853,
+        41,
+        43
+      ],
+      [
+        262,
+        857,
+        40,
+        40
+      ],
+      [
+        353,
+        857,
+        43,
+        40
+      ]
+    ],
+    "fps": 16,
+    "loop": false,
+    "isolateComponent": true,
+    "notes": "Alternating source frames are separated into the base and bright palette variants; no new frames are generated."
+  },
+  {
+    "source": "Assets/Recursos/Sprites/Player/Robot futuristico azul/armadura definitiva del robot futuristico azul.png",
+    "category": "Player",
+    "unit": "BlueUltimate",
+    "name": "DashShootFlash",
+    "rects": [
+      [
+        101,
+        807,
+        41,
+        39
+      ],
+      [
+        196,
+        811,
+        51,
+        35
+      ],
+      [
+        306,
+        815,
+        56,
+        31
+      ],
+      [
+        422,
+        815,
+        59,
+        31
+      ],
+      [
+        127,
+        854,
+        43,
+        42
+      ],
+      [
+        218,
+        854,
+        41,
+        43
+      ],
+      [
+        307,
+        857,
+        40,
+        40
+      ],
+      [
+        402,
+        857,
+        43,
+        40
+      ]
+    ],
+    "fps": 16,
+    "loop": false,
+    "isolateComponent": true,
+    "notes": "Alternating source frames are separated into the base and bright palette variants; no new frames are generated."
+  },
+  {
+    "source": "Assets/Recursos/Sprites/Player/Robot futuristico azul/armadura definitiva del robot futuristico azul.png",
+    "category": "Player",
+    "unit": "BlueUltimate",
+    "name": "HoverShoot",
+    "rects": [
+      [
+        76,
+        906,
+        27,
+        51
+      ],
+      [
+        135,
+        906,
+        25,
+        50
+      ],
+      [
+        194,
+        906,
+        25,
+        48
+      ],
+      [
+        254,
+        906,
+        29,
+        55
+      ],
+      [
+        321,
+        905,
+        28,
+        53
+      ],
+      [
+        388,
+        905,
+        28,
+        52
+      ],
+      [
+        19,
+        964,
+        35,
+        57
+      ],
+      [
+        97,
+        964,
+        35,
+        55
+      ],
+      [
+        173,
+        964,
+        35,
+        53
+      ],
+      [
+        247,
+        964,
+        45,
+        46
+      ],
+      [
+        333,
+        965,
+        45,
+        46
+      ],
+      [
+        421,
+        965,
+        43,
+        46
+      ],
+      [
+        106,
+        1022,
+        50,
+        47
+      ],
+      [
+        214,
+        1022,
+        48,
+        46
+      ],
+      [
+        318,
+        1022,
+        47,
+        46
+      ]
+    ],
+    "fps": 12,
+    "loop": true,
+    "isolateComponent": true,
+    "notes": "Alternating source frames are separated into the base and bright palette variants; no new frames are generated."
+  },
+  {
+    "source": "Assets/Recursos/Sprites/Player/Robot futuristico azul/armadura definitiva del robot futuristico azul.png",
+    "category": "Player",
+    "unit": "BlueUltimate",
+    "name": "HoverShootFlash",
+    "rects": [
+      [
+        105,
+        906,
+        26,
+        51
+      ],
+      [
+        164,
+        906,
+        26,
+        50
+      ],
+      [
+        223,
+        906,
+        25,
+        48
+      ],
+      [
+        287,
+        905,
+        28,
+        55
+      ],
+      [
+        354,
+        905,
+        28,
+        53
+      ],
+      [
+        420,
+        905,
+        28,
+        52
+      ],
+      [
+        58,
+        964,
+        35,
+        57
+      ],
+      [
+        135,
+        964,
+        36,
+        55
+      ],
+      [
+        213,
+        964,
+        34,
+        53
+      ],
+      [
+        289,
+        964,
+        46,
+        46
+      ],
+      [
+        376,
+        965,
+        45,
+        46
+      ],
+      [
+        462,
+        965,
+        43,
+        46
+      ],
+      [
+        161,
+        1022,
+        49,
+        47
+      ],
+      [
+        267,
+        1022,
+        48,
+        46
+      ],
+      [
+        371,
+        1022,
+        47,
+        46
+      ]
+    ],
+    "fps": 12,
+    "loop": true,
+    "isolateComponent": true,
+    "notes": "Alternating source frames are separated into the base and bright palette variants; no new frames are generated."
+  },
+  {
+    "source": "Assets/Recursos/Sprites/Player/Robot futuristico azul/armadura definitiva del robot futuristico azul.png",
+    "category": "Player",
+    "unit": "BlueUltimate",
+    "name": "WallJump",
+    "rects": [
+      [
+        78,
+        1077,
+        30,
+        47
+      ],
+      [
+        112,
+        1074,
+        30,
+        51
+      ],
+      [
+        147,
+        1075,
+        31,
+        49
+      ],
+      [
+        181,
+        1074,
+        29,
+        52
+      ],
+      [
+        213,
+        1075,
+        28,
+        50
+      ],
+      [
+        246,
+        1075,
+        25,
+        51
+      ]
+    ],
+    "fps": 12,
+    "loop": false
+  },
+  {
+    "source": "Assets/Recursos/Sprites/Player/Robot futuristico azul/armadura definitiva del robot futuristico azul.png",
+    "category": "Player",
+    "unit": "BlueUltimate",
+    "name": "WallJumpShoot",
+    "rects": [
+      [
+        278,
+        1078,
+        35,
+        47
+      ],
+      [
+        357,
+        1076,
+        39,
+        51
+      ],
+      [
+        96,
+        1135,
+        39,
+        49
+      ],
+      [
+        186,
+        1133,
+        37,
+        52
+      ],
+      [
+        269,
+        1132,
+        35,
+        50
+      ],
+      [
+        350,
+        1131,
+        33,
+        51
+      ]
+    ],
+    "fps": 12,
+    "loop": false,
+    "notes": "Alternating source frames are separated into the base and bright palette variants; no new frames are generated."
+  },
+  {
+    "source": "Assets/Recursos/Sprites/Player/Robot futuristico azul/armadura definitiva del robot futuristico azul.png",
+    "category": "Player",
+    "unit": "BlueUltimate",
+    "name": "WallJumpShootFlash",
+    "rects": [
+      [
+        319,
+        1078,
+        34,
+        47
+      ],
+      [
+        400,
+        1076,
+        39,
+        51
+      ],
+      [
+        140,
+        1135,
+        39,
+        49
+      ],
+      [
+        227,
+        1133,
+        37,
+        52
+      ],
+      [
+        309,
+        1132,
+        35,
+        50
+      ],
+      [
+        389,
+        1131,
+        34,
+        51
+      ]
+    ],
+    "fps": 12,
+    "loop": false,
+    "notes": "Alternating source frames are separated into the base and bright palette variants; no new frames are generated."
+  },
+  {
+    "source": "Assets/Recursos/Sprites/Player/Robot futuristico azul/armadura definitiva del robot futuristico azul.png",
+    "category": "Player",
+    "unit": "BlueUltimate",
+    "name": "WallCling",
+    "rects": [
+      [
+        17,
+        1207,
+        28,
+        52
+      ]
+    ],
+    "fps": 1,
+    "loop": true
+  },
+  {
+    "source": "Assets/Recursos/Sprites/Player/Robot futuristico azul/armadura definitiva del robot futuristico azul.png",
+    "category": "Player",
+    "unit": "BlueUltimate",
+    "name": "LadderClimb",
+    "rects": [
+      [
+        48,
+        1209,
+        29,
+        47
+      ],
+      [
+        81,
+        1209,
+        31,
+        44
+      ],
+      [
+        119,
+        1203,
+        28,
+        53
+      ],
+      [
+        150,
+        1203,
+        27,
+        53
+      ],
+      [
+        179,
+        1207,
+        29,
+        47
+      ],
+      [
+        209,
+        1207,
+        31,
+        44
+      ],
+      [
+        241,
+        1203,
+        28,
+        52
+      ],
+      [
+        276,
+        1204,
+        30,
+        46
+      ]
+    ],
+    "fps": 10,
+    "loop": true
+  },
+  {
+    "source": "Assets/Recursos/Sprites/Player/Robot futuristico azul/armadura definitiva del robot futuristico azul.png",
+    "category": "Player",
+    "unit": "BlueUltimate",
+    "name": "LadderDismount",
+    "rects": [
+      [
+        312,
+        1196,
+        31,
+        36
+      ],
+      [
+        347,
+        1189,
+        31,
+        37
+      ]
+    ],
+    "fps": 10,
+    "loop": false
+  },
+  {
+    "source": "Assets/Recursos/Sprites/Player/Robot futuristico azul/armadura definitiva del robot futuristico azul.png",
+    "category": "Player",
+    "unit": "BlueUltimate",
+    "name": "LadderShoot",
+    "rects": [
+      [
+        382,
+        1205,
+        36,
+        52
+      ],
+      [
+        428,
+        1203,
+        35,
+        53
+      ],
+      [
+        467,
+        1203,
+        36,
+        52
+      ]
+    ],
+    "fps": 12,
+    "loop": false
+  },
+  {
+    "source": "Assets/Recursos/Sprites/Player/Robot futuristico azul/armadura definitiva del robot futuristico azul.png",
+    "category": "Player",
+    "unit": "BlueUltimate",
+    "name": "NovaStrikeStartup",
+    "rects": [
+      [
+        18,
+        1282,
+        30,
+        41
+      ],
+      [
+        53,
+        1272,
+        32,
+        51
+      ],
+      [
+        90,
+        1273,
+        32,
+        50
+      ],
+      [
+        130,
+        1274,
+        34,
+        41
+      ],
+      [
+        168,
+        1269,
+        53,
+        48
+      ]
+    ],
+    "fps": 14,
+    "loop": false,
+    "notes": "The startup ends in the horizontal actor/booster pose."
+  },
+  {
+    "source": "Assets/Recursos/Sprites/Player/Robot futuristico azul/armadura definitiva del robot futuristico azul.png",
+    "category": "Player",
+    "unit": "BlueUltimate",
+    "name": "NovaStrikeBurst",
+    "rects": [
+      [
+        227,
+        1269,
+        53,
+        48
+      ],
+      [
+        284,
+        1268,
+        54,
+        50
+      ],
+      [
+        343,
+        1266,
+        58,
+        54
+      ],
+      [
+        405,
+        1264,
+        110,
+        58
+      ]
+    ],
+    "fps": 14,
+    "loop": false,
+    "anchors": [
+      [
+        26,
+        42
+      ],
+      [
+        26,
+        43
+      ],
+      [
+        29,
+        47
+      ],
+      [
+        79,
+        45
+      ]
+    ],
+    "notes": "All burst rectangles contain the actor or its gold silhouette. Horizontal body registration is approximate."
+  },
+  {
+    "source": "Assets/Recursos/Sprites/Player/Robot futuristico azul/armadura definitiva del robot futuristico azul.png",
+    "category": "Player",
+    "unit": "BlueUltimate",
+    "name": "HitElectrical",
+    "rects": [
+      [
+        73,
+        1335,
+        31,
+        44
+      ],
+      [
+        108,
+        1338,
+        27,
+        41
+      ],
+      [
+        141,
+        1335,
+        46,
+        50
+      ],
+      [
+        191,
+        1338,
+        39,
+        45
+      ]
+    ],
+    "fps": 12,
+    "loop": false
+  },
+  {
+    "source": "Assets/Recursos/Sprites/Player/Robot futuristico azul/armadura definitiva del robot futuristico azul.png",
+    "category": "Player",
+    "unit": "BlueUltimate",
+    "name": "AlternateIdle",
+    "rects": [
+      [
+        239,
+        1336,
+        30,
+        44
+      ],
+      [
+        276,
+        1337,
+        30,
+        43
+      ],
+      [
+        311,
+        1338,
+        30,
+        42
+      ],
+      [
+        348,
+        1336,
+        30,
+        44
+      ],
+      [
+        384,
+        1337,
+        30,
+        43
+      ],
+      [
+        419,
+        1338,
+        30,
+        42
+      ]
+    ],
+    "fps": 8,
+    "loop": true
+  },
+  {
+    "source": "Assets/Recursos/Sprites/Player/Robot futuristico azul/armadura definitiva del robot futuristico azul.png",
+    "category": "Player",
+    "unit": "BlueUltimate",
+    "name": "TeleportDeparture",
+    "rects": [
+      [
+        57,
+        1420,
+        32,
+        40
+      ],
+      [
+        95,
+        1423,
+        30,
+        37
+      ],
+      [
+        132,
+        1418,
+        31,
+        42
+      ],
+      [
+        169,
+        1412,
+        34,
+        48
+      ],
+      [
+        212,
+        1420,
+        33,
+        39
+      ],
+      [
+        250,
+        1417,
+        41,
+        43
+      ],
+      [
+        296,
+        1390,
+        52,
+        68
+      ],
+      [
+        352,
+        1390,
+        52,
+        66
+      ],
+      [
+        411,
+        1394,
+        41,
+        63
+      ],
+      [
+        463,
+        1381,
+        6,
+        71
+      ]
+    ],
+    "fps": 12,
+    "loop": false
+  },
+  {
+    "source": "Assets/Recursos/Sprites/Player/Robot futuristico azul/armadura definitiva del robot futuristico azul.png",
+    "category": "Player",
+    "unit": "BlueUltimate",
+    "name": "DashChargeShot",
+    "rects": [
+      [
+        89,
+        1485,
+        34,
+        38
+      ],
+      [
+        130,
+        1489,
+        38,
+        32
+      ],
+      [
+        172,
+        1488,
+        46,
+        32
+      ],
+      [
+        221,
+        1488,
+        46,
+        32
+      ],
+      [
+        272,
+        1482,
+        54,
+        42
+      ],
+      [
+        331,
+        1476,
+        54,
+        54
+      ],
+      [
+        391,
+        1472,
+        57,
+        61
+      ],
+      [
+        84,
+        1538,
+        62,
+        66
+      ],
+      [
+        151,
+        1537,
+        48,
+        68
+      ],
+      [
+        208,
+        1536,
+        47,
+        70
+      ],
+      [
+        261,
+        1549,
+        42,
+        39
+      ],
+      [
+        308,
+        1550,
+        41,
+        38
+      ],
+      [
+        350,
+        1554,
+        42,
+        34
+      ],
+      [
+        398,
+        1555,
+        41,
+        33
+      ]
+    ],
+    "fps": 14,
+    "loop": false,
+    "anchors": [
+      [
+        17,
+        38
+      ],
+      [
+        20,
+        32
+      ],
+      [
+        24,
+        32
+      ],
+      [
+        24,
+        32
+      ],
+      [
+        20,
+        42
+      ],
+      [
+        22,
+        54
+      ],
+      [
+        22,
+        61
+      ],
+      [
+        24,
+        66
+      ],
+      [
+        25,
+        68
+      ],
+      [
+        24,
+        70
+      ],
+      [
+        21,
+        39
+      ],
+      [
+        20,
+        38
+      ],
+      [
+        21,
+        34
+      ],
+      [
+        20,
+        33
+      ]
+    ],
+    "notes": "Low/dashing charged shot with the original growing effect; horizontal body registration is approximate."
+  },
+  {
+    "source": "Assets/Recursos/Sprites/Player/Robot futuristico azul/armadura definitiva del robot futuristico azul.png",
+    "category": "Player",
+    "unit": "BlueUltimate",
+    "name": "AirArmRaise",
+    "rects": [
+      [
+        11,
+        1633,
+        34,
+        54
+      ],
+      [
+        48,
+        1631,
+        34,
+        56
+      ],
+      [
+        84,
+        1627,
+        28,
+        60
+      ],
+      [
+        115,
+        1627,
+        36,
+        60
+      ],
+      [
+        153,
+        1627,
+        36,
+        60
+      ],
+      [
+        191,
+        1628,
+        27,
+        59
+      ],
+      [
+        221,
+        1628,
+        27,
+        59
+      ],
+      [
+        251,
+        1627,
+        27,
+        60
+      ],
+      [
+        281,
+        1627,
+        27,
+        60
+      ]
+    ],
+    "fps": 12,
+    "loop": false,
+    "notes": "Descriptive name for an airborne arm-raise sequence; gameplay meaning is not encoded by the sheet."
+  },
+  {
+    "source": "Assets/Recursos/Sprites/Player/Robot futuristico azul/armadura definitiva del robot futuristico azul.png",
+    "category": "Player",
+    "unit": "BlueUltimate",
+    "name": "DefeatCollapse",
+    "rects": [
+      [
+        320,
+        1643,
+        31,
+        39
+      ],
+      [
+        357,
+        1647,
+        42,
+        35
+      ],
+      [
+        403,
+        1665,
+        53,
+        18
+      ],
+      [
+        463,
+        1668,
+        55,
+        14
+      ]
+    ],
+    "fps": 10,
+    "loop": false
+  },
+  {
+    "source": "Assets/Recursos/Sprites/Player/Robot futuristico azul/armadura definitiva del robot futuristico azul.png",
+    "category": "Player",
+    "unit": "BlueUltimate",
+    "name": "SaberGroundSlash",
+    "rects": [
+      [
+        8,
+        1717,
+        37,
+        44
+      ],
+      [
+        55,
+        1718,
+        35,
+        44
+      ],
+      [
+        98,
+        1717,
+        42,
+        45
+      ],
+      [
+        148,
+        1709,
+        48,
+        53
+      ],
+      [
+        204,
+        1705,
+        85,
+        57
+      ],
+      [
+        297,
+        1705,
+        90,
+        64
+      ],
+      [
+        395,
+        1714,
+        91,
+        56
+      ],
+      [
+        21,
+        1784,
+        89,
+        45
+      ],
+      [
+        124,
+        1781,
+        63,
+        45
+      ],
+      [
+        193,
+        1781,
+        46,
+        41
+      ],
+      [
+        247,
+        1781,
+        47,
+        39
+      ],
+      [
+        302,
+        1781,
+        47,
+        37
+      ],
+      [
+        357,
+        1781,
+        47,
+        37
+      ],
+      [
+        411,
+        1781,
+        47,
+        37
+      ],
+      [
+        466,
+        1777,
+        41,
+        41
+      ]
+    ],
+    "fps": 16,
+    "loop": false,
+    "anchors": [
+      [
+        18,
+        44
+      ],
+      [
+        17,
+        44
+      ],
+      [
+        19,
+        45
+      ],
+      [
+        19,
+        53
+      ],
+      [
+        67,
+        57
+      ],
+      [
+        66,
+        64
+      ],
+      [
+        67,
+        56
+      ],
+      [
+        66,
+        45
+      ],
+      [
+        41,
+        45
+      ],
+      [
+        24,
+        41
+      ],
+      [
+        23,
+        39
+      ],
+      [
+        23,
+        37
+      ],
+      [
+        23,
+        37
+      ],
+      [
+        23,
+        37
+      ],
+      [
+        20,
+        41
+      ]
+    ],
+    "notes": "Two consecutive rows form the complete grounded saber sweep. Body anchors are estimated visually to hold the actor while the large blade crosses the frame."
+  },
+  {
+    "source": "Assets/Recursos/Sprites/Player/Robot futuristico azul/armadura definitiva del robot futuristico azul.png",
+    "category": "Player",
+    "unit": "BlueUltimate",
+    "name": "SaberAirSlash",
+    "rects": [
+      [
+        53,
+        1838,
+        34,
+        53
+      ],
+      [
+        94,
+        1837,
+        48,
+        53
+      ],
+      [
+        150,
+        1837,
+        72,
+        56
+      ],
+      [
+        228,
+        1838,
+        88,
+        52
+      ],
+      [
+        322,
+        1839,
+        51,
+        49
+      ],
+      [
+        376,
+        1840,
+        41,
+        49
+      ],
+      [
+        425,
+        1842,
+        33,
+        49
+      ]
+    ],
+    "fps": 16,
+    "loop": false,
+    "anchors": [
+      [
+        18,
+        53
+      ],
+      [
+        17,
+        53
+      ],
+      [
+        20,
+        56
+      ],
+      [
+        31,
+        52
+      ],
+      [
+        24,
+        49
+      ],
+      [
+        20,
+        49
+      ],
+      [
+        16,
+        49
+      ]
+    ],
+    "notes": "Body anchors estimated visually for the wide aerial blade arcs."
+  },
+  {
+    "source": "Assets/Recursos/Sprites/Player/Robot futuristico azul/armadura definitiva del robot futuristico azul.png",
+    "category": "Player",
+    "unit": "BlueUltimate",
+    "name": "SaberWallSlash",
+    "rects": [
+      [
+        133,
+        1905,
+        25,
+        52
+      ],
+      [
+        165,
+        1905,
+        32,
+        52
+      ],
+      [
+        203,
+        1904,
+        80,
+        53
+      ],
+      [
+        292,
+        1903,
+        80,
+        54
+      ],
+      [
+        105,
+        1970,
+        82,
+        54
+      ],
+      [
+        194,
+        1966,
+        64,
+        54
+      ],
+      [
+        262,
+        1969,
+        41,
+        54
+      ],
+      [
+        306,
+        1969,
+        31,
+        53
+      ],
+      [
+        343,
+        1969,
+        31,
+        52
+      ]
+    ],
+    "fps": 16,
+    "loop": false,
+    "anchors": [
+      [
+        13,
+        52
+      ],
+      [
+        13,
+        52
+      ],
+      [
+        65,
+        53
+      ],
+      [
+        65,
+        54
+      ],
+      [
+        67,
+        54
+      ],
+      [
+        48,
+        54
+      ],
+      [
+        24,
+        54
+      ],
+      [
+        16,
+        53
+      ],
+      [
+        16,
+        52
+      ]
+    ],
+    "notes": "Two rows form the wall/diagonal aerial slash. Body anchors estimated visually; the source has no gameplay labels."
+  },
+  {
+    "source": "Assets/Recursos/Sprites/Player/Robot futuristico azul/armadura definitiva del robot futuristico azul.png",
+    "category": "Player",
+    "unit": "BlueUltimate",
+    "name": "TeleportArrival",
+    "rects": [
+      [
+        463,
+        1381,
+        6,
+        71
+      ],
+      [
+        411,
+        1394,
+        41,
+        63
+      ],
+      [
+        352,
+        1390,
+        52,
+        66
+      ],
+      [
+        296,
+        1390,
+        52,
+        68
+      ],
+      [
+        250,
+        1417,
+        41,
+        43
+      ],
+      [
+        212,
+        1420,
+        33,
+        39
+      ],
+      [
+        169,
+        1412,
+        34,
+        48
+      ],
+      [
+        132,
+        1418,
+        31,
+        42
+      ],
+      [
+        95,
+        1423,
+        30,
+        37
+      ],
+      [
+        57,
+        1420,
+        32,
+        40
+      ]
+    ],
+    "fps": 12,
+    "loop": false,
+    "notes": "Materialization uses the original Ultimate armor departure frames in reverse order; no base-armor body is substituted."
+  }
+]

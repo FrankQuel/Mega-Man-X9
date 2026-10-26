@@ -1,0 +1,21 @@
+{
+    "success": true,
+    "originalWhite": true,
+    "quietUltimateFrames": 3,
+    "libraryEntries": 361,
+    "units": 31,
+    "bossActions": 17,
+    "playerHealth": 28,
+    "bossHealth": 48,
+    "simultaneousEntrances": 3,
+    "readyCompletedEvents": 1,
+    "scene": "Assets/Recursos/Scenes/Testing/AnimationTestStage.unity",
+    "readyPhases": [
+        "LineSweep",
+        "ExpansionFlash",
+        "TextReveal",
+        "Hold",
+        "Split",
+        "Complete"
+    ]
+}

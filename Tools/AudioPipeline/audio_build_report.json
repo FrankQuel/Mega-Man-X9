@@ -1,0 +1,379 @@
+{
+    "importedClipCount": 37,
+    "wavCount": 33,
+    "oggCount": 4,
+    "bankAsset": "Assets/Recursos/Resources/RainAudioAssets.asset",
+    "clips": [
+        {
+            "cue": "mainTheme",
+            "path": "Assets/Recursos/Audio/Music/Theme_Title.wav",
+            "loadType": "Streaming",
+            "loop": true,
+            "duration": 109.29632568359375,
+            "gain": 0.8999999761581421,
+            "channels": 2,
+            "frequency": 44100
+        },
+        {
+            "cue": "levelTheme",
+            "path": "Assets/Recursos/Audio/Music/Theme_Stage.wav",
+            "loadType": "Streaming",
+            "loop": true,
+            "duration": 1414.6060791015625,
+            "gain": 0.7200000286102295,
+            "channels": 2,
+            "frequency": 44100
+        },
+        {
+            "cue": "dragonTheme",
+            "path": "Assets/Recursos/Audio/Music/Theme_DragoonBoss.wav",
+            "loadType": "Streaming",
+            "loop": true,
+            "duration": 845.60107421875,
+            "gain": 1.0,
+            "channels": 2,
+            "frequency": 44100
+        },
+        {
+            "cue": "axlTheme",
+            "path": "Assets/Recursos/Audio/Music/Theme_AxlBoss.wav",
+            "loadType": "Streaming",
+            "loop": true,
+            "duration": 1799.1749267578125,
+            "gain": 0.8500000238418579,
+            "channels": 2,
+            "frequency": 44100
+        },
+        {
+            "cue": "conversationTheme",
+            "path": "Assets/Recursos/Audio/Music/Theme_Conversation.wav",
+            "loadType": "Streaming",
+            "loop": true,
+            "duration": 225.48898315429688,
+            "gain": 1.0,
+            "channels": 2,
+            "frequency": 44100
+        },
+        {
+            "cue": "resultsTheme",
+            "path": "Assets/Recursos/Audio/Music/Theme_Results.wav",
+            "loadType": "Streaming",
+            "loop": true,
+            "duration": 138.18194580078125,
+            "gain": 0.8999999761581421,
+            "channels": 2,
+            "frequency": 44100
+        },
+        {
+            "cue": "rain",
+            "path": "Assets/Recursos/Audio/Ambience/AMB_Rain.wav",
+            "loadType": "Streaming",
+            "loop": true,
+            "duration": 300.28045654296875,
+            "gain": 1.0,
+            "channels": 2,
+            "frequency": 44100
+        },
+        {
+            "cue": "jump",
+            "path": "Assets/Recursos/Audio/SFX/SFX_Jump.wav",
+            "loadType": "DecompressOnLoad",
+            "loop": false,
+            "duration": 1.0681178569793701,
+            "gain": 1.0,
+            "channels": 2,
+            "frequency": 44100
+        },
+        {
+            "cue": "dash",
+            "path": "Assets/Recursos/Audio/SFX/SFX_DashGround.wav",
+            "loadType": "DecompressOnLoad",
+            "loop": false,
+            "duration": 0.8990476131439209,
+            "gain": 1.0,
+            "channels": 1,
+            "frequency": 22050
+        },
+        {
+            "cue": "dashAlternate",
+            "path": "Assets/Recursos/Audio/SFX/SFX_DashAir.wav",
+            "loadType": "DecompressOnLoad",
+            "loop": false,
+            "duration": 1.3235374689102173,
+            "gain": 1.0,
+            "channels": 2,
+            "frequency": 44100
+        },
+        {
+            "cue": "shot",
+            "path": "Assets/Recursos/Audio/SFX/SFX_BusterShot.wav",
+            "loadType": "DecompressOnLoad",
+            "loop": false,
+            "duration": 0.6577777862548828,
+            "gain": 0.800000011920929,
+            "channels": 1,
+            "frequency": 22050
+        },
+        {
+            "cue": "chargedShot",
+            "path": "Assets/Recursos/Audio/SFX/SFX_BusterChargedShot.wav",
+            "loadType": "DecompressOnLoad",
+            "loop": false,
+            "duration": 1.0285714864730835,
+            "gain": 0.8999999761581421,
+            "channels": 1,
+            "frequency": 22050
+        },
+        {
+            "cue": "charge",
+            "path": "Assets/Recursos/Audio/SFX/SFX_BusterCharge.wav",
+            "loadType": "DecompressOnLoad",
+            "loop": false,
+            "duration": 3.479365110397339,
+            "gain": 0.550000011920929,
+            "channels": 1,
+            "frequency": 22050
+        },
+        {
+            "cue": "saber",
+            "path": "Assets/Recursos/Audio/SFX/SFX_SaberSwing.wav",
+            "loadType": "DecompressOnLoad",
+            "loop": false,
+            "duration": 0.5726984143257141,
+            "gain": 0.8999999761581421,
+            "channels": 1,
+            "frequency": 22050
+        },
+        {
+            "cue": "saber1",
+            "path": "Assets/Recursos/Audio/SFX/SFX_SaberCombo01.wav",
+            "loadType": "DecompressOnLoad",
+            "loop": false,
+            "duration": 0.3047619163990021,
+            "gain": 0.8500000238418579,
+            "channels": 1,
+            "frequency": 22050
+        },
+        {
+            "cue": "saber2",
+            "path": "Assets/Recursos/Audio/SFX/SFX_SaberCombo02.wav",
+            "loadType": "DecompressOnLoad",
+            "loop": false,
+            "duration": 0.26920634508132935,
+            "gain": 0.8500000238418579,
+            "channels": 1,
+            "frequency": 22050
+        },
+        {
+            "cue": "saber3",
+            "path": "Assets/Recursos/Audio/SFX/SFX_SaberCombo03.wav",
+            "loadType": "DecompressOnLoad",
+            "loop": false,
+            "duration": 0.573968231678009,
+            "gain": 0.8500000238418579,
+            "channels": 1,
+            "frequency": 22050
+        },
+        {
+            "cue": "hurt",
+            "path": "Assets/Recursos/Audio/SFX/SFX_HeroHurt.wav",
+            "loadType": "DecompressOnLoad",
+            "loop": false,
+            "duration": 1.2538775205612183,
+            "gain": 1.0,
+            "channels": 2,
+            "frequency": 44100
+        },
+        {
+            "cue": "death",
+            "path": "Assets/Recursos/Audio/SFX/SFX_HeroDeath.wav",
+            "loadType": "DecompressOnLoad",
+            "loop": false,
+            "duration": 4.04714298248291,
+            "gain": 0.8999999761581421,
+            "channels": 2,
+            "frequency": 44100
+        },
+        {
+            "cue": "arrival",
+            "path": "Assets/Recursos/Audio/SFX/SFX_HeroArrival.wav",
+            "loadType": "DecompressOnLoad",
+            "loop": false,
+            "duration": 1.0526983737945557,
+            "gain": 0.8999999761581421,
+            "channels": 1,
+            "frequency": 22050
+        },
+        {
+            "cue": "departure",
+            "path": "Assets/Recursos/Audio/SFX/SFX_TeleportDeparture.wav",
+            "loadType": "DecompressOnLoad",
+            "loop": false,
+            "duration": 1.2050793170928955,
+            "gain": 1.0,
+            "channels": 1,
+            "frequency": 22050
+        },
+        {
+            "cue": "pickup",
+            "path": "Assets/Recursos/Audio/SFX/SFX_Heal.wav",
+            "loadType": "DecompressOnLoad",
+            "loop": false,
+            "duration": 1.2074376344680786,
+            "gain": 1.0,
+            "channels": 2,
+            "frequency": 44100
+        },
+        {
+            "cue": "enemyDeath",
+            "path": "Assets/Recursos/Audio/SFX/SFX_EnemyDeath.wav",
+            "loadType": "DecompressOnLoad",
+            "loop": false,
+            "duration": 1.8111565113067627,
+            "gain": 0.8500000238418579,
+            "channels": 2,
+            "frequency": 44100
+        },
+        {
+            "cue": "dragonHurt",
+            "path": "Assets/Recursos/Audio/SFX/SFX_DragoonHurt.wav",
+            "loadType": "DecompressOnLoad",
+            "loop": false,
+            "duration": 1.3193650245666504,
+            "gain": 0.800000011920929,
+            "channels": 1,
+            "frequency": 22050
+        },
+        {
+            "cue": "dragonAttack",
+            "path": "Assets/Recursos/Audio/SFX/SFX_DragoonAttack.wav",
+            "loadType": "DecompressOnLoad",
+            "loop": false,
+            "duration": 0.5224489569664001,
+            "gain": 0.8500000238418579,
+            "channels": 2,
+            "frequency": 44100
+        },
+        {
+            "cue": "axlHurt",
+            "path": "Assets/Recursos/Audio/SFX/SFX_AxlHurt.wav",
+            "loadType": "DecompressOnLoad",
+            "loop": false,
+            "duration": 0.4774603247642517,
+            "gain": 0.800000011920929,
+            "channels": 1,
+            "frequency": 22050
+        },
+        {
+            "cue": "ready",
+            "path": "Assets/Recursos/Audio/SFX/SFX_StageReady.wav",
+            "loadType": "DecompressOnLoad",
+            "loop": false,
+            "duration": 0.7174603343009949,
+            "gain": 0.800000011920929,
+            "channels": 1,
+            "frequency": 22050
+        },
+        {
+            "cue": "warning",
+            "path": "Assets/Recursos/Audio/SFX/SFX_BossWarning.wav",
+            "loadType": "DecompressOnLoad",
+            "loop": false,
+            "duration": 1.0290000438690186,
+            "gain": 0.8500000238418579,
+            "channels": 1,
+            "frequency": 16000
+        },
+        {
+            "cue": "doorOpen",
+            "path": "Assets/Recursos/Audio/SFX/SFX_BossDoorOpen.wav",
+            "loadType": "DecompressOnLoad",
+            "loop": false,
+            "duration": 0.7136508226394653,
+            "gain": 0.800000011920929,
+            "channels": 1,
+            "frequency": 22050
+        },
+        {
+            "cue": "doorClose",
+            "path": "Assets/Recursos/Audio/SFX/SFX_BossDoorClose.wav",
+            "loadType": "DecompressOnLoad",
+            "loop": false,
+            "duration": 0.7758730053901672,
+            "gain": 0.5,
+            "channels": 1,
+            "frequency": 22050
+        },
+        {
+            "cue": "menuMove",
+            "path": "Assets/Recursos/Audio/SFX/SFX_MenuMove.wav",
+            "loadType": "DecompressOnLoad",
+            "loop": false,
+            "duration": 0.190476194024086,
+            "gain": 0.800000011920929,
+            "channels": 1,
+            "frequency": 22050
+        },
+        {
+            "cue": "menuConfirm",
+            "path": "Assets/Recursos/Audio/SFX/SFX_MenuConfirm.wav",
+            "loadType": "DecompressOnLoad",
+            "loop": false,
+            "duration": 0.8787301778793335,
+            "gain": 0.800000011920929,
+            "channels": 1,
+            "frequency": 22050
+        },
+        {
+            "cue": "menuEnter",
+            "path": "Assets/Recursos/Audio/SFX/SFX_MenuEnter.wav",
+            "loadType": "DecompressOnLoad",
+            "loop": false,
+            "duration": 0.9930158853530884,
+            "gain": 0.8999999761581421,
+            "channels": 1,
+            "frequency": 22050
+        },
+        {
+            "cue": "voiceXSwitchOut",
+            "path": "Assets/Recursos/Audio/Voice/X/VO_XSwitchOut.ogg",
+            "loadType": "DecompressOnLoad",
+            "loop": false,
+            "duration": 0.5157708525657654,
+            "gain": 0.949999988079071,
+            "channels": 1,
+            "frequency": 48000
+        },
+        {
+            "cue": "voiceXSwitchIn",
+            "path": "Assets/Recursos/Audio/Voice/X/VO_XSwitchIn.ogg",
+            "loadType": "DecompressOnLoad",
+            "loop": false,
+            "duration": 1.176937460899353,
+            "gain": 0.949999988079071,
+            "channels": 1,
+            "frequency": 48000
+        },
+        {
+            "cue": "voiceZeroSwitchOut",
+            "path": "Assets/Recursos/Audio/Voice/Zero/VO_ZeroSwitchOut.ogg",
+            "loadType": "DecompressOnLoad",
+            "loop": false,
+            "duration": 0.8887916803359985,
+            "gain": 0.949999988079071,
+            "channels": 1,
+            "frequency": 48000
+        },
+        {
+            "cue": "voiceZeroSwitchIn",
+            "path": "Assets/Recursos/Audio/Voice/Zero/VO_ZeroSwitchIn.ogg",
+            "loadType": "DecompressOnLoad",
+            "loop": false,
+            "duration": 0.8418124914169312,
+            "gain": 0.949999988079071,
+            "channels": 1,
+            "frequency": 48000
+        }
+    ],
+    "missing": []
+}

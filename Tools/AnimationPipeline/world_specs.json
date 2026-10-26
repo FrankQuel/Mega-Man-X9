@@ -1,0 +1,5489 @@
+[
+  {
+    "source": "Assets/Recursos/Sprites/Enemies/grenademan.gif",
+    "category": "Enemies",
+    "unit": "GrenadeMan",
+    "name": "Idle",
+    "rects": [
+      [
+        14,
+        9,
+        54,
+        48
+      ],
+      [
+        74,
+        2,
+        44,
+        54
+      ],
+      [
+        124,
+        2,
+        44,
+        54
+      ],
+      [
+        173,
+        2,
+        44,
+        54
+      ],
+      [
+        229,
+        2,
+        44,
+        54
+      ],
+      [
+        285,
+        2,
+        44,
+        54
+      ],
+      [
+        343,
+        1,
+        41,
+        55
+      ],
+      [
+        399,
+        3,
+        46,
+        53
+      ]
+    ],
+    "fps": 8,
+    "loop": true
+  },
+  {
+    "source": "Assets/Recursos/Sprites/Enemies/grenademan.gif",
+    "category": "Enemies",
+    "unit": "GrenadeMan",
+    "name": "AimForward",
+    "rects": [
+      [
+        16,
+        80,
+        60,
+        49
+      ],
+      [
+        90,
+        80,
+        59,
+        48
+      ]
+    ],
+    "fps": 8,
+    "loop": false
+  },
+  {
+    "source": "Assets/Recursos/Sprites/Enemies/grenademan.gif",
+    "category": "Enemies",
+    "unit": "GrenadeMan",
+    "name": "AimUp",
+    "rects": [
+      [
+        163,
+        62,
+        46,
+        66
+      ],
+      [
+        219,
+        62,
+        43,
+        66
+      ]
+    ],
+    "fps": 8,
+    "loop": false
+  },
+  {
+    "source": "Assets/Recursos/Sprites/Enemies/grenademan.gif",
+    "category": "Enemies",
+    "unit": "GrenadeMan",
+    "name": "Run",
+    "rects": [
+      [
+        5,
+        142,
+        48,
+        49
+      ],
+      [
+        69,
+        140,
+        41,
+        51
+      ],
+      [
+        120,
+        137,
+        50,
+        54
+      ],
+      [
+        182,
+        143,
+        45,
+        48
+      ],
+      [
+        254,
+        131,
+        46,
+        60
+      ],
+      [
+        317,
+        131,
+        48,
+        60
+      ],
+      [
+        384,
+        132,
+        46,
+        59
+      ]
+    ],
+    "fps": 12,
+    "loop": true
+  },
+  {
+    "source": "Assets/Recursos/Sprites/Enemies/grenademan.gif",
+    "category": "Enemies",
+    "unit": "GrenadeMan",
+    "name": "ThrowGrenade",
+    "rects": [
+      [
+        10,
+        209,
+        44,
+        54
+      ],
+      [
+        66,
+        202,
+        46,
+        61
+      ],
+      [
+        125,
+        201,
+        47,
+        62
+      ],
+      [
+        183,
+        207,
+        59,
+        56
+      ],
+      [
+        256,
+        218,
+        63,
+        45
+      ],
+      [
+        334,
+        220,
+        55,
+        43
+      ],
+      [
+        401,
+        220,
+        55,
+        43
+      ]
+    ],
+    "fps": 12,
+    "loop": false
+  },
+  {
+    "source": "Assets/Recursos/Sprites/Enemies/grenademan.gif",
+    "category": "Enemies",
+    "unit": "GrenadeMan",
+    "name": "Hurt",
+    "rects": [
+      [
+        9,
+        276,
+        61,
+        50
+      ],
+      [
+        77,
+        276,
+        61,
+        50
+      ]
+    ],
+    "fps": 10,
+    "loop": false
+  },
+  {
+    "source": "Assets/Recursos/Sprites/Enemies/grenademan.gif",
+    "category": "Enemies",
+    "unit": "GrenadeMan",
+    "name": "Jump",
+    "rects": [
+      [
+        225,
+        271,
+        43,
+        55
+      ]
+    ],
+    "fps": 8,
+    "loop": false
+  },
+  {
+    "source": "Assets/Recursos/Sprites/Enemies/grenademan.gif",
+    "category": "Enemies",
+    "unit": "GrenadeMan",
+    "name": "Fall",
+    "rects": [
+      [
+        281,
+        285,
+        67,
+        41
+      ]
+    ],
+    "fps": 8,
+    "loop": false
+  },
+  {
+    "source": "Assets/Recursos/Sprites/Enemies/grenademan.gif",
+    "category": "Enemies",
+    "unit": "GrenadeMan",
+    "name": "Takeoff",
+    "rects": [
+      [
+        11,
+        334,
+        35,
+        59
+      ],
+      [
+        55,
+        331,
+        61,
+        62
+      ]
+    ],
+    "fps": 10,
+    "loop": false
+  },
+  {
+    "source": "Assets/Recursos/Sprites/Enemies/grenademan.gif",
+    "category": "Enemies",
+    "unit": "GrenadeMan",
+    "name": "Land",
+    "rects": [
+      [
+        140,
+        347,
+        67,
+        46
+      ],
+      [
+        221,
+        342,
+        67,
+        51
+      ],
+      [
+        307,
+        345,
+        50,
+        48
+      ]
+    ],
+    "fps": 10,
+    "loop": false
+  },
+  {
+    "source": "Assets/Recursos/Sprites/Enemies/grenademan.gif",
+    "category": "Effects",
+    "unit": "GrenadeManProjectiles",
+    "name": "GrenadeSpin",
+    "rects": [
+      [
+        285,
+        93,
+        12,
+        11
+      ],
+      [
+        300,
+        93,
+        12,
+        11
+      ],
+      [
+        315,
+        93,
+        12,
+        11
+      ],
+      [
+        330,
+        93,
+        12,
+        11
+      ]
+    ],
+    "fps": 12,
+    "loop": true
+  },
+  {
+    "source": "Assets/Recursos/Sprites/Enemies/grenademan.gif",
+    "category": "Effects",
+    "unit": "GrenadeManProjectiles",
+    "name": "ThrownGrenade",
+    "rects": [
+      [
+        470,
+        230,
+        12,
+        10
+      ]
+    ],
+    "fps": 10,
+    "loop": true
+  },
+  {
+    "source": "Assets/Recursos/Sprites/Enemies/grenademan2.gif",
+    "category": "Enemies",
+    "unit": "GrenadeManGreen",
+    "name": "Idle",
+    "rects": [
+      [
+        11,
+        12,
+        54,
+        48
+      ],
+      [
+        71,
+        5,
+        44,
+        54
+      ],
+      [
+        121,
+        5,
+        44,
+        54
+      ],
+      [
+        170,
+        5,
+        44,
+        54
+      ],
+      [
+        226,
+        5,
+        44,
+        54
+      ],
+      [
+        282,
+        5,
+        44,
+        54
+      ],
+      [
+        340,
+        4,
+        41,
+        55
+      ],
+      [
+        396,
+        6,
+        46,
+        53
+      ]
+    ],
+    "fps": 8,
+    "loop": true
+  },
+  {
+    "source": "Assets/Recursos/Sprites/Enemies/grenademan2.gif",
+    "category": "Enemies",
+    "unit": "GrenadeManGreen",
+    "name": "AimForward",
+    "rects": [
+      [
+        13,
+        83,
+        60,
+        49
+      ],
+      [
+        87,
+        83,
+        59,
+        48
+      ]
+    ],
+    "fps": 8,
+    "loop": false
+  },
+  {
+    "source": "Assets/Recursos/Sprites/Enemies/grenademan2.gif",
+    "category": "Enemies",
+    "unit": "GrenadeManGreen",
+    "name": "AimUp",
+    "rects": [
+      [
+        160,
+        65,
+        46,
+        66
+      ],
+      [
+        216,
+        65,
+        43,
+        66
+      ]
+    ],
+    "fps": 8,
+    "loop": false
+  },
+  {
+    "source": "Assets/Recursos/Sprites/Enemies/grenademan2.gif",
+    "category": "Enemies",
+    "unit": "GrenadeManGreen",
+    "name": "Run",
+    "rects": [
+      [
+        2,
+        145,
+        48,
+        49
+      ],
+      [
+        66,
+        143,
+        41,
+        51
+      ],
+      [
+        117,
+        140,
+        50,
+        54
+      ],
+      [
+        179,
+        146,
+        45,
+        48
+      ],
+      [
+        251,
+        134,
+        46,
+        60
+      ],
+      [
+        314,
+        134,
+        48,
+        60
+      ],
+      [
+        381,
+        135,
+        46,
+        59
+      ]
+    ],
+    "fps": 12,
+    "loop": true
+  },
+  {
+    "source": "Assets/Recursos/Sprites/Enemies/grenademan2.gif",
+    "category": "Enemies",
+    "unit": "GrenadeManGreen",
+    "name": "ThrowGrenade",
+    "rects": [
+      [
+        7,
+        212,
+        44,
+        54
+      ],
+      [
+        63,
+        205,
+        46,
+        61
+      ],
+      [
+        122,
+        204,
+        47,
+        62
+      ],
+      [
+        180,
+        210,
+        59,
+        56
+      ],
+      [
+        253,
+        221,
+        63,
+        45
+      ],
+      [
+        331,
+        223,
+        55,
+        43
+      ],
+      [
+        398,
+        223,
+        55,
+        43
+      ]
+    ],
+    "fps": 12,
+    "loop": false
+  },
+  {
+    "source": "Assets/Recursos/Sprites/Enemies/grenademan2.gif",
+    "category": "Enemies",
+    "unit": "GrenadeManGreen",
+    "name": "Hurt",
+    "rects": [
+      [
+        6,
+        279,
+        61,
+        50
+      ],
+      [
+        74,
+        279,
+        61,
+        50
+      ]
+    ],
+    "fps": 10,
+    "loop": false
+  },
+  {
+    "source": "Assets/Recursos/Sprites/Enemies/grenademan2.gif",
+    "category": "Enemies",
+    "unit": "GrenadeManGreen",
+    "name": "Jump",
+    "rects": [
+      [
+        222,
+        274,
+        43,
+        55
+      ]
+    ],
+    "fps": 8,
+    "loop": false
+  },
+  {
+    "source": "Assets/Recursos/Sprites/Enemies/grenademan2.gif",
+    "category": "Enemies",
+    "unit": "GrenadeManGreen",
+    "name": "Fall",
+    "rects": [
+      [
+        278,
+        288,
+        67,
+        41
+      ]
+    ],
+    "fps": 8,
+    "loop": false
+  },
+  {
+    "source": "Assets/Recursos/Sprites/Enemies/grenademan2.gif",
+    "category": "Enemies",
+    "unit": "GrenadeManGreen",
+    "name": "Takeoff",
+    "rects": [
+      [
+        8,
+        337,
+        35,
+        59
+      ],
+      [
+        52,
+        334,
+        61,
+        62
+      ]
+    ],
+    "fps": 10,
+    "loop": false
+  },
+  {
+    "source": "Assets/Recursos/Sprites/Enemies/grenademan2.gif",
+    "category": "Enemies",
+    "unit": "GrenadeManGreen",
+    "name": "Land",
+    "rects": [
+      [
+        137,
+        350,
+        67,
+        46
+      ],
+      [
+        218,
+        345,
+        67,
+        51
+      ],
+      [
+        304,
+        348,
+        50,
+        48
+      ]
+    ],
+    "fps": 10,
+    "loop": false
+  },
+  {
+    "source": "Assets/Recursos/Sprites/Enemies/grenademan2.gif",
+    "category": "Effects",
+    "unit": "GrenadeManGreenProjectiles",
+    "name": "GrenadeSpin",
+    "rects": [
+      [
+        282,
+        96,
+        12,
+        11
+      ],
+      [
+        297,
+        96,
+        12,
+        11
+      ],
+      [
+        312,
+        96,
+        12,
+        11
+      ],
+      [
+        327,
+        96,
+        12,
+        11
+      ]
+    ],
+    "fps": 12,
+    "loop": true
+  },
+  {
+    "source": "Assets/Recursos/Sprites/Enemies/grenademan2.gif",
+    "category": "Effects",
+    "unit": "GrenadeManGreenProjectiles",
+    "name": "ThrownGrenade",
+    "rects": [
+      [
+        467,
+        233,
+        12,
+        10
+      ]
+    ],
+    "fps": 10,
+    "loop": true
+  },
+  {
+    "source": "Assets/Recursos/Sprites/Enemies/burnout.gif",
+    "category": "Enemies",
+    "unit": "Burnout",
+    "name": "Roll",
+    "rects": [
+      [
+        10,
+        8,
+        61,
+        44
+      ],
+      [
+        75,
+        7,
+        61,
+        45
+      ],
+      [
+        143,
+        6,
+        61,
+        46
+      ],
+      [
+        210,
+        8,
+        61,
+        44
+      ],
+      [
+        276,
+        9,
+        61,
+        43
+      ],
+      [
+        341,
+        9,
+        61,
+        43
+      ],
+      [
+        407,
+        6,
+        61,
+        46
+      ],
+      [
+        474,
+        11,
+        59,
+        41
+      ]
+    ],
+    "fps": 12,
+    "loop": true
+  },
+  {
+    "source": "Assets/Recursos/Sprites/Enemies/burnout.gif",
+    "category": "Enemies",
+    "unit": "Burnout",
+    "name": "DeploySpikes",
+    "rects": [
+      [
+        27,
+        59,
+        61,
+        46
+      ],
+      [
+        97,
+        59,
+        65,
+        46
+      ],
+      [
+        165,
+        60,
+        57,
+        45
+      ],
+      [
+        227,
+        60,
+        66,
+        45
+      ],
+      [
+        297,
+        59,
+        71,
+        46
+      ],
+      [
+        373,
+        60,
+        71,
+        45
+      ],
+      [
+        448,
+        60,
+        71,
+        45
+      ]
+    ],
+    "fps": 12,
+    "loop": false
+  },
+  {
+    "source": "Assets/Recursos/Sprites/Enemies/burnout.gif",
+    "category": "Enemies",
+    "unit": "Burnout",
+    "name": "SpinAttack",
+    "rects": [
+      [
+        18,
+        115,
+        78,
+        45
+      ],
+      [
+        97,
+        114,
+        78,
+        46
+      ],
+      [
+        176,
+        115,
+        78,
+        45
+      ],
+      [
+        256,
+        114,
+        80,
+        46
+      ],
+      [
+        336,
+        115,
+        92,
+        45
+      ],
+      [
+        433,
+        114,
+        84,
+        46
+      ]
+    ],
+    "fps": 12,
+    "loop": true
+  },
+  {
+    "source": "Assets/Recursos/Sprites/Enemies/spikeball.gif",
+    "category": "Enemies",
+    "unit": "SpikeBall",
+    "name": "Roll",
+    "rects": [
+      [
+        18,
+        8,
+        41,
+        31
+      ],
+      [
+        60,
+        8,
+        41,
+        31
+      ],
+      [
+        102,
+        8,
+        41,
+        31
+      ],
+      [
+        146,
+        9,
+        37,
+        30
+      ],
+      [
+        185,
+        8,
+        36,
+        30
+      ],
+      [
+        222,
+        9,
+        37,
+        29
+      ],
+      [
+        260,
+        9,
+        32,
+        29
+      ]
+    ],
+    "fps": 12,
+    "loop": true
+  },
+  {
+    "source": "Assets/Recursos/Sprites/Enemies/spikeball.gif",
+    "category": "Enemies",
+    "unit": "SpikeBall",
+    "name": "DeployLegs",
+    "rects": [
+      [
+        6,
+        56,
+        35,
+        29
+      ],
+      [
+        42,
+        56,
+        39,
+        29
+      ],
+      [
+        82,
+        56,
+        43,
+        29
+      ],
+      [
+        126,
+        49,
+        44,
+        36
+      ],
+      [
+        171,
+        44,
+        47,
+        41
+      ],
+      [
+        219,
+        43,
+        51,
+        42
+      ],
+      [
+        271,
+        47,
+        47,
+        38
+      ]
+    ],
+    "fps": 10,
+    "loop": false
+  },
+  {
+    "source": "Assets/Recursos/Sprites/Enemies/spikeball.gif",
+    "category": "Enemies",
+    "unit": "SpikeBall",
+    "name": "Walk",
+    "rects": [
+      [
+        9,
+        96,
+        40,
+        38
+      ],
+      [
+        50,
+        96,
+        40,
+        38
+      ],
+      [
+        91,
+        97,
+        42,
+        37
+      ],
+      [
+        134,
+        104,
+        43,
+        30
+      ],
+      [
+        178,
+        95,
+        44,
+        39
+      ],
+      [
+        223,
+        95,
+        44,
+        39
+      ],
+      [
+        268,
+        96,
+        40,
+        38
+      ]
+    ],
+    "fps": 12,
+    "loop": true
+  },
+  {
+    "source": "Assets/Recursos/Sprites/Enemies/bird.gif",
+    "category": "Enemies",
+    "unit": "BirdGreen",
+    "name": "Idle",
+    "rects": [
+      [
+        14,
+        14,
+        32,
+        21
+      ]
+    ],
+    "fps": 8,
+    "loop": true
+  },
+  {
+    "source": "Assets/Recursos/Sprites/Enemies/bird.gif",
+    "category": "Enemies",
+    "unit": "BirdGreen",
+    "name": "Fire",
+    "rects": [
+      [
+        14,
+        14,
+        32,
+        21
+      ],
+      [
+        49,
+        14,
+        47,
+        22
+      ],
+      [
+        99,
+        14,
+        48,
+        21
+      ]
+    ],
+    "fps": 10,
+    "loop": false
+  },
+  {
+    "source": "Assets/Recursos/Sprites/Enemies/bird.gif",
+    "category": "Enemies",
+    "unit": "BirdGreenReverse",
+    "name": "Fire",
+    "rects": [
+      [
+        7,
+        43,
+        47,
+        31
+      ],
+      [
+        59,
+        44,
+        48,
+        31
+      ],
+      [
+        112,
+        45,
+        48,
+        31
+      ]
+    ],
+    "fps": 10,
+    "loop": false
+  },
+  {
+    "source": "Assets/Recursos/Sprites/Enemies/bird.gif",
+    "category": "Enemies",
+    "unit": "BirdBlue",
+    "name": "Idle",
+    "rects": [
+      [
+        13,
+        89,
+        32,
+        21
+      ]
+    ],
+    "fps": 8,
+    "loop": true
+  },
+  {
+    "source": "Assets/Recursos/Sprites/Enemies/bird.gif",
+    "category": "Enemies",
+    "unit": "BirdBlue",
+    "name": "Fire",
+    "rects": [
+      [
+        13,
+        89,
+        32,
+        21
+      ],
+      [
+        51,
+        89,
+        47,
+        22
+      ],
+      [
+        104,
+        89,
+        48,
+        21
+      ]
+    ],
+    "fps": 10,
+    "loop": false
+  },
+  {
+    "source": "Assets/Recursos/Sprites/Enemies/minilasercannon.gif",
+    "category": "Enemies",
+    "unit": "MiniLaserCannon",
+    "name": "Hover",
+    "rects": [
+      [
+        11,
+        10,
+        31,
+        40
+      ],
+      [
+        45,
+        10,
+        29,
+        41
+      ],
+      [
+        76,
+        10,
+        29,
+        45
+      ],
+      [
+        110,
+        10,
+        29,
+        38
+      ]
+    ],
+    "fps": 10,
+    "loop": true
+  },
+  {
+    "source": "Assets/Recursos/Sprites/Enemies/minilasercannon.gif",
+    "category": "Enemies",
+    "unit": "MiniLaserCannon",
+    "name": "Charge",
+    "rects": [
+      [
+        143,
+        4,
+        70,
+        47
+      ],
+      [
+        215,
+        4,
+        42,
+        47
+      ],
+      [
+        259,
+        3,
+        62,
+        48
+      ],
+      [
+        321,
+        7,
+        39,
+        41
+      ],
+      [
+        367,
+        3,
+        53,
+        46
+      ],
+      [
+        26,
+        62,
+        43,
+        48
+      ],
+      [
+        76,
+        62,
+        56,
+        48
+      ]
+    ],
+    "fps": 12,
+    "loop": false
+  },
+  {
+    "source": "Assets/Recursos/Sprites/Enemies/minilasercannon.gif",
+    "category": "Enemies",
+    "unit": "MiniLaserCannon",
+    "name": "Release",
+    "rects": [
+      [
+        144,
+        69,
+        31,
+        41
+      ],
+      [
+        182,
+        64,
+        49,
+        46
+      ],
+      [
+        239,
+        68,
+        47,
+        41
+      ],
+      [
+        287,
+        59,
+        55,
+        51
+      ]
+    ],
+    "fps": 12,
+    "loop": false
+  },
+  {
+    "source": "Assets/Recursos/Sprites/Enemies/minilasercannon.gif",
+    "category": "Enemies",
+    "unit": "MiniLaserCannon",
+    "name": "Recover",
+    "rects": [
+      [
+        348,
+        69,
+        29,
+        41
+      ],
+      [
+        380,
+        69,
+        29,
+        41
+      ],
+      [
+        322,
+        147,
+        31,
+        38
+      ],
+      [
+        358,
+        147,
+        31,
+        41
+      ]
+    ],
+    "fps": 10,
+    "loop": false
+  },
+  {
+    "source": "Assets/Recursos/Sprites/Enemies/minilasercannon.gif",
+    "category": "Enemies",
+    "unit": "MiniLaserCannon",
+    "name": "LaserFire",
+    "rects": [
+      [
+        20,
+        135,
+        125,
+        45
+      ],
+      [
+        20,
+        179,
+        125,
+        49
+      ],
+      [
+        20,
+        231,
+        127,
+        52
+      ],
+      [
+        20,
+        288,
+        125,
+        55
+      ],
+      [
+        161,
+        132,
+        125,
+        50
+      ],
+      [
+        161,
+        187,
+        125,
+        52
+      ],
+      [
+        161,
+        237,
+        125,
+        49
+      ],
+      [
+        161,
+        289,
+        125,
+        52
+      ]
+    ],
+    "fps": 12,
+    "loop": false,
+    "excludeRects": [
+      [
+        [
+          0,
+          44,
+          94,
+          1
+        ]
+      ],
+      [
+        [
+          105,
+          0,
+          20,
+          1
+        ]
+      ],
+      [],
+      [],
+      [],
+      [
+        [
+          0,
+          51,
+          93,
+          1
+        ]
+      ],
+      [
+        [
+          94,
+          0,
+          31,
+          1
+        ]
+      ],
+      []
+    ]
+  },
+  {
+    "source": "Assets/Recursos/Sprites/Enemies/gigadeath.gif",
+    "category": "Enemies",
+    "unit": "GigaDeath",
+    "name": "Idle",
+    "rects": [
+      [
+        118,
+        269,
+        84,
+        70
+      ]
+    ],
+    "fps": 8,
+    "loop": true
+  },
+  {
+    "source": "Assets/Recursos/Sprites/Enemies/gigadeath.gif",
+    "category": "Enemies",
+    "unit": "GigaDeathParts",
+    "name": "TopArmor",
+    "rects": [
+      [
+        2,
+        6,
+        84,
+        47
+      ]
+    ],
+    "fps": 8,
+    "loop": true
+  },
+  {
+    "source": "Assets/Recursos/Sprites/Enemies/gigadeath.gif",
+    "category": "Enemies",
+    "unit": "GigaDeathParts",
+    "name": "LowerArmor",
+    "rects": [
+      [
+        7,
+        62,
+        60,
+        35
+      ]
+    ],
+    "fps": 8,
+    "loop": true
+  },
+  {
+    "source": "Assets/Recursos/Sprites/Enemies/gigadeath.gif",
+    "category": "Enemies",
+    "unit": "GigaDeathParts",
+    "name": "CannonRecoil",
+    "rects": [
+      [
+        139,
+        49,
+        62,
+        31
+      ],
+      [
+        207,
+        50,
+        63,
+        31
+      ]
+    ],
+    "fps": 10,
+    "loop": false
+  },
+  {
+    "source": "Assets/Recursos/Sprites/Enemies/gigadeath.gif",
+    "category": "Enemies",
+    "unit": "GigaDeathParts",
+    "name": "LegCycle",
+    "rects": [
+      [
+        152,
+        13,
+        24,
+        26
+      ],
+      [
+        179,
+        13,
+        26,
+        26
+      ],
+      [
+        208,
+        14,
+        28,
+        26
+      ],
+      [
+        239,
+        13,
+        27,
+        26
+      ]
+    ],
+    "fps": 10,
+    "loop": true
+  },
+  {
+    "source": "Assets/Recursos/Sprites/Enemies/gigadeath.gif",
+    "category": "Enemies",
+    "unit": "GigaDeathParts",
+    "name": "SmallFinCycle",
+    "rects": [
+      [
+        74,
+        58,
+        16,
+        14
+      ],
+      [
+        93,
+        59,
+        16,
+        13
+      ],
+      [
+        112,
+        60,
+        16,
+        12
+      ]
+    ],
+    "fps": 10,
+    "loop": true
+  },
+  {
+    "source": "Assets/Recursos/Sprites/Enemies/gigadeath.gif",
+    "category": "Enemies",
+    "unit": "GigaDeathParts",
+    "name": "MissileLaunch",
+    "rects": [
+      [
+        105,
+        106,
+        35,
+        12
+      ],
+      [
+        153,
+        106,
+        26,
+        12
+      ],
+      [
+        182,
+        106,
+        28,
+        12
+      ],
+      [
+        213,
+        106,
+        31,
+        12
+      ]
+    ],
+    "fps": 10,
+    "loop": false
+  },
+  {
+    "source": "Assets/Recursos/Sprites/Enemies/gigadeath.gif",
+    "category": "Effects",
+    "unit": "GigaDeathProjectiles",
+    "name": "MuzzleFlash",
+    "rects": [
+      [
+        61,
+        128,
+        12,
+        11
+      ],
+      [
+        76,
+        126,
+        16,
+        15
+      ]
+    ],
+    "fps": 12,
+    "loop": false
+  },
+  {
+    "source": "Assets/Recursos/Sprites/Enemies/gigadeath.gif",
+    "category": "Effects",
+    "unit": "GigaDeathProjectiles",
+    "name": "SmallShot",
+    "rects": [
+      [
+        106,
+        128,
+        9,
+        13
+      ],
+      [
+        118,
+        126,
+        15,
+        15
+      ],
+      [
+        136,
+        129,
+        24,
+        11
+      ],
+      [
+        163,
+        131,
+        15,
+        7
+      ]
+    ],
+    "fps": 12,
+    "loop": true
+  },
+  {
+    "source": "Assets/Recursos/Sprites/Enemies/gigadeath.gif",
+    "category": "Effects",
+    "unit": "GigaDeathProjectiles",
+    "name": "MissileFlight",
+    "rects": [
+      [
+        37,
+        159,
+        32,
+        13
+      ],
+      [
+        72,
+        159,
+        32,
+        14
+      ],
+      [
+        107,
+        158,
+        32,
+        16
+      ],
+      [
+        142,
+        155,
+        28,
+        21
+      ]
+    ],
+    "fps": 12,
+    "loop": true
+  },
+  {
+    "source": "Assets/Recursos/Sprites/Enemies/gigadeath.gif",
+    "category": "Effects",
+    "unit": "GigaDeathProjectiles",
+    "name": "MissileTail",
+    "rects": [
+      [
+        184,
+        155,
+        29,
+        21
+      ],
+      [
+        216,
+        155,
+        29,
+        21
+      ],
+      [
+        248,
+        155,
+        29,
+        21
+      ],
+      [
+        280,
+        155,
+        29,
+        21
+      ]
+    ],
+    "fps": 12,
+    "loop": true
+  },
+  {
+    "source": "Assets/Recursos/Sprites/Enemies/gigadeath.gif",
+    "category": "Effects",
+    "unit": "GigaDeathProjectiles",
+    "name": "ImpactRing",
+    "rects": [
+      [
+        94,
+        191,
+        18,
+        16
+      ],
+      [
+        127,
+        189,
+        19,
+        20
+      ],
+      [
+        159,
+        187,
+        21,
+        24
+      ],
+      [
+        192,
+        185,
+        25,
+        31
+      ],
+      [
+        224,
+        185,
+        32,
+        31
+      ]
+    ],
+    "fps": 12,
+    "loop": false
+  },
+  {
+    "source": "Assets/Recursos/Sprites/Effects/bossdoor.gif",
+    "category": "Environment",
+    "unit": "BossDoor",
+    "name": "Unlock",
+    "rects": [
+      [
+        6,
+        4,
+        30,
+        64
+      ],
+      [
+        54,
+        4,
+        30,
+        64
+      ],
+      [
+        105,
+        4,
+        30,
+        64
+      ],
+      [
+        156,
+        4,
+        30,
+        64
+      ],
+      [
+        208,
+        4,
+        30,
+        64
+      ]
+    ],
+    "fps": 10,
+    "loop": false
+  },
+  {
+    "source": "Assets/Recursos/Sprites/Effects/bossdoor.gif",
+    "category": "Environment",
+    "unit": "BossDoor",
+    "name": "Open",
+    "rects": [
+      [
+        5,
+        78,
+        30,
+        64
+      ],
+      [
+        54,
+        78,
+        30,
+        64
+      ],
+      [
+        105,
+        78,
+        30,
+        64
+      ],
+      [
+        156,
+        78,
+        30,
+        64
+      ],
+      [
+        208,
+        78,
+        30,
+        64
+      ]
+    ],
+    "fps": 10,
+    "loop": false
+  },
+  {
+    "source": "Assets/Recursos/Sprites/Effects/bossdoor.gif",
+    "category": "Environment",
+    "unit": "BossDoor",
+    "name": "RetractTop",
+    "rects": [
+      [
+        54,
+        156,
+        30,
+        26
+      ],
+      [
+        105,
+        156,
+        30,
+        19
+      ],
+      [
+        156,
+        156,
+        30,
+        8
+      ]
+    ],
+    "fps": 10,
+    "loop": false
+  },
+  {
+    "source": "Assets/Recursos/Sprites/Effects/bossdoor.gif",
+    "category": "Environment",
+    "unit": "BossDoor",
+    "name": "RetractBottom",
+    "rects": [
+      [
+        54,
+        192,
+        30,
+        28
+      ],
+      [
+        105,
+        198,
+        30,
+        22
+      ],
+      [
+        156,
+        208,
+        30,
+        12
+      ]
+    ],
+    "fps": 10,
+    "loop": false
+  },
+  {
+    "source": "Assets/Recursos/Sprites/Effects/Explosion.gif",
+    "category": "Effects",
+    "unit": "Explosion",
+    "name": "Flash",
+    "rects": [
+      [
+        4,
+        5,
+        65,
+        64
+      ],
+      [
+        87,
+        6,
+        64,
+        62
+      ]
+    ],
+    "fps": 20,
+    "loop": false
+  },
+  {
+    "source": "Assets/Recursos/Sprites/Effects/Explosion.gif",
+    "category": "Effects",
+    "unit": "Explosion",
+    "name": "FireBlast",
+    "rects": [
+      [
+        169,
+        26,
+        49,
+        38
+      ],
+      [
+        229,
+        23,
+        54,
+        41
+      ],
+      [
+        291,
+        22,
+        57,
+        42
+      ],
+      [
+        356,
+        21,
+        58,
+        43
+      ],
+      [
+        425,
+        21,
+        60,
+        43
+      ],
+      [
+        498,
+        22,
+        61,
+        43
+      ],
+      [
+        572,
+        20,
+        59,
+        44
+      ],
+      [
+        11,
+        84,
+        54,
+        44
+      ],
+      [
+        79,
+        86,
+        49,
+        43
+      ],
+      [
+        141,
+        87,
+        45,
+        43
+      ],
+      [
+        201,
+        88,
+        43,
+        41
+      ],
+      [
+        260,
+        89,
+        40,
+        39
+      ],
+      [
+        316,
+        90,
+        35,
+        38
+      ],
+      [
+        372,
+        90,
+        28,
+        38
+      ],
+      [
+        401,
+        93,
+        49,
+        35
+      ],
+      [
+        470,
+        94,
+        23,
+        34
+      ]
+    ],
+    "fps": 15,
+    "loop": false
+  },
+  {
+    "source": "Assets/Recursos/Sprites/Effects/Explosion.gif",
+    "category": "Effects",
+    "unit": "Explosion",
+    "name": "SmokeBlast",
+    "rects": [
+      [
+        20,
+        162,
+        49,
+        38
+      ],
+      [
+        80,
+        159,
+        54,
+        41
+      ],
+      [
+        142,
+        158,
+        57,
+        42
+      ],
+      [
+        207,
+        157,
+        58,
+        43
+      ],
+      [
+        276,
+        157,
+        60,
+        43
+      ],
+      [
+        349,
+        158,
+        61,
+        43
+      ],
+      [
+        423,
+        156,
+        59,
+        44
+      ],
+      [
+        17,
+        221,
+        54,
+        44
+      ],
+      [
+        85,
+        223,
+        49,
+        43
+      ],
+      [
+        147,
+        224,
+        45,
+        43
+      ],
+      [
+        207,
+        225,
+        43,
+        41
+      ],
+      [
+        266,
+        226,
+        40,
+        39
+      ],
+      [
+        322,
+        227,
+        35,
+        38
+      ],
+      [
+        378,
+        227,
+        29,
+        38
+      ],
+      [
+        410,
+        231,
+        46,
+        34
+      ],
+      [
+        476,
+        231,
+        23,
+        34
+      ]
+    ],
+    "fps": 15,
+    "loop": false
+  },
+  {
+    "source": "Assets/Recursos/Sprites/Effects/meteor1.gif",
+    "category": "Effects",
+    "unit": "Meteor",
+    "name": "FlameUp",
+    "rects": [
+      [
+        6,
+        46,
+        78,
+        72
+      ],
+      [
+        87,
+        36,
+        78,
+        82
+      ],
+      [
+        168,
+        28,
+        76,
+        90
+      ],
+      [
+        246,
+        28,
+        72,
+        90
+      ],
+      [
+        320,
+        36,
+        72,
+        82
+      ],
+      [
+        396,
+        9,
+        68,
+        109
+      ],
+      [
+        466,
+        46,
+        74,
+        72
+      ],
+      [
+        544,
+        28,
+        72,
+        90
+      ],
+      [
+        619,
+        36,
+        76,
+        82
+      ]
+    ],
+    "fps": 12,
+    "loop": true,
+    "isolateComponent": true
+  },
+  {
+    "source": "Assets/Recursos/Sprites/Effects/meteor1.gif",
+    "category": "Effects",
+    "unit": "Meteor",
+    "name": "FlameDown",
+    "rects": [
+      [
+        6,
+        119,
+        78,
+        72
+      ],
+      [
+        87,
+        119,
+        78,
+        82
+      ],
+      [
+        168,
+        119,
+        76,
+        90
+      ],
+      [
+        246,
+        119,
+        72,
+        90
+      ],
+      [
+        320,
+        119,
+        72,
+        82
+      ],
+      [
+        396,
+        119,
+        68,
+        109
+      ],
+      [
+        466,
+        119,
+        74,
+        72
+      ],
+      [
+        544,
+        119,
+        72,
+        90
+      ],
+      [
+        619,
+        119,
+        76,
+        82
+      ]
+    ],
+    "fps": 12,
+    "loop": true,
+    "isolateComponent": true
+  },
+  {
+    "source": "Assets/Recursos/Sprites/Effects/Rain Effect.png",
+    "category": "Effects",
+    "unit": "Rain",
+    "name": "Fall",
+    "rects": [
+      [
+        8,
+        7,
+        160,
+        240
+      ],
+      [
+        177,
+        7,
+        160,
+        240
+      ],
+      [
+        346,
+        7,
+        160,
+        240
+      ],
+      [
+        8,
+        255,
+        160,
+        240
+      ],
+      [
+        177,
+        255,
+        160,
+        240
+      ]
+    ],
+    "fps": 14,
+    "loop": true,
+    "keyColors": [
+      [
+        24,
+        24,
+        24
+      ]
+    ]
+  },
+  {
+    "source": "Assets/Recursos/Sprites/Effects/Ready Text - Stage Intro Screen.png",
+    "category": "UI",
+    "unit": "StageIntro",
+    "name": "ReadyPulse",
+    "rects": [
+      [
+        6,
+        20,
+        184,
+        33
+      ],
+      [
+        6,
+        54,
+        184,
+        33
+      ],
+      [
+        6,
+        88,
+        184,
+        33
+      ],
+      [
+        6,
+        54,
+        184,
+        33
+      ]
+    ],
+    "fps": 8,
+    "loop": true
+  },
+  {
+    "source": "Assets/Recursos/Sprites/Items/items.png",
+    "category": "Items",
+    "unit": "Pickups",
+    "name": "BlueEnergyPulse",
+    "rects": [
+      [
+        71,
+        7,
+        18,
+        18
+      ],
+      [
+        94,
+        7,
+        18,
+        18
+      ],
+      [
+        117,
+        7,
+        18,
+        18
+      ],
+      [
+        140,
+        7,
+        19,
+        18
+      ],
+      [
+        164,
+        6,
+        21,
+        20
+      ],
+      [
+        190,
+        5,
+        23,
+        22
+      ],
+      [
+        218,
+        6,
+        21,
+        20
+      ],
+      [
+        244,
+        7,
+        20,
+        18
+      ],
+      [
+        269,
+        6,
+        21,
+        20
+      ],
+      [
+        295,
+        5,
+        23,
+        22
+      ]
+    ],
+    "fps": 12,
+    "loop": true
+  },
+  {
+    "source": "Assets/Recursos/Sprites/Items/items.png",
+    "category": "Items",
+    "unit": "Pickups",
+    "name": "RedEnergyPulse",
+    "rects": [
+      [
+        69,
+        47,
+        19,
+        20
+      ],
+      [
+        93,
+        47,
+        19,
+        20
+      ],
+      [
+        117,
+        47,
+        19,
+        20
+      ],
+      [
+        141,
+        47,
+        19,
+        20
+      ],
+      [
+        165,
+        47,
+        21,
+        21
+      ],
+      [
+        191,
+        47,
+        23,
+        22
+      ],
+      [
+        219,
+        48,
+        21,
+        20
+      ],
+      [
+        245,
+        49,
+        20,
+        18
+      ],
+      [
+        270,
+        48,
+        21,
+        20
+      ],
+      [
+        296,
+        47,
+        23,
+        22
+      ]
+    ],
+    "fps": 12,
+    "loop": true
+  },
+  {
+    "source": "Assets/Recursos/Sprites/Items/items.png",
+    "category": "Items",
+    "unit": "Pickups",
+    "name": "SmallPickupRotate",
+    "rects": [
+      [
+        134,
+        89,
+        9,
+        8
+      ],
+      [
+        148,
+        89,
+        9,
+        8
+      ],
+      [
+        162,
+        89,
+        13,
+        8
+      ],
+      [
+        180,
+        89,
+        15,
+        8
+      ],
+      [
+        200,
+        89,
+        15,
+        8
+      ],
+      [
+        220,
+        89,
+        15,
+        8
+      ],
+      [
+        240,
+        89,
+        15,
+        8
+      ]
+    ],
+    "fps": 12,
+    "loop": true
+  },
+  {
+    "source": "Assets/Recursos/Sprites/Items/items.png",
+    "category": "Items",
+    "unit": "Pickups",
+    "name": "LargePickupRotate",
+    "rects": [
+      [
+        91,
+        117,
+        13,
+        13
+      ],
+      [
+        109,
+        117,
+        13,
+        13
+      ],
+      [
+        127,
+        117,
+        13,
+        13
+      ],
+      [
+        145,
+        117,
+        13,
+        13
+      ],
+      [
+        163,
+        117,
+        13,
+        13
+      ],
+      [
+        181,
+        117,
+        13,
+        13
+      ],
+      [
+        199,
+        117,
+        18,
+        13
+      ],
+      [
+        222,
+        117,
+        22,
+        13
+      ],
+      [
+        249,
+        117,
+        22,
+        13
+      ],
+      [
+        276,
+        117,
+        22,
+        13
+      ]
+    ],
+    "fps": 12,
+    "loop": true
+  },
+  {
+    "source": "Assets/Recursos/Sprites/Items/items.png",
+    "category": "Items",
+    "unit": "Pickups",
+    "name": "CapsulePulse",
+    "rects": [
+      [
+        65,
+        150,
+        17,
+        31
+      ],
+      [
+        87,
+        150,
+        17,
+        31
+      ],
+      [
+        109,
+        150,
+        17,
+        31
+      ],
+      [
+        131,
+        150,
+        17,
+        31
+      ],
+      [
+        153,
+        150,
+        17,
+        31
+      ],
+      [
+        175,
+        150,
+        17,
+        31
+      ],
+      [
+        197,
+        150,
+        17,
+        31
+      ],
+      [
+        219,
+        150,
+        17,
+        31
+      ],
+      [
+        241,
+        150,
+        17,
+        31
+      ],
+      [
+        263,
+        150,
+        17,
+        31
+      ],
+      [
+        285,
+        150,
+        17,
+        31
+      ],
+      [
+        307,
+        150,
+        17,
+        31
+      ]
+    ],
+    "fps": 10,
+    "loop": true
+  },
+  {
+    "source": "Assets/Recursos/Sprites/Items/items.png",
+    "category": "Items",
+    "unit": "Pickups",
+    "name": "SmallBlueOrbRotate",
+    "rects": [
+      [
+        120,
+        201,
+        9,
+        9
+      ],
+      [
+        134,
+        201,
+        9,
+        9
+      ],
+      [
+        148,
+        201,
+        9,
+        9
+      ],
+      [
+        162,
+        201,
+        9,
+        9
+      ],
+      [
+        177,
+        201,
+        9,
+        9
+      ],
+      [
+        190,
+        201,
+        9,
+        9
+      ],
+      [
+        204,
+        201,
+        9,
+        9
+      ],
+      [
+        218,
+        201,
+        9,
+        9
+      ],
+      [
+        232,
+        201,
+        9,
+        9
+      ],
+      [
+        246,
+        201,
+        9,
+        9
+      ],
+      [
+        260,
+        201,
+        9,
+        9
+      ]
+    ],
+    "fps": 12,
+    "loop": true
+  },
+  {
+    "source": "Assets/Recursos/Sprites/Items/items.png",
+    "category": "Items",
+    "unit": "Pickups",
+    "name": "BlueOrbRotate",
+    "rects": [
+      [
+        27,
+        230,
+        15,
+        14
+      ],
+      [
+        47,
+        230,
+        15,
+        14
+      ],
+      [
+        67,
+        230,
+        15,
+        14
+      ],
+      [
+        87,
+        230,
+        15,
+        14
+      ],
+      [
+        107,
+        230,
+        15,
+        14
+      ],
+      [
+        127,
+        230,
+        15,
+        14
+      ],
+      [
+        147,
+        230,
+        15,
+        14
+      ],
+      [
+        167,
+        230,
+        15,
+        14
+      ],
+      [
+        187,
+        230,
+        15,
+        14
+      ],
+      [
+        207,
+        230,
+        15,
+        14
+      ],
+      [
+        227,
+        230,
+        15,
+        14
+      ],
+      [
+        247,
+        230,
+        15,
+        14
+      ],
+      [
+        267,
+        230,
+        15,
+        14
+      ],
+      [
+        287,
+        230,
+        15,
+        14
+      ],
+      [
+        307,
+        230,
+        15,
+        14
+      ],
+      [
+        327,
+        230,
+        15,
+        14
+      ],
+      [
+        347,
+        230,
+        15,
+        14
+      ]
+    ],
+    "fps": 12,
+    "loop": true
+  },
+  {
+    "source": "Assets/Recursos/Sprites/Items/items.png",
+    "category": "Items",
+    "unit": "Pickups",
+    "name": "LargeBlueOrbRotate",
+    "rects": [
+      [
+        5,
+        264,
+        19,
+        18
+      ],
+      [
+        29,
+        264,
+        19,
+        18
+      ],
+      [
+        53,
+        264,
+        19,
+        18
+      ],
+      [
+        77,
+        264,
+        19,
+        18
+      ],
+      [
+        101,
+        264,
+        19,
+        18
+      ],
+      [
+        125,
+        264,
+        19,
+        18
+      ],
+      [
+        149,
+        264,
+        19,
+        18
+      ],
+      [
+        173,
+        264,
+        19,
+        18
+      ],
+      [
+        197,
+        264,
+        19,
+        18
+      ],
+      [
+        221,
+        264,
+        19,
+        18
+      ],
+      [
+        245,
+        264,
+        19,
+        18
+      ],
+      [
+        269,
+        264,
+        19,
+        18
+      ],
+      [
+        293,
+        264,
+        19,
+        18
+      ],
+      [
+        317,
+        264,
+        19,
+        18
+      ],
+      [
+        341,
+        264,
+        19,
+        18
+      ],
+      [
+        365,
+        264,
+        19,
+        18
+      ]
+    ],
+    "fps": 12,
+    "loop": true
+  },
+  {
+    "source": "Assets/Recursos/Sprites/Items/items.png",
+    "category": "Items",
+    "unit": "Pickups",
+    "name": "PinkPickupRotate",
+    "rects": [
+      [
+        29,
+        308,
+        19,
+        18
+      ],
+      [
+        53,
+        308,
+        17,
+        16
+      ],
+      [
+        75,
+        308,
+        17,
+        16
+      ],
+      [
+        97,
+        308,
+        17,
+        16
+      ],
+      [
+        119,
+        308,
+        17,
+        16
+      ],
+      [
+        141,
+        308,
+        15,
+        16
+      ],
+      [
+        161,
+        306,
+        15,
+        18
+      ],
+      [
+        181,
+        304,
+        17,
+        20
+      ],
+      [
+        203,
+        303,
+        19,
+        21
+      ],
+      [
+        227,
+        302,
+        17,
+        22
+      ],
+      [
+        249,
+        308,
+        15,
+        16
+      ],
+      [
+        269,
+        308,
+        13,
+        16
+      ],
+      [
+        287,
+        308,
+        13,
+        16
+      ],
+      [
+        305,
+        308,
+        13,
+        16
+      ],
+      [
+        323,
+        308,
+        15,
+        16
+      ],
+      [
+        343,
+        308,
+        17,
+        19
+      ]
+    ],
+    "fps": 12,
+    "loop": true
+  },
+  {
+    "source": "Assets/Recursos/Sprites/Items/items.png",
+    "category": "Items",
+    "unit": "Pickups",
+    "name": "EnergyTankRotate",
+    "rects": [
+      [
+        73,
+        347,
+        26,
+        23
+      ],
+      [
+        104,
+        347,
+        26,
+        23
+      ],
+      [
+        135,
+        347,
+        26,
+        23
+      ],
+      [
+        166,
+        347,
+        26,
+        23
+      ],
+      [
+        197,
+        347,
+        26,
+        23
+      ],
+      [
+        228,
+        347,
+        26,
+        23
+      ],
+      [
+        259,
+        347,
+        26,
+        23
+      ],
+      [
+        290,
+        347,
+        26,
+        23
+      ]
+    ],
+    "fps": 10,
+    "loop": true
+  },
+  {
+    "source": "Assets/Recursos/Sprites/Items/items.png",
+    "category": "Items",
+    "unit": "Pickups",
+    "name": "LifeTankRotate",
+    "rects": [
+      [
+        73,
+        390,
+        26,
+        25
+      ],
+      [
+        104,
+        390,
+        26,
+        25
+      ],
+      [
+        135,
+        390,
+        26,
+        25
+      ],
+      [
+        166,
+        390,
+        26,
+        25
+      ],
+      [
+        197,
+        390,
+        26,
+        25
+      ],
+      [
+        228,
+        390,
+        26,
+        25
+      ],
+      [
+        259,
+        390,
+        26,
+        25
+      ],
+      [
+        290,
+        390,
+        26,
+        25
+      ]
+    ],
+    "fps": 10,
+    "loop": true
+  },
+  {
+    "source": "Assets/Recursos/Sprites/Items/items.png",
+    "category": "Items",
+    "unit": "Pickups",
+    "name": "CorePulse",
+    "rects": [
+      [
+        125,
+        435,
+        31,
+        25
+      ],
+      [
+        161,
+        435,
+        31,
+        25
+      ],
+      [
+        197,
+        435,
+        31,
+        25
+      ],
+      [
+        233,
+        435,
+        31,
+        25
+      ]
+    ],
+    "fps": 10,
+    "loop": true
+  },
+  {
+    "source": "Assets/Recursos/Sprites/Bosses/Dragon/Dragon.png",
+    "category": "Effects",
+    "unit": "DragonEffects",
+    "name": "SlashArc",
+    "rects": [
+      [
+        193,
+        804,
+        18,
+        16
+      ],
+      [
+        220,
+        805,
+        15,
+        11
+      ],
+      [
+        241,
+        804,
+        11,
+        16
+      ],
+      [
+        261,
+        777,
+        47,
+        44
+      ],
+      [
+        313,
+        800,
+        47,
+        19
+      ],
+      [
+        364,
+        776,
+        16,
+        41
+      ],
+      [
+        392,
+        789,
+        18,
+        31
+      ],
+      [
+        426,
+        800,
+        22,
+        17
+      ],
+      [
+        459,
+        792,
+        13,
+        24
+      ],
+      [
+        478,
+        802,
+        11,
+        5
+      ],
+      [
+        497,
+        803,
+        15,
+        9
+      ],
+      [
+        519,
+        801,
+        5,
+        11
+      ]
+    ],
+    "fps": 14,
+    "loop": false
+  },
+  {
+    "source": "Assets/Recursos/Sprites/Bosses/Dragon/Dragon.png",
+    "category": "Effects",
+    "unit": "DragonEffects",
+    "name": "SmallFlameUp",
+    "rects": [
+      [
+        262,
+        849,
+        11,
+        10
+      ],
+      [
+        277,
+        845,
+        14,
+        14
+      ],
+      [
+        295,
+        847,
+        12,
+        13
+      ],
+      [
+        313,
+        837,
+        12,
+        23
+      ],
+      [
+        328,
+        835,
+        16,
+        29
+      ],
+      [
+        348,
+        836,
+        16,
+        28
+      ],
+      [
+        368,
+        834,
+        15,
+        29
+      ],
+      [
+        389,
+        837,
+        14,
+        26
+      ],
+      [
+        409,
+        838,
+        13,
+        22
+      ],
+      [
+        426,
+        838,
+        12,
+        18
+      ],
+      [
+        444,
+        832,
+        7,
+        14
+      ]
+    ],
+    "fps": 12,
+    "loop": false,
+    "isolateComponent": true
+  },
+  {
+    "source": "Assets/Recursos/Sprites/Bosses/Dragon/Dragon.png",
+    "category": "Effects",
+    "unit": "DragonEffects",
+    "name": "SmallFlameDown",
+    "rects": [
+      [
+        175,
+        896,
+        9,
+        10
+      ],
+      [
+        190,
+        894,
+        10,
+        13
+      ],
+      [
+        206,
+        894,
+        13,
+        11
+      ],
+      [
+        228,
+        868,
+        23,
+        48
+      ],
+      [
+        260,
+        870,
+        31,
+        46
+      ],
+      [
+        297,
+        869,
+        31,
+        47
+      ],
+      [
+        333,
+        871,
+        31,
+        45
+      ],
+      [
+        370,
+        875,
+        28,
+        40
+      ],
+      [
+        409,
+        875,
+        25,
+        39
+      ],
+      [
+        443,
+        884,
+        26,
+        32
+      ],
+      [
+        480,
+        887,
+        20,
+        26
+      ],
+      [
+        514,
+        892,
+        18,
+        20
+      ]
+    ],
+    "fps": 12,
+    "loop": true,
+    "isolateComponent": true
+  },
+  {
+    "source": "Assets/Recursos/Sprites/Bosses/Dragon/Dragon.png",
+    "category": "Effects",
+    "unit": "DragonEffects",
+    "name": "FireballDown",
+    "rects": [
+      [
+        80,
+        941,
+        8,
+        7
+      ],
+      [
+        94,
+        936,
+        12,
+        16
+      ],
+      [
+        112,
+        929,
+        16,
+        31
+      ],
+      [
+        133,
+        922,
+        30,
+        38
+      ],
+      [
+        171,
+        922,
+        34,
+        62
+      ],
+      [
+        214,
+        924,
+        36,
+        44
+      ],
+      [
+        255,
+        924,
+        34,
+        50
+      ],
+      [
+        296,
+        924,
+        32,
+        50
+      ],
+      [
+        336,
+        922,
+        48,
+        48
+      ],
+      [
+        398,
+        922,
+        52,
+        78
+      ],
+      [
+        461,
+        924,
+        54,
+        58
+      ],
+      [
+        521,
+        924,
+        54,
+        58
+      ],
+      [
+        582,
+        924,
+        52,
+        63
+      ]
+    ],
+    "fps": 12,
+    "loop": true
+  },
+  {
+    "source": "Assets/Recursos/Sprites/Bosses/Dragon/Dragon.png",
+    "category": "Effects",
+    "unit": "DragonEffects",
+    "name": "FireballRight",
+    "rects": [
+      [
+        128,
+        1030,
+        16,
+        12
+      ],
+      [
+        149,
+        1023,
+        31,
+        26
+      ],
+      [
+        188,
+        1020,
+        44,
+        32
+      ],
+      [
+        236,
+        1012,
+        50,
+        48
+      ],
+      [
+        301,
+        1010,
+        78,
+        52
+      ],
+      [
+        388,
+        1009,
+        58,
+        54
+      ],
+      [
+        456,
+        1009,
+        58,
+        54
+      ],
+      [
+        521,
+        1010,
+        63,
+        52
+      ]
+    ],
+    "fps": 12,
+    "loop": true
+  },
+  {
+    "source": "Assets/Recursos/Sprites/Bosses/Dragon/Dragon.png",
+    "category": "Effects",
+    "unit": "DragonEffects",
+    "name": "FireballDiagonal",
+    "rects": [
+      [
+        233,
+        1086,
+        37,
+        37
+      ],
+      [
+        277,
+        1081,
+        42,
+        42
+      ],
+      [
+        323,
+        1083,
+        42,
+        43
+      ],
+      [
+        373,
+        1081,
+        42,
+        42
+      ],
+      [
+        421,
+        1078,
+        50,
+        50
+      ]
+    ],
+    "fps": 12,
+    "loop": true
+  },
+  {
+    "source": "Assets/Recursos/Sprites/Bosses/Dragon/Dragon.png",
+    "category": "Effects",
+    "unit": "DragonEffects",
+    "name": "GroundFlameSmall",
+    "rects": [
+      [
+        156,
+        1158,
+        8,
+        6
+      ],
+      [
+        170,
+        1155,
+        12,
+        9
+      ],
+      [
+        188,
+        1152,
+        16,
+        12
+      ],
+      [
+        211,
+        1150,
+        18,
+        14
+      ],
+      [
+        238,
+        1149,
+        20,
+        15
+      ],
+      [
+        265,
+        1148,
+        22,
+        16
+      ],
+      [
+        296,
+        1146,
+        24,
+        18
+      ],
+      [
+        327,
+        1145,
+        26,
+        19
+      ],
+      [
+        358,
+        1145,
+        28,
+        19
+      ],
+      [
+        390,
+        1145,
+        28,
+        19
+      ],
+      [
+        421,
+        1146,
+        30,
+        18
+      ],
+      [
+        456,
+        1148,
+        32,
+        16
+      ],
+      [
+        492,
+        1150,
+        32,
+        14
+      ],
+      [
+        528,
+        1152,
+        32,
+        12
+      ]
+    ],
+    "fps": 12,
+    "loop": true
+  },
+  {
+    "source": "Assets/Recursos/Sprites/Bosses/Dragon/Dragon.png",
+    "category": "Effects",
+    "unit": "DragonEffects",
+    "name": "GroundFlameMedium",
+    "rects": [
+      [
+        163,
+        1175,
+        38,
+        26
+      ],
+      [
+        210,
+        1173,
+        40,
+        28
+      ],
+      [
+        256,
+        1173,
+        44,
+        28
+      ],
+      [
+        304,
+        1173,
+        44,
+        28
+      ],
+      [
+        351,
+        1175,
+        46,
+        26
+      ],
+      [
+        402,
+        1178,
+        48,
+        23
+      ],
+      [
+        454,
+        1179,
+        48,
+        22
+      ],
+      [
+        506,
+        1183,
+        48,
+        18
+      ]
+    ],
+    "fps": 12,
+    "loop": true
+  },
+  {
+    "source": "Assets/Recursos/Sprites/Bosses/Dragon/Dragon.png",
+    "category": "Effects",
+    "unit": "DragonEffects",
+    "name": "GroundFlameTall",
+    "rects": [
+      [
+        152,
+        1209,
+        44,
+        48
+      ],
+      [
+        203,
+        1209,
+        46,
+        48
+      ],
+      [
+        256,
+        1208,
+        44,
+        49
+      ],
+      [
+        308,
+        1208,
+        44,
+        49
+      ],
+      [
+        360,
+        1209,
+        44,
+        48
+      ],
+      [
+        412,
+        1209,
+        44,
+        48
+      ],
+      [
+        464,
+        1209,
+        44,
+        48
+      ],
+      [
+        516,
+        1209,
+        44,
+        48
+      ]
+    ],
+    "fps": 12,
+    "loop": true
+  },
+  {
+    "source": "Assets/Recursos/Sprites/Bosses/Dragon/Dragon.png",
+    "category": "Effects",
+    "unit": "DragonEffects",
+    "name": "FlamePillar",
+    "rects": [
+      [
+        9,
+        1294,
+        38,
+        37
+      ],
+      [
+        53,
+        1271,
+        62,
+        64
+      ],
+      [
+        120,
+        1273,
+        64,
+        61
+      ],
+      [
+        190,
+        1270,
+        60,
+        65
+      ],
+      [
+        258,
+        1269,
+        60,
+        65
+      ],
+      [
+        327,
+        1267,
+        58,
+        68
+      ],
+      [
+        396,
+        1276,
+        48,
+        58
+      ],
+      [
+        456,
+        1272,
+        56,
+        63
+      ],
+      [
+        521,
+        1272,
+        54,
+        56
+      ],
+      [
+        588,
+        1274,
+        48,
+        62
+      ],
+      [
+        648,
+        1281,
+        40,
+        25
+      ]
+    ],
+    "fps": 12,
+    "loop": false
+  },
+  {
+    "source": "Assets/Recursos/Sprites/Bosses/Dragon/Dragon.png",
+    "category": "Effects",
+    "unit": "DragonEffects",
+    "name": "BlastWave",
+    "rects": [
+      [
+        184,
+        1387,
+        80,
+        63
+      ],
+      [
+        272,
+        1354,
+        120,
+        96
+      ],
+      [
+        396,
+        1353,
+        128,
+        97
+      ]
+    ],
+    "fps": 12,
+    "loop": false
+  },
+  {
+    "source": "Assets/Recursos/Sprites/Bosses/Dragon/Dragon.png",
+    "category": "Effects",
+    "unit": "DragonEffects",
+    "name": "Embers",
+    "rects": [
+      [
+        165,
+        1473,
+        5,
+        6
+      ],
+      [
+        178,
+        1468,
+        12,
+        15
+      ],
+      [
+        201,
+        1471,
+        4,
+        10
+      ],
+      [
+        219,
+        1468,
+        11,
+        12
+      ],
+      [
+        241,
+        1473,
+        6,
+        11
+      ],
+      [
+        253,
+        1471,
+        4,
+        10
+      ],
+      [
+        271,
+        1468,
+        11,
+        12
+      ],
+      [
+        293,
+        1473,
+        6,
+        11
+      ],
+      [
+        316,
+        1468,
+        4,
+        12
+      ],
+      [
+        329,
+        1468,
+        3,
+        13
+      ],
+      [
+        340,
+        1469,
+        6,
+        12
+      ],
+      [
+        363,
+        1463,
+        5,
+        18
+      ],
+      [
+        373,
+        1463,
+        6,
+        19
+      ],
+      [
+        383,
+        1465,
+        9,
+        19
+      ],
+      [
+        393,
+        1468,
+        17,
+        24
+      ],
+      [
+        411,
+        1469,
+        11,
+        23
+      ],
+      [
+        425,
+        1465,
+        27,
+        23
+      ],
+      [
+        456,
+        1469,
+        22,
+        12
+      ],
+      [
+        504,
+        1468,
+        7,
+        13
+      ],
+      [
+        521,
+        1474,
+        12,
+        9
+      ]
+    ],
+    "fps": 14,
+    "loop": false
+  },
+  {
+    "source": "Assets/Recursos/Sprites/Bosses/Dragon/Dragon.png",
+    "category": "Effects",
+    "unit": "DragonEffects",
+    "name": "Impact",
+    "rects": [
+      [
+        136,
+        1509,
+        66,
+        29
+      ],
+      [
+        205,
+        1504,
+        91,
+        35
+      ],
+      [
+        298,
+        1504,
+        95,
+        35
+      ],
+      [
+        395,
+        1500,
+        88,
+        41
+      ],
+      [
+        484,
+        1499,
+        95,
+        39
+      ]
+    ],
+    "fps": 14,
+    "loop": false
+  },
+  {
+    "source": "Assets/Recursos/Sprites/Bosses/Dragon/Dragon.png",
+    "category": "Effects",
+    "unit": "DragonEffects",
+    "name": "ShockRing",
+    "rects": [
+      [
+        142,
+        1555,
+        36,
+        8
+      ],
+      [
+        185,
+        1552,
+        54,
+        14
+      ],
+      [
+        246,
+        1550,
+        68,
+        20
+      ],
+      [
+        318,
+        1549,
+        76,
+        22
+      ],
+      [
+        398,
+        1549,
+        84,
+        22
+      ],
+      [
+        488,
+        1548,
+        88,
+        24
+      ]
+    ],
+    "fps": 14,
+    "loop": false
+  },
+  {
+    "source": "Assets/Recursos/Sprites/Bosses/Dragon/Dragon.png",
+    "category": "Effects",
+    "unit": "DragonEffects",
+    "name": "EnergyOrbs",
+    "rects": [
+      [
+        306,
+        1615,
+        28,
+        26
+      ],
+      [
+        338,
+        1607,
+        44,
+        42
+      ],
+      [
+        392,
+        1605,
+        48,
+        46
+      ]
+    ],
+    "fps": 12,
+    "loop": false
+  },
+  {
+    "source": "Assets/Recursos/Sprites/Bosses/Dragon/Dragon.png",
+    "category": "Bosses",
+    "unit": "Dragon",
+    "name": "Idle",
+    "rects": [
+      [
+        111,
+        21,
+        61,
+        81
+      ]
+    ],
+    "fps": 8,
+    "loop": false,
+    "isolateComponent": true
+  },
+  {
+    "source": "Assets/Recursos/Sprites/Bosses/Dragon/Dragon.png",
+    "category": "Bosses",
+    "unit": "Dragon",
+    "name": "Guard",
+    "rects": [
+      [
+        292,
+        26,
+        81,
+        79
+      ]
+    ],
+    "fps": 8,
+    "loop": false,
+    "isolateComponent": true
+  },
+  {
+    "source": "Assets/Recursos/Sprites/Bosses/Dragon/Dragon.png",
+    "category": "Bosses",
+    "unit": "Dragon",
+    "name": "Windup",
+    "rects": [
+      [
+        110,
+        151,
+        95,
+        68
+      ]
+    ],
+    "fps": 8,
+    "loop": false,
+    "isolateComponent": true
+  },
+  {
+    "source": "Assets/Recursos/Sprites/Bosses/Dragon/Dragon.png",
+    "category": "Bosses",
+    "unit": "Dragon",
+    "name": "Slash",
+    "rects": [
+      [
+        211,
+        150,
+        94,
+        73
+      ]
+    ],
+    "fps": 8,
+    "loop": false,
+    "isolateComponent": true
+  },
+  {
+    "source": "Assets/Recursos/Sprites/Bosses/Dragon/Dragon.png",
+    "category": "Bosses",
+    "unit": "Dragon",
+    "name": "Sweep",
+    "rects": [
+      [
+        312,
+        148,
+        98,
+        72
+      ]
+    ],
+    "fps": 8,
+    "loop": false,
+    "isolateComponent": true
+  },
+  {
+    "source": "Assets/Recursos/Sprites/Bosses/Dragon/Dragon.png",
+    "category": "Bosses",
+    "unit": "Dragon",
+    "name": "JumpAttack",
+    "rects": [
+      [
+        527,
+        126,
+        65,
+        104
+      ]
+    ],
+    "fps": 8,
+    "loop": false,
+    "isolateComponent": true
+  },
+  {
+    "source": "Assets/Recursos/Sprites/Bosses/Dragon/Dragon.png",
+    "category": "Bosses",
+    "unit": "Dragon",
+    "name": "AttackRaised",
+    "rects": [
+      [
+        119,
+        244,
+        87,
+        74
+      ]
+    ],
+    "fps": 8,
+    "loop": false,
+    "isolateComponent": true
+  },
+  {
+    "source": "Assets/Recursos/Sprites/Bosses/Dragon/Dragon.png",
+    "category": "Bosses",
+    "unit": "Dragon",
+    "name": "CrouchAttack",
+    "rects": [
+      [
+        219,
+        252,
+        96,
+        73
+      ]
+    ],
+    "fps": 8,
+    "loop": false,
+    "isolateComponent": true
+  },
+  {
+    "source": "Assets/Recursos/Sprites/Bosses/Dragon/Dragon.png",
+    "category": "Bosses",
+    "unit": "Dragon",
+    "name": "Recover",
+    "rects": [
+      [
+        124,
+        326,
+        73,
+        66
+      ]
+    ],
+    "fps": 8,
+    "loop": false,
+    "isolateComponent": true
+  },
+  {
+    "source": "Assets/Recursos/Sprites/Bosses/Dragon/Dragon.png",
+    "category": "Bosses",
+    "unit": "Dragon",
+    "name": "SweepLow",
+    "rects": [
+      [
+        217,
+        333,
+        98,
+        59
+      ]
+    ],
+    "fps": 8,
+    "loop": false,
+    "isolateComponent": true
+  },
+  {
+    "source": "Assets/Recursos/Sprites/Bosses/Dragon/Dragon.png",
+    "category": "Bosses",
+    "unit": "Dragon",
+    "name": "KickHigh",
+    "rects": [
+      [
+        70,
+        430,
+        64,
+        83
+      ]
+    ],
+    "fps": 8,
+    "loop": false,
+    "isolateComponent": true
+  },
+  {
+    "source": "Assets/Recursos/Sprites/Bosses/Dragon/Dragon.png",
+    "category": "Bosses",
+    "unit": "Dragon",
+    "name": "KickForward",
+    "rects": [
+      [
+        141,
+        438,
+        81,
+        74
+      ]
+    ],
+    "fps": 8,
+    "loop": false,
+    "isolateComponent": true
+  },
+  {
+    "source": "Assets/Recursos/Sprites/Bosses/Dragon/Dragon.png",
+    "category": "Bosses",
+    "unit": "Dragon",
+    "name": "Turn",
+    "rects": [
+      [
+        256,
+        434,
+        73,
+        84
+      ]
+    ],
+    "fps": 8,
+    "loop": false,
+    "isolateComponent": true
+  },
+  {
+    "source": "Assets/Recursos/Sprites/Bosses/Dragon/Dragon.png",
+    "category": "Bosses",
+    "unit": "Dragon",
+    "name": "Lunge",
+    "rects": [
+      [
+        336,
+        438,
+        76,
+        78
+      ]
+    ],
+    "fps": 8,
+    "loop": false,
+    "isolateComponent": true
+  },
+  {
+    "source": "Assets/Recursos/Sprites/Bosses/Dragon/Dragon.png",
+    "category": "Bosses",
+    "unit": "Dragon",
+    "name": "Hurt",
+    "rects": [
+      [
+        108,
+        579,
+        90,
+        62
+      ]
+    ],
+    "fps": 8,
+    "loop": false,
+    "isolateComponent": true
+  },
+  {
+    "source": "Assets/Recursos/Sprites/Bosses/Dragon/Dragon.png",
+    "category": "Bosses",
+    "unit": "Dragon",
+    "name": "Crouch",
+    "rects": [
+      [
+        127,
+        694,
+        94,
+        68
+      ]
+    ],
+    "fps": 8,
+    "loop": false,
+    "isolateComponent": true
+  },
+  {
+    "source": "Assets/Recursos/Sprites/Bosses/Dragon/Dragon.png",
+    "category": "Bosses",
+    "unit": "Dragon",
+    "name": "CrouchShift",
+    "rects": [
+      [
+        226,
+        695,
+        96,
+        67
+      ]
+    ],
+    "fps": 8,
+    "loop": false,
+    "isolateComponent": true
+  },
+  {
+    "source": "Assets/Recursos/Sprites/Bosses/Dragon/Dragon.png",
+    "category": "Bosses",
+    "unit": "Dragon",
+    "name": "Airborne",
+    "rects": [
+      [
+        351,
+        684,
+        75,
+        79
+      ]
+    ],
+    "fps": 8,
+    "loop": false,
+    "isolateComponent": true
+  },
+  {
+    "source": "Assets/Recursos/Sprites/Bosses/Dragon/Dragon.png",
+    "category": "Bosses",
+    "unit": "Dragon",
+    "name": "CrouchIdle",
+    "rects": [
+      [
+        127,
+        694,
+        94,
+        68
+      ],
+      [
+        226,
+        695,
+        96,
+        67
+      ]
+    ],
+    "fps": 6,
+    "loop": true,
+    "isolateComponent": true
+  },
+  {
+    "source": "Assets/Recursos/Sprites/Bosses/Dragon/Dragon.png",
+    "category": "Bosses",
+    "unit": "DragonParts",
+    "name": "Part_01",
+    "rects": [
+      [
+        214,
+        8,
+        24,
+        22
+      ]
+    ],
+    "fps": 8,
+    "loop": false,
+    "isolateComponent": true
+  },
+  {
+    "source": "Assets/Recursos/Sprites/Bosses/Dragon/Dragon.png",
+    "category": "Bosses",
+    "unit": "DragonParts",
+    "name": "Part_02",
+    "rects": [
+      [
+        198,
+        34,
+        57,
+        23
+      ]
+    ],
+    "fps": 8,
+    "loop": false,
+    "isolateComponent": true
+  },
+  {
+    "source": "Assets/Recursos/Sprites/Bosses/Dragon/Dragon.png",
+    "category": "Bosses",
+    "unit": "DragonParts",
+    "name": "Part_03",
+    "rects": [
+      [
+        393,
+        31,
+        39,
+        29
+      ]
+    ],
+    "fps": 8,
+    "loop": false,
+    "isolateComponent": true
+  },
+  {
+    "source": "Assets/Recursos/Sprites/Bosses/Dragon/Dragon.png",
+    "category": "Bosses",
+    "unit": "DragonParts",
+    "name": "Part_04",
+    "rects": [
+      [
+        439,
+        26,
+        78,
+        79
+      ]
+    ],
+    "fps": 8,
+    "loop": false,
+    "isolateComponent": true
+  },
+  {
+    "source": "Assets/Recursos/Sprites/Bosses/Dragon/Dragon.png",
+    "category": "Bosses",
+    "unit": "DragonParts",
+    "name": "Part_05",
+    "rects": [
+      [
+        546,
+        20,
+        42,
+        30
+      ]
+    ],
+    "fps": 8,
+    "loop": false,
+    "isolateComponent": true
+  },
+  {
+    "source": "Assets/Recursos/Sprites/Bosses/Dragon/Dragon.png",
+    "category": "Bosses",
+    "unit": "DragonParts",
+    "name": "Part_06",
+    "rects": [
+      [
+        178,
+        51,
+        16,
+        20
+      ]
+    ],
+    "fps": 8,
+    "loop": false,
+    "isolateComponent": true
+  },
+  {
+    "source": "Assets/Recursos/Sprites/Bosses/Dragon/Dragon.png",
+    "category": "Bosses",
+    "unit": "DragonParts",
+    "name": "Part_07",
+    "rects": [
+      [
+        259,
+        54,
+        14,
+        21
+      ]
+    ],
+    "fps": 8,
+    "loop": false,
+    "isolateComponent": true
+  },
+  {
+    "source": "Assets/Recursos/Sprites/Bosses/Dragon/Dragon.png",
+    "category": "Bosses",
+    "unit": "DragonParts",
+    "name": "Part_08",
+    "rects": [
+      [
+        510,
+        42,
+        29,
+        32
+      ]
+    ],
+    "fps": 8,
+    "loop": false,
+    "isolateComponent": true
+  },
+  {
+    "source": "Assets/Recursos/Sprites/Bosses/Dragon/Dragon.png",
+    "category": "Bosses",
+    "unit": "DragonParts",
+    "name": "Part_09",
+    "rects": [
+      [
+        553,
+        57,
+        13,
+        14
+      ]
+    ],
+    "fps": 8,
+    "loop": false,
+    "isolateComponent": true
+  },
+  {
+    "source": "Assets/Recursos/Sprites/Bosses/Dragon/Dragon.png",
+    "category": "Bosses",
+    "unit": "DragonParts",
+    "name": "Part_10",
+    "rects": [
+      [
+        570,
+        58,
+        9,
+        12
+      ]
+    ],
+    "fps": 8,
+    "loop": false,
+    "isolateComponent": true
+  },
+  {
+    "source": "Assets/Recursos/Sprites/Bosses/Dragon/Dragon.png",
+    "category": "Bosses",
+    "unit": "DragonParts",
+    "name": "Part_11",
+    "rects": [
+      [
+        196,
+        64,
+        61,
+        46
+      ]
+    ],
+    "fps": 8,
+    "loop": false,
+    "isolateComponent": true
+  },
+  {
+    "source": "Assets/Recursos/Sprites/Bosses/Dragon/Dragon.png",
+    "category": "Bosses",
+    "unit": "DragonParts",
+    "name": "Part_12",
+    "rects": [
+      [
+        402,
+        66,
+        31,
+        30
+      ]
+    ],
+    "fps": 8,
+    "loop": false,
+    "isolateComponent": true
+  },
+  {
+    "source": "Assets/Recursos/Sprites/Bosses/Dragon/Dragon.png",
+    "category": "Bosses",
+    "unit": "DragonParts",
+    "name": "Part_13",
+    "rects": [
+      [
+        554,
+        81,
+        21,
+        27
+      ]
+    ],
+    "fps": 8,
+    "loop": false,
+    "isolateComponent": true
+  },
+  {
+    "source": "Assets/Recursos/Sprites/Bosses/Dragon/Dragon.png",
+    "category": "Bosses",
+    "unit": "DragonParts",
+    "name": "Part_14",
+    "rects": [
+      [
+        455,
+        120,
+        22,
+        28
+      ]
+    ],
+    "fps": 8,
+    "loop": false,
+    "isolateComponent": true
+  },
+  {
+    "source": "Assets/Recursos/Sprites/Bosses/Dragon/Dragon.png",
+    "category": "Bosses",
+    "unit": "DragonParts",
+    "name": "Part_15",
+    "rects": [
+      [
+        416,
+        156,
+        30,
+        16
+      ]
+    ],
+    "fps": 8,
+    "loop": false,
+    "isolateComponent": true
+  },
+  {
+    "source": "Assets/Recursos/Sprites/Bosses/Dragon/Dragon.png",
+    "category": "Bosses",
+    "unit": "DragonParts",
+    "name": "Part_16",
+    "rects": [
+      [
+        452,
+        151,
+        33,
+        37
+      ]
+    ],
+    "fps": 8,
+    "loop": false,
+    "isolateComponent": true
+  },
+  {
+    "source": "Assets/Recursos/Sprites/Bosses/Dragon/Dragon.png",
+    "category": "Bosses",
+    "unit": "DragonParts",
+    "name": "Part_17",
+    "rects": [
+      [
+        430,
+        192,
+        88,
+        44
+      ]
+    ],
+    "fps": 8,
+    "loop": false,
+    "isolateComponent": true
+  },
+  {
+    "source": "Assets/Recursos/Sprites/Bosses/Dragon/Dragon.png",
+    "category": "Bosses",
+    "unit": "DragonParts",
+    "name": "Part_18",
+    "rects": [
+      [
+        456,
+        259,
+        22,
+        28
+      ]
+    ],
+    "fps": 8,
+    "loop": false,
+    "isolateComponent": true
+  },
+  {
+    "source": "Assets/Recursos/Sprites/Bosses/Dragon/Dragon.png",
+    "category": "Bosses",
+    "unit": "DragonParts",
+    "name": "Part_19",
+    "rects": [
+      [
+        419,
+        284,
+        30,
+        28
+      ]
+    ],
+    "fps": 8,
+    "loop": false,
+    "isolateComponent": true
+  },
+  {
+    "source": "Assets/Recursos/Sprites/Bosses/Dragon/Dragon.png",
+    "category": "Bosses",
+    "unit": "DragonParts",
+    "name": "Part_20",
+    "rects": [
+      [
+        453,
+        290,
+        33,
+        37
+      ]
+    ],
+    "fps": 8,
+    "loop": false,
+    "isolateComponent": true
+  },
+  {
+    "source": "Assets/Recursos/Sprites/Bosses/Dragon/Dragon.png",
+    "category": "Bosses",
+    "unit": "DragonParts",
+    "name": "Part_21",
+    "rects": [
+      [
+        385,
+        328,
+        27,
+        15
+      ]
+    ],
+    "fps": 8,
+    "loop": false,
+    "isolateComponent": true
+  },
+  {
+    "source": "Assets/Recursos/Sprites/Bosses/Dragon/Dragon.png",
+    "category": "Bosses",
+    "unit": "DragonParts",
+    "name": "Part_22",
+    "rects": [
+      [
+        532,
+        339,
+        24,
+        16
+      ]
+    ],
+    "fps": 8,
+    "loop": false,
+    "isolateComponent": true
+  },
+  {
+    "source": "Assets/Recursos/Sprites/Bosses/Dragon/Dragon.png",
+    "category": "Bosses",
+    "unit": "DragonParts",
+    "name": "Part_23",
+    "rects": [
+      [
+        367,
+        343,
+        17,
+        23
+      ]
+    ],
+    "fps": 8,
+    "loop": false,
+    "isolateComponent": true
+  },
+  {
+    "source": "Assets/Recursos/Sprites/Bosses/Dragon/Dragon.png",
+    "category": "Bosses",
+    "unit": "DragonParts",
+    "name": "Part_24",
+    "rects": [
+      [
+        402,
+        347,
+        23,
+        18
+      ]
+    ],
+    "fps": 8,
+    "loop": false,
+    "isolateComponent": true
+  },
+  {
+    "source": "Assets/Recursos/Sprites/Bosses/Dragon/Dragon.png",
+    "category": "Bosses",
+    "unit": "DragonParts",
+    "name": "Part_25",
+    "rects": [
+      [
+        469,
+        358,
+        35,
+        15
+      ]
+    ],
+    "fps": 8,
+    "loop": false,
+    "isolateComponent": true
+  },
+  {
+    "source": "Assets/Recursos/Sprites/Bosses/Dragon/Dragon.png",
+    "category": "Bosses",
+    "unit": "DragonParts",
+    "name": "Part_26",
+    "rects": [
+      [
+        504,
+        340,
+        19,
+        22
+      ]
+    ],
+    "fps": 8,
+    "loop": false,
+    "isolateComponent": true
+  },
+  {
+    "source": "Assets/Recursos/Sprites/Bosses/Dragon/Dragon.png",
+    "category": "Bosses",
+    "unit": "DragonParts",
+    "name": "Part_27",
+    "rects": [
+      [
+        547,
+        358,
+        54,
+        22
+      ]
+    ],
+    "fps": 8,
+    "loop": false,
+    "isolateComponent": true
+  },
+  {
+    "source": "Assets/Recursos/Sprites/Bosses/Dragon/Dragon.png",
+    "category": "Bosses",
+    "unit": "DragonParts",
+    "name": "Part_28",
+    "rects": [
+      [
+        335,
+        363,
+        40,
+        15
+      ]
+    ],
+    "fps": 8,
+    "loop": false,
+    "isolateComponent": true
+  },
+  {
+    "source": "Assets/Recursos/Sprites/Bosses/Dragon/Dragon.png",
+    "category": "Bosses",
+    "unit": "DragonParts",
+    "name": "Part_29",
+    "rects": [
+      [
+        416,
+        365,
+        34,
+        18
+      ]
+    ],
+    "fps": 8,
+    "loop": false,
+    "isolateComponent": true
+  },
+  {
+    "source": "Assets/Recursos/Sprites/Bosses/Dragon/Dragon.png",
+    "category": "Bosses",
+    "unit": "DragonParts",
+    "name": "Part_30",
+    "rects": [
+      [
+        611,
+        430,
+        42,
+        52
+      ]
+    ],
+    "fps": 8,
+    "loop": false,
+    "isolateComponent": true
+  },
+  {
+    "source": "Assets/Recursos/Sprites/Bosses/Dragon/Dragon.png",
+    "category": "Bosses",
+    "unit": "DragonParts",
+    "name": "Part_31",
+    "rects": [
+      [
+        434,
+        450,
+        95,
+        66
+      ]
+    ],
+    "fps": 8,
+    "loop": false,
+    "isolateComponent": true
+  },
+  {
+    "source": "Assets/Recursos/Sprites/Bosses/Dragon/Dragon.png",
+    "category": "Bosses",
+    "unit": "DragonParts",
+    "name": "Part_32",
+    "rects": [
+      [
+        590,
+        472,
+        27,
+        15
+      ]
+    ],
+    "fps": 8,
+    "loop": false,
+    "isolateComponent": true
+  },
+  {
+    "source": "Assets/Recursos/Sprites/Bosses/Dragon/Dragon.png",
+    "category": "Bosses",
+    "unit": "DragonParts",
+    "name": "Part_33",
+    "rects": [
+      [
+        572,
+        487,
+        17,
+        23
+      ]
+    ],
+    "fps": 8,
+    "loop": false,
+    "isolateComponent": true
+  },
+  {
+    "source": "Assets/Recursos/Sprites/Bosses/Dragon/Dragon.png",
+    "category": "Bosses",
+    "unit": "DragonParts",
+    "name": "Part_34",
+    "rects": [
+      [
+        607,
+        491,
+        23,
+        18
+      ]
+    ],
+    "fps": 8,
+    "loop": false,
+    "isolateComponent": true
+  },
+  {
+    "source": "Assets/Recursos/Sprites/Bosses/Dragon/Dragon.png",
+    "category": "Bosses",
+    "unit": "DragonParts",
+    "name": "Part_35",
+    "rects": [
+      [
+        540,
+        507,
+        40,
+        15
+      ]
+    ],
+    "fps": 8,
+    "loop": false,
+    "isolateComponent": true
+  },
+  {
+    "source": "Assets/Recursos/Sprites/Bosses/Dragon/Dragon.png",
+    "category": "Bosses",
+    "unit": "DragonParts",
+    "name": "Part_36",
+    "rects": [
+      [
+        621,
+        509,
+        34,
+        18
+      ]
+    ],
+    "fps": 8,
+    "loop": false,
+    "isolateComponent": true
+  },
+  {
+    "source": "Assets/Recursos/Sprites/Bosses/Dragon/Dragon.png",
+    "category": "Bosses",
+    "unit": "DragonParts",
+    "name": "Part_37",
+    "rects": [
+      [
+        520,
+        541,
+        15,
+        32
+      ]
+    ],
+    "fps": 8,
+    "loop": false,
+    "isolateComponent": true
+  },
+  {
+    "source": "Assets/Recursos/Sprites/Bosses/Dragon/Dragon.png",
+    "category": "Bosses",
+    "unit": "DragonParts",
+    "name": "Part_38",
+    "rects": [
+      [
+        540,
+        552,
+        15,
+        31
+      ]
+    ],
+    "fps": 8,
+    "loop": false,
+    "isolateComponent": true
+  },
+  {
+    "source": "Assets/Recursos/Sprites/Bosses/Dragon/Dragon.png",
+    "category": "Bosses",
+    "unit": "DragonParts",
+    "name": "Part_39",
+    "rects": [
+      [
+        563,
+        556,
+        22,
+        28
+      ]
+    ],
+    "fps": 8,
+    "loop": false,
+    "isolateComponent": true
+  },
+  {
+    "source": "Assets/Recursos/Sprites/Bosses/Dragon/Dragon.png",
+    "category": "Bosses",
+    "unit": "DragonParts",
+    "name": "Part_40",
+    "rects": [
+      [
+        230,
+        571,
+        53,
+        29
+      ]
+    ],
+    "fps": 8,
+    "loop": false,
+    "isolateComponent": true
+  },
+  {
+    "source": "Assets/Recursos/Sprites/Bosses/Dragon/Dragon.png",
+    "category": "Bosses",
+    "unit": "DragonParts",
+    "name": "Part_41",
+    "rects": [
+      [
+        391,
+        563,
+        96,
+        88
+      ]
+    ],
+    "fps": 8,
+    "loop": false,
+    "isolateComponent": true
+  },
+  {
+    "source": "Assets/Recursos/Sprites/Bosses/Dragon/Dragon.png",
+    "category": "Bosses",
+    "unit": "DragonParts",
+    "name": "Part_42",
+    "rects": [
+      [
+        205,
+        590,
+        18,
+        21
+      ]
+    ],
+    "fps": 8,
+    "loop": false,
+    "isolateComponent": true
+  },
+  {
+    "source": "Assets/Recursos/Sprites/Bosses/Dragon/Dragon.png",
+    "category": "Bosses",
+    "unit": "DragonParts",
+    "name": "Part_43",
+    "rects": [
+      [
+        295,
+        581,
+        21,
+        23
+      ]
+    ],
+    "fps": 8,
+    "loop": false,
+    "isolateComponent": true
+  },
+  {
+    "source": "Assets/Recursos/Sprites/Bosses/Dragon/Dragon.png",
+    "category": "Bosses",
+    "unit": "DragonParts",
+    "name": "Part_44",
+    "rects": [
+      [
+        325,
+        584,
+        35,
+        32
+      ]
+    ],
+    "fps": 8,
+    "loop": false,
+    "isolateComponent": true
+  },
+  {
+    "source": "Assets/Recursos/Sprites/Bosses/Dragon/Dragon.png",
+    "category": "Bosses",
+    "unit": "DragonParts",
+    "name": "Part_45",
+    "rects": [
+      [
+        529,
+        591,
+        27,
+        15
+      ]
+    ],
+    "fps": 8,
+    "loop": false,
+    "isolateComponent": true
+  },
+  {
+    "source": "Assets/Recursos/Sprites/Bosses/Dragon/Dragon.png",
+    "category": "Bosses",
+    "unit": "DragonParts",
+    "name": "Part_46",
+    "rects": [
+      [
+        560,
+        587,
+        33,
+        37
+      ]
+    ],
+    "fps": 8,
+    "loop": false,
+    "isolateComponent": true
+  },
+  {
+    "source": "Assets/Recursos/Sprites/Bosses/Dragon/Dragon.png",
+    "category": "Bosses",
+    "unit": "DragonParts",
+    "name": "Part_47",
+    "rects": [
+      [
+        220,
+        605,
+        90,
+        36
+      ]
+    ],
+    "fps": 8,
+    "loop": false,
+    "isolateComponent": true
+  },
+  {
+    "source": "Assets/Recursos/Sprites/Bosses/Dragon/Dragon.png",
+    "category": "Bosses",
+    "unit": "DragonParts",
+    "name": "Part_48",
+    "rects": [
+      [
+        548,
+        617,
+        27,
+        15
+      ]
+    ],
+    "fps": 8,
+    "loop": false,
+    "isolateComponent": true
+  },
+  {
+    "source": "Assets/Recursos/Sprites/Bosses/Dragon/Dragon.png",
+    "category": "Bosses",
+    "unit": "DragonParts",
+    "name": "Part_49",
+    "rects": [
+      [
+        325,
+        620,
+        43,
+        16
+      ]
+    ],
+    "fps": 8,
+    "loop": false,
+    "isolateComponent": true
+  },
+  {
+    "source": "Assets/Recursos/Sprites/Bosses/Dragon/Dragon.png",
+    "category": "Bosses",
+    "unit": "DragonParts",
+    "name": "Part_50",
+    "rects": [
+      [
+        530,
+        632,
+        17,
+        23
+      ]
+    ],
+    "fps": 8,
+    "loop": false,
+    "isolateComponent": true
+  },
+  {
+    "source": "Assets/Recursos/Sprites/Bosses/Dragon/Dragon.png",
+    "category": "Bosses",
+    "unit": "DragonParts",
+    "name": "Part_51",
+    "rects": [
+      [
+        565,
+        636,
+        23,
+        18
+      ]
+    ],
+    "fps": 8,
+    "loop": false,
+    "isolateComponent": true
+  },
+  {
+    "source": "Assets/Recursos/Sprites/Bosses/Dragon/Dragon.png",
+    "category": "Bosses",
+    "unit": "DragonParts",
+    "name": "Part_52",
+    "rects": [
+      [
+        498,
+        652,
+        40,
+        15
+      ]
+    ],
+    "fps": 8,
+    "loop": false,
+    "isolateComponent": true
+  },
+  {
+    "source": "Assets/Recursos/Sprites/Bosses/Dragon/Dragon.png",
+    "category": "Bosses",
+    "unit": "DragonParts",
+    "name": "Part_53",
+    "rects": [
+      [
+        579,
+        654,
+        34,
+        18
+      ]
+    ],
+    "fps": 8,
+    "loop": false,
+    "isolateComponent": true
+  },
+  {
+    "source": "Assets/Recursos/Sprites/Bosses/Dragon/Dragon.png",
+    "category": "Bosses",
+    "unit": "DragonParts",
+    "name": "Part_54",
+    "rects": [
+      [
+        470,
+        700,
+        20,
+        19
+      ]
+    ],
+    "fps": 8,
+    "loop": false,
+    "isolateComponent": true
+  },
+  {
+    "source": "Assets/Recursos/Sprites/Bosses/Dragon/Dragon.png",
+    "category": "Bosses",
+    "unit": "DragonParts",
+    "name": "Part_55",
+    "rects": [
+      [
+        550,
+        702,
+        24,
+        18
+      ]
+    ],
+    "fps": 8,
+    "loop": false,
+    "isolateComponent": true
+  },
+  {
+    "source": "Assets/Recursos/Sprites/Bosses/Dragon/Dragon.png",
+    "category": "Bosses",
+    "unit": "DragonParts",
+    "name": "Part_56",
+    "rects": [
+      [
+        441,
+        733,
+        77,
+        22
+      ]
+    ],
+    "fps": 8,
+    "loop": false,
+    "isolateComponent": true
+  },
+  {
+    "source": "Assets/Recursos/Sprites/Bosses/Dragon/Dragon.png",
+    "category": "Bosses",
+    "unit": "DragonParts",
+    "name": "Part_57",
+    "rects": [
+      [
+        524,
+        734,
+        79,
+        20
+      ]
+    ],
+    "fps": 8,
+    "loop": false,
+    "isolateComponent": true
+  }
+]

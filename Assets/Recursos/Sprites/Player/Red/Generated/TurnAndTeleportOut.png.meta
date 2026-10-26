@@ -1,0 +1,499 @@
+fileFormatVersion: 2
+guid: b63e0bbf8a4cb014d9c92df233d150e5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -437588462038897668
+    second: TurnAndTeleportOut_0
+  - first:
+      213: 2238638862088979637
+    second: TurnAndTeleportOut_1
+  - first:
+      213: 1166563569103548383
+    second: TurnAndTeleportOut_2
+  - first:
+      213: 133229094457271126
+    second: TurnAndTeleportOut_3
+  - first:
+      213: 2086138994828942734
+    second: TurnAndTeleportOut_4
+  - first:
+      213: 2324835157072931000
+    second: TurnAndTeleportOut_5
+  - first:
+      213: 841355425051108707
+    second: TurnAndTeleportOut_6
+  - first:
+      213: -8197967480699646969
+    second: TurnAndTeleportOut_7
+  - first:
+      213: -6940180030013551011
+    second: TurnAndTeleportOut_8
+  - first:
+      213: 7334273856910304558
+    second: TurnAndTeleportOut_9
+  - first:
+      213: -4413675527013502144
+    second: TurnAndTeleportOut_10
+  - first:
+      213: -6173933404986326155
+    second: TurnAndTeleportOut_11
+  - first:
+      213: -6541368692722067258
+    second: TurnAndTeleportOut_12
+  - first:
+      213: 765623190870046841
+    second: TurnAndTeleportOut_13
+  - first:
+      213: 1391276677707330261
+    second: TurnAndTeleportOut_14
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TurnAndTeleportOut_000
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 57
+        height: 79
+      alignment: 9
+      pivot: {x: 0.49122807, y: 0.03797468}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b80fd94c3af8042654bf1c52c2d4d47
+      internalID: 1198491220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurnAndTeleportOut_001
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 0
+        width: 57
+        height: 79
+      alignment: 9
+      pivot: {x: 0.49122807, y: 0.03797468}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8560aee85d8d6e23a51f0c3e055c299
+      internalID: 1675463048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurnAndTeleportOut_002
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 0
+        width: 57
+        height: 79
+      alignment: 9
+      pivot: {x: 0.49122807, y: 0.03797468}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3f3dd01730ca0a7708b3de80bc40be1
+      internalID: -654290649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurnAndTeleportOut_003
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 0
+        width: 57
+        height: 79
+      alignment: 9
+      pivot: {x: 0.49122807, y: 0.03797468}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5256e723f4545949a2f8bc15f2b46ed3
+      internalID: 444652131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurnAndTeleportOut_004
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 0
+        width: 57
+        height: 79
+      alignment: 9
+      pivot: {x: 0.49122807, y: 0.03797468}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4804625fae3d30c2ce692616b58b41c
+      internalID: 385905785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurnAndTeleportOut_005
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 0
+        width: 57
+        height: 79
+      alignment: 9
+      pivot: {x: 0.49122807, y: 0.03797468}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30988095ea4b5a89cbed102d1573b438
+      internalID: 103698020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurnAndTeleportOut_006
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 0
+        width: 57
+        height: 79
+      alignment: 9
+      pivot: {x: 0.49122807, y: 0.03797468}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7912c61e875a167d4ebb17bf54613f5
+      internalID: -708057570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurnAndTeleportOut_007
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 0
+        width: 57
+        height: 79
+      alignment: 9
+      pivot: {x: 0.49122807, y: 0.03797468}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b629ac5b36152882dfdc66d737aa1175
+      internalID: 1090399390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurnAndTeleportOut_008
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 0
+        width: 57
+        height: 79
+      alignment: 9
+      pivot: {x: 0.49122807, y: 0.03797468}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0beb723a7ffadaa6dc18456648e39e3
+      internalID: -372982352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurnAndTeleportOut_009
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 0
+        width: 57
+        height: 79
+      alignment: 9
+      pivot: {x: 0.49122807, y: 0.03797468}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbce329241e0e84a4b37455ccbb4f1de
+      internalID: -458276417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurnAndTeleportOut_010
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 0
+        width: 57
+        height: 79
+      alignment: 9
+      pivot: {x: 0.49122807, y: 0.03797468}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a352fe9cdcab5c7845451e4f2a68327d
+      internalID: -1794895463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurnAndTeleportOut_011
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 0
+        width: 57
+        height: 79
+      alignment: 9
+      pivot: {x: 0.49122807, y: 0.03797468}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a25b8610435e2cfeb12b51b50885bd92
+      internalID: -105405887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurnAndTeleportOut_012
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 0
+        width: 57
+        height: 79
+      alignment: 9
+      pivot: {x: 0.49122807, y: 0.03797468}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2317a2ef755b9c876a9977beb0324333
+      internalID: 1458545432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurnAndTeleportOut_013
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 0
+        width: 57
+        height: 79
+      alignment: 9
+      pivot: {x: 0.49122807, y: 0.03797468}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0c9138a71f2865962554375e250923e
+      internalID: 331462203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 228a67872144c5b49b0d40c5dc50feac
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      TurnAndTeleportOut_000: 1198491220
+      TurnAndTeleportOut_001: 1675463048
+      TurnAndTeleportOut_002: -654290649
+      TurnAndTeleportOut_003: 444652131
+      TurnAndTeleportOut_004: 385905785
+      TurnAndTeleportOut_005: 103698020
+      TurnAndTeleportOut_006: -708057570
+      TurnAndTeleportOut_007: 1090399390
+      TurnAndTeleportOut_008: -372982352
+      TurnAndTeleportOut_009: -458276417
+      TurnAndTeleportOut_010: -1794895463
+      TurnAndTeleportOut_011: -105405887
+      TurnAndTeleportOut_012: 1458545432
+      TurnAndTeleportOut_013: 331462203
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

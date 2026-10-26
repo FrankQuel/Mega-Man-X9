@@ -1,0 +1,206 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 35fbcf24864f533d9e725bd1254679a7, type: 3}
+  m_Name: RainAudioAssets
+  m_EditorClassIdentifier: Assembly-CSharp::MegaManX9.Gameplay.RainAudioAssets
+  cues:
+  - name: mainTheme
+    clip: {fileID: 8300000, guid: f3dea4bd70f6f3d4caa656fbed0317af, type: 3}
+    gain: 0.9
+    loop: 1
+    sourcePath: Assets/Recursos/Audio/Music/Theme_Title.wav
+  - name: levelTheme
+    clip: {fileID: 8300000, guid: 3f1d513eb133143488028e4aec5b0a1a, type: 3}
+    gain: 0.72
+    loop: 1
+    sourcePath: Assets/Recursos/Audio/Music/Theme_Stage.wav
+  - name: dragonTheme
+    clip: {fileID: 8300000, guid: a24ad37ecfaea5e418223e67fcbeaf9b, type: 3}
+    gain: 1
+    loop: 1
+    sourcePath: Assets/Recursos/Audio/Music/Theme_DragoonBoss.wav
+  - name: axlTheme
+    clip: {fileID: 8300000, guid: fbf0bfe4eced28849af7ce3409971084, type: 3}
+    gain: 0.85
+    loop: 1
+    sourcePath: Assets/Recursos/Audio/Music/Theme_AxlBoss.wav
+  - name: conversationTheme
+    clip: {fileID: 8300000, guid: e66b450baae8a6f449cfbd33f91af57e, type: 3}
+    gain: 1
+    loop: 1
+    sourcePath: Assets/Recursos/Audio/Music/Theme_Conversation.wav
+  - name: resultsTheme
+    clip: {fileID: 8300000, guid: af33f6d725f05ea5b161a9b6b8558893, type: 3}
+    gain: 0.9
+    loop: 1
+    sourcePath: Assets/Recursos/Audio/Music/Theme_Results.wav
+  - name: rain
+    clip: {fileID: 8300000, guid: d0ff1a60544cfb14181d4e7f5cf6fdea, type: 3}
+    gain: 1
+    loop: 1
+    sourcePath: Assets/Recursos/Audio/Ambience/AMB_Rain.wav
+  - name: jump
+    clip: {fileID: 8300000, guid: 563e050190b90bc428dd86df63511632, type: 3}
+    gain: 1
+    loop: 0
+    sourcePath: Assets/Recursos/Audio/SFX/SFX_Jump.wav
+  - name: dash
+    clip: {fileID: 8300000, guid: 01c6d10acbbf0164abba7a74f8c1af9f, type: 3}
+    gain: 1
+    loop: 0
+    sourcePath: Assets/Recursos/Audio/SFX/SFX_DashGround.wav
+  - name: dashAlternate
+    clip: {fileID: 8300000, guid: f0ae5f93d7e01fe47ace726a70cd354d, type: 3}
+    gain: 1
+    loop: 0
+    sourcePath: Assets/Recursos/Audio/SFX/SFX_DashAir.wav
+  - name: shot
+    clip: {fileID: 8300000, guid: fca49884500bacd47810a3e9426b51b6, type: 3}
+    gain: 0.8
+    loop: 0
+    sourcePath: Assets/Recursos/Audio/SFX/SFX_BusterShot.wav
+  - name: chargedShot
+    clip: {fileID: 8300000, guid: af99772047c4d66468f39dc954756ded, type: 3}
+    gain: 0.9
+    loop: 0
+    sourcePath: Assets/Recursos/Audio/SFX/SFX_BusterChargedShot.wav
+  - name: charge
+    clip: {fileID: 8300000, guid: 62e276394d9a5f7429be99cfedebc66b, type: 3}
+    gain: 0.55
+    loop: 0
+    sourcePath: Assets/Recursos/Audio/SFX/SFX_BusterCharge.wav
+  - name: saber
+    clip: {fileID: 8300000, guid: f676b598df1b0f542b64f2c7ddd6e405, type: 3}
+    gain: 0.9
+    loop: 0
+    sourcePath: Assets/Recursos/Audio/SFX/SFX_SaberSwing.wav
+  - name: saber1
+    clip: {fileID: 8300000, guid: 71390ad34427313458e8bf9a4cb2a383, type: 3}
+    gain: 0.85
+    loop: 0
+    sourcePath: Assets/Recursos/Audio/SFX/SFX_SaberCombo01.wav
+  - name: saber2
+    clip: {fileID: 8300000, guid: 6b3cc48206f9dfd40b6fd5f37d3e7cbe, type: 3}
+    gain: 0.85
+    loop: 0
+    sourcePath: Assets/Recursos/Audio/SFX/SFX_SaberCombo02.wav
+  - name: saber3
+    clip: {fileID: 8300000, guid: f53bfb96a4a51e04882c33dbcee5a977, type: 3}
+    gain: 0.85
+    loop: 0
+    sourcePath: Assets/Recursos/Audio/SFX/SFX_SaberCombo03.wav
+  - name: hurt
+    clip: {fileID: 8300000, guid: 29c92f7f01bb9084d813b2659c8c7277, type: 3}
+    gain: 1
+    loop: 0
+    sourcePath: Assets/Recursos/Audio/SFX/SFX_HeroHurt.wav
+  - name: death
+    clip: {fileID: 8300000, guid: 1429217a41950b94ebb6c53c3ed4a775, type: 3}
+    gain: 0.9
+    loop: 0
+    sourcePath: Assets/Recursos/Audio/SFX/SFX_HeroDeath.wav
+  - name: arrival
+    clip: {fileID: 8300000, guid: 74cef41d2f270c3438ca97f6aff6a697, type: 3}
+    gain: 0.9
+    loop: 0
+    sourcePath: Assets/Recursos/Audio/SFX/SFX_HeroArrival.wav
+  - name: departure
+    clip: {fileID: 8300000, guid: 2a608cd83db20f94790ff793cd12410e, type: 3}
+    gain: 1
+    loop: 0
+    sourcePath: Assets/Recursos/Audio/SFX/SFX_TeleportDeparture.wav
+  - name: pickup
+    clip: {fileID: 8300000, guid: 56ef4a67808803d4684aa3d781a52934, type: 3}
+    gain: 1
+    loop: 0
+    sourcePath: Assets/Recursos/Audio/SFX/SFX_Heal.wav
+  - name: enemyDeath
+    clip: {fileID: 8300000, guid: a760e618accc5ef40a7d7fdb551b28bc, type: 3}
+    gain: 0.85
+    loop: 0
+    sourcePath: Assets/Recursos/Audio/SFX/SFX_EnemyDeath.wav
+  - name: dragonHurt
+    clip: {fileID: 8300000, guid: 0eec7e5551b10644cba2015017611f67, type: 3}
+    gain: 0.8
+    loop: 0
+    sourcePath: Assets/Recursos/Audio/SFX/SFX_DragoonHurt.wav
+  - name: dragonAttack
+    clip: {fileID: 8300000, guid: 0dcabea85a84ac346bafce1e179222e3, type: 3}
+    gain: 0.85
+    loop: 0
+    sourcePath: Assets/Recursos/Audio/SFX/SFX_DragoonAttack.wav
+  - name: axlHurt
+    clip: {fileID: 8300000, guid: 3c82ca9f0eab88e45ba85057c259d6a7, type: 3}
+    gain: 0.8
+    loop: 0
+    sourcePath: Assets/Recursos/Audio/SFX/SFX_AxlHurt.wav
+  - name: ready
+    clip: {fileID: 8300000, guid: aee9cabae5abd2e49ac23b96467928da, type: 3}
+    gain: 0.8
+    loop: 0
+    sourcePath: Assets/Recursos/Audio/SFX/SFX_StageReady.wav
+  - name: warning
+    clip: {fileID: 8300000, guid: a676598913a9e4347bb900f56aa1c35f, type: 3}
+    gain: 0.85
+    loop: 0
+    sourcePath: Assets/Recursos/Audio/SFX/SFX_BossWarning.wav
+  - name: doorOpen
+    clip: {fileID: 8300000, guid: df4b2e326ea1e9041a2b571e09d7d255, type: 3}
+    gain: 0.8
+    loop: 0
+    sourcePath: Assets/Recursos/Audio/SFX/SFX_BossDoorOpen.wav
+  - name: doorClose
+    clip: {fileID: 8300000, guid: 6a8e7dfea3d0e864f8f45903ce730e55, type: 3}
+    gain: 0.5
+    loop: 0
+    sourcePath: Assets/Recursos/Audio/SFX/SFX_BossDoorClose.wav
+  - name: menuMove
+    clip: {fileID: 8300000, guid: 6a1387da88646ee49adb0b605d627421, type: 3}
+    gain: 0.8
+    loop: 0
+    sourcePath: Assets/Recursos/Audio/SFX/SFX_MenuMove.wav
+  - name: menuConfirm
+    clip: {fileID: 8300000, guid: 862411b20cbf37044accb0a8220a82fe, type: 3}
+    gain: 0.8
+    loop: 0
+    sourcePath: Assets/Recursos/Audio/SFX/SFX_MenuConfirm.wav
+  - name: menuEnter
+    clip: {fileID: 8300000, guid: d4ae9931e63d46742be955d234f75acd, type: 3}
+    gain: 0.9
+    loop: 0
+    sourcePath: Assets/Recursos/Audio/SFX/SFX_MenuEnter.wav
+  - name: voiceXSwitchOut
+    clip: {fileID: 8300000, guid: 734bfc89033cfd74fafa8a94b2883d00, type: 3}
+    gain: 0.95
+    loop: 0
+    sourcePath: Assets/Recursos/Audio/Voice/X/VO_XSwitchOut.ogg
+  - name: voiceXSwitchIn
+    clip: {fileID: 8300000, guid: 16684b371e689934ba7e15e71665085a, type: 3}
+    gain: 0.95
+    loop: 0
+    sourcePath: Assets/Recursos/Audio/Voice/X/VO_XSwitchIn.ogg
+  - name: voiceZeroSwitchOut
+    clip: {fileID: 8300000, guid: bf8cf09975ad1ca43b08b7288c398d6e, type: 3}
+    gain: 0.95
+    loop: 0
+    sourcePath: Assets/Recursos/Audio/Voice/Zero/VO_ZeroSwitchOut.ogg
+  - name: voiceZeroSwitchIn
+    clip: {fileID: 8300000, guid: 36fc50396be19ed428939f03e58c9af4, type: 3}
+    gain: 0.95
+    loop: 0
+    sourcePath: Assets/Recursos/Audio/Voice/Zero/VO_ZeroSwitchIn.ogg
+  musicVolume: 0.43
+  ambienceVolume: 0.55
+  effectsVolume: 0.78
+  musicFadeSeconds: 0.32
+  pauseMusicFactor: 0.55
+  pauseRainFactor: 0.25

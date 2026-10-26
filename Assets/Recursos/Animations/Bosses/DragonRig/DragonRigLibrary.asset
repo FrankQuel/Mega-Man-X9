@@ -1,0 +1,204 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 40cf9ebe85a8b394db4fa83a86a012fb, type: 3}
+  m_Name: DragonRigLibrary
+  m_EditorClassIdentifier: Assembly-CSharp::MegaManX9.Animation.DragonRigLibrary
+  controller: {fileID: 9100000, guid: b1745ceef53aa5343b9b83e4fd581f55, type: 2}
+  clips:
+  - name: Idle
+    clip: {fileID: 7400000, guid: 96aa54e628564d348840009206cdf47e, type: 2}
+    duration: 2
+    loop: 1
+    holdLastPose: 0
+  - name: Breathe
+    clip: {fileID: 7400000, guid: 4ce3f39b5e9f01642a4c73e26a2c76db, type: 2}
+    duration: 1.6
+    loop: 1
+    holdLastPose: 0
+  - name: Walk
+    clip: {fileID: 7400000, guid: 6a095a83fa1879248b143e7a1c88d2d7, type: 2}
+    duration: 1
+    loop: 1
+    holdLastPose: 0
+  - name: Run
+    clip: {fileID: 7400000, guid: 50caf040439970146a9bf06b1bd75457, type: 2}
+    duration: 0.6
+    loop: 1
+    holdLastPose: 0
+  - name: Jump
+    clip: {fileID: 7400000, guid: 61489d33381f73d499f5766289488a31, type: 2}
+    duration: 1
+    loop: 0
+    holdLastPose: 0
+  - name: Crouch
+    clip: {fileID: 7400000, guid: eac4b600fb753354c932901476141883, type: 2}
+    duration: 0.5
+    loop: 0
+    holdLastPose: 1
+  - name: ClawAttack
+    clip: {fileID: 7400000, guid: a69eaa8c492713540afd08a4c03cfe5c, type: 2}
+    duration: 0.72
+    loop: 0
+    holdLastPose: 0
+  - name: FireBreath
+    clip: {fileID: 7400000, guid: d3ec22dc3f4e8f041b3cc19c75406d33, type: 2}
+    duration: 1.8
+    loop: 0
+    holdLastPose: 0
+  - name: Hurt
+    clip: {fileID: 7400000, guid: e3290f7703d10644490653fda965d3e6, type: 2}
+    duration: 0.4
+    loop: 0
+    holdLastPose: 0
+  - name: Death
+    clip: {fileID: 7400000, guid: e8192dde3f653df45954c020c292ff2d, type: 2}
+    duration: 1.2
+    loop: 0
+    holdLastPose: 1
+  - name: CombatIdle
+    clip: {fileID: 7400000, guid: 1ed0fcf1b9e5c6441bd6e41fef425a55, type: 2}
+    duration: 1.8
+    loop: 1
+    holdLastPose: 0
+  - name: Fireball
+    clip: {fileID: 7400000, guid: 901eee36ac640cf4babb3e1a7dfcf87f, type: 2}
+    duration: 1.35
+    loop: 0
+    holdLastPose: 0
+  - name: RisingFlame
+    clip: {fileID: 7400000, guid: 484669c169474b746b78116ef242166c, type: 2}
+    duration: 1.3
+    loop: 0
+    holdLastPose: 0
+  - name: FlamingKick
+    clip: {fileID: 7400000, guid: c6ee2ab94c1e70143884ff2241810db6, type: 2}
+    duration: 1.35
+    loop: 0
+    holdLastPose: 0
+  - name: GroundFireWave
+    clip: {fileID: 7400000, guid: 2b3f26b08089fb041948466252f1b766, type: 2}
+    duration: 1.6
+    loop: 0
+    holdLastPose: 0
+  - name: HurtFlash
+    clip: {fileID: 7400000, guid: 7ccd1d7fcabf93d47971e47e8392012a, type: 2}
+    duration: 0.6
+    loop: 0
+    holdLastPose: 0
+  - name: Landing
+    clip: {fileID: 7400000, guid: bff7e5eb5f253564bb6df983b2148653, type: 2}
+    duration: 0.45
+    loop: 0
+    holdLastPose: 0
+  - name: IntroDrop
+    clip: {fileID: 7400000, guid: 31cd3b28d42d3bf45a26d241db5bcbe9, type: 2}
+    duration: 0.8
+    loop: 1
+    holdLastPose: 0
+  authoredPoses:
+  - name: Guard
+    sprite: {fileID: 21300000, guid: 7a02ef4a5ebf0ec428e1ba71fc25f55b, type: 3}
+    localOffset: {x: -0.005, y: 0.385, z: 0}
+    mouth: {x: -0.14, y: 0.53, z: 0}
+    hand: {x: -0.32, y: 0.35, z: 0}
+    foot: {x: -0.26, y: 0.06, z: 0}
+  - name: Windup
+    sprite: {fileID: 21300000, guid: b669c462891d5ca40a3268f4d7b150d7, type: 3}
+    localOffset: {x: -0.005, y: 0.33, z: 0}
+    mouth: {x: -0.15, y: 0.44, z: 0}
+    hand: {x: 0.18, y: 0.46, z: 0}
+    foot: {x: 0.33, y: 0.08, z: 0}
+  - name: Slash
+    sprite: {fileID: 21300000, guid: 73114feaba3c3c149982f5aef6043fa4, type: 3}
+    localOffset: {x: 0, y: 0.355, z: 0}
+    mouth: {x: -0.17, y: 0.49, z: 0}
+    hand: {x: -0.35, y: 0.46, z: 0}
+    foot: {x: 0.34, y: 0.08, z: 0}
+  - name: Sweep
+    sprite: {fileID: 21300000, guid: 31f58a1ec0122e3458ec62556171fe73, type: 3}
+    localOffset: {x: 0.07, y: 0.35, z: 0}
+    mouth: {x: -0.17, y: 0.45, z: 0}
+    hand: {x: -0.29, y: 0.43, z: 0}
+    foot: {x: 0.41, y: 0.09, z: 0}
+  - name: JumpAttack
+    sprite: {fileID: 21300000, guid: b4365f8363ebce44abd1854a838da1a6, type: 3}
+    localOffset: {x: 0.015, y: 0.51, z: 0}
+    mouth: {x: -0.06, y: 0.66, z: 0}
+    hand: {x: -0.12, y: 0.94, z: 0}
+    foot: {x: 0.16, y: 0.15, z: 0}
+  - name: AttackRaised
+    sprite: {fileID: 21300000, guid: 292177b11129398449c9e4d86f51d137, type: 3}
+    localOffset: {x: -0.035, y: 0.36, z: 0}
+    mouth: {x: -0.2, y: 0.5, z: 0}
+    hand: {x: 0.09, y: 0.51, z: 0}
+    foot: {x: 0.27, y: 0.11, z: 0}
+  - name: CrouchAttack
+    sprite: {fileID: 21300000, guid: 176152fba7387da43b53139e4cb07071, type: 3}
+    localOffset: {x: -0.03, y: 0.355, z: 0}
+    mouth: {x: -0.04, y: 0.46, z: 0}
+    hand: {x: -0.4, y: 0.37, z: 0}
+    foot: {x: 0.3, y: 0.11, z: 0}
+  - name: Recover
+    sprite: {fileID: 21300000, guid: 2dcc1003892f15749a905666481c4075, type: 3}
+    localOffset: {x: 0.005, y: 0.32, z: 0}
+    mouth: {x: -0.13, y: 0.43, z: 0}
+    hand: {x: 0.06, y: 0.44, z: 0}
+    foot: {x: 0.24, y: 0.09, z: 0}
+  - name: SweepLow
+    sprite: {fileID: 21300000, guid: 881380a985800f44287d0af67a349593, type: 3}
+    localOffset: {x: 0.01, y: 0.285, z: 0}
+    mouth: {x: -0.02, y: 0.37, z: 0}
+    hand: {x: -0.37, y: 0.31, z: 0}
+    foot: {x: 0.37, y: 0.1, z: 0}
+  - name: KickHigh
+    sprite: {fileID: 21300000, guid: 97f49029a788de04ea497143f9569ba9, type: 3}
+    localOffset: {x: -0.02, y: 0.405, z: 0}
+    mouth: {x: -0.06, y: 0.6, z: 0}
+    hand: {x: -0.23, y: 0.62, z: 0}
+    foot: {x: -0.08, y: 0.11, z: 0}
+  - name: KickForward
+    sprite: {fileID: 21300000, guid: e9b71d74a266661459338bb680b8e77a, type: 3}
+    localOffset: {x: 0.015, y: 0.36, z: 0}
+    mouth: {x: -0.04, y: 0.54, z: 0}
+    hand: {x: 0.3, y: 0.64, z: 0}
+    foot: {x: -0.3, y: 0.16, z: 0}
+  - name: Turn
+    sprite: {fileID: 21300000, guid: 3c199e59a226f484d80f8052f67977b5, type: 3}
+    localOffset: {x: -0.075, y: 0.41, z: 0}
+    mouth: {x: -0.18, y: 0.6, z: 0}
+    hand: {x: -0.35, y: 0.4, z: 0}
+    foot: {x: 0, y: 0.1, z: 0}
+  - name: Lunge
+    sprite: {fileID: 21300000, guid: cea22f3173ec0f544b04ce7476d49db5, type: 3}
+    localOffset: {x: -0.05, y: 0.38, z: 0}
+    mouth: {x: -0.14, y: 0.56, z: 0}
+    hand: {x: -0.32, y: 0.54, z: 0}
+    foot: {x: 0.19, y: 0.13, z: 0}
+  - name: Crouch
+    sprite: {fileID: 21300000, guid: 9536ae04377ddd54c8af6fffd1ae6524, type: 3}
+    localOffset: {x: -0.02, y: 0.33, z: 0}
+    mouth: {x: -0.2, y: 0.32, z: 0}
+    hand: {x: -0.35, y: 0.24, z: 0}
+    foot: {x: -0.32, y: 0.09, z: 0}
+  - name: CrouchShift
+    sprite: {fileID: 21300000, guid: a95e4b8b012c2ca43bf0ecedfc6a8478, type: 3}
+    localOffset: {x: -0.01, y: 0.325, z: 0}
+    mouth: {x: -0.2, y: 0.32, z: 0}
+    hand: {x: -0.36, y: 0.22, z: 0}
+    foot: {x: -0.33, y: 0.09, z: 0}
+  - name: Airborne
+    sprite: {fileID: 21300000, guid: e40d74626fe01fb43b5fd53a99cf1e82, type: 3}
+    localOffset: {x: -0.025, y: 0.385, z: 0}
+    mouth: {x: -0.1, y: 0.54, z: 0}
+    hand: {x: -0.29, y: 0.52, z: 0}
+    foot: {x: 0.14, y: 0.09, z: 0}
+  bindHipPosition: {x: -0.01, y: 0.41, z: 0}

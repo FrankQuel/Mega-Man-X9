@@ -1,0 +1,3625 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0eaa2160a51e7c34290ce10f61e99b4d, type: 3}
+  m_Name: AnimationLibrary
+  m_EditorClassIdentifier: Assembly-CSharp::MegaManX9.Animation.SpriteAnimationLibrary
+  entries:
+  - category: Player
+    unit: Blue
+    animationName: TeleportBeam
+    clip: {fileID: 7400000, guid: 5131327fed4fcdc458637d97a9a2923b, type: 2}
+    controller: {fileID: 9100000, guid: 758eb40ed6d96a443bbaf5d5ea4d2830, type: 2}
+    firstFrame: {fileID: 1748211241, guid: 80e28b70229ce584e85341c0edcf3c8a, type: 3}
+    frameCount: 2
+    frameWidth: 26
+    frameHeight: 84
+    notes: 
+  - category: Player
+    unit: Blue
+    animationName: TeleportOrb
+    clip: {fileID: 7400000, guid: 5adcf6ef68b74354a96f3eb04bb01340, type: 2}
+    controller: {fileID: 9100000, guid: 758eb40ed6d96a443bbaf5d5ea4d2830, type: 2}
+    firstFrame: {fileID: -1424848652, guid: b6ea6aa050ad7a94dbf8424af85cb8a0, type: 3}
+    frameCount: 6
+    frameWidth: 68
+    frameHeight: 68
+    notes: 
+  - category: Player
+    unit: Blue
+    animationName: TeleportArrival
+    clip: {fileID: 7400000, guid: ed30e130fad98994a8b0f5c7ca304680, type: 2}
+    controller: {fileID: 9100000, guid: 758eb40ed6d96a443bbaf5d5ea4d2830, type: 2}
+    firstFrame: {fileID: 1830932223, guid: 428a7374110aa6d4b8f20e2e67eb599d, type: 3}
+    frameCount: 9
+    frameWidth: 86
+    frameHeight: 59
+    notes: 
+  - category: Player
+    unit: Blue
+    animationName: Idle
+    clip: {fileID: 7400000, guid: 85d20a665e6e62d46a0801502d78b84f, type: 2}
+    controller: {fileID: 9100000, guid: 758eb40ed6d96a443bbaf5d5ea4d2830, type: 2}
+    firstFrame: {fileID: -322619911, guid: 0d2134f7b2ed90b408f1243106679a7a, type: 3}
+    frameCount: 5
+    frameWidth: 40
+    frameHeight: 50
+    notes: 
+  - category: Player
+    unit: Blue
+    animationName: Jump
+    clip: {fileID: 7400000, guid: 7cdd4128ea0fe904c8f6f963e283b3d8, type: 2}
+    controller: {fileID: 9100000, guid: 758eb40ed6d96a443bbaf5d5ea4d2830, type: 2}
+    firstFrame: {fileID: -1968225327, guid: 4379cf248d3bc284aa9a9ffd4ee70240, type: 3}
+    frameCount: 11
+    frameWidth: 38
+    frameHeight: 61
+    notes: 
+  - category: Player
+    unit: Blue
+    animationName: Shoot
+    clip: {fileID: 7400000, guid: dc58aa8619b804145bdd35b875eb4be3, type: 2}
+    controller: {fileID: 9100000, guid: 758eb40ed6d96a443bbaf5d5ea4d2830, type: 2}
+    firstFrame: {fileID: -954887201, guid: 8d18e865af4186d46ba9bca57f6ac256, type: 3}
+    frameCount: 8
+    frameWidth: 62
+    frameHeight: 49
+    notes: Body/foot horizontal alignment is estimated visually for the wide muzzle frames.
+  - category: Player
+    unit: Blue
+    animationName: ChargeShot
+    clip: {fileID: 7400000, guid: d0ec0a70b437b4b40bdbfa0deca1ae0e, type: 2}
+    controller: {fileID: 9100000, guid: 758eb40ed6d96a443bbaf5d5ea4d2830, type: 2}
+    firstFrame: {fileID: -927321403, guid: dced649cb26e27648ace2f83bccd72d9, type: 3}
+    frameCount: 8
+    frameWidth: 64
+    frameHeight: 82
+    notes: The expanding shot is integral to these source frames; horizontal body anchors are estimated visually.
+  - category: Player
+    unit: Blue
+    animationName: RunStart
+    clip: {fileID: 7400000, guid: 1901b766010cc8542b27556fa2a011c4, type: 2}
+    controller: {fileID: 9100000, guid: 758eb40ed6d96a443bbaf5d5ea4d2830, type: 2}
+    firstFrame: {fileID: -716867255, guid: 817278dd100c88046901e84b5797a5a2, type: 3}
+    frameCount: 2
+    frameWidth: 38
+    frameHeight: 50
+    notes: 
+  - category: Player
+    unit: Blue
+    animationName: Run
+    clip: {fileID: 7400000, guid: 9778e0444029b354dae06a6d1398bb92, type: 2}
+    controller: {fileID: 9100000, guid: 758eb40ed6d96a443bbaf5d5ea4d2830, type: 2}
+    firstFrame: {fileID: -761631097, guid: b4c0c2ed926cdf14bbde8a3f75ef3e77, type: 3}
+    frameCount: 14
+    frameWidth: 52
+    frameHeight: 51
+    notes: 
+  - category: Player
+    unit: Blue
+    animationName: Dash
+    clip: {fileID: 7400000, guid: dee37a7ee0775334299b720f915c1ff3, type: 2}
+    controller: {fileID: 9100000, guid: 758eb40ed6d96a443bbaf5d5ea4d2830, type: 2}
+    firstFrame: {fileID: -1825876738, guid: 34d83393ccbce9d44bdcd36efe145066, type: 3}
+    frameCount: 8
+    frameWidth: 62
+    frameHeight: 48
+    notes: 
+  - category: Player
+    unit: Blue
+    animationName: JumpShoot
+    clip: {fileID: 7400000, guid: 53879243df00ff843aafe7d09d1f3730, type: 2}
+    controller: {fileID: 9100000, guid: 758eb40ed6d96a443bbaf5d5ea4d2830, type: 2}
+    firstFrame: {fileID: 908257876, guid: 54a8207d3fadcd6489eadfbe986c255c, type: 3}
+    frameCount: 11
+    frameWidth: 46
+    frameHeight: 61
+    notes: Alternating source frames are separated into the base and bright palette variants; no new frames are generated.
+  - category: Player
+    unit: Blue
+    animationName: JumpShootFlash
+    clip: {fileID: 7400000, guid: f784d0abfc6a1c94a8c96281497d4785, type: 2}
+    controller: {fileID: 9100000, guid: 758eb40ed6d96a443bbaf5d5ea4d2830, type: 2}
+    firstFrame: {fileID: -1903382596, guid: df93ab182b3dfa540a8da7aa7b897f55, type: 3}
+    frameCount: 11
+    frameWidth: 46
+    frameHeight: 61
+    notes: Alternating source frames are separated into the base and bright palette variants; no new frames are generated.
+  - category: Player
+    unit: Blue
+    animationName: IdleAim
+    clip: {fileID: 7400000, guid: 3e4d81c213cde294896ed0633edd3dee, type: 2}
+    controller: {fileID: 9100000, guid: 758eb40ed6d96a443bbaf5d5ea4d2830, type: 2}
+    firstFrame: {fileID: 551814608, guid: 431da9fa329877a48b5489b6f37ba269, type: 3}
+    frameCount: 2
+    frameWidth: 50
+    frameHeight: 50
+    notes: Alternating source frames are separated into the base and bright palette variants; no new frames are generated.
+  - category: Player
+    unit: Blue
+    animationName: IdleAimFlash
+    clip: {fileID: 7400000, guid: 7b7ccd29f4986df4f9d0a4a6ffd4b3b8, type: 2}
+    controller: {fileID: 9100000, guid: 758eb40ed6d96a443bbaf5d5ea4d2830, type: 2}
+    firstFrame: {fileID: 163911640, guid: 9e670ba88fad1e2449693691d1da47b8, type: 3}
+    frameCount: 2
+    frameWidth: 50
+    frameHeight: 50
+    notes: Alternating source frames are separated into the base and bright palette variants; no new frames are generated.
+  - category: Player
+    unit: Blue
+    animationName: RunShoot
+    clip: {fileID: 7400000, guid: a3e85f26f8b60b6469dd3413618c5172, type: 2}
+    controller: {fileID: 9100000, guid: 758eb40ed6d96a443bbaf5d5ea4d2830, type: 2}
+    firstFrame: {fileID: 1395311689, guid: 438e2d96c94809a41adf146bbb0d96e4, type: 3}
+    frameCount: 14
+    frameWidth: 58
+    frameHeight: 51
+    notes: Alternating source frames are separated into the base and bright palette variants; no new frames are generated.
+  - category: Player
+    unit: Blue
+    animationName: RunShootFlash
+    clip: {fileID: 7400000, guid: 29f10f04f8f96f34ea6e5a79a0c993d2, type: 2}
+    controller: {fileID: 9100000, guid: 758eb40ed6d96a443bbaf5d5ea4d2830, type: 2}
+    firstFrame: {fileID: -1514148505, guid: 36ab8eaf46484284385916508c7a58c2, type: 3}
+    frameCount: 14
+    frameWidth: 58
+    frameHeight: 51
+    notes: Alternating source frames are separated into the base and bright palette variants; no new frames are generated.
+  - category: Player
+    unit: Blue
+    animationName: DashShoot
+    clip: {fileID: 7400000, guid: 19daa16dc18ab0649a53a011dae23bc0, type: 2}
+    controller: {fileID: 9100000, guid: 758eb40ed6d96a443bbaf5d5ea4d2830, type: 2}
+    firstFrame: {fileID: 187667680, guid: 236338ffa8ad8024c981ed09ead27a56, type: 3}
+    frameCount: 8
+    frameWidth: 70
+    frameHeight: 48
+    notes: Alternating source frames are separated into the base and bright palette variants; no new frames are generated.
+  - category: Player
+    unit: Blue
+    animationName: DashShootFlash
+    clip: {fileID: 7400000, guid: 0642922a40008b84d88338f13fe78598, type: 2}
+    controller: {fileID: 9100000, guid: 758eb40ed6d96a443bbaf5d5ea4d2830, type: 2}
+    firstFrame: {fileID: 1854044941, guid: edb6e2aa1ebe5e241a8c6d7521e78caa, type: 3}
+    frameCount: 8
+    frameWidth: 70
+    frameHeight: 48
+    notes: Alternating source frames are separated into the base and bright palette variants; no new frames are generated.
+  - category: Player
+    unit: Blue
+    animationName: WallJump
+    clip: {fileID: 7400000, guid: 27e96e8d2fb4f7144bc1ab3115039e35, type: 2}
+    controller: {fileID: 9100000, guid: 758eb40ed6d96a443bbaf5d5ea4d2830, type: 2}
+    firstFrame: {fileID: -1575681911, guid: 8c47d3fe60b5302498ae580e0b625b8b, type: 3}
+    frameCount: 6
+    frameWidth: 38
+    frameHeight: 62
+    notes: 
+  - category: Player
+    unit: Blue
+    animationName: WallJumpShoot
+    clip: {fileID: 7400000, guid: 59ae3e37493cdd4429a817f5c49d0875, type: 2}
+    controller: {fileID: 9100000, guid: 758eb40ed6d96a443bbaf5d5ea4d2830, type: 2}
+    firstFrame: {fileID: 9131543, guid: f681f8a70908fb84094bdb4060b1a152, type: 3}
+    frameCount: 6
+    frameWidth: 48
+    frameHeight: 62
+    notes: Alternating source frames are separated into the base and bright palette variants; no new frames are generated.
+  - category: Player
+    unit: Blue
+    animationName: WallJumpShootFlash
+    clip: {fileID: 7400000, guid: 60c68609260c78447a110fba9fc6c763, type: 2}
+    controller: {fileID: 9100000, guid: 758eb40ed6d96a443bbaf5d5ea4d2830, type: 2}
+    firstFrame: {fileID: 1226634020, guid: 3244e05400b88084eadc3f3954628df6, type: 3}
+    frameCount: 6
+    frameWidth: 48
+    frameHeight: 62
+    notes: Alternating source frames are separated into the base and bright palette variants; no new frames are generated.
+  - category: Player
+    unit: Blue
+    animationName: WallCling
+    clip: {fileID: 7400000, guid: ffe3cb96ab8f246439bb650e4d1a46c7, type: 2}
+    controller: {fileID: 9100000, guid: 758eb40ed6d96a443bbaf5d5ea4d2830, type: 2}
+    firstFrame: {fileID: 200012533, guid: f6b6cdbfd6917554f8450cfd3bee39ca, type: 3}
+    frameCount: 1
+    frameWidth: 30
+    frameHeight: 52
+    notes: 
+  - category: Player
+    unit: Blue
+    animationName: LadderClimb
+    clip: {fileID: 7400000, guid: 92702e095fefaa243aa78abb599ac5bb, type: 2}
+    controller: {fileID: 9100000, guid: 758eb40ed6d96a443bbaf5d5ea4d2830, type: 2}
+    firstFrame: {fileID: 189569350, guid: b34295740c0ee0e4fbb7b4f8f87395f0, type: 3}
+    frameCount: 8
+    frameWidth: 38
+    frameHeight: 66
+    notes: 
+  - category: Player
+    unit: Blue
+    animationName: LadderDismount
+    clip: {fileID: 7400000, guid: a4abdcc010e3e0d41a7ec00cca143a32, type: 2}
+    controller: {fileID: 9100000, guid: 758eb40ed6d96a443bbaf5d5ea4d2830, type: 2}
+    firstFrame: {fileID: -807278996, guid: fae9be4219e45a9409f667c1f3df472e, type: 3}
+    frameCount: 3
+    frameWidth: 38
+    frameHeight: 52
+    notes: 
+  - category: Player
+    unit: Blue
+    animationName: LadderShoot
+    clip: {fileID: 7400000, guid: 8229e7a46cd60764580d0f0b07422130, type: 2}
+    controller: {fileID: 9100000, guid: 758eb40ed6d96a443bbaf5d5ea4d2830, type: 2}
+    firstFrame: {fileID: -2063660549, guid: 2bc1b94ece34ac74588f20cc1374be3f, type: 3}
+    frameCount: 3
+    frameWidth: 40
+    frameHeight: 63
+    notes: The sheet supplies one bright aiming pose followed by two base-palette poses.
+  - category: Player
+    unit: Blue
+    animationName: HitElectrical
+    clip: {fileID: 7400000, guid: 32acba839347fe3438812bc49c87fc83, type: 2}
+    controller: {fileID: 9100000, guid: 758eb40ed6d96a443bbaf5d5ea4d2830, type: 2}
+    firstFrame: {fileID: 1614360530, guid: 67bd0691f8642e94082a7fbeddd8eaed, type: 3}
+    frameCount: 4
+    frameWidth: 40
+    frameHeight: 59
+    notes: 
+  - category: Player
+    unit: Blue
+    animationName: AlternateIdle
+    clip: {fileID: 7400000, guid: 28b1a7fb8a1687f4cbaeb6ac8f3063b4, type: 2}
+    controller: {fileID: 9100000, guid: 758eb40ed6d96a443bbaf5d5ea4d2830, type: 2}
+    firstFrame: {fileID: -30832264, guid: 49e694af5c6828d4aba0a0091b3868ff, type: 3}
+    frameCount: 6
+    frameWidth: 38
+    frameHeight: 50
+    notes: 
+  - category: Player
+    unit: Blue
+    animationName: AirHit
+    clip: {fileID: 7400000, guid: 68ec5af40e349c241b8301a61d89565b, type: 2}
+    controller: {fileID: 9100000, guid: 758eb40ed6d96a443bbaf5d5ea4d2830, type: 2}
+    firstFrame: {fileID: -628273382, guid: 8ac086f25a0ce174aaf123b834d542a1, type: 3}
+    frameCount: 5
+    frameWidth: 50
+    frameHeight: 63
+    notes: The last rectangle includes the detached electrical sparks at its left; these belong to the same visible frame.
+  - category: Player
+    unit: Blue
+    animationName: TeleportDeparture
+    clip: {fileID: 7400000, guid: b5beca7ed9413954b88e4060bce09009, type: 2}
+    controller: {fileID: 9100000, guid: 758eb40ed6d96a443bbaf5d5ea4d2830, type: 2}
+    firstFrame: {fileID: 1676618854, guid: 9941ee5099bc4f045841e0edce1fc479, type: 3}
+    frameCount: 9
+    frameWidth: 62
+    frameHeight: 81
+    notes: 
+  - category: Player
+    unit: Blue
+    animationName: Somersault
+    clip: {fileID: 7400000, guid: f909d3f1cd107a24f93da724440f5b15, type: 2}
+    controller: {fileID: 9100000, guid: 758eb40ed6d96a443bbaf5d5ea4d2830, type: 2}
+    firstFrame: {fileID: 467723604, guid: 0750adcb858100c499c8f667ac51b1b2, type: 3}
+    frameCount: 10
+    frameWidth: 46
+    frameHeight: 51
+    notes: The first source pose touches the top edge of the sheet; no missing pixels are invented.
+  - category: Player
+    unit: Blue
+    animationName: NovaStrikeStartup
+    clip: {fileID: 7400000, guid: 21930c0d3f07c13478a712751e96d78b, type: 2}
+    controller: {fileID: 9100000, guid: 758eb40ed6d96a443bbaf5d5ea4d2830, type: 2}
+    firstFrame: {fileID: -1372664930, guid: a97ba55d56a794143aa53f59e7164e09, type: 3}
+    frameCount: 4
+    frameWidth: 42
+    frameHeight: 59
+    notes: 
+  - category: Player
+    unit: Blue
+    animationName: NovaStrikeTravel
+    clip: {fileID: 7400000, guid: 12554f5efc2b91e4ba2477f850993e97, type: 2}
+    controller: {fileID: 9100000, guid: 758eb40ed6d96a443bbaf5d5ea4d2830, type: 2}
+    firstFrame: {fileID: -2081157009, guid: 922c3864349100e4a9c3eb2808b44b2a, type: 3}
+    frameCount: 3
+    frameWidth: 121
+    frameHeight: 64
+    notes: Travel frames contain the actor. Body alignment is approximate because the final frame includes a long trail.
+  - category: Player
+    unit: Blue
+    animationName: NovaStrikeTrail
+    clip: {fileID: 7400000, guid: 9c3db775fdebf8d4084d97519a434157, type: 2}
+    controller: {fileID: 9100000, guid: 758eb40ed6d96a443bbaf5d5ea4d2830, type: 2}
+    firstFrame: {fileID: 900743722, guid: 4d4bdbcd6c3daf247bda65943bb9c899, type: 3}
+    frameCount: 2
+    frameWidth: 112
+    frameHeight: 64
+    notes: Standalone trail/effect frames, deliberately separate from the actor animation.
+  - category: Player
+    unit: Blue
+    animationName: AirDash
+    clip: {fileID: 7400000, guid: b5b326a2f679d7849a6b9f6769dadcf9, type: 2}
+    controller: {fileID: 9100000, guid: 758eb40ed6d96a443bbaf5d5ea4d2830, type: 2}
+    firstFrame: {fileID: -1806589607, guid: 4641cf2fe30ecda49aa9c85f96713f1e, type: 3}
+    frameCount: 3
+    frameWidth: 62
+    frameHeight: 42
+    notes: 
+  - category: Player
+    unit: Blue
+    animationName: AirRecover
+    clip: {fileID: 7400000, guid: 680be44846aa16b4f8e54294a5b34bbb, type: 2}
+    controller: {fileID: 9100000, guid: 758eb40ed6d96a443bbaf5d5ea4d2830, type: 2}
+    firstFrame: {fileID: -364287681, guid: 92bd661406be1c145a467867e9079c58, type: 3}
+    frameCount: 5
+    frameWidth: 38
+    frameHeight: 62
+    notes: 'Descriptive name: airborne recovery poses; the source does not document a gameplay trigger.'
+  - category: Player
+    unit: Blue
+    animationName: CrouchIdle
+    clip: {fileID: 7400000, guid: 5641a211889f99845ac10898b7413ecd, type: 2}
+    controller: {fileID: 9100000, guid: 758eb40ed6d96a443bbaf5d5ea4d2830, type: 2}
+    firstFrame: {fileID: 1591778207, guid: a8fa932c6ed0e644c8d9f8e109faf0bf, type: 3}
+    frameCount: 3
+    frameWidth: 44
+    frameHeight: 34
+    notes: 
+  - category: Bosses
+    unit: Axl
+    animationName: Idle
+    clip: {fileID: 7400000, guid: 8be3dda9953dab3438ae3f39310feb7c, type: 2}
+    controller: {fileID: 9100000, guid: f59f9c287f1551b4c9863efe84383df7, type: 2}
+    firstFrame: {fileID: 14074540, guid: ff3170e532432ea4e8a6d805cafd9e6f, type: 3}
+    frameCount: 4
+    frameWidth: 72
+    frameHeight: 88
+    notes: Personaje axl original seleccionado por el usuario.
+  - category: Bosses
+    unit: Axl
+    animationName: ArmRaise
+    clip: {fileID: 7400000, guid: f57ae8a675e87a84fb87f025497a71a8, type: 2}
+    controller: {fileID: 9100000, guid: f59f9c287f1551b4c9863efe84383df7, type: 2}
+    firstFrame: {fileID: 1487749427, guid: b56db29d2845fc143b5414aa7fde6495, type: 3}
+    frameCount: 4
+    frameWidth: 52
+    frameHeight: 92
+    notes: Personaje axl original seleccionado por el usuario.
+  - category: Bosses
+    unit: Axl
+    animationName: PointDiagonal
+    clip: {fileID: 7400000, guid: 596838aa080dba94cb70eda994cd2e7e, type: 2}
+    controller: {fileID: 9100000, guid: f59f9c287f1551b4c9863efe84383df7, type: 2}
+    firstFrame: {fileID: -688442543, guid: d72ff23e126a4404d8746e6a99ea718b, type: 3}
+    frameCount: 1
+    frameWidth: 74
+    frameHeight: 85
+    notes: Personaje axl original seleccionado por el usuario.
+  - category: Bosses
+    unit: Axl
+    animationName: MaterializeSilhouette
+    clip: {fileID: 7400000, guid: 7bf1a9c05fc99b544924bed5b87f0e7f, type: 2}
+    controller: {fileID: 9100000, guid: f59f9c287f1551b4c9863efe84383df7, type: 2}
+    firstFrame: {fileID: -224763480, guid: a404480ef76d9b143b1bc3d0ba4cb310, type: 3}
+    frameCount: 1
+    frameWidth: 82
+    frameHeight: 83
+    notes: Personaje axl original seleccionado por el usuario.
+  - category: Bosses
+    unit: Axl
+    animationName: Aim
+    clip: {fileID: 7400000, guid: a439616075301f44380b14f86db6eb8d, type: 2}
+    controller: {fileID: 9100000, guid: f59f9c287f1551b4c9863efe84383df7, type: 2}
+    firstFrame: {fileID: 211495152, guid: 5a7598510530f52449dd7435223cbc2b, type: 3}
+    frameCount: 4
+    frameWidth: 78
+    frameHeight: 88
+    notes: Personaje axl original seleccionado por el usuario.
+  - category: Bosses
+    unit: Axl
+    animationName: Run
+    clip: {fileID: 7400000, guid: ecaf1bf4c6df5f64bb704fd40c635069, type: 2}
+    controller: {fileID: 9100000, guid: f59f9c287f1551b4c9863efe84383df7, type: 2}
+    firstFrame: {fileID: 1406449764, guid: 4f3f3f9a8c720494c98db307975b3c37, type: 3}
+    frameCount: 12
+    frameWidth: 80
+    frameHeight: 91
+    notes: Personaje axl original seleccionado por el usuario.
+  - category: Bosses
+    unit: Axl
+    animationName: Crouch
+    clip: {fileID: 7400000, guid: aaf90917530364b4aa200cc661c02ce9, type: 2}
+    controller: {fileID: 9100000, guid: f59f9c287f1551b4c9863efe84383df7, type: 2}
+    firstFrame: {fileID: 1056078598, guid: c2c4009bed227124eab7d7a37af20d92, type: 3}
+    frameCount: 1
+    frameWidth: 78
+    frameHeight: 76
+    notes: Personaje axl original seleccionado por el usuario.
+  - category: Bosses
+    unit: Axl
+    animationName: AirDash
+    clip: {fileID: 7400000, guid: 44b42e00cd682854bb9e90bfaf363a1e, type: 2}
+    controller: {fileID: 9100000, guid: f59f9c287f1551b4c9863efe84383df7, type: 2}
+    firstFrame: {fileID: 269107889, guid: b5bb63fd543936a4b845c8064bd17b18, type: 3}
+    frameCount: 10
+    frameWidth: 90
+    frameHeight: 95
+    notes: Personaje axl original seleccionado por el usuario.
+  - category: Bosses
+    unit: Axl
+    animationName: DashStop
+    clip: {fileID: 7400000, guid: 1a01f5d1bcef4214aa20b87173a77637, type: 2}
+    controller: {fileID: 9100000, guid: f59f9c287f1551b4c9863efe84383df7, type: 2}
+    firstFrame: {fileID: -624638904, guid: 07a8ca3079206e0418b8f90ed57c6621, type: 3}
+    frameCount: 2
+    frameWidth: 58
+    frameHeight: 69
+    notes: Personaje axl original seleccionado por el usuario.
+  - category: Bosses
+    unit: Axl
+    animationName: Shoot
+    clip: {fileID: 7400000, guid: 1e33f1864af2be147b96abada98cf35b, type: 2}
+    controller: {fileID: 9100000, guid: f59f9c287f1551b4c9863efe84383df7, type: 2}
+    firstFrame: {fileID: 1551593914, guid: 9da6457c179493d4fb9b4f9370592b31, type: 3}
+    frameCount: 5
+    frameWidth: 112
+    frameHeight: 86
+    notes: Personaje axl original seleccionado por el usuario.
+  - category: Bosses
+    unit: Axl
+    animationName: AirShoot
+    clip: {fileID: 7400000, guid: f66e39a5b9c935e44890ad577ca936f7, type: 2}
+    controller: {fileID: 9100000, guid: f59f9c287f1551b4c9863efe84383df7, type: 2}
+    firstFrame: {fileID: 204225184, guid: f5c0553297c1435479e26e9b201c9035, type: 3}
+    frameCount: 1
+    frameWidth: 84
+    frameHeight: 84
+    notes: Personaje axl original seleccionado por el usuario.
+  - category: Bosses
+    unit: Axl
+    animationName: ShootUp
+    clip: {fileID: 7400000, guid: 07935e7f0437f0443b48faa00cdb4cc3, type: 2}
+    controller: {fileID: 9100000, guid: f59f9c287f1551b4c9863efe84383df7, type: 2}
+    firstFrame: {fileID: 936576945, guid: 6ecb85566cc228c42828700fc3650a67, type: 3}
+    frameCount: 1
+    frameWidth: 66
+    frameHeight: 110
+    notes: Personaje axl original seleccionado por el usuario.
+  - category: Bosses
+    unit: Axl
+    animationName: LowShoot
+    clip: {fileID: 7400000, guid: c5ef5f4b9b448bd43a40dc2bcc489f08, type: 2}
+    controller: {fileID: 9100000, guid: f59f9c287f1551b4c9863efe84383df7, type: 2}
+    firstFrame: {fileID: 2146639261, guid: ee564069b1d6481459f569b17989afba, type: 3}
+    frameCount: 2
+    frameWidth: 96
+    frameHeight: 80
+    notes: Personaje axl original seleccionado por el usuario.
+  - category: Bosses
+    unit: Axl
+    animationName: CrouchShoot
+    clip: {fileID: 7400000, guid: c697c185c9960cd4da0858e2f046dbb8, type: 2}
+    controller: {fileID: 9100000, guid: f59f9c287f1551b4c9863efe84383df7, type: 2}
+    firstFrame: {fileID: -646890470, guid: f6d16c08f7b181c4892192d62fcfa5ec, type: 3}
+    frameCount: 10
+    frameWidth: 112
+    frameHeight: 77
+    notes: Personaje axl original seleccionado por el usuario.
+  - category: Bosses
+    unit: Axl
+    animationName: RunShoot
+    clip: {fileID: 7400000, guid: bfeb3a05d7de9c94eb74138217878d91, type: 2}
+    controller: {fileID: 9100000, guid: f59f9c287f1551b4c9863efe84383df7, type: 2}
+    firstFrame: {fileID: 691694380, guid: 743ee0e05dd3e4f4d8196b33b966b2d3, type: 3}
+    frameCount: 3
+    frameWidth: 122
+    frameHeight: 83
+    notes: Personaje axl original seleccionado por el usuario.
+  - category: Bosses
+    unit: Axl
+    animationName: ShootRecover
+    clip: {fileID: 7400000, guid: 9603ce3f2b9498e4f9250db1e754dec8, type: 2}
+    controller: {fileID: 9100000, guid: f59f9c287f1551b4c9863efe84383df7, type: 2}
+    firstFrame: {fileID: -760230437, guid: 65594357598711544a2bc6806649c7e5, type: 3}
+    frameCount: 2
+    frameWidth: 76
+    frameHeight: 83
+    notes: Personaje axl original seleccionado por el usuario.
+  - category: Bosses
+    unit: Axl
+    animationName: Charge
+    clip: {fileID: 7400000, guid: 6b3b191c5aacfe644a1a55d6d7db5abf, type: 2}
+    controller: {fileID: 9100000, guid: f59f9c287f1551b4c9863efe84383df7, type: 2}
+    firstFrame: {fileID: 1872843, guid: 19bb92174eebebf41a7910299772b6c5, type: 3}
+    frameCount: 4
+    frameWidth: 170
+    frameHeight: 89
+    notes: Personaje axl original seleccionado por el usuario.
+  - category: Bosses
+    unit: Axl
+    animationName: AirSpreadShot
+    clip: {fileID: 7400000, guid: 0d209cebe0711b14eb345532a1d1bee7, type: 2}
+    controller: {fileID: 9100000, guid: f59f9c287f1551b4c9863efe84383df7, type: 2}
+    firstFrame: {fileID: -1625201857, guid: 9a2e2d235f9dcab4c9e4e82921a9f59c, type: 3}
+    frameCount: 8
+    frameWidth: 130
+    frameHeight: 76
+    notes: Personaje axl original seleccionado por el usuario.
+  - category: Bosses
+    unit: Axl
+    animationName: DashAttackReady
+    clip: {fileID: 7400000, guid: 0433f52182a0de34e81b0758cfe1cc83, type: 2}
+    controller: {fileID: 9100000, guid: f59f9c287f1551b4c9863efe84383df7, type: 2}
+    firstFrame: {fileID: -1862671121, guid: 662152cbd21f1b242b304197a2e80bb4, type: 3}
+    frameCount: 1
+    frameWidth: 58
+    frameHeight: 80
+    notes: Personaje axl original seleccionado por el usuario.
+  - category: Bosses
+    unit: Axl
+    animationName: DashAttackStartup
+    clip: {fileID: 7400000, guid: 660d67bae890b8a4898b6084e1c98a1c, type: 2}
+    controller: {fileID: 9100000, guid: f59f9c287f1551b4c9863efe84383df7, type: 2}
+    firstFrame: {fileID: 1702485059, guid: 2d38fb2f5b3ee1a4a9f181b8f612a0a0, type: 3}
+    frameCount: 1
+    frameWidth: 116
+    frameHeight: 79
+    notes: Personaje axl original seleccionado por el usuario.
+  - category: Bosses
+    unit: Axl
+    animationName: DashAttack
+    clip: {fileID: 7400000, guid: c9bae8462ade3354399cdb7750d232fb, type: 2}
+    controller: {fileID: 9100000, guid: f59f9c287f1551b4c9863efe84383df7, type: 2}
+    firstFrame: {fileID: -661912183, guid: 7fb68f92e5ed5024abade1057aa57d13, type: 3}
+    frameCount: 7
+    frameWidth: 122
+    frameHeight: 78
+    notes: Personaje axl original seleccionado por el usuario.
+  - category: Bosses
+    unit: Axl
+    animationName: AirCharge
+    clip: {fileID: 7400000, guid: 8027b84cfad67d641aa0df7d3f1c5030, type: 2}
+    controller: {fileID: 9100000, guid: f59f9c287f1551b4c9863efe84383df7, type: 2}
+    firstFrame: {fileID: 462013100, guid: 3c7a91ad99a12ac459325538ee6454b1, type: 3}
+    frameCount: 8
+    frameWidth: 104
+    frameHeight: 92
+    notes: Personaje axl original seleccionado por el usuario.
+  - category: Bosses
+    unit: Axl
+    animationName: DashAfterimage
+    clip: {fileID: 7400000, guid: 7c975894bc138854cba35273116451dc, type: 2}
+    controller: {fileID: 9100000, guid: f59f9c287f1551b4c9863efe84383df7, type: 2}
+    firstFrame: {fileID: 1846436526, guid: 5a6f8bd8348e00a4cb5ad0dc1e7b4a82, type: 3}
+    frameCount: 1
+    frameWidth: 88
+    frameHeight: 78
+    notes: Personaje axl original seleccionado por el usuario.
+  - category: Bosses
+    unit: Axl
+    animationName: ShieldReady
+    clip: {fileID: 7400000, guid: 3c5a53a06e292884da3a4dcac88b34c5, type: 2}
+    controller: {fileID: 9100000, guid: f59f9c287f1551b4c9863efe84383df7, type: 2}
+    firstFrame: {fileID: -1549786617, guid: a20fa4b5abf657248b2713a40ab684e4, type: 3}
+    frameCount: 1
+    frameWidth: 46
+    frameHeight: 71
+    notes: Personaje axl original seleccionado por el usuario.
+  - category: Bosses
+    unit: Axl
+    animationName: Shield
+    clip: {fileID: 7400000, guid: 98a4cf462d398924b8c5bc961ae5166d, type: 2}
+    controller: {fileID: 9100000, guid: f59f9c287f1551b4c9863efe84383df7, type: 2}
+    firstFrame: {fileID: -459225687, guid: 4b1f75531891e7a4eb37db06c8a7d361, type: 3}
+    frameCount: 1
+    frameWidth: 68
+    frameHeight: 92
+    notes: Personaje axl original seleccionado por el usuario.
+  - category: Bosses
+    unit: Axl
+    animationName: ShieldRecover
+    clip: {fileID: 7400000, guid: 5ca6db940b777914bb40b044ebef5041, type: 2}
+    controller: {fileID: 9100000, guid: f59f9c287f1551b4c9863efe84383df7, type: 2}
+    firstFrame: {fileID: -1987326713, guid: 68c4cacf973a2424b83ef09b8f127dc9, type: 3}
+    frameCount: 1
+    frameWidth: 48
+    frameHeight: 73
+    notes: Personaje axl original seleccionado por el usuario.
+  - category: Bosses
+    unit: Axl
+    animationName: ChargedShot
+    clip: {fileID: 7400000, guid: 0069c9a1fc6d6fd4c825193e0a0c97e7, type: 2}
+    controller: {fileID: 9100000, guid: f59f9c287f1551b4c9863efe84383df7, type: 2}
+    firstFrame: {fileID: 220567136, guid: a46797d0519fba34a9d87ddacae776b9, type: 3}
+    frameCount: 5
+    frameWidth: 126
+    frameHeight: 93
+    notes: Personaje axl original seleccionado por el usuario.
+  - category: Bosses
+    unit: Axl
+    animationName: AirAimUp
+    clip: {fileID: 7400000, guid: f1e6e5147ff8a8a4da1ccc31ddd288f6, type: 2}
+    controller: {fileID: 9100000, guid: f59f9c287f1551b4c9863efe84383df7, type: 2}
+    firstFrame: {fileID: 1584107694, guid: 59d1d3beb77c98d4ab7af70a93ffce39, type: 3}
+    frameCount: 7
+    frameWidth: 98
+    frameHeight: 89
+    notes: Personaje axl original seleccionado por el usuario.
+  - category: Bosses
+    unit: Axl
+    animationName: JetRise
+    clip: {fileID: 7400000, guid: 85bdcd39994d3da4cb88daaf7df2b6b7, type: 2}
+    controller: {fileID: 9100000, guid: f59f9c287f1551b4c9863efe84383df7, type: 2}
+    firstFrame: {fileID: -999764006, guid: 675ea67cfcc65a145888332667cfcbc9, type: 3}
+    frameCount: 5
+    frameWidth: 86
+    frameHeight: 96
+    notes: Personaje axl original seleccionado por el usuario.
+  - category: Bosses
+    unit: Axl
+    animationName: Hurt
+    clip: {fileID: 7400000, guid: 2f3b86cd7e9fd8646aa721a8fde58a5d, type: 2}
+    controller: {fileID: 9100000, guid: f59f9c287f1551b4c9863efe84383df7, type: 2}
+    firstFrame: {fileID: -2128571937, guid: f00a11cb3bdc98f4ab31cb7115e8c4ff, type: 3}
+    frameCount: 4
+    frameWidth: 122
+    frameHeight: 83
+    notes: Personaje axl original seleccionado por el usuario.
+  - category: Bosses
+    unit: Axl
+    animationName: HurtRecover
+    clip: {fileID: 7400000, guid: fbdf3355818b51844a72477ae1bdd466, type: 2}
+    controller: {fileID: 9100000, guid: f59f9c287f1551b4c9863efe84383df7, type: 2}
+    firstFrame: {fileID: -241078202, guid: 200d748fa653d79439095cf34128de61, type: 3}
+    frameCount: 1
+    frameWidth: 86
+    frameHeight: 82
+    notes: Personaje axl original seleccionado por el usuario.
+  - category: Bosses
+    unit: Axl
+    animationName: Knockdown
+    clip: {fileID: 7400000, guid: 3e496785da4068f4bb6c4c8b83cb3bfd, type: 2}
+    controller: {fileID: 9100000, guid: f59f9c287f1551b4c9863efe84383df7, type: 2}
+    firstFrame: {fileID: 1554199318, guid: 33ccb71177375c64dad1cbe280c991cc, type: 3}
+    frameCount: 5
+    frameWidth: 88
+    frameHeight: 72
+    notes: Personaje axl original seleccionado por el usuario.
+  - category: Bosses
+    unit: Axl
+    animationName: Hover
+    clip: {fileID: 7400000, guid: f5bd418fd181f6547b51be4cf7c9ec6d, type: 2}
+    controller: {fileID: 9100000, guid: f59f9c287f1551b4c9863efe84383df7, type: 2}
+    firstFrame: {fileID: 724543546, guid: 71616e5f60b440241a54e556ad5528c8, type: 3}
+    frameCount: 7
+    frameWidth: 86
+    frameHeight: 112
+    notes: Personaje axl original seleccionado por el usuario.
+  - category: Bosses
+    unit: Axl
+    animationName: TeleportOut
+    clip: {fileID: 7400000, guid: e6faeb72fa18ff844b9abd0758e842ce, type: 2}
+    controller: {fileID: 9100000, guid: f59f9c287f1551b4c9863efe84383df7, type: 2}
+    firstFrame: {fileID: 1884429530, guid: 78abd6b9361a58d4dbff02fbcc2bd03d, type: 3}
+    frameCount: 9
+    frameWidth: 64
+    frameHeight: 92
+    notes: Personaje axl original seleccionado por el usuario.
+  - category: Bosses
+    unit: Axl
+    animationName: Victory
+    clip: {fileID: 7400000, guid: db8adc2a4095d1e45bc7142cfb448745, type: 2}
+    controller: {fileID: 9100000, guid: f59f9c287f1551b4c9863efe84383df7, type: 2}
+    firstFrame: {fileID: -1667527342, guid: fc3a164996047864d9d1e8d9ef8135e3, type: 3}
+    frameCount: 7
+    frameWidth: 66
+    frameHeight: 79
+    notes: Personaje axl original seleccionado por el usuario.
+  - category: Bosses
+    unit: Axl
+    animationName: TeleportIn
+    clip: {fileID: 7400000, guid: f782c18ac3e137c449ea868684f20103, type: 2}
+    controller: {fileID: 9100000, guid: f59f9c287f1551b4c9863efe84383df7, type: 2}
+    firstFrame: {fileID: -1171417471, guid: 833018ff78e254d4082b8c2630f48913, type: 3}
+    frameCount: 4
+    frameWidth: 62
+    frameHeight: 91
+    notes: Personaje axl original seleccionado por el usuario.
+  - category: Bosses
+    unit: Axl
+    animationName: TeleportFinish
+    clip: {fileID: 7400000, guid: 366222cadba0e404d97e96428a9eb444, type: 2}
+    controller: {fileID: 9100000, guid: f59f9c287f1551b4c9863efe84383df7, type: 2}
+    firstFrame: {fileID: 1140050147, guid: 0cf37fc5f2af3be4b84ff5b61b6e4fd2, type: 3}
+    frameCount: 1
+    frameWidth: 62
+    frameHeight: 90
+    notes: Personaje axl original seleccionado por el usuario.
+  - category: Bosses
+    unit: Axl
+    animationName: TeleportBeam
+    clip: {fileID: 7400000, guid: 1a42c3a12ed9b734582a376bd91420e9, type: 2}
+    controller: {fileID: 9100000, guid: f59f9c287f1551b4c9863efe84383df7, type: 2}
+    firstFrame: {fileID: -15878454, guid: d8ff5f2226b9f504d9b121f735f96bb7, type: 3}
+    frameCount: 2
+    frameWidth: 56
+    frameHeight: 90
+    notes: Personaje axl original seleccionado por el usuario.
+  - category: Bosses
+    unit: Axl
+    animationName: TeleportArrivalPose
+    clip: {fileID: 7400000, guid: 75519de2bc8973d4aa1e3a5729a785c8, type: 2}
+    controller: {fileID: 9100000, guid: f59f9c287f1551b4c9863efe84383df7, type: 2}
+    firstFrame: {fileID: -275018304, guid: b334c4e7019dda546977a05f42950b11, type: 3}
+    frameCount: 1
+    frameWidth: 64
+    frameHeight: 89
+    notes: Personaje axl original seleccionado por el usuario.
+  - category: Bosses
+    unit: Axl
+    animationName: AlternateIdle
+    clip: {fileID: 7400000, guid: 7b55909f326f6ef4180b225aeb9b201a, type: 2}
+    controller: {fileID: 9100000, guid: f59f9c287f1551b4c9863efe84383df7, type: 2}
+    firstFrame: {fileID: -1398188999, guid: e36b8e8f3cef2dc4292099f043b5eaaa, type: 3}
+    frameCount: 3
+    frameWidth: 72
+    frameHeight: 77
+    notes: Personaje axl original seleccionado por el usuario.
+  - category: Bosses
+    unit: Axl
+    animationName: TeleportArrivalBeam
+    clip: {fileID: 7400000, guid: 429018bd375dc1a418edb688b22846c9, type: 2}
+    controller: {fileID: 9100000, guid: f59f9c287f1551b4c9863efe84383df7, type: 2}
+    firstFrame: {fileID: 1937634292, guid: d9b6f1d0dcd6a8f49a3f8704c4562b2d, type: 3}
+    frameCount: 2
+    frameWidth: 18
+    frameHeight: 100
+    notes: Personaje axl original seleccionado por el usuario.
+  - category: Bosses
+    unit: Axl
+    animationName: TeleportArrivalEnergy
+    clip: {fileID: 7400000, guid: 43e602d291b167c4c914b230d3d8a098, type: 2}
+    controller: {fileID: 9100000, guid: f59f9c287f1551b4c9863efe84383df7, type: 2}
+    firstFrame: {fileID: -794155431, guid: ba6b2e9cc24cb714ea108fdb19ff9038, type: 3}
+    frameCount: 8
+    frameWidth: 126
+    frameHeight: 112
+    notes: Personaje axl original seleccionado por el usuario.
+  - category: Effects
+    unit: AxlFX
+    animationName: HitBurst
+    clip: {fileID: 7400000, guid: 90c9b5f6a9e31654f8ca8fad49389479, type: 2}
+    controller: {fileID: 9100000, guid: c8063681c81b4844f8d6bdb7f81955d2, type: 2}
+    firstFrame: {fileID: -739863412, guid: 66fb9725b9b12a84e8906c74232871fc, type: 3}
+    frameCount: 5
+    frameWidth: 80
+    frameHeight: 96
+    notes: "Hoja de poses ilustradas: proporciones variables; revisar continuidad art\xEDstica antes de combate final. Rect\xE1ngulos revisados para conservar cuerpos completos."
+  - category: Effects
+    unit: AxlFX
+    animationName: Sparkle
+    clip: {fileID: 7400000, guid: 40d9c638638b97b448223d64e752aaf2, type: 2}
+    controller: {fileID: 9100000, guid: c8063681c81b4844f8d6bdb7f81955d2, type: 2}
+    firstFrame: {fileID: -1074704625, guid: 71868b9ca8e2a5e4c857e44b577545cb, type: 3}
+    frameCount: 5
+    frameWidth: 62
+    frameHeight: 96
+    notes: "Hoja de poses ilustradas: proporciones variables; revisar continuidad art\xEDstica antes de combate final. Rect\xE1ngulos revisados para conservar cuerpos completos."
+  - category: Effects
+    unit: AxlFX
+    animationName: Smoke
+    clip: {fileID: 7400000, guid: 0eefd3cd47349854cb029c66fba2ccdf, type: 2}
+    controller: {fileID: 9100000, guid: c8063681c81b4844f8d6bdb7f81955d2, type: 2}
+    firstFrame: {fileID: 533761829, guid: a406efad22908214082a79a3805142f0, type: 3}
+    frameCount: 2
+    frameWidth: 84
+    frameHeight: 96
+    notes: "Hoja de poses ilustradas: proporciones variables; revisar continuidad art\xEDstica antes de combate final. Rect\xE1ngulos revisados para conservar cuerpos completos."
+  - category: UI
+    unit: MainMenu
+    animationName: StartSelectedCRT
+    clip: {fileID: 7400000, guid: 023c50215c8f43241b19221e28f5802c, type: 2}
+    controller: {fileID: 9100000, guid: a2624c92fe7d2594aa4fddcafe32d357, type: 2}
+    firstFrame: {fileID: -1608494065, guid: 6b2805c49d51b7b43ac036c5406900ae, type: 3}
+    frameCount: 3
+    frameWidth: 486
+    frameHeight: 547
+    notes: "Variantes completas del men\xFA; se reproduce como una superficie UI."
+  - category: UI
+    unit: MainMenu
+    animationName: OptionsSelected
+    clip: {fileID: 7400000, guid: 38737341815fb584dbba5531e6a5ffa8, type: 2}
+    controller: {fileID: 9100000, guid: a2624c92fe7d2594aa4fddcafe32d357, type: 2}
+    firstFrame: {fileID: 1620380925, guid: e756158b811103243a64c317c7881a35, type: 3}
+    frameCount: 1
+    frameWidth: 486
+    frameHeight: 547
+    notes: "Estado est\xE1tico de selecci\xF3n."
+  - category: UI
+    unit: MainMenu
+    animationName: ExitSelected
+    clip: {fileID: 7400000, guid: b02aff0c3b8d9f54d998fb88b270b8ea, type: 2}
+    controller: {fileID: 9100000, guid: a2624c92fe7d2594aa4fddcafe32d357, type: 2}
+    firstFrame: {fileID: 648667499, guid: b6b54869eb2349d4c8d0db3b349d36d3, type: 3}
+    frameCount: 1
+    frameWidth: 486
+    frameHeight: 547
+    notes: "Estado est\xE1tico de selecci\xF3n."
+  - category: UI
+    unit: StatusHUD
+    animationName: NormalPulse
+    clip: {fileID: 7400000, guid: 7136355b56b4bef4ca7152860c7137f2, type: 2}
+    controller: {fileID: 9100000, guid: ee5c876b76040744ba22b18797697eb5, type: 2}
+    firstFrame: {fileID: 1715971090, guid: 46e1db421ab32fc488a101e124f2ce8a, type: 3}
+    frameCount: 2
+    frameWidth: 28
+    frameHeight: 28
+    notes: "Dos estados de brillo originales; Normal usa la variante inferior rotulada fixed como estado luminoso corregido. Recorte solo del indicador circular, sin texto. Se retira \xFAnicamente la extensi\xF3n rectangular de la etiqueta fuera de la silueta circular nativa; se conserva alfa y color originales del c\xEDrculo."
+  - category: UI
+    unit: StatusHUD
+    animationName: CautionPulse
+    clip: {fileID: 7400000, guid: 47e96d4ead0635d42998c923eefac27a, type: 2}
+    controller: {fileID: 9100000, guid: ee5c876b76040744ba22b18797697eb5, type: 2}
+    firstFrame: {fileID: 479039592, guid: a760919ebd98e17498a92e0c77a633c0, type: 3}
+    frameCount: 2
+    frameWidth: 28
+    frameHeight: 28
+    notes: "Dos estados de brillo originales. Recorte solo del indicador circular, sin texto. Se retira \xFAnicamente la extensi\xF3n rectangular de la etiqueta fuera de la silueta circular nativa; se conserva alfa y color originales del c\xEDrculo."
+  - category: UI
+    unit: StatusHUD
+    animationName: DangerPulse
+    clip: {fileID: 7400000, guid: fd2b301bf13f86f40b799969ed33ff6a, type: 2}
+    controller: {fileID: 9100000, guid: ee5c876b76040744ba22b18797697eb5, type: 2}
+    firstFrame: {fileID: -2127520583, guid: 3aeb21862b38ccc4784f868a306750e1, type: 3}
+    frameCount: 2
+    frameWidth: 28
+    frameHeight: 28
+    notes: "Dos estados de brillo originales. Recorte solo del indicador circular, sin texto. Se retira \xFAnicamente la extensi\xF3n rectangular de la etiqueta fuera de la silueta circular nativa; se conserva alfa y color originales del c\xEDrculo."
+  - category: UI
+    unit: StatusHUD
+    animationName: VirusPulse
+    clip: {fileID: 7400000, guid: e591f74ffd2b2e9438b6e37c67f4a7e5, type: 2}
+    controller: {fileID: 9100000, guid: ee5c876b76040744ba22b18797697eb5, type: 2}
+    firstFrame: {fileID: -2052187846, guid: 0fef023b5eddd8748b5a1db02d0eead4, type: 3}
+    frameCount: 2
+    frameWidth: 28
+    frameHeight: 28
+    notes: "Dos estados de brillo originales. Recorte solo del indicador circular, sin texto. Se retira \xFAnicamente la extensi\xF3n rectangular de la etiqueta fuera de la silueta circular nativa; se conserva alfa y color originales del c\xEDrculo."
+  - category: Effects
+    unit: RedEffects
+    animationName: TeleportArrivalEnergy
+    clip: {fileID: 7400000, guid: a4e18ae9b206c0742ae2bccbd33f3173, type: 2}
+    controller: {fileID: 9100000, guid: d0ceb4ad28faac4428844fa9722715d3, type: 2}
+    firstFrame: {fileID: 2033251065, guid: e974495299075624db2efe88e6f10e2b, type: 3}
+    frameCount: 10
+    frameWidth: 68
+    frameHeight: 83
+    notes: 
+  - category: Player
+    unit: Red
+    animationName: TeleportIn
+    clip: {fileID: 7400000, guid: f4a8d863a4badf34abb955a3b89a876f, type: 2}
+    controller: {fileID: 9100000, guid: 4a77689e63caafa489db6b752361a376, type: 2}
+    firstFrame: {fileID: 976120392, guid: ba402c1f73fff654788e8a6709b8ca45, type: 3}
+    frameCount: 4
+    frameWidth: 43
+    frameHeight: 63
+    notes: 
+  - category: Player
+    unit: Red
+    animationName: Idle
+    clip: {fileID: 7400000, guid: d20d906651ce2834dbed74fedc4f3351, type: 2}
+    controller: {fileID: 9100000, guid: 4a77689e63caafa489db6b752361a376, type: 2}
+    firstFrame: {fileID: -1340903613, guid: c38380cc81480714fa8280d368fdf769, type: 3}
+    frameCount: 5
+    frameWidth: 48
+    frameHeight: 52
+    notes: 
+  - category: Player
+    unit: Red
+    animationName: Jump
+    clip: {fileID: 7400000, guid: 9abd3e8212e1e7d49b11f3adc4c5d170, type: 2}
+    controller: {fileID: 9100000, guid: 4a77689e63caafa489db6b752361a376, type: 2}
+    firstFrame: {fileID: 559819772, guid: 1bebb08d5a8ec4347af8d495a8fef8be, type: 3}
+    frameCount: 16
+    frameWidth: 51
+    frameHeight: 83
+    notes: 
+  - category: Player
+    unit: Red
+    animationName: JumpRise
+    clip: {fileID: 7400000, guid: 069eb1edad20e2f48bcb8b2360b30bd9, type: 2}
+    controller: {fileID: 9100000, guid: 4a77689e63caafa489db6b752361a376, type: 2}
+    firstFrame: {fileID: 784157531, guid: 51d0af5b28a1eec4f9c19278ad4a0559, type: 3}
+    frameCount: 5
+    frameWidth: 50
+    frameHeight: 62
+    notes: 
+  - category: Player
+    unit: Red
+    animationName: Fall
+    clip: {fileID: 7400000, guid: f6d23e5041cfdb640842e552a1a0daf9, type: 2}
+    controller: {fileID: 9100000, guid: 4a77689e63caafa489db6b752361a376, type: 2}
+    firstFrame: {fileID: 1434839595, guid: a4b2f26f3ff93ac4c9f32c7a67bed041, type: 3}
+    frameCount: 4
+    frameWidth: 42
+    frameHeight: 83
+    notes: 
+  - category: Player
+    unit: Red
+    animationName: Land
+    clip: {fileID: 7400000, guid: 5877b61dfa07e8a40bdf9d314b074867, type: 2}
+    controller: {fileID: 9100000, guid: 4a77689e63caafa489db6b752361a376, type: 2}
+    firstFrame: {fileID: -1018929190, guid: 250d70c6eb9f35c43b3bd811c880f0a9, type: 3}
+    frameCount: 4
+    frameWidth: 48
+    frameHeight: 63
+    notes: 
+  - category: Player
+    unit: Red
+    animationName: RunStart
+    clip: {fileID: 7400000, guid: 136216e778d43f4469bf712c902ede59, type: 2}
+    controller: {fileID: 9100000, guid: 4a77689e63caafa489db6b752361a376, type: 2}
+    firstFrame: {fileID: -875272558, guid: 58e8e23acba240b4c8fb1646e462ccf9, type: 3}
+    frameCount: 2
+    frameWidth: 43
+    frameHeight: 50
+    notes: 
+  - category: Player
+    unit: Red
+    animationName: Run
+    clip: {fileID: 7400000, guid: f872430f0147cc14aa6d631d0f405c21, type: 2}
+    controller: {fileID: 9100000, guid: 4a77689e63caafa489db6b752361a376, type: 2}
+    firstFrame: {fileID: 2079002650, guid: 8eece88fa851f1f4598c14610db3df79, type: 3}
+    frameCount: 14
+    frameWidth: 58
+    frameHeight: 57
+    notes: 
+  - category: Player
+    unit: Red
+    animationName: GroundSlash1
+    clip: {fileID: 7400000, guid: fc4ca9c7f1a9ee144a7f3bcddaa58a57, type: 2}
+    controller: {fileID: 9100000, guid: 4a77689e63caafa489db6b752361a376, type: 2}
+    firstFrame: {fileID: -289101759, guid: e4553a4c40be5bc479420b15d1e8336a, type: 3}
+    frameCount: 12
+    frameWidth: 104
+    frameHeight: 67
+    notes: 
+  - category: Player
+    unit: Red
+    animationName: GroundSlash2
+    clip: {fileID: 7400000, guid: c15252df0211e5444acc9178dd3b71ae, type: 2}
+    controller: {fileID: 9100000, guid: 4a77689e63caafa489db6b752361a376, type: 2}
+    firstFrame: {fileID: -369369042, guid: f4d5683e07b29954d8daf73beccb2413, type: 3}
+    frameCount: 16
+    frameWidth: 120
+    frameHeight: 50
+    notes: 
+  - category: Player
+    unit: Red
+    animationName: GroundSlash3
+    clip: {fileID: 7400000, guid: 9ea802adb37b638438910258eaade921, type: 2}
+    controller: {fileID: 9100000, guid: 4a77689e63caafa489db6b752361a376, type: 2}
+    firstFrame: {fileID: -1967432847, guid: 4152499558df7214085b603749db9523, type: 3}
+    frameCount: 14
+    frameWidth: 118
+    frameHeight: 77
+    notes: 
+  - category: Player
+    unit: Red
+    animationName: AirSlash1
+    clip: {fileID: 7400000, guid: e2328bce21db09b4aa60c99eebf57823, type: 2}
+    controller: {fileID: 9100000, guid: 4a77689e63caafa489db6b752361a376, type: 2}
+    firstFrame: {fileID: 434012192, guid: c36610867e3f19e42bf5d91a422ef32c, type: 3}
+    frameCount: 9
+    frameWidth: 107
+    frameHeight: 84
+    notes: 
+  - category: Player
+    unit: Red
+    animationName: AirSlash2
+    clip: {fileID: 7400000, guid: 5997b83cc41cf87428fcd2394da8b370, type: 2}
+    controller: {fileID: 9100000, guid: 4a77689e63caafa489db6b752361a376, type: 2}
+    firstFrame: {fileID: 1223076140, guid: 47b5bd860fac5af448058c9cd2d968c8, type: 3}
+    frameCount: 9
+    frameWidth: 113
+    frameHeight: 73
+    notes: 
+  - category: Player
+    unit: Red
+    animationName: DashStart
+    clip: {fileID: 7400000, guid: e611092a7b02ee648b04846536c30987, type: 2}
+    controller: {fileID: 9100000, guid: 4a77689e63caafa489db6b752361a376, type: 2}
+    firstFrame: {fileID: -868606693, guid: ee4ac7ba26e0b7f4da7eb18ff5997f0f, type: 3}
+    frameCount: 3
+    frameWidth: 51
+    frameHeight: 52
+    notes: 
+  - category: Player
+    unit: Red
+    animationName: Dash
+    clip: {fileID: 7400000, guid: b0fc9df53866ad84a8c097c77dff5de8, type: 2}
+    controller: {fileID: 9100000, guid: 4a77689e63caafa489db6b752361a376, type: 2}
+    firstFrame: {fileID: -1525618938, guid: 14bb43452c9eb8c45938627ab7a92367, type: 3}
+    frameCount: 4
+    frameWidth: 63
+    frameHeight: 46
+    notes: 
+  - category: Player
+    unit: Red
+    animationName: DashEnd
+    clip: {fileID: 7400000, guid: 63f95a117cf5a564c9b56f114c25ac7a, type: 2}
+    controller: {fileID: 9100000, guid: 4a77689e63caafa489db6b752361a376, type: 2}
+    firstFrame: {fileID: 1203080530, guid: 95f669b09ade89e4183737310d1a31ab, type: 3}
+    frameCount: 4
+    frameWidth: 50
+    frameHeight: 50
+    notes: 
+  - category: Player
+    unit: Red
+    animationName: AirUppercutPose
+    clip: {fileID: 7400000, guid: aefc79097827226438823290dd4cd28f, type: 2}
+    controller: {fileID: 9100000, guid: 4a77689e63caafa489db6b752361a376, type: 2}
+    firstFrame: {fileID: -615628265, guid: f1bb908c63d63f34aa37f47d587609ea, type: 3}
+    frameCount: 8
+    frameWidth: 51
+    frameHeight: 73
+    notes: 
+  - category: Player
+    unit: Red
+    animationName: AirSlashBackhand
+    clip: {fileID: 7400000, guid: 343e384ed84d6e5419b1eb7563f44b67, type: 2}
+    controller: {fileID: 9100000, guid: 4a77689e63caafa489db6b752361a376, type: 2}
+    firstFrame: {fileID: -157588160, guid: 36110bb15c11edb429addb62eeb4fd20, type: 3}
+    frameCount: 9
+    frameWidth: 95
+    frameHeight: 70
+    notes: 
+  - category: Player
+    unit: Red
+    animationName: WallClimb
+    clip: {fileID: 7400000, guid: e836bf0c46579374b8210204b958c3cc, type: 2}
+    controller: {fileID: 9100000, guid: 4a77689e63caafa489db6b752361a376, type: 2}
+    firstFrame: {fileID: 508059720, guid: 6325383436e3ce14a8277e9b1e3e1b0d, type: 3}
+    frameCount: 11
+    frameWidth: 44
+    frameHeight: 68
+    notes: 
+  - category: Player
+    unit: Red
+    animationName: WallPushOff
+    clip: {fileID: 7400000, guid: 3279884cfa42faf42a19969a9688306a, type: 2}
+    controller: {fileID: 9100000, guid: 4a77689e63caafa489db6b752361a376, type: 2}
+    firstFrame: {fileID: 1553691005, guid: a373ed0741ded7942863b039caae2372, type: 3}
+    frameCount: 3
+    frameWidth: 47
+    frameHeight: 55
+    notes: 
+  - category: Player
+    unit: Red
+    animationName: WallSlash
+    clip: {fileID: 7400000, guid: 99d1b12bd523fce48a73603993539bba, type: 2}
+    controller: {fileID: 9100000, guid: 4a77689e63caafa489db6b752361a376, type: 2}
+    firstFrame: {fileID: 88882814, guid: 913320027a4a0594c972213f2c6c6733, type: 3}
+    frameCount: 9
+    frameWidth: 98
+    frameHeight: 75
+    notes: 
+  - category: Player
+    unit: Red
+    animationName: Hurt
+    clip: {fileID: 7400000, guid: 926884e0e25e3234a982f53cb673b54c, type: 2}
+    controller: {fileID: 9100000, guid: 4a77689e63caafa489db6b752361a376, type: 2}
+    firstFrame: {fileID: 1650652506, guid: 1bc4bbb39723c1343b4a650399243fb1, type: 3}
+    frameCount: 8
+    frameWidth: 52
+    frameHeight: 60
+    notes: 
+  - category: Player
+    unit: Red
+    animationName: Electrocuted
+    clip: {fileID: 7400000, guid: fc0cd271c5405944eb79976176ea9561, type: 2}
+    controller: {fileID: 9100000, guid: 4a77689e63caafa489db6b752361a376, type: 2}
+    firstFrame: {fileID: -1047416646, guid: 5d99c9d493497ab4db0effc0a581c38a, type: 3}
+    frameCount: 6
+    frameWidth: 62
+    frameHeight: 64
+    notes: 
+  - category: Player
+    unit: Red
+    animationName: TurnAndTeleportOut
+    clip: {fileID: 7400000, guid: ed4e589b09585da4e9b63cd7a2314a74, type: 2}
+    controller: {fileID: 9100000, guid: 4a77689e63caafa489db6b752361a376, type: 2}
+    firstFrame: {fileID: 1198491220, guid: b63e0bbf8a4cb014d9c92df233d150e5, type: 3}
+    frameCount: 14
+    frameWidth: 57
+    frameHeight: 79
+    notes: 
+  - category: Player
+    unit: Red
+    animationName: TurnAround
+    clip: {fileID: 7400000, guid: f49ac375843920e46adc0b9e3c2c9ea2, type: 2}
+    controller: {fileID: 9100000, guid: 4a77689e63caafa489db6b752361a376, type: 2}
+    firstFrame: {fileID: -108289259, guid: 57256d56d12ac0243ae55f4eb9194ce4, type: 3}
+    frameCount: 9
+    frameWidth: 47
+    frameHeight: 62
+    notes: 
+  - category: Player
+    unit: Red
+    animationName: TeleportOut
+    clip: {fileID: 7400000, guid: 2d5bca8422b53ca4c810942c3f99a2f3, type: 2}
+    controller: {fileID: 9100000, guid: 4a77689e63caafa489db6b752361a376, type: 2}
+    firstFrame: {fileID: 177756554, guid: 749d9ebc4cb4cf94ca859c472a2da038, type: 3}
+    frameCount: 6
+    frameWidth: 57
+    frameHeight: 78
+    notes: 
+  - category: Player
+    unit: Red
+    animationName: DashSlash
+    clip: {fileID: 7400000, guid: 2bd1628715b83684d94b841dfd97b76e, type: 2}
+    controller: {fileID: 9100000, guid: 4a77689e63caafa489db6b752361a376, type: 2}
+    firstFrame: {fileID: -127834563, guid: 2633cff0cca94654a80cf65ff79f606c, type: 3}
+    frameCount: 13
+    frameWidth: 104
+    frameHeight: 44
+    notes: 
+  - category: Player
+    unit: Red
+    animationName: ProneCollapse
+    clip: {fileID: 7400000, guid: 659f8084cb517f84c86cb2652d5b3c69, type: 2}
+    controller: {fileID: 9100000, guid: 4a77689e63caafa489db6b752361a376, type: 2}
+    firstFrame: {fileID: 1627767656, guid: 99ced3add714178428faa71004ebd0e0, type: 3}
+    frameCount: 4
+    frameWidth: 76
+    frameHeight: 38
+    notes: 
+  - category: Player
+    unit: Red
+    animationName: AirPoseExtended
+    clip: {fileID: 7400000, guid: eb4dd078f7c884148b6552dead23644e, type: 2}
+    controller: {fileID: 9100000, guid: 4a77689e63caafa489db6b752361a376, type: 2}
+    firstFrame: {fileID: 2086873740, guid: 5edfe3476d3161f40ae33b1b96e268a2, type: 3}
+    frameCount: 11
+    frameWidth: 52
+    frameHeight: 78
+    notes: 
+  - category: Player
+    unit: Red
+    animationName: AirSlashLongA
+    clip: {fileID: 7400000, guid: de33af26af4778d49b3459afbe8d7ca2, type: 2}
+    controller: {fileID: 9100000, guid: 4a77689e63caafa489db6b752361a376, type: 2}
+    firstFrame: {fileID: -94619986, guid: 858183efe5ad90d4c981348ba0ddd85f, type: 3}
+    frameCount: 8
+    frameWidth: 96
+    frameHeight: 73
+    notes: 
+  - category: Player
+    unit: Red
+    animationName: AirSlashLongB
+    clip: {fileID: 7400000, guid: 1b023a3888654a64eaa3cb261372d96f, type: 2}
+    controller: {fileID: 9100000, guid: 4a77689e63caafa489db6b752361a376, type: 2}
+    firstFrame: {fileID: 1365357520, guid: b912d9f5887f5d745a811e57c2ecfac7, type: 3}
+    frameCount: 9
+    frameWidth: 95
+    frameHeight: 72
+    notes: 
+  - category: Player
+    unit: Red
+    animationName: AirSlashLongC
+    clip: {fileID: 7400000, guid: 5911c244db5533f489a6807a7fd53d25, type: 2}
+    controller: {fileID: 9100000, guid: 4a77689e63caafa489db6b752361a376, type: 2}
+    firstFrame: {fileID: 989546173, guid: 3b3235a8ee906b940b27e18f6d0430b1, type: 3}
+    frameCount: 9
+    frameWidth: 95
+    frameHeight: 73
+    notes: 
+  - category: Player
+    unit: Red
+    animationName: AirPoseRaised
+    clip: {fileID: 7400000, guid: 4350c49df2f5a7f40a07eb9a621eb0a6, type: 2}
+    controller: {fileID: 9100000, guid: 4a77689e63caafa489db6b752361a376, type: 2}
+    firstFrame: {fileID: -342176867, guid: ad26a3f03f405d548933851992d0adde, type: 3}
+    frameCount: 8
+    frameWidth: 59
+    frameHeight: 74
+    notes: 
+  - category: Player
+    unit: Red
+    animationName: AirPoseLowered
+    clip: {fileID: 7400000, guid: 6659f6c05cfcc1f45890dc83da1b34f2, type: 2}
+    controller: {fileID: 9100000, guid: 4a77689e63caafa489db6b752361a376, type: 2}
+    firstFrame: {fileID: 699387333, guid: d30c561e4c358234b9bb48208385f697, type: 3}
+    frameCount: 8
+    frameWidth: 51
+    frameHeight: 76
+    notes: 
+  - category: Effects
+    unit: RedEffects
+    animationName: PinkFlameAura
+    clip: {fileID: 7400000, guid: eb6ad232df46d2246818f2ec505134c8, type: 2}
+    controller: {fileID: 9100000, guid: d0ceb4ad28faac4428844fa9722715d3, type: 2}
+    firstFrame: {fileID: -66346555, guid: 012804bde47a2194584d8caeb2be6644, type: 3}
+    frameCount: 4
+    frameWidth: 58
+    frameHeight: 84
+    notes: 
+  - category: Player
+    unit: Red
+    animationName: GroundEnergyStrike
+    clip: {fileID: 7400000, guid: c25670fe614367743aba0e78da09b2dc, type: 2}
+    controller: {fileID: 9100000, guid: 4a77689e63caafa489db6b752361a376, type: 2}
+    firstFrame: {fileID: 191739027, guid: 20743c4547704174caaf07f2aacaba9b, type: 3}
+    frameCount: 10
+    frameWidth: 60
+    frameHeight: 188
+    notes: 
+  - category: Player
+    unit: Red
+    animationName: GroundHeavySlash
+    clip: {fileID: 7400000, guid: d0caa631ff93c734b908f18a490fce5e, type: 2}
+    controller: {fileID: 9100000, guid: 4a77689e63caafa489db6b752361a376, type: 2}
+    firstFrame: {fileID: 1259165458, guid: 09154dc74777eb24bb1669bb190217c6, type: 3}
+    frameCount: 6
+    frameWidth: 116
+    frameHeight: 77
+    notes: 
+  - category: Effects
+    unit: RedEffects
+    animationName: LargeSaberWave
+    clip: {fileID: 7400000, guid: eae629b52e71ca1409e4ba3a466c1789, type: 2}
+    controller: {fileID: 9100000, guid: d0ceb4ad28faac4428844fa9722715d3, type: 2}
+    firstFrame: {fileID: -35820684, guid: d720d77d86af6044dacb05b83612feca, type: 3}
+    frameCount: 1
+    frameWidth: 68
+    frameHeight: 148
+    notes: 
+  - category: Player
+    unit: Red
+    animationName: Enhanced_Idle
+    clip: {fileID: 7400000, guid: 70df7b911df48fe4c98d0e2bafaa6bcf, type: 2}
+    controller: {fileID: 9100000, guid: 4a77689e63caafa489db6b752361a376, type: 2}
+    firstFrame: {fileID: 1558997823, guid: ef56afbfcca63d042b5904ccfe013a88, type: 3}
+    frameCount: 6
+    frameWidth: 47
+    frameHeight: 52
+    notes: 
+  - category: Player
+    unit: Red
+    animationName: Enhanced_RunStart
+    clip: {fileID: 7400000, guid: 6c0c9369ae3add94ab27c0bd8a3fe0f2, type: 2}
+    controller: {fileID: 9100000, guid: 4a77689e63caafa489db6b752361a376, type: 2}
+    firstFrame: {fileID: 1612666546, guid: 5e2324ffb97e06a4ba1fb6d2b6331fea, type: 3}
+    frameCount: 2
+    frameWidth: 43
+    frameHeight: 50
+    notes: 
+  - category: Player
+    unit: Red
+    animationName: Enhanced_Run
+    clip: {fileID: 7400000, guid: 746c791963ff6c148a0777c3cc1d1041, type: 2}
+    controller: {fileID: 9100000, guid: 4a77689e63caafa489db6b752361a376, type: 2}
+    firstFrame: {fileID: -1608807530, guid: 2da014aad4145054cbccc4fb18263e66, type: 3}
+    frameCount: 14
+    frameWidth: 58
+    frameHeight: 57
+    notes: 
+  - category: Player
+    unit: Red
+    animationName: Enhanced_GroundSlash1
+    clip: {fileID: 7400000, guid: 92179588d6660d14892733f3f478446e, type: 2}
+    controller: {fileID: 9100000, guid: 4a77689e63caafa489db6b752361a376, type: 2}
+    firstFrame: {fileID: -481934654, guid: 1440d94458bed7841b7ec540ead1062b, type: 3}
+    frameCount: 8
+    frameWidth: 92
+    frameHeight: 51
+    notes: 
+  - category: Player
+    unit: Red
+    animationName: Enhanced_GroundSlash2
+    clip: {fileID: 7400000, guid: ccf1d034e6e8dec45bc81b0365daeadd, type: 2}
+    controller: {fileID: 9100000, guid: 4a77689e63caafa489db6b752361a376, type: 2}
+    firstFrame: {fileID: -1160268049, guid: 43b1106ce9843c1478b0652a58474e23, type: 3}
+    frameCount: 8
+    frameWidth: 114
+    frameHeight: 61
+    notes: 
+  - category: Player
+    unit: Red
+    animationName: Enhanced_RisingSlash
+    clip: {fileID: 7400000, guid: d2bf292ad68de31428167bf7c26c7a73, type: 2}
+    controller: {fileID: 9100000, guid: 4a77689e63caafa489db6b752361a376, type: 2}
+    firstFrame: {fileID: 2069081922, guid: ff992a41fa90c954b8c944a44a41f058, type: 3}
+    frameCount: 7
+    frameWidth: 110
+    frameHeight: 95
+    notes: 
+  - category: Player
+    unit: Red
+    animationName: Enhanced_Ready
+    clip: {fileID: 7400000, guid: ff705d1ba89d84c47af8fb27225a3f4e, type: 2}
+    controller: {fileID: 9100000, guid: 4a77689e63caafa489db6b752361a376, type: 2}
+    firstFrame: {fileID: 127717017, guid: 502604d53b6561c4db2fb4fdfec1929a, type: 3}
+    frameCount: 6
+    frameWidth: 51
+    frameHeight: 52
+    notes: 
+  - category: Player
+    unit: Red
+    animationName: Enhanced_Jump
+    clip: {fileID: 7400000, guid: 075b152f07d702743864757ad41c1423, type: 2}
+    controller: {fileID: 9100000, guid: 4a77689e63caafa489db6b752361a376, type: 2}
+    firstFrame: {fileID: -1871008753, guid: bd2798f2a64292248998b52c387bc964, type: 3}
+    frameCount: 15
+    frameWidth: 53
+    frameHeight: 88
+    notes: 
+  - category: Player
+    unit: Red
+    animationName: Enhanced_JumpRise
+    clip: {fileID: 7400000, guid: eca4a1c0038d065499aee4bb1f090e20, type: 2}
+    controller: {fileID: 9100000, guid: 4a77689e63caafa489db6b752361a376, type: 2}
+    firstFrame: {fileID: 1549502329, guid: 15a0024efffa0b44da907b8cb2fd2933, type: 3}
+    frameCount: 7
+    frameWidth: 52
+    frameHeight: 71
+    notes: 
+  - category: Player
+    unit: Red
+    animationName: Enhanced_Fall
+    clip: {fileID: 7400000, guid: af2b943c487689044a53f77e3cbc69ab, type: 2}
+    controller: {fileID: 9100000, guid: 4a77689e63caafa489db6b752361a376, type: 2}
+    firstFrame: {fileID: -1195327991, guid: a5ca44d89f2d47848bb98b0ae34c22cc, type: 3}
+    frameCount: 4
+    frameWidth: 39
+    frameHeight: 84
+    notes: 
+  - category: Player
+    unit: Red
+    animationName: Enhanced_Land
+    clip: {fileID: 7400000, guid: f965dd7415940b840aacdba026fb7b9f, type: 2}
+    controller: {fileID: 9100000, guid: 4a77689e63caafa489db6b752361a376, type: 2}
+    firstFrame: {fileID: 100257461, guid: fbf187a11d54cfc4992cd192dfbee2ec, type: 3}
+    frameCount: 4
+    frameWidth: 48
+    frameHeight: 63
+    notes: 
+  - category: Player
+    unit: Red
+    animationName: Enhanced_AirSlash1
+    clip: {fileID: 7400000, guid: 3bd043ff65a878540a1f15be238ae9b5, type: 2}
+    controller: {fileID: 9100000, guid: 4a77689e63caafa489db6b752361a376, type: 2}
+    firstFrame: {fileID: 242110591, guid: e752a651f6a124e4e87899d899e556fb, type: 3}
+    frameCount: 9
+    frameWidth: 97
+    frameHeight: 83
+    notes: 
+  - category: Player
+    unit: Red
+    animationName: Enhanced_AirSlash2
+    clip: {fileID: 7400000, guid: 540fa2ed4e6128f4ba38e28fbb08334e, type: 2}
+    controller: {fileID: 9100000, guid: 4a77689e63caafa489db6b752361a376, type: 2}
+    firstFrame: {fileID: 206446444, guid: bca7f464a32cd2f4db4f51eddf09e733, type: 3}
+    frameCount: 8
+    frameWidth: 98
+    frameHeight: 78
+    notes: 
+  - category: Player
+    unit: Red
+    animationName: Enhanced_SpinSlash
+    clip: {fileID: 7400000, guid: 445a1f366b7e28643b8bca4c63bb33c4, type: 2}
+    controller: {fileID: 9100000, guid: 4a77689e63caafa489db6b752361a376, type: 2}
+    firstFrame: {fileID: -1532452763, guid: 6a6fbb23e4eb3594998f16e1076f3417, type: 3}
+    frameCount: 10
+    frameWidth: 63
+    frameHeight: 60
+    notes: 
+  - category: Player
+    unit: Red
+    animationName: Enhanced_DashStart
+    clip: {fileID: 7400000, guid: 6b65c6a0874ce164b87d8a670aee88f3, type: 2}
+    controller: {fileID: 9100000, guid: 4a77689e63caafa489db6b752361a376, type: 2}
+    firstFrame: {fileID: -875971956, guid: f197ae813e0cecb4bac4f52487af46e3, type: 3}
+    frameCount: 3
+    frameWidth: 51
+    frameHeight: 52
+    notes: 
+  - category: Player
+    unit: Red
+    animationName: Enhanced_Dash
+    clip: {fileID: 7400000, guid: 00bb31ccdbbf0314b91ad10ece1e2c90, type: 2}
+    controller: {fileID: 9100000, guid: 4a77689e63caafa489db6b752361a376, type: 2}
+    firstFrame: {fileID: 1261953803, guid: 33672221ac6434647a0304f644f823cd, type: 3}
+    frameCount: 4
+    frameWidth: 63
+    frameHeight: 46
+    notes: 
+  - category: Player
+    unit: Red
+    animationName: Enhanced_DashEnd
+    clip: {fileID: 7400000, guid: 9d464e8fa3276d9449797ef34c111f30, type: 2}
+    controller: {fileID: 9100000, guid: 4a77689e63caafa489db6b752361a376, type: 2}
+    firstFrame: {fileID: -1185286218, guid: fd3f0a9aba31c0b4293c6b46b829756c, type: 3}
+    frameCount: 4
+    frameWidth: 50
+    frameHeight: 50
+    notes: 
+  - category: Player
+    unit: Red
+    animationName: Enhanced_GroundSlideSlash
+    clip: {fileID: 7400000, guid: e209d71496ddb3f48905b557be01e155, type: 2}
+    controller: {fileID: 9100000, guid: 4a77689e63caafa489db6b752361a376, type: 2}
+    firstFrame: {fileID: 1163743447, guid: 8be0bc80bc6a2af47a47ec79dc584ef4, type: 3}
+    frameCount: 11
+    frameWidth: 110
+    frameHeight: 60
+    notes: 
+  - category: Player
+    unit: Red
+    animationName: Enhanced_AirUppercutPose
+    clip: {fileID: 7400000, guid: dd05694ee98b1954cb925e834891f524, type: 2}
+    controller: {fileID: 9100000, guid: 4a77689e63caafa489db6b752361a376, type: 2}
+    firstFrame: {fileID: 1146283936, guid: ec76a99c08306f540b3bad5c601b1438, type: 3}
+    frameCount: 7
+    frameWidth: 51
+    frameHeight: 67
+    notes: 
+  - category: Player
+    unit: Red
+    animationName: Enhanced_WallSlash
+    clip: {fileID: 7400000, guid: 7c4ecc84d45925e49877e0d366229f61, type: 2}
+    controller: {fileID: 9100000, guid: 4a77689e63caafa489db6b752361a376, type: 2}
+    firstFrame: {fileID: 151722027, guid: 3470265c174e94c44aca065ea7024b44, type: 3}
+    frameCount: 9
+    frameWidth: 72
+    frameHeight: 71
+    notes: 
+  - category: Player
+    unit: Red
+    animationName: Enhanced_WallSlashFollowThrough
+    clip: {fileID: 7400000, guid: 7d8122840d2e8f6488498d6a8280640e, type: 2}
+    controller: {fileID: 9100000, guid: 4a77689e63caafa489db6b752361a376, type: 2}
+    firstFrame: {fileID: -189589911, guid: 0c91e004c85601b4dbdaf696c8d125fd, type: 3}
+    frameCount: 11
+    frameWidth: 96
+    frameHeight: 72
+    notes: 
+  - category: Player
+    unit: Red
+    animationName: Enhanced_AirPoseLong
+    clip: {fileID: 7400000, guid: 15a0e0baaeba25e46b239922f730395f, type: 2}
+    controller: {fileID: 9100000, guid: 4a77689e63caafa489db6b752361a376, type: 2}
+    firstFrame: {fileID: 2022814610, guid: 424de15e8986b5d48822b9169719e225, type: 3}
+    frameCount: 11
+    frameWidth: 45
+    frameHeight: 80
+    notes: 
+  - category: Player
+    unit: Red
+    animationName: Enhanced_AirSlashLong
+    clip: {fileID: 7400000, guid: 110095bd8270eb44cad9c69faf848934, type: 2}
+    controller: {fileID: 9100000, guid: 4a77689e63caafa489db6b752361a376, type: 2}
+    firstFrame: {fileID: -473933463, guid: 29d10362268b7004f8fe7256b03cf7f9, type: 3}
+    frameCount: 9
+    frameWidth: 77
+    frameHeight: 79
+    notes: 
+  - category: Player
+    unit: Red
+    animationName: Enhanced_Electrocuted
+    clip: {fileID: 7400000, guid: f4cec8e4aeca643499fba4295f43dfa8, type: 2}
+    controller: {fileID: 9100000, guid: 4a77689e63caafa489db6b752361a376, type: 2}
+    firstFrame: {fileID: -1227698118, guid: 21163b54ada73fb4a965c9eb65829a9e, type: 3}
+    frameCount: 4
+    frameWidth: 58
+    frameHeight: 74
+    notes: 
+  - category: Player
+    unit: Red
+    animationName: Enhanced_WallSlashEnd
+    clip: {fileID: 7400000, guid: 8ede476a245536346b0c9bd014f7d7c7, type: 2}
+    controller: {fileID: 9100000, guid: 4a77689e63caafa489db6b752361a376, type: 2}
+    firstFrame: {fileID: -2029005818, guid: e6268019c1ed2d044a5d8f420d6552d1, type: 3}
+    frameCount: 11
+    frameWidth: 96
+    frameHeight: 72
+    notes: 
+  - category: Effects
+    unit: RedEffects
+    animationName: FireUppercutPose
+    clip: {fileID: 7400000, guid: ebc22372fd040e942b84d06ce94063dd, type: 2}
+    controller: {fileID: 9100000, guid: d0ceb4ad28faac4428844fa9722715d3, type: 2}
+    firstFrame: {fileID: -320815283, guid: d69485de81870f94bb6aeff2dd1da526, type: 3}
+    frameCount: 1
+    frameWidth: 56
+    frameHeight: 83
+    notes: 
+  - category: Effects
+    unit: RedEffects
+    animationName: IceRing
+    clip: {fileID: 7400000, guid: f268bb558a296a94fa964b9d1c7868b5, type: 2}
+    controller: {fileID: 9100000, guid: d0ceb4ad28faac4428844fa9722715d3, type: 2}
+    firstFrame: {fileID: 2090445174, guid: 2f288f804cd256346940f69b6ace30a4, type: 3}
+    frameCount: 3
+    frameWidth: 52
+    frameHeight: 52
+    notes: 
+  - category: Effects
+    unit: RedEffects
+    animationName: SaberWaveShrink
+    clip: {fileID: 7400000, guid: 586e6a543801105428a677328638607e, type: 2}
+    controller: {fileID: 9100000, guid: d0ceb4ad28faac4428844fa9722715d3, type: 2}
+    firstFrame: {fileID: 1924135253, guid: b6fbfb1877725b4458ae73a8b3b5f6ec, type: 3}
+    frameCount: 4
+    frameWidth: 36
+    frameHeight: 50
+    notes: 
+  - category: Effects
+    unit: RedEffects
+    animationName: IceProjectiles
+    clip: {fileID: 7400000, guid: 2faa926c38b4df94295a1a32f90dd4a3, type: 2}
+    controller: {fileID: 9100000, guid: d0ceb4ad28faac4428844fa9722715d3, type: 2}
+    firstFrame: {fileID: -325164674, guid: 867cd068c131a8445a83d22c768211f2, type: 3}
+    frameCount: 4
+    frameWidth: 34
+    frameHeight: 66
+    notes: 
+  - category: Effects
+    unit: RedEffects
+    animationName: GroundIceSpikes
+    clip: {fileID: 7400000, guid: f501388df79d7bb478fd8feb6e4fab9f, type: 2}
+    controller: {fileID: 9100000, guid: d0ceb4ad28faac4428844fa9722715d3, type: 2}
+    firstFrame: {fileID: -570838818, guid: 92bab1d93f33daa4e963155e63193402, type: 3}
+    frameCount: 5
+    frameWidth: 44
+    frameHeight: 51
+    notes: 
+  - category: Enemies
+    unit: GrenadeMan
+    animationName: Idle
+    clip: {fileID: 7400000, guid: 482099f02410f7e4f990d01b874fb20f, type: 2}
+    controller: {fileID: 9100000, guid: 1c490e85a6e478e49a3ee03e4f69132d, type: 2}
+    firstFrame: {fileID: 2044079742, guid: 522dc5c90ebb9f843b208e1baed1f8dc, type: 3}
+    frameCount: 8
+    frameWidth: 58
+    frameHeight: 59
+    notes: 
+  - category: Enemies
+    unit: GrenadeMan
+    animationName: AimForward
+    clip: {fileID: 7400000, guid: 5553a09bb9c42564f81cc3f81f772c61, type: 2}
+    controller: {fileID: 9100000, guid: 1c490e85a6e478e49a3ee03e4f69132d, type: 2}
+    firstFrame: {fileID: 1278300963, guid: 5717deb0b41f3cc47a0af5604e17fd55, type: 3}
+    frameCount: 2
+    frameWidth: 64
+    frameHeight: 53
+    notes: 
+  - category: Enemies
+    unit: GrenadeMan
+    animationName: AimUp
+    clip: {fileID: 7400000, guid: c151994724a70ca45817761eb92cad46, type: 2}
+    controller: {fileID: 9100000, guid: 1c490e85a6e478e49a3ee03e4f69132d, type: 2}
+    firstFrame: {fileID: -278316714, guid: a80de8eaf6322d54a9bed8b812963ac9, type: 3}
+    frameCount: 2
+    frameWidth: 50
+    frameHeight: 70
+    notes: 
+  - category: Enemies
+    unit: GrenadeMan
+    animationName: Run
+    clip: {fileID: 7400000, guid: 9b07d1f31bff8a1418062329343a7bac, type: 2}
+    controller: {fileID: 9100000, guid: 1c490e85a6e478e49a3ee03e4f69132d, type: 2}
+    firstFrame: {fileID: 384038603, guid: db20bfbf4fc27cc4cafbaa2450bd3ad0, type: 3}
+    frameCount: 7
+    frameWidth: 54
+    frameHeight: 64
+    notes: 
+  - category: Enemies
+    unit: GrenadeMan
+    animationName: ThrowGrenade
+    clip: {fileID: 7400000, guid: 5145d523618f43940987add6d73ee777, type: 2}
+    controller: {fileID: 9100000, guid: 1c490e85a6e478e49a3ee03e4f69132d, type: 2}
+    firstFrame: {fileID: -1673273946, guid: 35dfccdf98021ec4a8e7e4124375f47e, type: 3}
+    frameCount: 7
+    frameWidth: 68
+    frameHeight: 66
+    notes: 
+  - category: Enemies
+    unit: GrenadeMan
+    animationName: Hurt
+    clip: {fileID: 7400000, guid: 8e3b4931a0533af449e8b7e022bd6e68, type: 2}
+    controller: {fileID: 9100000, guid: 1c490e85a6e478e49a3ee03e4f69132d, type: 2}
+    firstFrame: {fileID: 175618366, guid: f7616c99fb3b8bc40ad0141026148086, type: 3}
+    frameCount: 2
+    frameWidth: 66
+    frameHeight: 54
+    notes: 
+  - category: Enemies
+    unit: GrenadeMan
+    animationName: Jump
+    clip: {fileID: 7400000, guid: 24719c45c8ef23e4f8d237384f02ed94, type: 2}
+    controller: {fileID: 9100000, guid: 1c490e85a6e478e49a3ee03e4f69132d, type: 2}
+    firstFrame: {fileID: -1819887617, guid: b704ad8a563381048b1866da50af4fb6, type: 3}
+    frameCount: 1
+    frameWidth: 48
+    frameHeight: 59
+    notes: 
+  - category: Enemies
+    unit: GrenadeMan
+    animationName: Fall
+    clip: {fileID: 7400000, guid: 8bcb81b72e8a9c44b82a836d24462f48, type: 2}
+    controller: {fileID: 9100000, guid: 1c490e85a6e478e49a3ee03e4f69132d, type: 2}
+    firstFrame: {fileID: -626474577, guid: f121ac8486d3fa1418aaa75f8036e61f, type: 3}
+    frameCount: 1
+    frameWidth: 72
+    frameHeight: 45
+    notes: 
+  - category: Enemies
+    unit: GrenadeMan
+    animationName: Takeoff
+    clip: {fileID: 7400000, guid: a9f3da483a044ed4590b1e270b707c70, type: 2}
+    controller: {fileID: 9100000, guid: 1c490e85a6e478e49a3ee03e4f69132d, type: 2}
+    firstFrame: {fileID: -1748512599, guid: 3a3fabca249432549a017d69fe13df61, type: 3}
+    frameCount: 2
+    frameWidth: 66
+    frameHeight: 66
+    notes: 
+  - category: Enemies
+    unit: GrenadeMan
+    animationName: Land
+    clip: {fileID: 7400000, guid: 796a7485d685cef49bdd103dd783174d, type: 2}
+    controller: {fileID: 9100000, guid: 1c490e85a6e478e49a3ee03e4f69132d, type: 2}
+    firstFrame: {fileID: 48788141, guid: ce8baf38aec965e4daa37853bfda2b9b, type: 3}
+    frameCount: 3
+    frameWidth: 72
+    frameHeight: 55
+    notes: 
+  - category: Effects
+    unit: GrenadeManProjectiles
+    animationName: GrenadeSpin
+    clip: {fileID: 7400000, guid: dfe1ea446e52d654b8af695d5d523bbf, type: 2}
+    controller: {fileID: 9100000, guid: 0e0988bb4005ef74da64566241e2f709, type: 2}
+    firstFrame: {fileID: 1461963429, guid: c95915a930523aa4db52d30ce93f7d3e, type: 3}
+    frameCount: 4
+    frameWidth: 16
+    frameHeight: 15
+    notes: 
+  - category: Effects
+    unit: GrenadeManProjectiles
+    animationName: ThrownGrenade
+    clip: {fileID: 7400000, guid: ade735e04c1eae44593c4b38d3f02200, type: 2}
+    controller: {fileID: 9100000, guid: 0e0988bb4005ef74da64566241e2f709, type: 2}
+    firstFrame: {fileID: 1577059461, guid: e49f4fe30c4b3514486ec4b1392d82ab, type: 3}
+    frameCount: 1
+    frameWidth: 16
+    frameHeight: 14
+    notes: 
+  - category: Enemies
+    unit: GrenadeManGreen
+    animationName: Idle
+    clip: {fileID: 7400000, guid: 20fe5a3c814b7e7489693315feb30291, type: 2}
+    controller: {fileID: 9100000, guid: c8c43ef57284833428c460e89cda14f6, type: 2}
+    firstFrame: {fileID: 387621625, guid: 3813a0b165664d84ea43fa442fe207c5, type: 3}
+    frameCount: 8
+    frameWidth: 58
+    frameHeight: 59
+    notes: 
+  - category: Enemies
+    unit: GrenadeManGreen
+    animationName: AimForward
+    clip: {fileID: 7400000, guid: b99a69eb339d24b4bae9e476acd5283f, type: 2}
+    controller: {fileID: 9100000, guid: c8c43ef57284833428c460e89cda14f6, type: 2}
+    firstFrame: {fileID: -1360505518, guid: ef2962a9673e09e44b66bb4c0fe246b4, type: 3}
+    frameCount: 2
+    frameWidth: 64
+    frameHeight: 53
+    notes: 
+  - category: Enemies
+    unit: GrenadeManGreen
+    animationName: AimUp
+    clip: {fileID: 7400000, guid: 5be42b21b7b6ffd45bdeed8bbbe6bfd3, type: 2}
+    controller: {fileID: 9100000, guid: c8c43ef57284833428c460e89cda14f6, type: 2}
+    firstFrame: {fileID: 530829988, guid: c39530d488675ef479b968e44dd22a67, type: 3}
+    frameCount: 2
+    frameWidth: 50
+    frameHeight: 70
+    notes: 
+  - category: Enemies
+    unit: GrenadeManGreen
+    animationName: Run
+    clip: {fileID: 7400000, guid: 75cb51973f1e439468c06f0cfc616094, type: 2}
+    controller: {fileID: 9100000, guid: c8c43ef57284833428c460e89cda14f6, type: 2}
+    firstFrame: {fileID: 75762888, guid: 0be6df6e2963dd445b6850e79808032c, type: 3}
+    frameCount: 7
+    frameWidth: 54
+    frameHeight: 64
+    notes: 
+  - category: Enemies
+    unit: GrenadeManGreen
+    animationName: ThrowGrenade
+    clip: {fileID: 7400000, guid: b7722be555f9aba49a2187b5d0cc6b00, type: 2}
+    controller: {fileID: 9100000, guid: c8c43ef57284833428c460e89cda14f6, type: 2}
+    firstFrame: {fileID: 1033628146, guid: d1eba533254c9ca4891734648df2cff8, type: 3}
+    frameCount: 7
+    frameWidth: 68
+    frameHeight: 66
+    notes: 
+  - category: Enemies
+    unit: GrenadeManGreen
+    animationName: Hurt
+    clip: {fileID: 7400000, guid: 7f3915f3d7eb4074584f220e5b5856fa, type: 2}
+    controller: {fileID: 9100000, guid: c8c43ef57284833428c460e89cda14f6, type: 2}
+    firstFrame: {fileID: -1717683994, guid: 019f94c844d279748a0437e48c522bcf, type: 3}
+    frameCount: 2
+    frameWidth: 66
+    frameHeight: 54
+    notes: 
+  - category: Enemies
+    unit: GrenadeManGreen
+    animationName: Jump
+    clip: {fileID: 7400000, guid: 4716ae8ef00b4c14e9d8c8e6118225c9, type: 2}
+    controller: {fileID: 9100000, guid: c8c43ef57284833428c460e89cda14f6, type: 2}
+    firstFrame: {fileID: -1684939848, guid: c740bc81fb0b216438de6e674274aefc, type: 3}
+    frameCount: 1
+    frameWidth: 48
+    frameHeight: 59
+    notes: 
+  - category: Enemies
+    unit: GrenadeManGreen
+    animationName: Fall
+    clip: {fileID: 7400000, guid: 8f2bc22c8174b5c46977f364bbb1c205, type: 2}
+    controller: {fileID: 9100000, guid: c8c43ef57284833428c460e89cda14f6, type: 2}
+    firstFrame: {fileID: 1627588864, guid: 4b5c926fadb820845b2c7043aab6488a, type: 3}
+    frameCount: 1
+    frameWidth: 72
+    frameHeight: 45
+    notes: 
+  - category: Enemies
+    unit: GrenadeManGreen
+    animationName: Takeoff
+    clip: {fileID: 7400000, guid: 2e45db8c626b4ad4b93568edc8bff1c6, type: 2}
+    controller: {fileID: 9100000, guid: c8c43ef57284833428c460e89cda14f6, type: 2}
+    firstFrame: {fileID: -1831726066, guid: 31069e3c0762ca14386b9934f39885d4, type: 3}
+    frameCount: 2
+    frameWidth: 66
+    frameHeight: 66
+    notes: 
+  - category: Enemies
+    unit: GrenadeManGreen
+    animationName: Land
+    clip: {fileID: 7400000, guid: 064158f185b805d439f3358182dfe2fd, type: 2}
+    controller: {fileID: 9100000, guid: c8c43ef57284833428c460e89cda14f6, type: 2}
+    firstFrame: {fileID: -1614128657, guid: 910877cb9f80087459ac177ea5f06cd1, type: 3}
+    frameCount: 3
+    frameWidth: 72
+    frameHeight: 55
+    notes: 
+  - category: Effects
+    unit: GrenadeManGreenProjectiles
+    animationName: GrenadeSpin
+    clip: {fileID: 7400000, guid: 73c92be1b6cd3de489f122ef4bcc6b04, type: 2}
+    controller: {fileID: 9100000, guid: 85a3a23f5e3e6a442be164e58e8736e2, type: 2}
+    firstFrame: {fileID: -1609563329, guid: 92061a7800760e74aabf16e5a8432565, type: 3}
+    frameCount: 4
+    frameWidth: 16
+    frameHeight: 15
+    notes: 
+  - category: Effects
+    unit: GrenadeManGreenProjectiles
+    animationName: ThrownGrenade
+    clip: {fileID: 7400000, guid: 62589cf4059721245b67a02e7260ec4d, type: 2}
+    controller: {fileID: 9100000, guid: 85a3a23f5e3e6a442be164e58e8736e2, type: 2}
+    firstFrame: {fileID: -2054965222, guid: a6263939c52d1d5469727aec99933e6f, type: 3}
+    frameCount: 1
+    frameWidth: 16
+    frameHeight: 14
+    notes: 
+  - category: Enemies
+    unit: Burnout
+    animationName: Roll
+    clip: {fileID: 7400000, guid: dd64c1a50bdca824aaf07108deef6bb9, type: 2}
+    controller: {fileID: 9100000, guid: f085597e1a6760f4a95ca3fb42acbc4e, type: 2}
+    firstFrame: {fileID: 1122930428, guid: 22336812de08364489af13bcd21caea0, type: 3}
+    frameCount: 8
+    frameWidth: 66
+    frameHeight: 50
+    notes: 
+  - category: Enemies
+    unit: Burnout
+    animationName: DeploySpikes
+    clip: {fileID: 7400000, guid: 4c0735aacaa01f74d8ddc4bca46bbf39, type: 2}
+    controller: {fileID: 9100000, guid: f085597e1a6760f4a95ca3fb42acbc4e, type: 2}
+    firstFrame: {fileID: 1499991010, guid: eb53619e62019da4193aef24134288bc, type: 3}
+    frameCount: 7
+    frameWidth: 76
+    frameHeight: 50
+    notes: 
+  - category: Enemies
+    unit: Burnout
+    animationName: SpinAttack
+    clip: {fileID: 7400000, guid: c179ce3249ab3af4ba9daaa85a36c13b, type: 2}
+    controller: {fileID: 9100000, guid: f085597e1a6760f4a95ca3fb42acbc4e, type: 2}
+    firstFrame: {fileID: 1853275040, guid: 3ae70c37dfdf73f43913716f46620088, type: 3}
+    frameCount: 6
+    frameWidth: 96
+    frameHeight: 50
+    notes: 
+  - category: Enemies
+    unit: SpikeBall
+    animationName: Roll
+    clip: {fileID: 7400000, guid: f9942a7a7eea9b24cb1022d8afec361f, type: 2}
+    controller: {fileID: 9100000, guid: 5f6154e846130154b95e3516529d16c7, type: 2}
+    firstFrame: {fileID: 1170000713, guid: b63ebdfb5ba79b849841ac40ec631ba3, type: 3}
+    frameCount: 7
+    frameWidth: 46
+    frameHeight: 35
+    notes: 
+  - category: Enemies
+    unit: SpikeBall
+    animationName: DeployLegs
+    clip: {fileID: 7400000, guid: 8a56f4a830e54f34c98a44376b1c808f, type: 2}
+    controller: {fileID: 9100000, guid: 5f6154e846130154b95e3516529d16c7, type: 2}
+    firstFrame: {fileID: -1997603255, guid: 0cfcabc48178fab4997fb8fd89911cd7, type: 3}
+    frameCount: 7
+    frameWidth: 56
+    frameHeight: 46
+    notes: 
+  - category: Enemies
+    unit: SpikeBall
+    animationName: Walk
+    clip: {fileID: 7400000, guid: 4f3bfa67ed16a064688bc1ebb63f0b04, type: 2}
+    controller: {fileID: 9100000, guid: 5f6154e846130154b95e3516529d16c7, type: 2}
+    firstFrame: {fileID: 1715525828, guid: 486ee66687938774eab5ba687fe97175, type: 3}
+    frameCount: 7
+    frameWidth: 48
+    frameHeight: 43
+    notes: 
+  - category: Enemies
+    unit: BirdGreen
+    animationName: Idle
+    clip: {fileID: 7400000, guid: 08e950d9e9258e64b9912adf529f60f1, type: 2}
+    controller: {fileID: 9100000, guid: ad247f2545724f74fad12221c19b5e9f, type: 2}
+    firstFrame: {fileID: 858508960, guid: 4524f3c7dbd2b0a48975349a2af1a5c0, type: 3}
+    frameCount: 1
+    frameWidth: 36
+    frameHeight: 25
+    notes: 
+  - category: Enemies
+    unit: BirdGreen
+    animationName: Fire
+    clip: {fileID: 7400000, guid: bd9c30035ee6d2d448f1c158fec60301, type: 2}
+    controller: {fileID: 9100000, guid: ad247f2545724f74fad12221c19b5e9f, type: 2}
+    firstFrame: {fileID: 106432540, guid: 5ccb017035b1d1c46bbfc0fd1478d1e1, type: 3}
+    frameCount: 3
+    frameWidth: 52
+    frameHeight: 26
+    notes: 
+  - category: Enemies
+    unit: BirdGreenReverse
+    animationName: Fire
+    clip: {fileID: 7400000, guid: 8a2cac16ffb29d849a38501dbf24ac07, type: 2}
+    controller: {fileID: 9100000, guid: 667a0af0587525f4da9d2c2f9bd98441, type: 2}
+    firstFrame: {fileID: -2106609591, guid: d44d1f994a7f9d741b8f1266d90de820, type: 3}
+    frameCount: 3
+    frameWidth: 52
+    frameHeight: 35
+    notes: 
+  - category: Enemies
+    unit: BirdBlue
+    animationName: Idle
+    clip: {fileID: 7400000, guid: 9d9e81e04cc660b4da81c94b58d3c5d2, type: 2}
+    controller: {fileID: 9100000, guid: b9e90f3b091b6de4e80dc988738a9201, type: 2}
+    firstFrame: {fileID: 1275911683, guid: 80f2048ef9d53584bb404690f6a7e244, type: 3}
+    frameCount: 1
+    frameWidth: 36
+    frameHeight: 25
+    notes: 
+  - category: Enemies
+    unit: BirdBlue
+    animationName: Fire
+    clip: {fileID: 7400000, guid: 977246a7f8ea0a345a7509aed4146f21, type: 2}
+    controller: {fileID: 9100000, guid: b9e90f3b091b6de4e80dc988738a9201, type: 2}
+    firstFrame: {fileID: 1780832155, guid: 2f85ebbca5a8a0d48b2a94cbb6ad0f00, type: 3}
+    frameCount: 3
+    frameWidth: 52
+    frameHeight: 26
+    notes: 
+  - category: Enemies
+    unit: MiniLaserCannon
+    animationName: Hover
+    clip: {fileID: 7400000, guid: c58ca596e66c40841bfb5dc071d58f00, type: 2}
+    controller: {fileID: 9100000, guid: f13e364c78e5f094b8b66402c5d9a97e, type: 2}
+    firstFrame: {fileID: 1628358409, guid: 4ce5de94b9815b24580b5c8f19e39f08, type: 3}
+    frameCount: 4
+    frameWidth: 36
+    frameHeight: 49
+    notes: 
+  - category: Enemies
+    unit: MiniLaserCannon
+    animationName: Charge
+    clip: {fileID: 7400000, guid: c56466be553a8be41b7692fa1e2382f0, type: 2}
+    controller: {fileID: 9100000, guid: f13e364c78e5f094b8b66402c5d9a97e, type: 2}
+    firstFrame: {fileID: 1572874379, guid: aadc2f0c6eb48844e9d37e6da6fce87b, type: 3}
+    frameCount: 7
+    frameWidth: 74
+    frameHeight: 52
+    notes: 
+  - category: Enemies
+    unit: MiniLaserCannon
+    animationName: Release
+    clip: {fileID: 7400000, guid: 9f847c036786a474494fba2f5f09ee36, type: 2}
+    controller: {fileID: 9100000, guid: f13e364c78e5f094b8b66402c5d9a97e, type: 2}
+    firstFrame: {fileID: -362396631, guid: 2eb91fd4653531649b077648af3e4a18, type: 3}
+    frameCount: 4
+    frameWidth: 60
+    frameHeight: 55
+    notes: 
+  - category: Enemies
+    unit: MiniLaserCannon
+    animationName: Recover
+    clip: {fileID: 7400000, guid: d091e894305aa014c934e73fd597f2e1, type: 2}
+    controller: {fileID: 9100000, guid: f13e364c78e5f094b8b66402c5d9a97e, type: 2}
+    firstFrame: {fileID: 1783112457, guid: 610e8af12ae8caa4eb009c658fbaec8e, type: 3}
+    frameCount: 4
+    frameWidth: 36
+    frameHeight: 45
+    notes: 
+  - category: Enemies
+    unit: MiniLaserCannon
+    animationName: LaserFire
+    clip: {fileID: 7400000, guid: a20f5b9e78eaaa04996cdb07ec2a2243, type: 2}
+    controller: {fileID: 9100000, guid: f13e364c78e5f094b8b66402c5d9a97e, type: 2}
+    firstFrame: {fileID: 1594399925, guid: 455be73c7b7237d459beaf527b451205, type: 3}
+    frameCount: 8
+    frameWidth: 132
+    frameHeight: 59
+    notes: 
+  - category: Enemies
+    unit: GigaDeath
+    animationName: Idle
+    clip: {fileID: 7400000, guid: 0aca98b1e954c4342995752f44ace5e3, type: 2}
+    controller: {fileID: 9100000, guid: 5eafd8c773a1f8e46b107f7d42f12d6a, type: 2}
+    firstFrame: {fileID: 2048572001, guid: 2b7331bb98291854da62d3583c7d8f5b, type: 3}
+    frameCount: 1
+    frameWidth: 88
+    frameHeight: 74
+    notes: 
+  - category: Enemies
+    unit: GigaDeathParts
+    animationName: TopArmor
+    clip: {fileID: 7400000, guid: 828f289fa3429ad4f9f2cf00c5dcbaca, type: 2}
+    controller: {fileID: 9100000, guid: 286efd067a990054ab99024f18a606f7, type: 2}
+    firstFrame: {fileID: -373321226, guid: 69fd08db92d57db4ea7a5523def2a2d6, type: 3}
+    frameCount: 1
+    frameWidth: 88
+    frameHeight: 51
+    notes: 
+  - category: Enemies
+    unit: GigaDeathParts
+    animationName: LowerArmor
+    clip: {fileID: 7400000, guid: 42fba8af0f86f5c45bce01b71ba21f4a, type: 2}
+    controller: {fileID: 9100000, guid: 286efd067a990054ab99024f18a606f7, type: 2}
+    firstFrame: {fileID: 156625448, guid: 8458972413bf0c445b81c795cdf0944f, type: 3}
+    frameCount: 1
+    frameWidth: 64
+    frameHeight: 39
+    notes: 
+  - category: Enemies
+    unit: GigaDeathParts
+    animationName: CannonRecoil
+    clip: {fileID: 7400000, guid: 0598787d762f88948bd7e4e77fd95b5e, type: 2}
+    controller: {fileID: 9100000, guid: 286efd067a990054ab99024f18a606f7, type: 2}
+    firstFrame: {fileID: 331847284, guid: b3f16eb9cbb4ff044b0cdc0189991882, type: 3}
+    frameCount: 2
+    frameWidth: 68
+    frameHeight: 35
+    notes: 
+  - category: Enemies
+    unit: GigaDeathParts
+    animationName: LegCycle
+    clip: {fileID: 7400000, guid: 4537e9e67cb28e0479a9c43645cbd7cc, type: 2}
+    controller: {fileID: 9100000, guid: 286efd067a990054ab99024f18a606f7, type: 2}
+    firstFrame: {fileID: 1314255756, guid: 8fc420611d5ea6e489fbfb4bfe89b017, type: 3}
+    frameCount: 4
+    frameWidth: 32
+    frameHeight: 30
+    notes: 
+  - category: Enemies
+    unit: GigaDeathParts
+    animationName: SmallFinCycle
+    clip: {fileID: 7400000, guid: 511900fefe3fb3a4d9449e365def80bc, type: 2}
+    controller: {fileID: 9100000, guid: 286efd067a990054ab99024f18a606f7, type: 2}
+    firstFrame: {fileID: -1277482122, guid: c7c5dedef76712a43a62e422737c29e5, type: 3}
+    frameCount: 3
+    frameWidth: 20
+    frameHeight: 18
+    notes: 
+  - category: Enemies
+    unit: GigaDeathParts
+    animationName: MissileLaunch
+    clip: {fileID: 7400000, guid: f7dda1cbdd911db41bab9bdb0b4de659, type: 2}
+    controller: {fileID: 9100000, guid: 286efd067a990054ab99024f18a606f7, type: 2}
+    firstFrame: {fileID: -1200784888, guid: 2aac014a2bf850640a6edf609468233f, type: 3}
+    frameCount: 4
+    frameWidth: 40
+    frameHeight: 16
+    notes: 
+  - category: Effects
+    unit: GigaDeathProjectiles
+    animationName: MuzzleFlash
+    clip: {fileID: 7400000, guid: 844b4cc0c1efe264f902acd17385be74, type: 2}
+    controller: {fileID: 9100000, guid: cbf17e6127e596641a48707dcbb6cc53, type: 2}
+    firstFrame: {fileID: 797501655, guid: dec563ed7a7fb674587309c3f214cb60, type: 3}
+    frameCount: 2
+    frameWidth: 20
+    frameHeight: 19
+    notes: 
+  - category: Effects
+    unit: GigaDeathProjectiles
+    animationName: SmallShot
+    clip: {fileID: 7400000, guid: 7dad72bc1dc09654ba56de2b2e224ab0, type: 2}
+    controller: {fileID: 9100000, guid: cbf17e6127e596641a48707dcbb6cc53, type: 2}
+    firstFrame: {fileID: -940197493, guid: d0b2451777eb3084f97c6dff71d1f4c0, type: 3}
+    frameCount: 4
+    frameWidth: 28
+    frameHeight: 19
+    notes: 
+  - category: Effects
+    unit: GigaDeathProjectiles
+    animationName: MissileFlight
+    clip: {fileID: 7400000, guid: b2d41086a709e824c9229fd6dd895172, type: 2}
+    controller: {fileID: 9100000, guid: cbf17e6127e596641a48707dcbb6cc53, type: 2}
+    firstFrame: {fileID: 532395904, guid: d1015cfe94d0759478164788e48adc4e, type: 3}
+    frameCount: 4
+    frameWidth: 36
+    frameHeight: 25
+    notes: 
+  - category: Effects
+    unit: GigaDeathProjectiles
+    animationName: MissileTail
+    clip: {fileID: 7400000, guid: a9b5c67f15df4594a90748f7eefc082d, type: 2}
+    controller: {fileID: 9100000, guid: cbf17e6127e596641a48707dcbb6cc53, type: 2}
+    firstFrame: {fileID: 1121817735, guid: 72e8d4880ddde2a44b74b5bcd16cb3cf, type: 3}
+    frameCount: 4
+    frameWidth: 34
+    frameHeight: 25
+    notes: 
+  - category: Effects
+    unit: GigaDeathProjectiles
+    animationName: ImpactRing
+    clip: {fileID: 7400000, guid: 4e09504205561ba4e9058704a37eed7e, type: 2}
+    controller: {fileID: 9100000, guid: cbf17e6127e596641a48707dcbb6cc53, type: 2}
+    firstFrame: {fileID: 1384500313, guid: 9fa6be0ad9e0ed14a99f6125fa0cf9d4, type: 3}
+    frameCount: 5
+    frameWidth: 36
+    frameHeight: 35
+    notes: 
+  - category: Environment
+    unit: BossDoor
+    animationName: Unlock
+    clip: {fileID: 7400000, guid: 8701cea5c4d74c74e9c3748e77ff0ba8, type: 2}
+    controller: {fileID: 9100000, guid: 3c82d5f62b8f3bf48876a09231f156b7, type: 2}
+    firstFrame: {fileID: -1525228637, guid: 3532c584cf456d644a819c301904e677, type: 3}
+    frameCount: 5
+    frameWidth: 34
+    frameHeight: 68
+    notes: 
+  - category: Environment
+    unit: BossDoor
+    animationName: Open
+    clip: {fileID: 7400000, guid: b01e36480cb4d844bbe7ad0c51b5c89d, type: 2}
+    controller: {fileID: 9100000, guid: 3c82d5f62b8f3bf48876a09231f156b7, type: 2}
+    firstFrame: {fileID: -1037865595, guid: c9e972755f6db964b8b1df208898f898, type: 3}
+    frameCount: 5
+    frameWidth: 34
+    frameHeight: 68
+    notes: 
+  - category: Environment
+    unit: BossDoor
+    animationName: RetractTop
+    clip: {fileID: 7400000, guid: e8549c86277ee1d46ab06cc927e7db39, type: 2}
+    controller: {fileID: 9100000, guid: 3c82d5f62b8f3bf48876a09231f156b7, type: 2}
+    firstFrame: {fileID: -1283306643, guid: b116a25a0bcfc6e4eb1ee02719ffd87a, type: 3}
+    frameCount: 3
+    frameWidth: 34
+    frameHeight: 30
+    notes: 
+  - category: Environment
+    unit: BossDoor
+    animationName: RetractBottom
+    clip: {fileID: 7400000, guid: b94a2f9a0074ee342804ce36864642b7, type: 2}
+    controller: {fileID: 9100000, guid: 3c82d5f62b8f3bf48876a09231f156b7, type: 2}
+    firstFrame: {fileID: -1312081198, guid: 13f7f65e8b10ab14f867c2dafcb5fb26, type: 3}
+    frameCount: 3
+    frameWidth: 34
+    frameHeight: 32
+    notes: 
+  - category: Effects
+    unit: Explosion
+    animationName: Flash
+    clip: {fileID: 7400000, guid: 75d1f92758036184fb1f948b4036025a, type: 2}
+    controller: {fileID: 9100000, guid: 0ec0b1417bfd4714683af05725902cd8, type: 2}
+    firstFrame: {fileID: 2093723468, guid: 22b27cd04b6b4d74f97e00270e1af770, type: 3}
+    frameCount: 2
+    frameWidth: 70
+    frameHeight: 68
+    notes: 
+  - category: Effects
+    unit: Explosion
+    animationName: FireBlast
+    clip: {fileID: 7400000, guid: bc7b0679e502f194d9243eb1ae589a4e, type: 2}
+    controller: {fileID: 9100000, guid: 0ec0b1417bfd4714683af05725902cd8, type: 2}
+    firstFrame: {fileID: 500554673, guid: fb2c118c8d358fb4ca8a96d0bf2326df, type: 3}
+    frameCount: 16
+    frameWidth: 66
+    frameHeight: 48
+    notes: 
+  - category: Effects
+    unit: Explosion
+    animationName: SmokeBlast
+    clip: {fileID: 7400000, guid: e406a71839c5d3a4e85ad626d93e25bb, type: 2}
+    controller: {fileID: 9100000, guid: 0ec0b1417bfd4714683af05725902cd8, type: 2}
+    firstFrame: {fileID: -684953138, guid: 5f928f0bdff54ac459d2a380c319c3f9, type: 3}
+    frameCount: 16
+    frameWidth: 66
+    frameHeight: 48
+    notes: 
+  - category: Effects
+    unit: Meteor
+    animationName: FlameUp
+    clip: {fileID: 7400000, guid: 2b252505af891754482704c3569be6c8, type: 2}
+    controller: {fileID: 9100000, guid: 635b03aabbc281b4db53c9a70716350c, type: 2}
+    firstFrame: {fileID: -1852131569, guid: 58fcda00af4a2684d9f8cbb1535a212e, type: 3}
+    frameCount: 9
+    frameWidth: 82
+    frameHeight: 113
+    notes: 
+  - category: Effects
+    unit: Meteor
+    animationName: FlameDown
+    clip: {fileID: 7400000, guid: a133158b47e82484abca0db667a2ff00, type: 2}
+    controller: {fileID: 9100000, guid: 635b03aabbc281b4db53c9a70716350c, type: 2}
+    firstFrame: {fileID: 1012757086, guid: 90ba846d255e2e94cb8922976a42324b, type: 3}
+    frameCount: 9
+    frameWidth: 82
+    frameHeight: 113
+    notes: 
+  - category: Effects
+    unit: Rain
+    animationName: Fall
+    clip: {fileID: 7400000, guid: 427d68b28c5fe704ea2b497f190b073f, type: 2}
+    controller: {fileID: 9100000, guid: 897aa1aabffa03046b2b725ba93036d5, type: 2}
+    firstFrame: {fileID: -1006406895, guid: 2d645538bd05b4f46845f1eed3fcf395, type: 3}
+    frameCount: 5
+    frameWidth: 164
+    frameHeight: 244
+    notes: 
+  - category: UI
+    unit: StageIntro
+    animationName: ReadyPulse
+    clip: {fileID: 7400000, guid: f904a5d304ca59c419a406be34e09028, type: 2}
+    controller: {fileID: 9100000, guid: d8d5f514ab8d3e249a4d445ab2abe45f, type: 2}
+    firstFrame: {fileID: 1067690617, guid: 4de0bfb591c757a46b432f63e260af45, type: 3}
+    frameCount: 4
+    frameWidth: 188
+    frameHeight: 37
+    notes: 
+  - category: Items
+    unit: Pickups
+    animationName: BlueEnergyPulse
+    clip: {fileID: 7400000, guid: f2c89050e07775346b4435255ca81bf5, type: 2}
+    controller: {fileID: 9100000, guid: ad64975da8d0fc0438f221cbcf23a04a, type: 2}
+    firstFrame: {fileID: 815180275, guid: 279f2efb2b096a84a868978c0e549c89, type: 3}
+    frameCount: 10
+    frameWidth: 28
+    frameHeight: 26
+    notes: 
+  - category: Items
+    unit: Pickups
+    animationName: RedEnergyPulse
+    clip: {fileID: 7400000, guid: f951dda9bc566e340b69b173774b81be, type: 2}
+    controller: {fileID: 9100000, guid: ad64975da8d0fc0438f221cbcf23a04a, type: 2}
+    firstFrame: {fileID: 1738571248, guid: 2e25d253c3568484ead4386c4ec0ed62, type: 3}
+    frameCount: 10
+    frameWidth: 28
+    frameHeight: 26
+    notes: 
+  - category: Items
+    unit: Pickups
+    animationName: SmallPickupRotate
+    clip: {fileID: 7400000, guid: 52e93156023800c46a42814eac1692a0, type: 2}
+    controller: {fileID: 9100000, guid: ad64975da8d0fc0438f221cbcf23a04a, type: 2}
+    firstFrame: {fileID: 1905320602, guid: 2ee90dd7209ec764884cdff4a83ffc7c, type: 3}
+    frameCount: 7
+    frameWidth: 20
+    frameHeight: 12
+    notes: 
+  - category: Items
+    unit: Pickups
+    animationName: LargePickupRotate
+    clip: {fileID: 7400000, guid: fb422baf62b72634aad942e4e2a83bd3, type: 2}
+    controller: {fileID: 9100000, guid: ad64975da8d0fc0438f221cbcf23a04a, type: 2}
+    firstFrame: {fileID: -2002992472, guid: 3c33ce175f2b16849ae5f77873097c82, type: 3}
+    frameCount: 10
+    frameWidth: 26
+    frameHeight: 17
+    notes: 
+  - category: Items
+    unit: Pickups
+    animationName: CapsulePulse
+    clip: {fileID: 7400000, guid: a6477edf9b7eefd49830c7f9a8769ea2, type: 2}
+    controller: {fileID: 9100000, guid: ad64975da8d0fc0438f221cbcf23a04a, type: 2}
+    firstFrame: {fileID: 2024465257, guid: c8976d6f592dded4cbb9f4bf8f3299bc, type: 3}
+    frameCount: 12
+    frameWidth: 22
+    frameHeight: 35
+    notes: 
+  - category: Items
+    unit: Pickups
+    animationName: SmallBlueOrbRotate
+    clip: {fileID: 7400000, guid: 2c14e9b649b95a64bba33bcf042f6291, type: 2}
+    controller: {fileID: 9100000, guid: ad64975da8d0fc0438f221cbcf23a04a, type: 2}
+    firstFrame: {fileID: -887814697, guid: 799bc4b991826a44abfac67e02885442, type: 3}
+    frameCount: 11
+    frameWidth: 14
+    frameHeight: 13
+    notes: 
+  - category: Items
+    unit: Pickups
+    animationName: BlueOrbRotate
+    clip: {fileID: 7400000, guid: a03b357cdf143434380f215f0c56253e, type: 2}
+    controller: {fileID: 9100000, guid: ad64975da8d0fc0438f221cbcf23a04a, type: 2}
+    firstFrame: {fileID: -1959673610, guid: 5dd88b2475802d941af8dfb1fc3bfd46, type: 3}
+    frameCount: 17
+    frameWidth: 20
+    frameHeight: 18
+    notes: 
+  - category: Items
+    unit: Pickups
+    animationName: LargeBlueOrbRotate
+    clip: {fileID: 7400000, guid: accec91441fd70c48afa9e65d59381d3, type: 2}
+    controller: {fileID: 9100000, guid: ad64975da8d0fc0438f221cbcf23a04a, type: 2}
+    firstFrame: {fileID: -1603766297, guid: 6e64e228460c4a547bb005a34d34047f, type: 3}
+    frameCount: 16
+    frameWidth: 24
+    frameHeight: 22
+    notes: 
+  - category: Items
+    unit: Pickups
+    animationName: PinkPickupRotate
+    clip: {fileID: 7400000, guid: 8f8501791899e9a41af19149b28d6767, type: 2}
+    controller: {fileID: 9100000, guid: ad64975da8d0fc0438f221cbcf23a04a, type: 2}
+    firstFrame: {fileID: -990784675, guid: 25c03ba33d833e249a84d40331802799, type: 3}
+    frameCount: 16
+    frameWidth: 24
+    frameHeight: 26
+    notes: 
+  - category: Items
+    unit: Pickups
+    animationName: EnergyTankRotate
+    clip: {fileID: 7400000, guid: 5b2da45916f57a949ab17667904aa304, type: 2}
+    controller: {fileID: 9100000, guid: ad64975da8d0fc0438f221cbcf23a04a, type: 2}
+    firstFrame: {fileID: -1013309799, guid: a6960977390497041a2ef41a54677852, type: 3}
+    frameCount: 8
+    frameWidth: 30
+    frameHeight: 27
+    notes: 
+  - category: Items
+    unit: Pickups
+    animationName: LifeTankRotate
+    clip: {fileID: 7400000, guid: 4f9b6f53293537f4181e308dace0f467, type: 2}
+    controller: {fileID: 9100000, guid: ad64975da8d0fc0438f221cbcf23a04a, type: 2}
+    firstFrame: {fileID: -208535779, guid: 50eec3f73697e78489a7433724c8b298, type: 3}
+    frameCount: 8
+    frameWidth: 30
+    frameHeight: 29
+    notes: 
+  - category: Items
+    unit: Pickups
+    animationName: CorePulse
+    clip: {fileID: 7400000, guid: 502d990331387f64585bf41cbddd62fc, type: 2}
+    controller: {fileID: 9100000, guid: ad64975da8d0fc0438f221cbcf23a04a, type: 2}
+    firstFrame: {fileID: -1429349307, guid: c60e9c38074bb864082e78f8af49c567, type: 3}
+    frameCount: 4
+    frameWidth: 36
+    frameHeight: 29
+    notes: 
+  - category: Effects
+    unit: DragonEffects
+    animationName: SlashArc
+    clip: {fileID: 7400000, guid: b0110ef3bfb48524eab9817968b71bcd, type: 2}
+    controller: {fileID: 9100000, guid: 3489bb1c28f26554993ba38257737eb2, type: 2}
+    firstFrame: {fileID: 1741738185, guid: bbdfd8ee26408af4fa38d795784dbb69, type: 3}
+    frameCount: 12
+    frameWidth: 52
+    frameHeight: 48
+    notes: 
+  - category: Effects
+    unit: DragonEffects
+    animationName: SmallFlameUp
+    clip: {fileID: 7400000, guid: 6fa80cb4f7639e646ab469c81651a4d9, type: 2}
+    controller: {fileID: 9100000, guid: 3489bb1c28f26554993ba38257737eb2, type: 2}
+    firstFrame: {fileID: -1797419988, guid: 2dc334f0684e77348813ddeb416e632d, type: 3}
+    frameCount: 11
+    frameWidth: 20
+    frameHeight: 33
+    notes: 
+  - category: Effects
+    unit: DragonEffects
+    animationName: SmallFlameDown
+    clip: {fileID: 7400000, guid: e5fee6bac95fec34d84581b48e0f0872, type: 2}
+    controller: {fileID: 9100000, guid: 3489bb1c28f26554993ba38257737eb2, type: 2}
+    firstFrame: {fileID: -1401192496, guid: 2ac5c483e0bb17744b8b0321468ffc1a, type: 3}
+    frameCount: 12
+    frameWidth: 36
+    frameHeight: 52
+    notes: 
+  - category: Effects
+    unit: DragonEffects
+    animationName: FireballDown
+    clip: {fileID: 7400000, guid: c5d2030d3e7dc564993d329ab5cd0680, type: 2}
+    controller: {fileID: 9100000, guid: 3489bb1c28f26554993ba38257737eb2, type: 2}
+    firstFrame: {fileID: 618901606, guid: e7d886d1afae1454eb2483d782d21ece, type: 3}
+    frameCount: 13
+    frameWidth: 58
+    frameHeight: 82
+    notes: 
+  - category: Effects
+    unit: DragonEffects
+    animationName: FireballRight
+    clip: {fileID: 7400000, guid: 0793b03bd7a74c943b2994b47ae7987f, type: 2}
+    controller: {fileID: 9100000, guid: 3489bb1c28f26554993ba38257737eb2, type: 2}
+    firstFrame: {fileID: -1926559579, guid: d3e38eb8e8ee8a94999db7870992b7c6, type: 3}
+    frameCount: 8
+    frameWidth: 82
+    frameHeight: 58
+    notes: 
+  - category: Effects
+    unit: DragonEffects
+    animationName: FireballDiagonal
+    clip: {fileID: 7400000, guid: 44837b168cae0744083175e16e7e65ff, type: 2}
+    controller: {fileID: 9100000, guid: 3489bb1c28f26554993ba38257737eb2, type: 2}
+    firstFrame: {fileID: 1776080672, guid: 2f829cc279f0f284e931779e76ea8d8f, type: 3}
+    frameCount: 5
+    frameWidth: 54
+    frameHeight: 54
+    notes: 
+  - category: Effects
+    unit: DragonEffects
+    animationName: GroundFlameSmall
+    clip: {fileID: 7400000, guid: 435c1cea16ae45d4bb57a236f0900f82, type: 2}
+    controller: {fileID: 9100000, guid: 3489bb1c28f26554993ba38257737eb2, type: 2}
+    firstFrame: {fileID: 1691800073, guid: 0a0c02c613417e543a369d8e9a91151a, type: 3}
+    frameCount: 14
+    frameWidth: 36
+    frameHeight: 23
+    notes: 
+  - category: Effects
+    unit: DragonEffects
+    animationName: GroundFlameMedium
+    clip: {fileID: 7400000, guid: 746e8dcda5c26694291ebcf81d0202f7, type: 2}
+    controller: {fileID: 9100000, guid: 3489bb1c28f26554993ba38257737eb2, type: 2}
+    firstFrame: {fileID: -848509149, guid: f7cf8138a5d38f445975677f8c8f5966, type: 3}
+    frameCount: 8
+    frameWidth: 52
+    frameHeight: 32
+    notes: 
+  - category: Effects
+    unit: DragonEffects
+    animationName: GroundFlameTall
+    clip: {fileID: 7400000, guid: a004e43db00dad944acbfff12128721a, type: 2}
+    controller: {fileID: 9100000, guid: 3489bb1c28f26554993ba38257737eb2, type: 2}
+    firstFrame: {fileID: 923440160, guid: a77f32c97cf18aa43806bbf18b6ad6a0, type: 3}
+    frameCount: 8
+    frameWidth: 50
+    frameHeight: 53
+    notes: 
+  - category: Effects
+    unit: DragonEffects
+    animationName: FlamePillar
+    clip: {fileID: 7400000, guid: 60557c3c4dff99648a74260dcf44d8e6, type: 2}
+    controller: {fileID: 9100000, guid: 3489bb1c28f26554993ba38257737eb2, type: 2}
+    firstFrame: {fileID: 1829149690, guid: 6308fbde2eec93148ba9e5e664c2fc05, type: 3}
+    frameCount: 11
+    frameWidth: 68
+    frameHeight: 72
+    notes: 
+  - category: Effects
+    unit: DragonEffects
+    animationName: BlastWave
+    clip: {fileID: 7400000, guid: c9aebc01b855f76459d2755a1da48984, type: 2}
+    controller: {fileID: 9100000, guid: 3489bb1c28f26554993ba38257737eb2, type: 2}
+    firstFrame: {fileID: 106569533, guid: e47d38863a89ec24ab713b8d8bde167d, type: 3}
+    frameCount: 3
+    frameWidth: 132
+    frameHeight: 101
+    notes: 
+  - category: Effects
+    unit: DragonEffects
+    animationName: Embers
+    clip: {fileID: 7400000, guid: 96e72fa2323cc184e8de7d4d1ea9bf26, type: 2}
+    controller: {fileID: 9100000, guid: 3489bb1c28f26554993ba38257737eb2, type: 2}
+    firstFrame: {fileID: 807284156, guid: d2974c2298b57804cac057edf1753172, type: 3}
+    frameCount: 20
+    frameWidth: 32
+    frameHeight: 28
+    notes: 
+  - category: Effects
+    unit: DragonEffects
+    animationName: Impact
+    clip: {fileID: 7400000, guid: 85e4a814b4a2cdd46b63e7676151cc37, type: 2}
+    controller: {fileID: 9100000, guid: 3489bb1c28f26554993ba38257737eb2, type: 2}
+    firstFrame: {fileID: -1101310139, guid: 5e7280a5deec93c41b0de5a97972281a, type: 3}
+    frameCount: 5
+    frameWidth: 100
+    frameHeight: 45
+    notes: 
+  - category: Effects
+    unit: DragonEffects
+    animationName: ShockRing
+    clip: {fileID: 7400000, guid: adc082bd9d2a36640b2dab39a8c38153, type: 2}
+    controller: {fileID: 9100000, guid: 3489bb1c28f26554993ba38257737eb2, type: 2}
+    firstFrame: {fileID: -491939885, guid: 04135f571b068df41a94b562665b3c00, type: 3}
+    frameCount: 6
+    frameWidth: 92
+    frameHeight: 28
+    notes: 
+  - category: Effects
+    unit: DragonEffects
+    animationName: EnergyOrbs
+    clip: {fileID: 7400000, guid: 3f5da8dfcaa794e49ada11dfcd896070, type: 2}
+    controller: {fileID: 9100000, guid: 3489bb1c28f26554993ba38257737eb2, type: 2}
+    firstFrame: {fileID: 1334193280, guid: 4bc22d29fe5b05a4da3bdc486f41e4fc, type: 3}
+    frameCount: 3
+    frameWidth: 52
+    frameHeight: 50
+    notes: 
+  - category: Bosses
+    unit: Dragon
+    animationName: Idle
+    clip: {fileID: 7400000, guid: 805ca0c4cad6f0846b749479a3f8a580, type: 2}
+    controller: {fileID: 9100000, guid: 9a2677ab83b415347a0f61d82d25ba4a, type: 2}
+    firstFrame: {fileID: -1383314851, guid: 5a7e07a0f60018648a31732648217d0e, type: 3}
+    frameCount: 1
+    frameWidth: 66
+    frameHeight: 85
+    notes: 
+  - category: Bosses
+    unit: Dragon
+    animationName: Guard
+    clip: {fileID: 7400000, guid: f1347a9ea349821418356d56bc52af39, type: 2}
+    controller: {fileID: 9100000, guid: 9a2677ab83b415347a0f61d82d25ba4a, type: 2}
+    firstFrame: {fileID: -345322513, guid: 357df5bb666f7d6469f21aa8c2eeb07c, type: 3}
+    frameCount: 1
+    frameWidth: 86
+    frameHeight: 83
+    notes: 
+  - category: Bosses
+    unit: Dragon
+    animationName: Windup
+    clip: {fileID: 7400000, guid: 4a9bbf258aec9ac48b918def70f15931, type: 2}
+    controller: {fileID: 9100000, guid: 9a2677ab83b415347a0f61d82d25ba4a, type: 2}
+    firstFrame: {fileID: 1825934795, guid: da4b35e85ab95bf43923a18198dc2b8c, type: 3}
+    frameCount: 1
+    frameWidth: 100
+    frameHeight: 72
+    notes: 
+  - category: Bosses
+    unit: Dragon
+    animationName: Slash
+    clip: {fileID: 7400000, guid: 98a9e14a6e058b94594e66302b18de86, type: 2}
+    controller: {fileID: 9100000, guid: 9a2677ab83b415347a0f61d82d25ba4a, type: 2}
+    firstFrame: {fileID: 454716933, guid: 2af64561255e1714ab7db1e7d1bc600b, type: 3}
+    frameCount: 1
+    frameWidth: 98
+    frameHeight: 77
+    notes: 
+  - category: Bosses
+    unit: Dragon
+    animationName: Sweep
+    clip: {fileID: 7400000, guid: 196aec1c0a6980440a78e02f31f04f2c, type: 2}
+    controller: {fileID: 9100000, guid: 9a2677ab83b415347a0f61d82d25ba4a, type: 2}
+    firstFrame: {fileID: -2004990754, guid: 748b097ea7099e34dbe7d2875f6ecae0, type: 3}
+    frameCount: 1
+    frameWidth: 102
+    frameHeight: 76
+    notes: 
+  - category: Bosses
+    unit: Dragon
+    animationName: JumpAttack
+    clip: {fileID: 7400000, guid: bf925c7f2d71fc4418533ceaa2f04e25, type: 2}
+    controller: {fileID: 9100000, guid: 9a2677ab83b415347a0f61d82d25ba4a, type: 2}
+    firstFrame: {fileID: 1134513648, guid: 0599f96c17475c4418e49be5bbe0aa3b, type: 3}
+    frameCount: 1
+    frameWidth: 70
+    frameHeight: 108
+    notes: 
+  - category: Bosses
+    unit: Dragon
+    animationName: AttackRaised
+    clip: {fileID: 7400000, guid: f728ab09984b4c5458622a7fc2410f29, type: 2}
+    controller: {fileID: 9100000, guid: 9a2677ab83b415347a0f61d82d25ba4a, type: 2}
+    firstFrame: {fileID: 1648388633, guid: ddd8e3c84141bd743a6e28df6273ad47, type: 3}
+    frameCount: 1
+    frameWidth: 92
+    frameHeight: 78
+    notes: 
+  - category: Bosses
+    unit: Dragon
+    animationName: CrouchAttack
+    clip: {fileID: 7400000, guid: 446e2d1f08e724c4380bd36c708aa054, type: 2}
+    controller: {fileID: 9100000, guid: 9a2677ab83b415347a0f61d82d25ba4a, type: 2}
+    firstFrame: {fileID: -649794979, guid: e0e6afd1ba1c88040ad30992bdf84679, type: 3}
+    frameCount: 1
+    frameWidth: 100
+    frameHeight: 77
+    notes: 
+  - category: Bosses
+    unit: Dragon
+    animationName: Recover
+    clip: {fileID: 7400000, guid: 3dd5171cbb5034f45be69f537df5f5f0, type: 2}
+    controller: {fileID: 9100000, guid: 9a2677ab83b415347a0f61d82d25ba4a, type: 2}
+    firstFrame: {fileID: 1632663655, guid: 79ca3feebfad48c42bec56fe5b251060, type: 3}
+    frameCount: 1
+    frameWidth: 78
+    frameHeight: 70
+    notes: 
+  - category: Bosses
+    unit: Dragon
+    animationName: SweepLow
+    clip: {fileID: 7400000, guid: e58cf0f19cb77184a8f6e3163da99391, type: 2}
+    controller: {fileID: 9100000, guid: 9a2677ab83b415347a0f61d82d25ba4a, type: 2}
+    firstFrame: {fileID: 525832826, guid: 0241bee422177534aaf02e894cdeb3b1, type: 3}
+    frameCount: 1
+    frameWidth: 102
+    frameHeight: 63
+    notes: 
+  - category: Bosses
+    unit: Dragon
+    animationName: KickHigh
+    clip: {fileID: 7400000, guid: ef1bec05665c55f4fa2a8758ab6a7aa0, type: 2}
+    controller: {fileID: 9100000, guid: 9a2677ab83b415347a0f61d82d25ba4a, type: 2}
+    firstFrame: {fileID: 71720524, guid: cb6b61092f27cd64e9aede68c1c6571d, type: 3}
+    frameCount: 1
+    frameWidth: 68
+    frameHeight: 87
+    notes: 
+  - category: Bosses
+    unit: Dragon
+    animationName: KickForward
+    clip: {fileID: 7400000, guid: 35d4159e36384a44d85ff36d8e4ec53a, type: 2}
+    controller: {fileID: 9100000, guid: 9a2677ab83b415347a0f61d82d25ba4a, type: 2}
+    firstFrame: {fileID: 396514656, guid: 8ab39a278dcce71408097928743eddd1, type: 3}
+    frameCount: 1
+    frameWidth: 86
+    frameHeight: 78
+    notes: 
+  - category: Bosses
+    unit: Dragon
+    animationName: Turn
+    clip: {fileID: 7400000, guid: c99e17ebdab901b41920c07bbe6f22c2, type: 2}
+    controller: {fileID: 9100000, guid: 9a2677ab83b415347a0f61d82d25ba4a, type: 2}
+    firstFrame: {fileID: 543906679, guid: 4271f1f0d7cb9f34f88f888de7b79026, type: 3}
+    frameCount: 1
+    frameWidth: 78
+    frameHeight: 88
+    notes: 
+  - category: Bosses
+    unit: Dragon
+    animationName: Lunge
+    clip: {fileID: 7400000, guid: c48578de55651cd48bd5bb9a7ca3ed3f, type: 2}
+    controller: {fileID: 9100000, guid: 9a2677ab83b415347a0f61d82d25ba4a, type: 2}
+    firstFrame: {fileID: 1611935588, guid: 624ca6fe98692fa4290af2c425a2aa75, type: 3}
+    frameCount: 1
+    frameWidth: 80
+    frameHeight: 82
+    notes: 
+  - category: Bosses
+    unit: Dragon
+    animationName: Hurt
+    clip: {fileID: 7400000, guid: eea81e641cad69048a3a86dd5700890a, type: 2}
+    controller: {fileID: 9100000, guid: 9a2677ab83b415347a0f61d82d25ba4a, type: 2}
+    firstFrame: {fileID: 1403560645, guid: 346183ab7aa774c4f8ecb16b65601894, type: 3}
+    frameCount: 1
+    frameWidth: 94
+    frameHeight: 66
+    notes: 
+  - category: Bosses
+    unit: Dragon
+    animationName: Crouch
+    clip: {fileID: 7400000, guid: 3a3c192a64e3aa747b82903a4a410865, type: 2}
+    controller: {fileID: 9100000, guid: 9a2677ab83b415347a0f61d82d25ba4a, type: 2}
+    firstFrame: {fileID: 912277255, guid: 6de1200f632e5e149ab6c638b63424fa, type: 3}
+    frameCount: 1
+    frameWidth: 98
+    frameHeight: 72
+    notes: 
+  - category: Bosses
+    unit: Dragon
+    animationName: CrouchShift
+    clip: {fileID: 7400000, guid: ba53ed42c32acb64ca62a864e75eb687, type: 2}
+    controller: {fileID: 9100000, guid: 9a2677ab83b415347a0f61d82d25ba4a, type: 2}
+    firstFrame: {fileID: 1131704061, guid: 946cec3f569484e498c1af2726e620e2, type: 3}
+    frameCount: 1
+    frameWidth: 100
+    frameHeight: 71
+    notes: 
+  - category: Bosses
+    unit: Dragon
+    animationName: Airborne
+    clip: {fileID: 7400000, guid: bcfdee2738577c943ba57d71ea235658, type: 2}
+    controller: {fileID: 9100000, guid: 9a2677ab83b415347a0f61d82d25ba4a, type: 2}
+    firstFrame: {fileID: -294534553, guid: a88f6742c55747341ae98156d48c8f25, type: 3}
+    frameCount: 1
+    frameWidth: 80
+    frameHeight: 83
+    notes: 
+  - category: Bosses
+    unit: Dragon
+    animationName: CrouchIdle
+    clip: {fileID: 7400000, guid: 2043cb610a08c264a939a763a126cb36, type: 2}
+    controller: {fileID: 9100000, guid: 9a2677ab83b415347a0f61d82d25ba4a, type: 2}
+    firstFrame: {fileID: 1345449927, guid: 6498554f581868b4d8856c228eb955b1, type: 3}
+    frameCount: 2
+    frameWidth: 100
+    frameHeight: 72
+    notes: 
+  - category: Bosses
+    unit: DragonParts
+    animationName: Part_01
+    clip: {fileID: 7400000, guid: a476ad0802a38f946ae8bf01d4affdf4, type: 2}
+    controller: {fileID: 9100000, guid: 4959c0a2a346dea4697124e1464ce34e, type: 2}
+    firstFrame: {fileID: -1031865256, guid: 4ce7505128ea8b745a3becf415535e6d, type: 3}
+    frameCount: 1
+    frameWidth: 28
+    frameHeight: 26
+    notes: 
+  - category: Bosses
+    unit: DragonParts
+    animationName: Part_02
+    clip: {fileID: 7400000, guid: 3ae74c461ba05274ab2beadaa07b25ca, type: 2}
+    controller: {fileID: 9100000, guid: 4959c0a2a346dea4697124e1464ce34e, type: 2}
+    firstFrame: {fileID: 1222613521, guid: c8182d84c9283d64e8d69a98a0dab1ba, type: 3}
+    frameCount: 1
+    frameWidth: 62
+    frameHeight: 27
+    notes: 
+  - category: Bosses
+    unit: DragonParts
+    animationName: Part_03
+    clip: {fileID: 7400000, guid: 1dc4f108670d7904fafbd51a49b3cd34, type: 2}
+    controller: {fileID: 9100000, guid: 4959c0a2a346dea4697124e1464ce34e, type: 2}
+    firstFrame: {fileID: 195254652, guid: 0d4db4610ffdcc343a8bb2106bd6bb22, type: 3}
+    frameCount: 1
+    frameWidth: 44
+    frameHeight: 33
+    notes: 
+  - category: Bosses
+    unit: DragonParts
+    animationName: Part_04
+    clip: {fileID: 7400000, guid: 2675154d1b494b148a3afff938c59323, type: 2}
+    controller: {fileID: 9100000, guid: 4959c0a2a346dea4697124e1464ce34e, type: 2}
+    firstFrame: {fileID: 27882681, guid: edcba882ad7b2064dbb56f04a1860edd, type: 3}
+    frameCount: 1
+    frameWidth: 82
+    frameHeight: 83
+    notes: 
+  - category: Bosses
+    unit: DragonParts
+    animationName: Part_05
+    clip: {fileID: 7400000, guid: ce223f9dffb1cb04cab0c8bca2b88b37, type: 2}
+    controller: {fileID: 9100000, guid: 4959c0a2a346dea4697124e1464ce34e, type: 2}
+    firstFrame: {fileID: -1868394615, guid: 5947bee3186141a4c95a1da380cfee34, type: 3}
+    frameCount: 1
+    frameWidth: 46
+    frameHeight: 34
+    notes: 
+  - category: Bosses
+    unit: DragonParts
+    animationName: Part_06
+    clip: {fileID: 7400000, guid: d053c09519065444a9e4a397abb71e68, type: 2}
+    controller: {fileID: 9100000, guid: 4959c0a2a346dea4697124e1464ce34e, type: 2}
+    firstFrame: {fileID: 1214697847, guid: d4fff8b93e8e38b41a36be798ff323b7, type: 3}
+    frameCount: 1
+    frameWidth: 20
+    frameHeight: 24
+    notes: 
+  - category: Bosses
+    unit: DragonParts
+    animationName: Part_07
+    clip: {fileID: 7400000, guid: 8c887a504375a774fb71130db58f2002, type: 2}
+    controller: {fileID: 9100000, guid: 4959c0a2a346dea4697124e1464ce34e, type: 2}
+    firstFrame: {fileID: -1170195356, guid: 837c4f5c96acdf64c8e8b90ddc8e487b, type: 3}
+    frameCount: 1
+    frameWidth: 18
+    frameHeight: 25
+    notes: 
+  - category: Bosses
+    unit: DragonParts
+    animationName: Part_08
+    clip: {fileID: 7400000, guid: 49202aebb3c34ac428cca33a3671f59e, type: 2}
+    controller: {fileID: 9100000, guid: 4959c0a2a346dea4697124e1464ce34e, type: 2}
+    firstFrame: {fileID: 932384894, guid: 9bf1d7c7b18f536408c71cd987e00d93, type: 3}
+    frameCount: 1
+    frameWidth: 34
+    frameHeight: 36
+    notes: 
+  - category: Bosses
+    unit: DragonParts
+    animationName: Part_09
+    clip: {fileID: 7400000, guid: f8f542e118745e34da91f84d08480329, type: 2}
+    controller: {fileID: 9100000, guid: 4959c0a2a346dea4697124e1464ce34e, type: 2}
+    firstFrame: {fileID: 1500680180, guid: 0ba02eefa83bbcd43a05e1a0d928828b, type: 3}
+    frameCount: 1
+    frameWidth: 18
+    frameHeight: 18
+    notes: 
+  - category: Bosses
+    unit: DragonParts
+    animationName: Part_10
+    clip: {fileID: 7400000, guid: 2cdd4e6237541a9409858798ad6d9f94, type: 2}
+    controller: {fileID: 9100000, guid: 4959c0a2a346dea4697124e1464ce34e, type: 2}
+    firstFrame: {fileID: -1190157412, guid: 1a923d8de9a641746b8fedaad62b0f0c, type: 3}
+    frameCount: 1
+    frameWidth: 14
+    frameHeight: 16
+    notes: 
+  - category: Bosses
+    unit: DragonParts
+    animationName: Part_11
+    clip: {fileID: 7400000, guid: 941ab601abe294647bf851ee264d4623, type: 2}
+    controller: {fileID: 9100000, guid: 4959c0a2a346dea4697124e1464ce34e, type: 2}
+    firstFrame: {fileID: 1128009386, guid: e7f115fbeac1e4a44b866d1b39bbb69e, type: 3}
+    frameCount: 1
+    frameWidth: 66
+    frameHeight: 50
+    notes: 
+  - category: Bosses
+    unit: DragonParts
+    animationName: Part_12
+    clip: {fileID: 7400000, guid: 861b57df1cd01604eb0d2b65715be2ec, type: 2}
+    controller: {fileID: 9100000, guid: 4959c0a2a346dea4697124e1464ce34e, type: 2}
+    firstFrame: {fileID: -1479489359, guid: d84333509415a6e4183d555be74c8ea1, type: 3}
+    frameCount: 1
+    frameWidth: 36
+    frameHeight: 34
+    notes: 
+  - category: Bosses
+    unit: DragonParts
+    animationName: Part_13
+    clip: {fileID: 7400000, guid: 5c6748548c45df245a66cf8dfeb9f442, type: 2}
+    controller: {fileID: 9100000, guid: 4959c0a2a346dea4697124e1464ce34e, type: 2}
+    firstFrame: {fileID: 2075216531, guid: 286225e5e92b11948b0e68d3a34ab169, type: 3}
+    frameCount: 1
+    frameWidth: 26
+    frameHeight: 31
+    notes: 
+  - category: Bosses
+    unit: DragonParts
+    animationName: Part_14
+    clip: {fileID: 7400000, guid: 476b4b5d853244c46bb6e809009a1eb6, type: 2}
+    controller: {fileID: 9100000, guid: 4959c0a2a346dea4697124e1464ce34e, type: 2}
+    firstFrame: {fileID: 717295384, guid: 588ef2b95c688bc4687607556fd19da4, type: 3}
+    frameCount: 1
+    frameWidth: 26
+    frameHeight: 32
+    notes: 
+  - category: Bosses
+    unit: DragonParts
+    animationName: Part_15
+    clip: {fileID: 7400000, guid: 4053c2e5e197a904ea6cedb8451a6e52, type: 2}
+    controller: {fileID: 9100000, guid: 4959c0a2a346dea4697124e1464ce34e, type: 2}
+    firstFrame: {fileID: 1383952791, guid: e11eaec055cf6c548bcfab75ded89f51, type: 3}
+    frameCount: 1
+    frameWidth: 34
+    frameHeight: 20
+    notes: 
+  - category: Bosses
+    unit: DragonParts
+    animationName: Part_16
+    clip: {fileID: 7400000, guid: b0df805ec508ad54a9e52c9cf0f98a51, type: 2}
+    controller: {fileID: 9100000, guid: 4959c0a2a346dea4697124e1464ce34e, type: 2}
+    firstFrame: {fileID: -904096785, guid: be6806cb7758880468184d4bfc8cf854, type: 3}
+    frameCount: 1
+    frameWidth: 38
+    frameHeight: 41
+    notes: 
+  - category: Bosses
+    unit: DragonParts
+    animationName: Part_17
+    clip: {fileID: 7400000, guid: b91bc2838d3d13342b60509e6bcf27df, type: 2}
+    controller: {fileID: 9100000, guid: 4959c0a2a346dea4697124e1464ce34e, type: 2}
+    firstFrame: {fileID: -13352073, guid: d694572d8457aee4598fc8a9b64e4c73, type: 3}
+    frameCount: 1
+    frameWidth: 92
+    frameHeight: 48
+    notes: 
+  - category: Bosses
+    unit: DragonParts
+    animationName: Part_18
+    clip: {fileID: 7400000, guid: 5221829d67d43f74693fc5281e643c12, type: 2}
+    controller: {fileID: 9100000, guid: 4959c0a2a346dea4697124e1464ce34e, type: 2}
+    firstFrame: {fileID: 593793647, guid: 6f68269a843940f4e8cc59935ed5b140, type: 3}
+    frameCount: 1
+    frameWidth: 26
+    frameHeight: 32
+    notes: 
+  - category: Bosses
+    unit: DragonParts
+    animationName: Part_19
+    clip: {fileID: 7400000, guid: e3644d7ad05f7b4469d76fda5857267a, type: 2}
+    controller: {fileID: 9100000, guid: 4959c0a2a346dea4697124e1464ce34e, type: 2}
+    firstFrame: {fileID: -547101866, guid: 5467e76e5e7cec44f85729102e859522, type: 3}
+    frameCount: 1
+    frameWidth: 34
+    frameHeight: 32
+    notes: 
+  - category: Bosses
+    unit: DragonParts
+    animationName: Part_20
+    clip: {fileID: 7400000, guid: 78975a0fd48eb2b409461eb36e1eacce, type: 2}
+    controller: {fileID: 9100000, guid: 4959c0a2a346dea4697124e1464ce34e, type: 2}
+    firstFrame: {fileID: -1244878431, guid: a58b07040c1d596408452184a0f58007, type: 3}
+    frameCount: 1
+    frameWidth: 38
+    frameHeight: 41
+    notes: 
+  - category: Bosses
+    unit: DragonParts
+    animationName: Part_21
+    clip: {fileID: 7400000, guid: c9b848c15b417b646a1b8168fb47d30f, type: 2}
+    controller: {fileID: 9100000, guid: 4959c0a2a346dea4697124e1464ce34e, type: 2}
+    firstFrame: {fileID: -1109781686, guid: a6727e70483b0b549b998fa54d138b3f, type: 3}
+    frameCount: 1
+    frameWidth: 32
+    frameHeight: 19
+    notes: 
+  - category: Bosses
+    unit: DragonParts
+    animationName: Part_22
+    clip: {fileID: 7400000, guid: 88b71bd512695d348a84e3b7e7ea6762, type: 2}
+    controller: {fileID: 9100000, guid: 4959c0a2a346dea4697124e1464ce34e, type: 2}
+    firstFrame: {fileID: -1938744672, guid: 1c22d54a04a47c148a2f470cd0266b60, type: 3}
+    frameCount: 1
+    frameWidth: 28
+    frameHeight: 20
+    notes: 
+  - category: Bosses
+    unit: DragonParts
+    animationName: Part_23
+    clip: {fileID: 7400000, guid: 9c3c9afbcc5feb541b50be440c4ace31, type: 2}
+    controller: {fileID: 9100000, guid: 4959c0a2a346dea4697124e1464ce34e, type: 2}
+    firstFrame: {fileID: 2077184513, guid: 67039484df9723b4d9f3e7019c065f6f, type: 3}
+    frameCount: 1
+    frameWidth: 22
+    frameHeight: 27
+    notes: 
+  - category: Bosses
+    unit: DragonParts
+    animationName: Part_24
+    clip: {fileID: 7400000, guid: bf5b35d7f36344c43b85d5dc7a7f5ef3, type: 2}
+    controller: {fileID: 9100000, guid: 4959c0a2a346dea4697124e1464ce34e, type: 2}
+    firstFrame: {fileID: -1491047205, guid: e8daed222d4490f45a26983895891551, type: 3}
+    frameCount: 1
+    frameWidth: 28
+    frameHeight: 22
+    notes: 
+  - category: Bosses
+    unit: DragonParts
+    animationName: Part_25
+    clip: {fileID: 7400000, guid: ef667b4187689bd4392ad7228e0e5e26, type: 2}
+    controller: {fileID: 9100000, guid: 4959c0a2a346dea4697124e1464ce34e, type: 2}
+    firstFrame: {fileID: -1321054127, guid: 2c62e2ab5b3df8a43b956fa6d0a51b48, type: 3}
+    frameCount: 1
+    frameWidth: 40
+    frameHeight: 19
+    notes: 
+  - category: Bosses
+    unit: DragonParts
+    animationName: Part_26
+    clip: {fileID: 7400000, guid: 070814d710930fb479b4d2cd75b46a2a, type: 2}
+    controller: {fileID: 9100000, guid: 4959c0a2a346dea4697124e1464ce34e, type: 2}
+    firstFrame: {fileID: 1491810509, guid: 47f70b003769c9b4196cb3d20a093e7f, type: 3}
+    frameCount: 1
+    frameWidth: 24
+    frameHeight: 26
+    notes: 
+  - category: Bosses
+    unit: DragonParts
+    animationName: Part_27
+    clip: {fileID: 7400000, guid: 99e0e8ad125c8a348bf3d5ac14900e1e, type: 2}
+    controller: {fileID: 9100000, guid: 4959c0a2a346dea4697124e1464ce34e, type: 2}
+    firstFrame: {fileID: -341512341, guid: a973d6de2fe2fb144bb1cbe49cf4f279, type: 3}
+    frameCount: 1
+    frameWidth: 58
+    frameHeight: 26
+    notes: 
+  - category: Bosses
+    unit: DragonParts
+    animationName: Part_28
+    clip: {fileID: 7400000, guid: 94bbbfe7f4e92bf4fadeaa64e3f18383, type: 2}
+    controller: {fileID: 9100000, guid: 4959c0a2a346dea4697124e1464ce34e, type: 2}
+    firstFrame: {fileID: -1145363202, guid: 046bcf2a89044364fadd6cb533b67f34, type: 3}
+    frameCount: 1
+    frameWidth: 44
+    frameHeight: 19
+    notes: 
+  - category: Bosses
+    unit: DragonParts
+    animationName: Part_29
+    clip: {fileID: 7400000, guid: 44269e5934bf6f444a1e9eeffb6f6bcc, type: 2}
+    controller: {fileID: 9100000, guid: 4959c0a2a346dea4697124e1464ce34e, type: 2}
+    firstFrame: {fileID: 1188927256, guid: 6bb3289997bf5724aaedd167f1366842, type: 3}
+    frameCount: 1
+    frameWidth: 38
+    frameHeight: 22
+    notes: 
+  - category: Bosses
+    unit: DragonParts
+    animationName: Part_30
+    clip: {fileID: 7400000, guid: 5ae0578909d2e90418760fdc2f6dfe2e, type: 2}
+    controller: {fileID: 9100000, guid: 4959c0a2a346dea4697124e1464ce34e, type: 2}
+    firstFrame: {fileID: 262755872, guid: 80a1461e6ea81ec4e93888dd7ba39b13, type: 3}
+    frameCount: 1
+    frameWidth: 46
+    frameHeight: 56
+    notes: 
+  - category: Bosses
+    unit: DragonParts
+    animationName: Part_31
+    clip: {fileID: 7400000, guid: 775867db8d9b6b94a8b6d7e43f77b1ec, type: 2}
+    controller: {fileID: 9100000, guid: 4959c0a2a346dea4697124e1464ce34e, type: 2}
+    firstFrame: {fileID: 1039438133, guid: c6e587fc1264edb47a205bf308b1ae83, type: 3}
+    frameCount: 1
+    frameWidth: 100
+    frameHeight: 70
+    notes: 
+  - category: Bosses
+    unit: DragonParts
+    animationName: Part_32
+    clip: {fileID: 7400000, guid: ff5c82071a5c7a343a6638513194169f, type: 2}
+    controller: {fileID: 9100000, guid: 4959c0a2a346dea4697124e1464ce34e, type: 2}
+    firstFrame: {fileID: 1658351991, guid: 9cc569661a78530438576fa061497bb4, type: 3}
+    frameCount: 1
+    frameWidth: 32
+    frameHeight: 19
+    notes: 
+  - category: Bosses
+    unit: DragonParts
+    animationName: Part_33
+    clip: {fileID: 7400000, guid: 7d54a5b2104e55a4fbfbc290c03b1a4c, type: 2}
+    controller: {fileID: 9100000, guid: 4959c0a2a346dea4697124e1464ce34e, type: 2}
+    firstFrame: {fileID: 1645815732, guid: edf7cdcd84753bb46b34ee41fc8c96c6, type: 3}
+    frameCount: 1
+    frameWidth: 22
+    frameHeight: 27
+    notes: 
+  - category: Bosses
+    unit: DragonParts
+    animationName: Part_34
+    clip: {fileID: 7400000, guid: 810031febad162e43b8d5a486d0a4d8a, type: 2}
+    controller: {fileID: 9100000, guid: 4959c0a2a346dea4697124e1464ce34e, type: 2}
+    firstFrame: {fileID: 577251919, guid: 8b5aabb73148a7e49b7ef14219e5133f, type: 3}
+    frameCount: 1
+    frameWidth: 28
+    frameHeight: 22
+    notes: 
+  - category: Bosses
+    unit: DragonParts
+    animationName: Part_35
+    clip: {fileID: 7400000, guid: a348b10483dd3b849bac6317416c5cc7, type: 2}
+    controller: {fileID: 9100000, guid: 4959c0a2a346dea4697124e1464ce34e, type: 2}
+    firstFrame: {fileID: 890323379, guid: 11d2d3ce10170b140a3ef33bfc8802ea, type: 3}
+    frameCount: 1
+    frameWidth: 44
+    frameHeight: 19
+    notes: 
+  - category: Bosses
+    unit: DragonParts
+    animationName: Part_36
+    clip: {fileID: 7400000, guid: ef28f4f4e84169a4690a41aa6b0f642b, type: 2}
+    controller: {fileID: 9100000, guid: 4959c0a2a346dea4697124e1464ce34e, type: 2}
+    firstFrame: {fileID: 598266103, guid: dcbd63390e36ce5418bfba16a1bbba53, type: 3}
+    frameCount: 1
+    frameWidth: 38
+    frameHeight: 22
+    notes: 
+  - category: Bosses
+    unit: DragonParts
+    animationName: Part_37
+    clip: {fileID: 7400000, guid: 2229f91f490adda42b4afcc074638750, type: 2}
+    controller: {fileID: 9100000, guid: 4959c0a2a346dea4697124e1464ce34e, type: 2}
+    firstFrame: {fileID: 70349764, guid: 13c4d6685daf39942bfbe5914075a7b5, type: 3}
+    frameCount: 1
+    frameWidth: 20
+    frameHeight: 36
+    notes: 
+  - category: Bosses
+    unit: DragonParts
+    animationName: Part_38
+    clip: {fileID: 7400000, guid: 932e16f6402e8c744bed0f8ee19cf0b1, type: 2}
+    controller: {fileID: 9100000, guid: 4959c0a2a346dea4697124e1464ce34e, type: 2}
+    firstFrame: {fileID: 539000276, guid: ad91611062d6a964d960fb3f0bf9d2fc, type: 3}
+    frameCount: 1
+    frameWidth: 20
+    frameHeight: 35
+    notes: 
+  - category: Bosses
+    unit: DragonParts
+    animationName: Part_39
+    clip: {fileID: 7400000, guid: 68cbe77076cca5c4597f0c126771c212, type: 2}
+    controller: {fileID: 9100000, guid: 4959c0a2a346dea4697124e1464ce34e, type: 2}
+    firstFrame: {fileID: 20130973, guid: 70d4b806fa76d5f44b18f4e498ad8bd9, type: 3}
+    frameCount: 1
+    frameWidth: 26
+    frameHeight: 32
+    notes: 
+  - category: Bosses
+    unit: DragonParts
+    animationName: Part_40
+    clip: {fileID: 7400000, guid: f06d8606723abb5439e4775473e375ef, type: 2}
+    controller: {fileID: 9100000, guid: 4959c0a2a346dea4697124e1464ce34e, type: 2}
+    firstFrame: {fileID: -1680316076, guid: 634b7862456632441a93b93499ae991e, type: 3}
+    frameCount: 1
+    frameWidth: 58
+    frameHeight: 33
+    notes: 
+  - category: Bosses
+    unit: DragonParts
+    animationName: Part_41
+    clip: {fileID: 7400000, guid: 8197867da3de1094ab291dc4115978f5, type: 2}
+    controller: {fileID: 9100000, guid: 4959c0a2a346dea4697124e1464ce34e, type: 2}
+    firstFrame: {fileID: -1795493570, guid: 1ae8cf57995a1a447be23ead6b1e62df, type: 3}
+    frameCount: 1
+    frameWidth: 100
+    frameHeight: 92
+    notes: 
+  - category: Bosses
+    unit: DragonParts
+    animationName: Part_42
+    clip: {fileID: 7400000, guid: 3674df2957c3b7f4ca0bbc2fdb83bb37, type: 2}
+    controller: {fileID: 9100000, guid: 4959c0a2a346dea4697124e1464ce34e, type: 2}
+    firstFrame: {fileID: 41441237, guid: cacd26db5d8f79846b4156e46e4bb30a, type: 3}
+    frameCount: 1
+    frameWidth: 22
+    frameHeight: 25
+    notes: 
+  - category: Bosses
+    unit: DragonParts
+    animationName: Part_43
+    clip: {fileID: 7400000, guid: a91f43baacd2e464b9112fdb1c66246b, type: 2}
+    controller: {fileID: 9100000, guid: 4959c0a2a346dea4697124e1464ce34e, type: 2}
+    firstFrame: {fileID: 1928725939, guid: 1c1660aff7ee0a04ebaa1f30c94ba61f, type: 3}
+    frameCount: 1
+    frameWidth: 26
+    frameHeight: 27
+    notes: 
+  - category: Bosses
+    unit: DragonParts
+    animationName: Part_44
+    clip: {fileID: 7400000, guid: c0bd7ee78cd418b4cb55f8798820a94f, type: 2}
+    controller: {fileID: 9100000, guid: 4959c0a2a346dea4697124e1464ce34e, type: 2}
+    firstFrame: {fileID: -1028267537, guid: 1af9a98b2e9528c4e90667690a35eaa0, type: 3}
+    frameCount: 1
+    frameWidth: 40
+    frameHeight: 36
+    notes: 
+  - category: Bosses
+    unit: DragonParts
+    animationName: Part_45
+    clip: {fileID: 7400000, guid: 9d6fc0a018f635c40a496f6b71e114b0, type: 2}
+    controller: {fileID: 9100000, guid: 4959c0a2a346dea4697124e1464ce34e, type: 2}
+    firstFrame: {fileID: -1627631000, guid: ca1617520d4cb9e4885ebb3ae2432ca3, type: 3}
+    frameCount: 1
+    frameWidth: 32
+    frameHeight: 19
+    notes: 
+  - category: Bosses
+    unit: DragonParts
+    animationName: Part_46
+    clip: {fileID: 7400000, guid: 637c6370a5169ca4fb08d2ac24dc3440, type: 2}
+    controller: {fileID: 9100000, guid: 4959c0a2a346dea4697124e1464ce34e, type: 2}
+    firstFrame: {fileID: 1767065465, guid: 6bd22ee4df881ce4a85108979ed78ab6, type: 3}
+    frameCount: 1
+    frameWidth: 38
+    frameHeight: 41
+    notes: 
+  - category: Bosses
+    unit: DragonParts
+    animationName: Part_47
+    clip: {fileID: 7400000, guid: 2dabda6574e1d1e4d9681b438b2aca90, type: 2}
+    controller: {fileID: 9100000, guid: 4959c0a2a346dea4697124e1464ce34e, type: 2}
+    firstFrame: {fileID: 781225660, guid: 1f4e1bfcbe1cb7e4ca5a29e8e2ab58f5, type: 3}
+    frameCount: 1
+    frameWidth: 94
+    frameHeight: 40
+    notes: 
+  - category: Bosses
+    unit: DragonParts
+    animationName: Part_48
+    clip: {fileID: 7400000, guid: 46a957af417869444a9aa1921bc18995, type: 2}
+    controller: {fileID: 9100000, guid: 4959c0a2a346dea4697124e1464ce34e, type: 2}
+    firstFrame: {fileID: 1049958894, guid: 417b787b13c39cd4aa9e90a26b447a18, type: 3}
+    frameCount: 1
+    frameWidth: 32
+    frameHeight: 19
+    notes: 
+  - category: Bosses
+    unit: DragonParts
+    animationName: Part_49
+    clip: {fileID: 7400000, guid: cb833f16217d595438f9de3b6363ca07, type: 2}
+    controller: {fileID: 9100000, guid: 4959c0a2a346dea4697124e1464ce34e, type: 2}
+    firstFrame: {fileID: -2061406009, guid: b07f940d5c0fff24893bd2611bd25b11, type: 3}
+    frameCount: 1
+    frameWidth: 48
+    frameHeight: 20
+    notes: 
+  - category: Bosses
+    unit: DragonParts
+    animationName: Part_50
+    clip: {fileID: 7400000, guid: 1a2d04dd215237e4698747c54078ab7c, type: 2}
+    controller: {fileID: 9100000, guid: 4959c0a2a346dea4697124e1464ce34e, type: 2}
+    firstFrame: {fileID: -981801407, guid: 998a0f95162ac344b8fb6ffd23b23773, type: 3}
+    frameCount: 1
+    frameWidth: 22
+    frameHeight: 27
+    notes: 
+  - category: Bosses
+    unit: DragonParts
+    animationName: Part_51
+    clip: {fileID: 7400000, guid: 66f1b44772c30cb41b9aa1e561967639, type: 2}
+    controller: {fileID: 9100000, guid: 4959c0a2a346dea4697124e1464ce34e, type: 2}
+    firstFrame: {fileID: 1673078589, guid: 713ca90f877bb5848af74732a8f449e2, type: 3}
+    frameCount: 1
+    frameWidth: 28
+    frameHeight: 22
+    notes: 
+  - category: Bosses
+    unit: DragonParts
+    animationName: Part_52
+    clip: {fileID: 7400000, guid: 6494f7c401547ec419e2cf73c5e643ce, type: 2}
+    controller: {fileID: 9100000, guid: 4959c0a2a346dea4697124e1464ce34e, type: 2}
+    firstFrame: {fileID: -1379368409, guid: c6b27ccd68c7ff943a644cc9448685dd, type: 3}
+    frameCount: 1
+    frameWidth: 44
+    frameHeight: 19
+    notes: 
+  - category: Bosses
+    unit: DragonParts
+    animationName: Part_53
+    clip: {fileID: 7400000, guid: 187d3a68516d70d438cb585b1d494695, type: 2}
+    controller: {fileID: 9100000, guid: 4959c0a2a346dea4697124e1464ce34e, type: 2}
+    firstFrame: {fileID: -1251787543, guid: 8ee952dfa23fa064593111c0b2d99a19, type: 3}
+    frameCount: 1
+    frameWidth: 38
+    frameHeight: 22
+    notes: 
+  - category: Bosses
+    unit: DragonParts
+    animationName: Part_54
+    clip: {fileID: 7400000, guid: d9d34ff18d154a945af4e0cfc19c5bcf, type: 2}
+    controller: {fileID: 9100000, guid: 4959c0a2a346dea4697124e1464ce34e, type: 2}
+    firstFrame: {fileID: -384091702, guid: ac37d627fc9757f44a0ee6094e25b682, type: 3}
+    frameCount: 1
+    frameWidth: 24
+    frameHeight: 23
+    notes: 
+  - category: Bosses
+    unit: DragonParts
+    animationName: Part_55
+    clip: {fileID: 7400000, guid: d535591e5e58fec4fa822d2dda3b1391, type: 2}
+    controller: {fileID: 9100000, guid: 4959c0a2a346dea4697124e1464ce34e, type: 2}
+    firstFrame: {fileID: 1998880488, guid: 8ec93f9cd2906e84e94f2ac5fb2251ec, type: 3}
+    frameCount: 1
+    frameWidth: 28
+    frameHeight: 22
+    notes: 
+  - category: Bosses
+    unit: DragonParts
+    animationName: Part_56
+    clip: {fileID: 7400000, guid: 53d35a26de433f54eb95a60251fc46e0, type: 2}
+    controller: {fileID: 9100000, guid: 4959c0a2a346dea4697124e1464ce34e, type: 2}
+    firstFrame: {fileID: -405843494, guid: 5ffb4eabd45ec804c9e5778d143de016, type: 3}
+    frameCount: 1
+    frameWidth: 82
+    frameHeight: 26
+    notes: 
+  - category: Bosses
+    unit: DragonParts
+    animationName: Part_57
+    clip: {fileID: 7400000, guid: dcff4bdbad5f6cb4b80f5d68ef4335e4, type: 2}
+    controller: {fileID: 9100000, guid: 4959c0a2a346dea4697124e1464ce34e, type: 2}
+    firstFrame: {fileID: -895904314, guid: 81db9746f9eb0d6458166546f13820ab, type: 3}
+    frameCount: 1
+    frameWidth: 84
+    frameHeight: 24
+    notes: 
+  - category: Player
+    unit: BlueUltimate
+    animationName: Idle
+    clip: {fileID: 7400000, guid: aa79e12b58661e94195f6b9d63328d4f, type: 2}
+    controller: {fileID: 9100000, guid: 12212c4e888475d4eb69f6ef39811876, type: 2}
+    firstFrame: {fileID: -1412536416, guid: c19ba1000ccd6a6448056279e997ef30, type: 3}
+    frameCount: 3
+    frameWidth: 36
+    frameHeight: 47
+    notes: Only the final three grounded, arms-lowered breathing poses are used for Idle. The opening arm gesture is a separate IntroSalute action.
+  - category: Player
+    unit: BlueUltimate
+    animationName: IntroSalute
+    clip: {fileID: 7400000, guid: ce71bd9eb4d71a043926c25adc936c93, type: 2}
+    controller: {fileID: 9100000, guid: 12212c4e888475d4eb69f6ef39811876, type: 2}
+    firstFrame: {fileID: 414719319, guid: 66c7582b6f59da64dae63af7b08abfbb, type: 3}
+    frameCount: 7
+    frameWidth: 40
+    frameHeight: 48
+    notes: Original complete arm-opening/lowering gesture, preserved as an explicit one-shot introduction instead of looping it as Idle.
+  - category: Player
+    unit: BlueUltimate
+    animationName: Jump
+    clip: {fileID: 7400000, guid: 8d2cfe70c2bd0ea4eb4c0fd5acbd9329, type: 2}
+    controller: {fileID: 9100000, guid: 12212c4e888475d4eb69f6ef39811876, type: 2}
+    firstFrame: {fileID: 410829570, guid: 0fdf5c6d3cd55a14a8cf4c4061f1a81e, type: 3}
+    frameCount: 11
+    frameWidth: 36
+    frameHeight: 56
+    notes: 
+  - category: Player
+    unit: BlueUltimate
+    animationName: Shoot
+    clip: {fileID: 7400000, guid: ec081f23d4d152b4f8f7a12e2064887f, type: 2}
+    controller: {fileID: 9100000, guid: 12212c4e888475d4eb69f6ef39811876, type: 2}
+    firstFrame: {fileID: -939494719, guid: c6d037922f167614781a44a4fd6df037, type: 3}
+    frameCount: 8
+    frameWidth: 55
+    frameHeight: 47
+    notes: Wide muzzle frame body anchors estimated visually.
+  - category: Player
+    unit: BlueUltimate
+    animationName: ChargeShot
+    clip: {fileID: 7400000, guid: b9cdbe1aa0104704fbb846f5f7e566fc, type: 2}
+    controller: {fileID: 9100000, guid: 12212c4e888475d4eb69f6ef39811876, type: 2}
+    firstFrame: {fileID: 838728047, guid: cf23ad8afba0b0346a1ebdecfa90f1ca, type: 3}
+    frameCount: 8
+    frameWidth: 57
+    frameHeight: 72
+    notes: Expanding shot included in original frames. Body anchors estimated visually.
+  - category: Player
+    unit: BlueUltimate
+    animationName: RunStart
+    clip: {fileID: 7400000, guid: 7947460a7d00a17448bd81734797cb16, type: 2}
+    controller: {fileID: 9100000, guid: 12212c4e888475d4eb69f6ef39811876, type: 2}
+    firstFrame: {fileID: -1142901213, guid: 74675466f3f5af249bb980d843c83384, type: 3}
+    frameCount: 2
+    frameWidth: 34
+    frameHeight: 47
+    notes: 
+  - category: Player
+    unit: BlueUltimate
+    animationName: Run
+    clip: {fileID: 7400000, guid: da13bed3ce9552e4d8d0961910268d12, type: 2}
+    controller: {fileID: 9100000, guid: 12212c4e888475d4eb69f6ef39811876, type: 2}
+    firstFrame: {fileID: 689954313, guid: 114682d2d0ba91e4e9934bb66531b7cb, type: 3}
+    frameCount: 14
+    frameWidth: 48
+    frameHeight: 49
+    notes: 
+  - category: Player
+    unit: BlueUltimate
+    animationName: Dash
+    clip: {fileID: 7400000, guid: 5c61628cd74a51e4db90f7ba6af53937, type: 2}
+    controller: {fileID: 9100000, guid: 12212c4e888475d4eb69f6ef39811876, type: 2}
+    firstFrame: {fileID: 1322802054, guid: 4ad0f842dae946c488042704e5332eb4, type: 3}
+    frameCount: 8
+    frameWidth: 52
+    frameHeight: 46
+    notes: 
+  - category: Player
+    unit: BlueUltimate
+    animationName: Hover
+    clip: {fileID: 7400000, guid: 8c74ef6c385f22e42ab03f42b720964f, type: 2}
+    controller: {fileID: 9100000, guid: 12212c4e888475d4eb69f6ef39811876, type: 2}
+    firstFrame: {fileID: 1073696172, guid: 3635f2aea0aee034789da525f5ba6303, type: 3}
+    frameCount: 15
+    frameWidth: 42
+    frameHeight: 60
+    notes: Boot thrust belongs to the actor frames.
+  - category: Player
+    unit: BlueUltimate
+    animationName: JumpShoot
+    clip: {fileID: 7400000, guid: f8b0e19454645aa4eae61a78f4836bce, type: 2}
+    controller: {fileID: 9100000, guid: 12212c4e888475d4eb69f6ef39811876, type: 2}
+    firstFrame: {fileID: -1624626783, guid: ec045d91a2c02ce45905b72117471607, type: 3}
+    frameCount: 11
+    frameWidth: 42
+    frameHeight: 56
+    notes: Alternating source frames are separated into the base and bright palette variants; no new frames are generated.
+  - category: Player
+    unit: BlueUltimate
+    animationName: JumpShootFlash
+    clip: {fileID: 7400000, guid: b96692bdbe141224394cda345a664088, type: 2}
+    controller: {fileID: 9100000, guid: 12212c4e888475d4eb69f6ef39811876, type: 2}
+    firstFrame: {fileID: 1211001004, guid: 096ccd688ae040f409e5e92b5219082f, type: 3}
+    frameCount: 11
+    frameWidth: 44
+    frameHeight: 56
+    notes: Alternating source frames are separated into the base and bright palette variants; no new frames are generated.
+  - category: Player
+    unit: BlueUltimate
+    animationName: IdleAim
+    clip: {fileID: 7400000, guid: 3b9ddfd5a0674ea47bec5d83c74e333c, type: 2}
+    controller: {fileID: 9100000, guid: 12212c4e888475d4eb69f6ef39811876, type: 2}
+    firstFrame: {fileID: 1420283403, guid: 9c5bb3be9eb61694497ffdf439a73be0, type: 3}
+    frameCount: 2
+    frameWidth: 44
+    frameHeight: 47
+    notes: Alternating source frames are separated into the base and bright palette variants; no new frames are generated.
+  - category: Player
+    unit: BlueUltimate
+    animationName: IdleAimFlash
+    clip: {fileID: 7400000, guid: 6582de97ad6bae842a0a9417f74e2742, type: 2}
+    controller: {fileID: 9100000, guid: 12212c4e888475d4eb69f6ef39811876, type: 2}
+    firstFrame: {fileID: -1801687882, guid: 20c79ecf388db9f45a1e79e5ee6df09c, type: 3}
+    frameCount: 2
+    frameWidth: 44
+    frameHeight: 47
+    notes: Alternating source frames are separated into the base and bright palette variants; no new frames are generated.
+  - category: Player
+    unit: BlueUltimate
+    animationName: RunShoot
+    clip: {fileID: 7400000, guid: 077d28b0a22d61f468f18905fb736de8, type: 2}
+    controller: {fileID: 9100000, guid: 12212c4e888475d4eb69f6ef39811876, type: 2}
+    firstFrame: {fileID: -1228962975, guid: 570c0e95192240a4bbd006be5234d407, type: 3}
+    frameCount: 14
+    frameWidth: 52
+    frameHeight: 49
+    notes: Alternating source frames are separated into the base and bright palette variants; no new frames are generated.
+  - category: Player
+    unit: BlueUltimate
+    animationName: RunShootFlash
+    clip: {fileID: 7400000, guid: 6aef65c2d5361f04fb3183342de02e92, type: 2}
+    controller: {fileID: 9100000, guid: 12212c4e888475d4eb69f6ef39811876, type: 2}
+    firstFrame: {fileID: -1891614638, guid: 4ab721adc02fd8d4c8db2895c372c895, type: 3}
+    frameCount: 14
+    frameWidth: 52
+    frameHeight: 49
+    notes: Alternating source frames are separated into the base and bright palette variants; no new frames are generated.
+  - category: Player
+    unit: BlueUltimate
+    animationName: DashShoot
+    clip: {fileID: 7400000, guid: 119119097fbae5345afea84911526107, type: 2}
+    controller: {fileID: 9100000, guid: 12212c4e888475d4eb69f6ef39811876, type: 2}
+    firstFrame: {fileID: 1760396539, guid: 22f67ceac7db2ea4b9887fab3d0fa8a1, type: 3}
+    frameCount: 8
+    frameWidth: 64
+    frameHeight: 47
+    notes: Alternating source frames are separated into the base and bright palette variants; no new frames are generated.
+  - category: Player
+    unit: BlueUltimate
+    animationName: DashShootFlash
+    clip: {fileID: 7400000, guid: 75b5fd79851d008438be3156a4758ee8, type: 2}
+    controller: {fileID: 9100000, guid: 12212c4e888475d4eb69f6ef39811876, type: 2}
+    firstFrame: {fileID: 1513858572, guid: cd3f8d89fe794fa47b78c554b5c732e5, type: 3}
+    frameCount: 8
+    frameWidth: 64
+    frameHeight: 47
+    notes: Alternating source frames are separated into the base and bright palette variants; no new frames are generated.
+  - category: Player
+    unit: BlueUltimate
+    animationName: HoverShoot
+    clip: {fileID: 7400000, guid: 9f70be2c15efe1b42b4b1e3b145d5b52, type: 2}
+    controller: {fileID: 9100000, guid: 12212c4e888475d4eb69f6ef39811876, type: 2}
+    firstFrame: {fileID: 1444496013, guid: a1e8923de08ff4f48a2daf202d874079, type: 3}
+    frameCount: 15
+    frameWidth: 54
+    frameHeight: 61
+    notes: Alternating source frames are separated into the base and bright palette variants; no new frames are generated.
+  - category: Player
+    unit: BlueUltimate
+    animationName: HoverShootFlash
+    clip: {fileID: 7400000, guid: d394eb4faeb6f9e4980e018b8e49aa3b, type: 2}
+    controller: {fileID: 9100000, guid: 12212c4e888475d4eb69f6ef39811876, type: 2}
+    firstFrame: {fileID: 1585179236, guid: 3997078e18031e94f9eccd1440d859e5, type: 3}
+    frameCount: 15
+    frameWidth: 54
+    frameHeight: 61
+    notes: Alternating source frames are separated into the base and bright palette variants; no new frames are generated.
+  - category: Player
+    unit: BlueUltimate
+    animationName: WallJump
+    clip: {fileID: 7400000, guid: e881446b113f8124a90220708be6ff20, type: 2}
+    controller: {fileID: 9100000, guid: 12212c4e888475d4eb69f6ef39811876, type: 2}
+    firstFrame: {fileID: -80836617, guid: 148a5ea73c0dead4b9546cf0013807ee, type: 3}
+    frameCount: 6
+    frameWidth: 36
+    frameHeight: 56
+    notes: 
+  - category: Player
+    unit: BlueUltimate
+    animationName: WallJumpShoot
+    clip: {fileID: 7400000, guid: e25302cf40d03954eb5e3c6590cf4e4d, type: 2}
+    controller: {fileID: 9100000, guid: 12212c4e888475d4eb69f6ef39811876, type: 2}
+    firstFrame: {fileID: -1335586436, guid: 75cb17cb6a99d274c8d75f79b903ad25, type: 3}
+    frameCount: 6
+    frameWidth: 44
+    frameHeight: 56
+    notes: Alternating source frames are separated into the base and bright palette variants; no new frames are generated.
+  - category: Player
+    unit: BlueUltimate
+    animationName: WallJumpShootFlash
+    clip: {fileID: 7400000, guid: c56b95e680c50054c94fa498dfcaaaca, type: 2}
+    controller: {fileID: 9100000, guid: 12212c4e888475d4eb69f6ef39811876, type: 2}
+    firstFrame: {fileID: 239721629, guid: f5925d3bcbb4d2d409c7e3825de74987, type: 3}
+    frameCount: 6
+    frameWidth: 44
+    frameHeight: 56
+    notes: Alternating source frames are separated into the base and bright palette variants; no new frames are generated.
+  - category: Player
+    unit: BlueUltimate
+    animationName: WallCling
+    clip: {fileID: 7400000, guid: 39b066d6eee91e145975b7a125681721, type: 2}
+    controller: {fileID: 9100000, guid: 12212c4e888475d4eb69f6ef39811876, type: 2}
+    firstFrame: {fileID: 2054243920, guid: 37147551a5edf434cb57efff70132e9f, type: 3}
+    frameCount: 1
+    frameWidth: 32
+    frameHeight: 56
+    notes: 
+  - category: Player
+    unit: BlueUltimate
+    animationName: LadderClimb
+    clip: {fileID: 7400000, guid: c676822541b79824fa667726f8acbcae, type: 2}
+    controller: {fileID: 9100000, guid: 12212c4e888475d4eb69f6ef39811876, type: 2}
+    firstFrame: {fileID: -422072203, guid: 9169809f4007bd94f9adf2fe89c95024, type: 3}
+    frameCount: 8
+    frameWidth: 36
+    frameHeight: 57
+    notes: 
+  - category: Player
+    unit: BlueUltimate
+    animationName: LadderDismount
+    clip: {fileID: 7400000, guid: 83c85db2ca2b7ff4182d649f8441a8aa, type: 2}
+    controller: {fileID: 9100000, guid: 12212c4e888475d4eb69f6ef39811876, type: 2}
+    firstFrame: {fileID: 703755433, guid: 43b9ccca136692541835829bd2279371, type: 3}
+    frameCount: 2
+    frameWidth: 36
+    frameHeight: 41
+    notes: 
+  - category: Player
+    unit: BlueUltimate
+    animationName: LadderShoot
+    clip: {fileID: 7400000, guid: a23a1f6714a31d24989c0669fbc018cd, type: 2}
+    controller: {fileID: 9100000, guid: 12212c4e888475d4eb69f6ef39811876, type: 2}
+    firstFrame: {fileID: -1728016050, guid: 3f0fdf3167a14ec4c8ac7e138f505461, type: 3}
+    frameCount: 3
+    frameWidth: 40
+    frameHeight: 57
+    notes: 
+  - category: Player
+    unit: BlueUltimate
+    animationName: NovaStrikeStartup
+    clip: {fileID: 7400000, guid: d68ae22c45f1c0645bea0f97c79df669, type: 2}
+    controller: {fileID: 9100000, guid: 12212c4e888475d4eb69f6ef39811876, type: 2}
+    firstFrame: {fileID: 311457334, guid: a186faf796f62da45bd3e0729bcff491, type: 3}
+    frameCount: 5
+    frameWidth: 58
+    frameHeight: 55
+    notes: The startup ends in the horizontal actor/booster pose.
+  - category: Player
+    unit: BlueUltimate
+    animationName: NovaStrikeBurst
+    clip: {fileID: 7400000, guid: dbc1cea62450eb44da9ab6b841992bcc, type: 2}
+    controller: {fileID: 9100000, guid: 12212c4e888475d4eb69f6ef39811876, type: 2}
+    firstFrame: {fileID: 1157460485, guid: 8f428165bd9604342b4d0a5ad6eda420, type: 3}
+    frameCount: 4
+    frameWidth: 114
+    frameHeight: 64
+    notes: All burst rectangles contain the actor or its gold silhouette. Horizontal body registration is approximate.
+  - category: Player
+    unit: BlueUltimate
+    animationName: HitElectrical
+    clip: {fileID: 7400000, guid: d82325ccf6b3d364e8936285ffaa319b, type: 2}
+    controller: {fileID: 9100000, guid: 12212c4e888475d4eb69f6ef39811876, type: 2}
+    firstFrame: {fileID: 309994280, guid: 1fd69561480ecb742ba4b54f7516742d, type: 3}
+    frameCount: 4
+    frameWidth: 50
+    frameHeight: 54
+    notes: 
+  - category: Player
+    unit: BlueUltimate
+    animationName: AlternateIdle
+    clip: {fileID: 7400000, guid: d043231ea91692845aca42011c4b30ae, type: 2}
+    controller: {fileID: 9100000, guid: 12212c4e888475d4eb69f6ef39811876, type: 2}
+    firstFrame: {fileID: 1081836871, guid: 3e6cd3a7441930a4bb35eb8833ed2ba4, type: 3}
+    frameCount: 6
+    frameWidth: 34
+    frameHeight: 48
+    notes: 
+  - category: Player
+    unit: BlueUltimate
+    animationName: TeleportDeparture
+    clip: {fileID: 7400000, guid: 4b4b307e42aea25458e9df6345dddcd9, type: 2}
+    controller: {fileID: 9100000, guid: 12212c4e888475d4eb69f6ef39811876, type: 2}
+    firstFrame: {fileID: 762066795, guid: d423462a3fb2c1041adaa2a63c0e6f54, type: 3}
+    frameCount: 10
+    frameWidth: 56
+    frameHeight: 75
+    notes: 
+  - category: Player
+    unit: BlueUltimate
+    animationName: DashChargeShot
+    clip: {fileID: 7400000, guid: 5a1a0c7e4fa95994fbe0b6d22aac0a28, type: 2}
+    controller: {fileID: 9100000, guid: 12212c4e888475d4eb69f6ef39811876, type: 2}
+    firstFrame: {fileID: -442035091, guid: 24540388bf740b844baafc2bea5b12be, type: 3}
+    frameCount: 14
+    frameWidth: 67
+    frameHeight: 74
+    notes: Low/dashing charged shot with the original growing effect; horizontal body registration is approximate.
+  - category: Player
+    unit: BlueUltimate
+    animationName: AirArmRaise
+    clip: {fileID: 7400000, guid: e86feab30009b444db6dc18043113f3c, type: 2}
+    controller: {fileID: 9100000, guid: 12212c4e888475d4eb69f6ef39811876, type: 2}
+    firstFrame: {fileID: -693465457, guid: 30ab0446f08e4ab4e840fd52032dc33a, type: 3}
+    frameCount: 9
+    frameWidth: 40
+    frameHeight: 64
+    notes: Descriptive name for an airborne arm-raise sequence; gameplay meaning is not encoded by the sheet.
+  - category: Player
+    unit: BlueUltimate
+    animationName: DefeatCollapse
+    clip: {fileID: 7400000, guid: 038c28e2bb66884409a3a58c3e3353ff, type: 2}
+    controller: {fileID: 9100000, guid: 12212c4e888475d4eb69f6ef39811876, type: 2}
+    firstFrame: {fileID: -1682722640, guid: cc20a86d364306c4eb6847fbbc7060b7, type: 3}
+    frameCount: 4
+    frameWidth: 60
+    frameHeight: 43
+    notes: 
+  - category: Player
+    unit: BlueUltimate
+    animationName: SaberGroundSlash
+    clip: {fileID: 7400000, guid: dd773878ec50f7a44a4c6113829fa3f0, type: 2}
+    controller: {fileID: 9100000, guid: 12212c4e888475d4eb69f6ef39811876, type: 2}
+    firstFrame: {fileID: -1624038268, guid: 739552331fd01af4995bb07180da5e98, type: 3}
+    frameCount: 15
+    frameWidth: 100
+    frameHeight: 68
+    notes: Two consecutive rows form the complete grounded saber sweep. Body anchors are estimated visually to hold the actor while the large blade crosses the frame.
+  - category: Player
+    unit: BlueUltimate
+    animationName: SaberAirSlash
+    clip: {fileID: 7400000, guid: 7a6a101bee7a67e4da6c534e6dce8f48, type: 2}
+    controller: {fileID: 9100000, guid: 12212c4e888475d4eb69f6ef39811876, type: 2}
+    firstFrame: {fileID: -1307242707, guid: 8ea0f533da06a8c4eb7c3983aebb7ec4, type: 3}
+    frameCount: 7
+    frameWidth: 92
+    frameHeight: 60
+    notes: Body anchors estimated visually for the wide aerial blade arcs.
+  - category: Player
+    unit: BlueUltimate
+    animationName: SaberWallSlash
+    clip: {fileID: 7400000, guid: 0f008993dbe0ac646a0a1e9cf8e9409a, type: 2}
+    controller: {fileID: 9100000, guid: 12212c4e888475d4eb69f6ef39811876, type: 2}
+    firstFrame: {fileID: 1238562399, guid: ea74baa44cadc3b42a03f4864351eb7d, type: 3}
+    frameCount: 9
+    frameWidth: 90
+    frameHeight: 58
+    notes: Two rows form the wall/diagonal aerial slash. Body anchors estimated visually; the source has no gameplay labels.
+  - category: Player
+    unit: BlueUltimate
+    animationName: TeleportArrival
+    clip: {fileID: 7400000, guid: e5505b900a7f0044c87d3fed55d79c14, type: 2}
+    controller: {fileID: 9100000, guid: 12212c4e888475d4eb69f6ef39811876, type: 2}
+    firstFrame: {fileID: 2087609942, guid: 405d7a3c107aaf34990557ea550963bf, type: 3}
+    frameCount: 10
+    frameWidth: 56
+    frameHeight: 75
+    notes: Materialization uses the original Ultimate armor departure frames in reverse order; no base-armor body is substituted.

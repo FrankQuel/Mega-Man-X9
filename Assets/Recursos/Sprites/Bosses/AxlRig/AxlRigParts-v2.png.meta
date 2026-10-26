@@ -1,0 +1,981 @@
+fileFormatVersion: 2
+guid: 718848bc0d15fe041ab124b1e290b38d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8919061766033189893
+    second: AxlRigParts-v2_0
+  - first:
+      213: -5191486317127023942
+    second: AxlRigParts-v2_1
+  - first:
+      213: -1705443134455309758
+    second: AxlRigParts-v2_2
+  - first:
+      213: -3530680841808761775
+    second: AxlRigParts-v2_3
+  - first:
+      213: 8607432949240984790
+    second: AxlRigParts-v2_4
+  - first:
+      213: 1795234220463958590
+    second: AxlRigParts-v2_5
+  - first:
+      213: 7236595646158105309
+    second: AxlRigParts-v2_6
+  - first:
+      213: -2951585202783441181
+    second: AxlRigParts-v2_7
+  - first:
+      213: 4889589674888738233
+    second: AxlRigParts-v2_8
+  - first:
+      213: 3101206914718471710
+    second: AxlRigParts-v2_9
+  - first:
+      213: 8183354305478336368
+    second: AxlRigParts-v2_10
+  - first:
+      213: 8357236936613347887
+    second: AxlRigParts-v2_11
+  - first:
+      213: -8640910762237388652
+    second: AxlRigParts-v2_12
+  - first:
+      213: 8453703949213109370
+    second: AxlRigParts-v2_13
+  - first:
+      213: 1226420686412203330
+    second: AxlRigParts-v2_14
+  - first:
+      213: 866387877499781870
+    second: AxlRigParts-v2_15
+  - first:
+      213: -8386577122195385224
+    second: AxlRigParts-v2_16
+  - first:
+      213: 4333381816645672900
+    second: AxlRigParts-v2_17
+  - first:
+      213: -3038796656524984900
+    second: AxlRigParts-v2_18
+  - first:
+      213: -6255135840133968899
+    second: AxlRigParts-v2_19
+  - first:
+      213: -8569554444496606343
+    second: AxlRigParts-v2_20
+  - first:
+      213: 7641454209564699435
+    second: AxlRigParts-v2_21
+  - first:
+      213: 2051565056641958003
+    second: AxlRigParts-v2_22
+  - first:
+      213: 3649698208933234691
+    second: AxlRigParts-v2_23
+  - first:
+      213: -8066079151643541033
+    second: AxlRigParts-v2_24
+  - first:
+      213: -876268739893316454
+    second: AxlRigParts-v2_25
+  - first:
+      213: 7913238414824497465
+    second: AxlRigParts-v2_26
+  - first:
+      213: -7230669156556769288
+    second: AxlRigParts-v2_27
+  - first:
+      213: -3206371124581711562
+    second: AxlRigParts-v2_28
+  - first:
+      213: 6921487216757727459
+    second: AxlRigParts-v2_29
+  - first:
+      213: -2645581649048493975
+    second: AxlRigParts-v2_30
+  - first:
+      213: 8593360006369783796
+    second: AxlRigParts-v2_31
+  - first:
+      213: -8766569169110656493
+    second: AxlRigParts-v2_32
+  - first:
+      213: -4024626601918668733
+    second: AxlRigParts-v2_33
+  - first:
+      213: 3466080559364643742
+    second: AxlRigParts-v2_34
+  - first:
+      213: -3337999146284421721
+    second: AxlRigParts-v2_35
+  - first:
+      213: -3418219035355432267
+    second: AxlRigParts-v2_36
+  - first:
+      213: 3133725416824440503
+    second: AxlRigParts-v2_37
+  - first:
+      213: -4547350124228125724
+    second: AxlRigParts-v2_38
+  - first:
+      213: 4454536486104740717
+    second: AxlRigParts-v2_39
+  - first:
+      213: 4903996908041200477
+    second: AxlRigParts-v2_40
+  - first:
+      213: 740966358930201833
+    second: AxlRigParts-v2_41
+  - first:
+      213: 5039511829807608076
+    second: AxlRigParts-v2_42
+  - first:
+      213: 190931560467071172
+    second: AxlRigParts-v2_43
+  - first:
+      213: -3625604133764101696
+    second: AxlRigParts-v2_44
+  - first:
+      213: 1985328686967821265
+    second: AxlRigParts-v2_45
+  - first:
+      213: 613264236946156937
+    second: AxlRigParts-v2_46
+  - first:
+      213: -4431920161665329437
+    second: AxlRigParts-v2_47
+  - first:
+      213: -419723371264556635
+    second: AxlRigParts-v2_48
+  - first:
+      213: 4941781500091107374
+    second: AxlRigParts-v2_49
+  - first:
+      213: 8478461400414467694
+    second: AxlRigParts-v2_50
+  - first:
+      213: -4666489826989496401
+    second: AxlRigParts-v2_51
+  - first:
+      213: -970676963921191112
+    second: AxlRigParts-v2_52
+  - first:
+      213: 8536135872809879025
+    second: AxlRigParts-v2_53
+  - first:
+      213: -645220371267875595
+    second: AxlRigParts-v2_54
+  - first:
+      213: 758628874495150180
+    second: AxlRigParts-v2_55
+  - first:
+      213: 11229486109079775
+    second: AxlRigParts-v2_56
+  - first:
+      213: 7841302687059874425
+    second: AxlRigParts-v2_57
+  - first:
+      213: 4431471171021837084
+    second: AxlRigParts-v2_58
+  - first:
+      213: -7053548677921006253
+    second: AxlRigParts-v2_59
+  - first:
+      213: 7932654568091930659
+    second: AxlRigParts-v2_60
+  - first:
+      213: -6101374638705964873
+    second: AxlRigParts-v2_61
+  - first:
+      213: 35417054948642924
+    second: AxlRigParts-v2_62
+  - first:
+      213: -1652070486140739727
+    second: AxlRigParts-v2_63
+  - first:
+      213: 8443765189201103232
+    second: AxlRigParts-v2_64
+  - first:
+      213: 4202330838131617582
+    second: AxlRigParts-v2_65
+  - first:
+      213: -5199928344194930294
+    second: AxlRigParts-v2_66
+  - first:
+      213: 3141256574615860522
+    second: AxlRigParts-v2_67
+  - first:
+      213: 8172763041503315076
+    second: AxlRigParts-v2_68
+  - first:
+      213: 2648001353049035245
+    second: AxlRigParts-v2_69
+  - first:
+      213: -2535674841696185174
+    second: AxlRigParts-v2_70
+  - first:
+      213: 2787809301593169288
+    second: AxlRigParts-v2_71
+  - first:
+      213: 6719086721780684476
+    second: AxlRigParts-v2_72
+  - first:
+      213: -1214888336226183830
+    second: AxlRigParts-v2_73
+  - first:
+      213: 6103148546803211256
+    second: AxlRigParts-v2_74
+  - first:
+      213: -186926560037325509
+    second: AxlRigParts-v2_75
+  - first:
+      213: 3026419671462884330
+    second: AxlRigParts-v2_76
+  - first:
+      213: -1392372696879479464
+    second: AxlRigParts-v2_77
+  - first:
+      213: 9177178688597590573
+    second: AxlRigParts-v2_78
+  - first:
+      213: 8705047228995027892
+    second: AxlRigParts-v2_79
+  - first:
+      213: 7135894552856921697
+    second: AxlRigParts-v2_80
+  - first:
+      213: -677144896749754086
+    second: AxlRigParts-v2_81
+  - first:
+      213: 215777920440399211
+    second: AxlRigParts-v2_82
+  - first:
+      213: 7462012023554417825
+    second: AxlRigParts-v2_83
+  - first:
+      213: 4005581806094385420
+    second: AxlRigParts-v2_84
+  - first:
+      213: 2764666413111849290
+    second: AxlRigParts-v2_85
+  - first:
+      213: 806249558320517050
+    second: AxlRigParts-v2_86
+  - first:
+      213: -2788477177404940092
+    second: AxlRigParts-v2_87
+  - first:
+      213: -8112443699402829667
+    second: AxlRigParts-v2_88
+  - first:
+      213: 4784020713447236973
+    second: AxlRigParts-v2_89
+  - first:
+      213: -7592692673761750995
+    second: AxlRigParts-v2_90
+  - first:
+      213: -3024884208208839969
+    second: AxlRigParts-v2_91
+  - first:
+      213: -944490959642715140
+    second: AxlRigParts-v2_92
+  - first:
+      213: -8652369136829929096
+    second: AxlRigParts-v2_93
+  - first:
+      213: 8812247913521923985
+    second: AxlRigParts-v2_94
+  - first:
+      213: 1414073698294628538
+    second: AxlRigParts-v2_95
+  - first:
+      213: -5251048422199030333
+    second: AxlRigParts-v2_96
+  - first:
+      213: 7043063804306392189
+    second: AxlRigParts-v2_97
+  - first:
+      213: -3743973796062147464
+    second: AxlRigParts-v2_98
+  - first:
+      213: 808643895698469970
+    second: AxlRigParts-v2_99
+  - first:
+      213: -7809891452714578111
+    second: AxlRigParts-v2_100
+  - first:
+      213: 7479921235643487789
+    second: AxlRigParts-v2_101
+  - first:
+      213: -1989466964275574933
+    second: AxlRigParts-v2_102
+  - first:
+      213: 8829777007640737310
+    second: AxlRigParts-v2_103
+  - first:
+      213: -3724790217348854505
+    second: AxlRigParts-v2_104
+  - first:
+      213: -4161943288341272956
+    second: AxlRigParts-v2_105
+  - first:
+      213: 7120851491817122937
+    second: AxlRigParts-v2_106
+  - first:
+      213: 6503185245876495647
+    second: AxlRigParts-v2_107
+  - first:
+      213: 614542456206837555
+    second: AxlRigParts-v2_108
+  - first:
+      213: 6338115320089948242
+    second: AxlRigParts-v2_109
+  - first:
+      213: 6343271511774000447
+    second: AxlRigParts-v2_110
+  - first:
+      213: 7330409798032266973
+    second: AxlRigParts-v2_111
+  - first:
+      213: 8843562824042440711
+    second: AxlRigParts-v2_112
+  - first:
+      213: 457493881821610255
+    second: AxlRigParts-v2_113
+  - first:
+      213: 3758532470866081926
+    second: AxlRigParts-v2_114
+  - first:
+      213: -1593365681207041183
+    second: AxlRigParts-v2_115
+  - first:
+      213: 404251637646017573
+    second: AxlRigParts-v2_116
+  - first:
+      213: 6637577982566400208
+    second: AxlRigParts-v2_117
+  - first:
+      213: 548919104731744716
+    second: AxlRigParts-v2_118
+  - first:
+      213: -3593491083332040231
+    second: AxlRigParts-v2_119
+  - first:
+      213: -7392442186056267596
+    second: AxlRigParts-v2_120
+  - first:
+      213: -3574203427880189952
+    second: AxlRigParts-v2_121
+  - first:
+      213: -9069584964407467851
+    second: AxlRigParts-v2_122
+  - first:
+      213: -314031869051889157
+    second: AxlRigParts-v2_123
+  - first:
+      213: 4980166853375828467
+    second: AxlRigParts-v2_124
+  - first:
+      213: -8066119367552992534
+    second: AxlRigParts-v2_125
+  - first:
+      213: -7506438303275073092
+    second: AxlRigParts-v2_126
+  - first:
+      213: 5866107623762334164
+    second: AxlRigParts-v2_127
+  - first:
+      213: 6187443451732244878
+    second: AxlRigParts-v2_128
+  - first:
+      213: 4672341090470091035
+    second: AxlRigParts-v2_129
+  - first:
+      213: -4384312492470896272
+    second: AxlRigParts-v2_130
+  - first:
+      213: 1858612772018302632
+    second: AxlRigParts-v2_131
+  - first:
+      213: 8475087110847653805
+    second: AxlRigParts-v2_132
+  - first:
+      213: 5830517619256144896
+    second: AxlRigParts-v2_133
+  - first:
+      213: -1745986410421442668
+    second: AxlRigParts-v2_134
+  - first:
+      213: -8722692198917546201
+    second: AxlRigParts-v2_135
+  - first:
+      213: -9106452717035118467
+    second: AxlRigParts-v2_136
+  - first:
+      213: -97137063059288078
+    second: AxlRigParts-v2_137
+  - first:
+      213: 8665447886086905384
+    second: AxlRigParts-v2_138
+  - first:
+      213: -5026432680906598350
+    second: AxlRigParts-v2_139
+  - first:
+      213: -8043292832927071702
+    second: AxlRigParts-v2_140
+  - first:
+      213: -6792992170713139121
+    second: AxlRigParts-v2_141
+  - first:
+      213: 7017393780803761869
+    second: AxlRigParts-v2_142
+  - first:
+      213: -7173398137851651571
+    second: AxlRigParts-v2_143
+  - first:
+      213: -1650894565072648962
+    second: AxlRigParts-v2_144
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Head
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 606
+        width: 225
+        height: 205
+      alignment: 9
+      pivot: {x: 0.5688889, y: 0.03902439}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7f48627947fc296477fa1986a184d3b
+      internalID: -2022629015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Torso
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 637
+        width: 239
+        height: 197
+      alignment: 9
+      pivot: {x: 0.5606695, y: 0.88832486}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94a65a2b8c550a59f472ca31ade8890f
+      internalID: -886189628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pelvis
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 608
+        width: 196
+        height: 147
+      alignment: 9
+      pivot: {x: 0.5, y: 0.8639456}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb23d02aa0b9fa2985859dc38519576e
+      internalID: -325252019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NearUpperArm
+      rect:
+        serializedVersion: 2
+        x: 983
+        y: 595
+        width: 148
+        height: 227
+      alignment: 9
+      pivot: {x: 0.39864865, y: 0.72246695}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f95f7eb7d893da9484e74168a73938b6
+      internalID: 53826060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NearForearmCannon
+      rect:
+        serializedVersion: 2
+        x: 1212
+        y: 607
+        width: 295
+        height: 178
+      alignment: 9
+      pivot: {x: 0.14915255, y: 0.7696629}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8650efec6f534c9023b2d584eb3f58e
+      internalID: 384605422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FarUpperArm
+      rect:
+        serializedVersion: 2
+        x: 1587
+        y: 591
+        width: 139
+        height: 231
+      alignment: 9
+      pivot: {x: 0.4172662, y: 0.74458873}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bc533afa6fcf5c815e8facf5f4a9834
+      internalID: 328095901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FarForearmHand
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 313
+        width: 228
+        height: 182
+      alignment: 9
+      pivot: {x: 0.1754386, y: 0.8406593}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ca871bb04494d0bb008a30d24018a30
+      internalID: 1860201677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NearThigh
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 380
+        width: 140
+        height: 181
+      alignment: 9
+      pivot: {x: 0.3642857, y: 0.839779}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 751768cae738e74b7d332995cd176112
+      internalID: -2139928878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NearShin
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 293
+        width: 134
+        height: 155
+      alignment: 9
+      pivot: {x: 0.4552239, y: 0.90967745}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93c7d007badb61cb697237943461ddd9
+      internalID: -735923165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NearFoot
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 280
+        width: 225
+        height: 160
+      alignment: 9
+      pivot: {x: 0.37777779, y: 0.7875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50472fc785dcbc6b68e6cabbc62db4ad
+      internalID: -1381954293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FarThigh
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 368
+        width: 126
+        height: 192
+      alignment: 9
+      pivot: {x: 0.45238096, y: 0.8541667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8db39a01e405d1670809ad3e7d46078d
+      internalID: 1859627377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FarShin
+      rect:
+        serializedVersion: 2
+        x: 1579
+        y: 288
+        width: 126
+        height: 153
+      alignment: 9
+      pivot: {x: 0.56349206, y: 0.8496732}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b620ca7a022cb1de4e74230972d01a92
+      internalID: 223580700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FarFoot
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 49
+        width: 222
+        height: 159
+      alignment: 9
+      pivot: {x: 0.6126126, y: 0.8050314}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2da39ace60456ceb2cab4d5d0cc154a3
+      internalID: 1402629798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackBlade
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 27
+        width: 229
+        height: 223
+      alignment: 9
+      pivot: {x: 0.8558952, y: 0.85201794}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3b157a5beabbdcc23947798df2fcb97
+      internalID: -1229707163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShoulderGuard
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 81
+        width: 152
+        height: 120
+      alignment: 9
+      pivot: {x: 0.3618421, y: 0.5416667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c284478a736dd34ddb76c9a7f2ebd66
+      internalID: 1868349069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MuzzleFlash
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 60
+        width: 162
+        height: 136
+      alignment: 9
+      pivot: {x: 0.06790123, y: 0.4632353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 426e186d94dc1f091c2c6e6f4a686102
+      internalID: -473496324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChargeOrb
+      rect:
+        serializedVersion: 2
+        x: 1257
+        y: 55
+        width: 155
+        height: 157
+      alignment: 9
+      pivot: {x: 0.5032258, y: 0.4968153}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29bd428a5f2970dbdb1ab118ee595209
+      internalID: -1112852808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnergyBolt
+      rect:
+        serializedVersion: 2
+        x: 1526
+        y: 76
+        width: 216
+        height: 108
+      alignment: 9
+      pivot: {x: 0.055555556, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7500497290406816802ebf0845832a96
+      internalID: 1771977374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: c68bf32abc5f2204482cec18cd63d4b6
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      BackBlade: -1229707163
+      ChargeOrb: -1112852808
+      EnergyBolt: 1771977374
+      FarFoot: 1402629798
+      FarForearmHand: 1860201677
+      FarShin: 223580700
+      FarThigh: 1859627377
+      FarUpperArm: 328095901
+      Head: -2022629015
+      MuzzleFlash: -473496324
+      NearFoot: -1381954293
+      NearForearmCannon: 384605422
+      NearShin: -735923165
+      NearThigh: -2139928878
+      NearUpperArm: 53826060
+      Pelvis: -325252019
+      ShoulderGuard: 1868349069
+      Torso: -886189628
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

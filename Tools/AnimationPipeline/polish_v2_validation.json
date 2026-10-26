@@ -1,0 +1,29 @@
+{
+    "success": true,
+    "originalLibraryEntries": 359,
+    "originalUnits": 30,
+    "stage": "Assets/Recursos/Scenes/Testing/AnimationTestStage.unity",
+    "workspaceBackups": [
+        "Assets/Recursos/Scenes/Testing/WorkspaceBackups/Untitled_before_polish_10818aab.unity"
+    ],
+    "rigs": [
+        {
+            "prefab": "Assets/Recursos/Prefabs/Bosses/DragonRig/DragonRig_Animated.prefab",
+            "actions": 10,
+            "spriteParts": 17,
+            "animatedJoints": 13,
+            "sampledPoses": 160,
+            "minPoseHeight": 0.6036072373390198,
+            "maxPoseHeight": 1.0775866508483887
+        },
+        {
+            "prefab": "Assets/Recursos/Prefabs/Bosses/AxlRig/AxlRig_Animated.prefab",
+            "actions": 25,
+            "spriteParts": 21,
+            "animatedJoints": 15,
+            "sampledPoses": 400,
+            "minPoseHeight": 0.6788944005966187,
+            "maxPoseHeight": 1.1084790229797363
+        }
+    ]
+}

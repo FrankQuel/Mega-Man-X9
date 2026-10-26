@@ -1,0 +1,33 @@
+{
+    "prefab": "Assets/Recursos/Prefabs/Bosses/DragonRig/DragonRig_Animated.prefab",
+    "library": "Assets/Recursos/Animations/Bosses/DragonRig/DragonRigLibrary.asset",
+    "sourceSha256": "2d5e5b73cfb7f879251bd29caa74bee2d318a94a8d5aee428b7870efbec6e60e",
+    "bones": 13,
+    "clips": 18,
+    "scalarTransformCurves": 738,
+    "sampledPoses": 306,
+    "sourceUnchanged": true,
+    "separateLimbTransforms": true,
+    "noBodyScaleCurves": true,
+    "clipNames": [
+        "Idle",
+        "Breathe",
+        "Walk",
+        "Run",
+        "Jump",
+        "Crouch",
+        "ClawAttack",
+        "FireBreath",
+        "Hurt",
+        "Death",
+        "CombatIdle",
+        "Fireball",
+        "RisingFlame",
+        "FlamingKick",
+        "GroundFireWave",
+        "HurtFlash",
+        "Landing",
+        "IntroDrop"
+    ],
+    "errors": []
+}

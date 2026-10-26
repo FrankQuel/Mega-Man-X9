@@ -1,0 +1,12 @@
+{
+  "boneCount": 13,
+  "articulatedJointCount": 12,
+  "clipCount": 18,
+  "transformTracks": 234,
+  "missingSourcePixels": 0,
+  "hingeOverlapPixels": 59,
+  "allScaleCurvesAbsent": true,
+  "originalFileUnchanged": true,
+  "bindFacing": "Left",
+  "notes": "Transform animations are newly authored for this project from existing detached artwork; not claimed to reproduce original game timing."
+}

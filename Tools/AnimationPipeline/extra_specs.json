@@ -1,0 +1,1727 @@
+[
+  {
+    "source": "Assets/Recursos/Sprites/Bosses/Axl/Axl_OriginalSpriteSheet.png",
+    "category": "Bosses",
+    "unit": "Axl",
+    "name": "Idle",
+    "rects": [
+      [
+        23,
+        134,
+        67,
+        84
+      ],
+      [
+        100,
+        136,
+        58,
+        82
+      ],
+      [
+        176,
+        136,
+        49,
+        82
+      ],
+      [
+        242,
+        136,
+        46,
+        82
+      ]
+    ],
+    "fps": 6,
+    "loop": true,
+    "backgroundMode": "neutral",
+    "isolateComponent": true,
+    "notes": "Hoja de poses ilustradas: proporciones variables; revisar continuidad artística antes de combate final. Rectángulos revisados para conservar cuerpos completos."
+  },
+  {
+    "source": "Assets/Recursos/Sprites/Bosses/Axl/Axl_OriginalSpriteSheet.png",
+    "category": "Bosses",
+    "unit": "Axl",
+    "name": "ArmRaise",
+    "rects": [
+      [
+        306,
+        136,
+        47,
+        82
+      ],
+      [
+        366,
+        130,
+        35,
+        88
+      ],
+      [
+        409,
+        131,
+        38,
+        87
+      ],
+      [
+        462,
+        131,
+        34,
+        87
+      ]
+    ],
+    "fps": 10,
+    "loop": false,
+    "backgroundMode": "neutral",
+    "isolateComponent": true,
+    "notes": "Hoja de poses ilustradas: proporciones variables; revisar continuidad artística antes de combate final. Rectángulos revisados para conservar cuerpos completos."
+  },
+  {
+    "source": "Assets/Recursos/Sprites/Bosses/Axl/Axl_OriginalSpriteSheet.png",
+    "category": "Bosses",
+    "unit": "Axl",
+    "name": "PointDiagonal",
+    "rects": [
+      [
+        512,
+        137,
+        70,
+        81
+      ]
+    ],
+    "fps": 1,
+    "loop": true,
+    "backgroundMode": "neutral",
+    "isolateComponent": true,
+    "notes": "Hoja de poses ilustradas: proporciones variables; revisar continuidad artística antes de combate final. Rectángulos revisados para conservar cuerpos completos."
+  },
+  {
+    "source": "Assets/Recursos/Sprites/Bosses/Axl/Axl_OriginalSpriteSheet.png",
+    "category": "Bosses",
+    "unit": "Axl",
+    "name": "MaterializeSilhouette",
+    "rects": [
+      [
+        594,
+        135,
+        78,
+        79
+      ]
+    ],
+    "fps": 1,
+    "loop": false,
+    "backgroundMode": "neutral",
+    "isolateComponent": true,
+    "notes": "Hoja de poses ilustradas: proporciones variables; revisar continuidad artística antes de combate final. Rectángulos revisados para conservar cuerpos completos."
+  },
+  {
+    "source": "Assets/Recursos/Sprites/Bosses/Axl/Axl_OriginalSpriteSheet.png",
+    "category": "Bosses",
+    "unit": "Axl",
+    "name": "Aim",
+    "rects": [
+      [
+        680,
+        136,
+        71,
+        82
+      ],
+      [
+        765,
+        136,
+        61,
+        82
+      ],
+      [
+        839,
+        134,
+        71,
+        84
+      ],
+      [
+        926,
+        136,
+        73,
+        82
+      ]
+    ],
+    "fps": 6,
+    "loop": true,
+    "backgroundMode": "neutral",
+    "isolateComponent": true,
+    "notes": "Hoja de poses ilustradas: proporciones variables; revisar continuidad artística antes de combate final. Rectángulos revisados para conservar cuerpos completos."
+  },
+  {
+    "source": "Assets/Recursos/Sprites/Bosses/Axl/Axl_OriginalSpriteSheet.png",
+    "category": "Bosses",
+    "unit": "Axl",
+    "name": "Run",
+    "rects": [
+      [
+        24,
+        235,
+        60,
+        84
+      ],
+      [
+        99,
+        235,
+        54,
+        85
+      ],
+      [
+        169,
+        236,
+        51,
+        84
+      ],
+      [
+        234,
+        235,
+        61,
+        86
+      ],
+      [
+        311,
+        235,
+        57,
+        84
+      ],
+      [
+        373,
+        235,
+        67,
+        84
+      ],
+      [
+        447,
+        233,
+        61,
+        87
+      ],
+      [
+        521,
+        233,
+        56,
+        87
+      ],
+      [
+        586,
+        234,
+        65,
+        86
+      ],
+      [
+        666,
+        235,
+        75,
+        85
+      ],
+      [
+        747,
+        235,
+        67,
+        84
+      ],
+      [
+        832,
+        236,
+        70,
+        84
+      ]
+    ],
+    "fps": 12,
+    "loop": true,
+    "backgroundMode": "neutral",
+    "isolateComponent": true,
+    "notes": "Hoja de poses ilustradas: proporciones variables; revisar continuidad artística antes de combate final. Rectángulos revisados para conservar cuerpos completos."
+  },
+  {
+    "source": "Assets/Recursos/Sprites/Bosses/Axl/Axl_OriginalSpriteSheet.png",
+    "category": "Bosses",
+    "unit": "Axl",
+    "name": "Crouch",
+    "rects": [
+      [
+        915,
+        248,
+        74,
+        72
+      ]
+    ],
+    "fps": 1,
+    "loop": true,
+    "backgroundMode": "neutral",
+    "isolateComponent": true,
+    "notes": "Hoja de poses ilustradas: proporciones variables; revisar continuidad artística antes de combate final. Rectángulos revisados para conservar cuerpos completos."
+  },
+  {
+    "source": "Assets/Recursos/Sprites/Bosses/Axl/Axl_OriginalSpriteSheet.png",
+    "category": "Bosses",
+    "unit": "Axl",
+    "name": "AirDash",
+    "rects": [
+      [
+        34,
+        333,
+        63,
+        91
+      ],
+      [
+        112,
+        336,
+        64,
+        88
+      ],
+      [
+        194,
+        339,
+        66,
+        88
+      ],
+      [
+        281,
+        338,
+        69,
+        86
+      ],
+      [
+        365,
+        339,
+        79,
+        85
+      ],
+      [
+        449,
+        341,
+        77,
+        86
+      ],
+      [
+        539,
+        342,
+        85,
+        85
+      ],
+      [
+        629,
+        340,
+        78,
+        87
+      ],
+      [
+        718,
+        339,
+        50,
+        88
+      ],
+      [
+        789,
+        339,
+        53,
+        88
+      ]
+    ],
+    "fps": 12,
+    "loop": true,
+    "backgroundMode": "neutral",
+    "isolateComponent": true,
+    "notes": "Hoja de poses ilustradas: proporciones variables; revisar continuidad artística antes de combate final. Rectángulos revisados para conservar cuerpos completos."
+  },
+  {
+    "source": "Assets/Recursos/Sprites/Bosses/Axl/Axl_OriginalSpriteSheet.png",
+    "category": "Bosses",
+    "unit": "Axl",
+    "name": "DashStop",
+    "rects": [
+      [
+        850,
+        363,
+        51,
+        65
+      ],
+      [
+        924,
+        364,
+        54,
+        64
+      ]
+    ],
+    "fps": 10,
+    "loop": false,
+    "backgroundMode": "neutral",
+    "isolateComponent": true,
+    "notes": "Hoja de poses ilustradas: proporciones variables; revisar continuidad artística antes de combate final. Rectángulos revisados para conservar cuerpos completos."
+  },
+  {
+    "source": "Assets/Recursos/Sprites/Bosses/Axl/Axl_OriginalSpriteSheet.png",
+    "category": "Bosses",
+    "unit": "Axl",
+    "name": "Shoot",
+    "rects": [
+      [
+        24,
+        440,
+        74,
+        82
+      ],
+      [
+        119,
+        441,
+        94,
+        82
+      ],
+      [
+        217,
+        442,
+        95,
+        81
+      ],
+      [
+        310,
+        442,
+        97,
+        81
+      ],
+      [
+        400,
+        442,
+        107,
+        81
+      ]
+    ],
+    "fps": 12,
+    "loop": false,
+    "backgroundMode": "neutral",
+    "isolateComponent": true,
+    "notes": "Hoja de poses ilustradas: proporciones variables; revisar continuidad artística antes de combate final. Rectángulos revisados para conservar cuerpos completos."
+  },
+  {
+    "source": "Assets/Recursos/Sprites/Bosses/Axl/Axl_OriginalSpriteSheet.png",
+    "category": "Bosses",
+    "unit": "Axl",
+    "name": "AirShoot",
+    "rects": [
+      [
+        512,
+        443,
+        79,
+        80
+      ]
+    ],
+    "fps": 10,
+    "loop": false,
+    "backgroundMode": "neutral",
+    "isolateComponent": true,
+    "notes": "Hoja de poses ilustradas: proporciones variables; revisar continuidad artística antes de combate final. Rectángulos revisados para conservar cuerpos completos."
+  },
+  {
+    "source": "Assets/Recursos/Sprites/Bosses/Axl/Axl_OriginalSpriteSheet.png",
+    "category": "Bosses",
+    "unit": "Axl",
+    "name": "ShootUp",
+    "rects": [
+      [
+        638,
+        417,
+        61,
+        106
+      ]
+    ],
+    "fps": 1,
+    "loop": false,
+    "backgroundMode": "neutral",
+    "isolateComponent": true,
+    "notes": "Hoja de poses ilustradas: proporciones variables; revisar continuidad artística antes de combate final. Rectángulos revisados para conservar cuerpos completos."
+  },
+  {
+    "source": "Assets/Recursos/Sprites/Bosses/Axl/Axl_OriginalSpriteSheet.png",
+    "category": "Bosses",
+    "unit": "Axl",
+    "name": "LowShoot",
+    "rects": [
+      [
+        769,
+        446,
+        91,
+        76
+      ],
+      [
+        872,
+        453,
+        76,
+        69
+      ]
+    ],
+    "fps": 10,
+    "loop": false,
+    "backgroundMode": "neutral",
+    "isolateComponent": true,
+    "notes": "Hoja de poses ilustradas: proporciones variables; revisar continuidad artística antes de combate final. Rectángulos revisados para conservar cuerpos completos."
+  },
+  {
+    "source": "Assets/Recursos/Sprites/Bosses/Axl/Axl_OriginalSpriteSheet.png",
+    "category": "Bosses",
+    "unit": "Axl",
+    "name": "CrouchShoot",
+    "rects": [
+      [
+        20,
+        532,
+        106,
+        67
+      ],
+      [
+        127,
+        533,
+        83,
+        67
+      ],
+      [
+        210,
+        537,
+        86,
+        64
+      ],
+      [
+        294,
+        537,
+        94,
+        64
+      ],
+      [
+        389,
+        530,
+        90,
+        73
+      ],
+      [
+        481,
+        532,
+        97,
+        72
+      ],
+      [
+        576,
+        538,
+        78,
+        64
+      ],
+      [
+        671,
+        532,
+        97,
+        69
+      ],
+      [
+        792,
+        535,
+        90,
+        66
+      ],
+      [
+        898,
+        543,
+        108,
+        57
+      ]
+    ],
+    "fps": 12,
+    "loop": false,
+    "backgroundMode": "neutral",
+    "isolateComponent": true,
+    "notes": "Hoja de poses ilustradas: proporciones variables; revisar continuidad artística antes de combate final. Rectángulos revisados para conservar cuerpos completos."
+  },
+  {
+    "source": "Assets/Recursos/Sprites/Bosses/Axl/Axl_OriginalSpriteSheet.png",
+    "category": "Bosses",
+    "unit": "Axl",
+    "name": "RunShoot",
+    "rects": [
+      [
+        29,
+        613,
+        110,
+        79
+      ],
+      [
+        139,
+        613,
+        118,
+        79
+      ],
+      [
+        257,
+        613,
+        94,
+        79
+      ]
+    ],
+    "fps": 10,
+    "loop": true,
+    "backgroundMode": "neutral",
+    "isolateComponent": true,
+    "notes": "Hoja de poses ilustradas: proporciones variables; revisar continuidad artística antes de combate final. Rectángulos revisados para conservar cuerpos completos."
+  },
+  {
+    "source": "Assets/Recursos/Sprites/Bosses/Axl/Axl_OriginalSpriteSheet.png",
+    "category": "Bosses",
+    "unit": "Axl",
+    "name": "ShootRecover",
+    "rects": [
+      [
+        338,
+        613,
+        71,
+        79
+      ],
+      [
+        416,
+        615,
+        64,
+        77
+      ]
+    ],
+    "fps": 8,
+    "loop": false,
+    "backgroundMode": "neutral",
+    "isolateComponent": true,
+    "notes": "Hoja de poses ilustradas: proporciones variables; revisar continuidad artística antes de combate final. Rectángulos revisados para conservar cuerpos completos."
+  },
+  {
+    "source": "Assets/Recursos/Sprites/Bosses/Axl/Axl_OriginalSpriteSheet.png",
+    "category": "Bosses",
+    "unit": "Axl",
+    "name": "Charge",
+    "rects": [
+      [
+        509,
+        616,
+        81,
+        76
+      ],
+      [
+        611,
+        617,
+        87,
+        79
+      ],
+      [
+        698,
+        615,
+        90,
+        77
+      ],
+      [
+        782,
+        607,
+        165,
+        85
+      ]
+    ],
+    "fps": 10,
+    "loop": false,
+    "backgroundMode": "neutral",
+    "isolateComponent": true,
+    "notes": "Hoja de poses ilustradas: proporciones variables; revisar continuidad artística antes de combate final. Rectángulos revisados para conservar cuerpos completos."
+  },
+  {
+    "source": "Assets/Recursos/Sprites/Bosses/Axl/Axl_OriginalSpriteSheet.png",
+    "category": "Bosses",
+    "unit": "Axl",
+    "name": "AirSpreadShot",
+    "rects": [
+      [
+        18,
+        707,
+        122,
+        64
+      ],
+      [
+        143,
+        706,
+        126,
+        68
+      ],
+      [
+        266,
+        704,
+        108,
+        70
+      ],
+      [
+        365,
+        706,
+        123,
+        66
+      ],
+      [
+        489,
+        705,
+        123,
+        67
+      ],
+      [
+        613,
+        711,
+        113,
+        62
+      ],
+      [
+        730,
+        705,
+        121,
+        67
+      ],
+      [
+        875,
+        700,
+        111,
+        72
+      ]
+    ],
+    "fps": 10,
+    "loop": false,
+    "backgroundMode": "neutral",
+    "isolateComponent": true,
+    "notes": "Hoja de poses ilustradas: proporciones variables; revisar continuidad artística antes de combate final. Rectángulos revisados para conservar cuerpos completos."
+  },
+  {
+    "source": "Assets/Recursos/Sprites/Bosses/Axl/Axl_OriginalSpriteSheet.png",
+    "category": "Bosses",
+    "unit": "Axl",
+    "name": "DashAttackReady",
+    "rects": [
+      [
+        23,
+        783,
+        53,
+        76
+      ]
+    ],
+    "fps": 1,
+    "loop": true,
+    "backgroundMode": "neutral",
+    "isolateComponent": true,
+    "notes": "Hoja de poses ilustradas: proporciones variables; revisar continuidad artística antes de combate final. Rectángulos revisados para conservar cuerpos completos."
+  },
+  {
+    "source": "Assets/Recursos/Sprites/Bosses/Axl/Axl_OriginalSpriteSheet.png",
+    "category": "Bosses",
+    "unit": "Axl",
+    "name": "DashAttackStartup",
+    "rects": [
+      [
+        93,
+        784,
+        112,
+        75
+      ]
+    ],
+    "fps": 8,
+    "loop": false,
+    "backgroundMode": "neutral",
+    "isolateComponent": true,
+    "notes": "Hoja de poses ilustradas: proporciones variables; revisar continuidad artística antes de combate final. Rectángulos revisados para conservar cuerpos completos."
+  },
+  {
+    "source": "Assets/Recursos/Sprites/Bosses/Axl/Axl_OriginalSpriteSheet.png",
+    "category": "Bosses",
+    "unit": "Axl",
+    "name": "DashAttack",
+    "rects": [
+      [
+        196,
+        784,
+        99,
+        74
+      ],
+      [
+        291,
+        784,
+        101,
+        73
+      ],
+      [
+        388,
+        783,
+        118,
+        73
+      ],
+      [
+        495,
+        784,
+        116,
+        72
+      ],
+      [
+        636,
+        790,
+        102,
+        67
+      ],
+      [
+        763,
+        788,
+        102,
+        70
+      ],
+      [
+        891,
+        799,
+        104,
+        59
+      ]
+    ],
+    "fps": 12,
+    "loop": false,
+    "backgroundMode": "neutral",
+    "isolateComponent": true,
+    "notes": "Hoja de poses ilustradas: proporciones variables; revisar continuidad artística antes de combate final. Rectángulos revisados para conservar cuerpos completos."
+  },
+  {
+    "source": "Assets/Recursos/Sprites/Bosses/Axl/Axl_OriginalSpriteSheet.png",
+    "category": "Bosses",
+    "unit": "Axl",
+    "name": "AirCharge",
+    "rects": [
+      [
+        27,
+        871,
+        99,
+        84
+      ],
+      [
+        129,
+        877,
+        80,
+        82
+      ],
+      [
+        225,
+        874,
+        84,
+        86
+      ],
+      [
+        309,
+        872,
+        73,
+        88
+      ],
+      [
+        389,
+        877,
+        83,
+        84
+      ],
+      [
+        473,
+        870,
+        70,
+        88
+      ],
+      [
+        550,
+        875,
+        90,
+        83
+      ],
+      [
+        646,
+        872,
+        89,
+        86
+      ]
+    ],
+    "fps": 10,
+    "loop": false,
+    "backgroundMode": "neutral",
+    "isolateComponent": true,
+    "notes": "Hoja de poses ilustradas: proporciones variables; revisar continuidad artística antes de combate final. Rectángulos revisados para conservar cuerpos completos."
+  },
+  {
+    "source": "Assets/Recursos/Sprites/Bosses/Axl/Axl_OriginalSpriteSheet.png",
+    "category": "Bosses",
+    "unit": "Axl",
+    "name": "DashAfterimage",
+    "rects": [
+      [
+        723,
+        883,
+        83,
+        74
+      ]
+    ],
+    "fps": 1,
+    "loop": false,
+    "backgroundMode": "neutral",
+    "isolateComponent": true,
+    "notes": "Hoja de poses ilustradas: proporciones variables; revisar continuidad artística antes de combate final. Rectángulos revisados para conservar cuerpos completos."
+  },
+  {
+    "source": "Assets/Recursos/Sprites/Bosses/Axl/Axl_OriginalSpriteSheet.png",
+    "category": "Bosses",
+    "unit": "Axl",
+    "name": "ShieldReady",
+    "rects": [
+      [
+        821,
+        882,
+        41,
+        67
+      ]
+    ],
+    "fps": 1,
+    "loop": true,
+    "backgroundMode": "neutral",
+    "isolateComponent": true,
+    "notes": "Hoja de poses ilustradas: proporciones variables; revisar continuidad artística antes de combate final. Rectángulos revisados para conservar cuerpos completos."
+  },
+  {
+    "source": "Assets/Recursos/Sprites/Bosses/Axl/Axl_OriginalSpriteSheet.png",
+    "category": "Bosses",
+    "unit": "Axl",
+    "name": "Shield",
+    "rects": [
+      [
+        877,
+        870,
+        63,
+        88
+      ]
+    ],
+    "fps": 1,
+    "loop": true,
+    "backgroundMode": "neutral",
+    "isolateComponent": true,
+    "notes": "Hoja de poses ilustradas: proporciones variables; revisar continuidad artística antes de combate final. Rectángulos revisados para conservar cuerpos completos."
+  },
+  {
+    "source": "Assets/Recursos/Sprites/Bosses/Axl/Axl_OriginalSpriteSheet.png",
+    "category": "Bosses",
+    "unit": "Axl",
+    "name": "ShieldRecover",
+    "rects": [
+      [
+        951,
+        883,
+        44,
+        69
+      ]
+    ],
+    "fps": 1,
+    "loop": false,
+    "backgroundMode": "neutral",
+    "isolateComponent": true,
+    "notes": "Hoja de poses ilustradas: proporciones variables; revisar continuidad artística antes de combate final. Rectángulos revisados para conservar cuerpos completos."
+  },
+  {
+    "source": "Assets/Recursos/Sprites/Bosses/Axl/Axl_OriginalSpriteSheet.png",
+    "category": "Bosses",
+    "unit": "Axl",
+    "name": "ChargedShot",
+    "rects": [
+      [
+        19,
+        970,
+        78,
+        82
+      ],
+      [
+        96,
+        972,
+        94,
+        89
+      ],
+      [
+        190,
+        975,
+        93,
+        86
+      ],
+      [
+        277,
+        982,
+        101,
+        70
+      ],
+      [
+        377,
+        983,
+        121,
+        69
+      ]
+    ],
+    "fps": 12,
+    "loop": false,
+    "backgroundMode": "neutral",
+    "isolateComponent": true,
+    "notes": "Hoja de poses ilustradas: proporciones variables; revisar continuidad artística antes de combate final. Rectángulos revisados para conservar cuerpos completos."
+  },
+  {
+    "source": "Assets/Recursos/Sprites/Bosses/Axl/Axl_OriginalSpriteSheet.png",
+    "category": "Bosses",
+    "unit": "Axl",
+    "name": "AirAimUp",
+    "rects": [
+      [
+        19,
+        1069,
+        93,
+        78
+      ],
+      [
+        119,
+        1069,
+        90,
+        78
+      ],
+      [
+        215,
+        1064,
+        78,
+        83
+      ],
+      [
+        298,
+        1064,
+        82,
+        85
+      ],
+      [
+        394,
+        1064,
+        90,
+        84
+      ],
+      [
+        482,
+        1064,
+        79,
+        84
+      ],
+      [
+        564,
+        1064,
+        80,
+        84
+      ]
+    ],
+    "fps": 10,
+    "loop": false,
+    "backgroundMode": "neutral",
+    "isolateComponent": true,
+    "notes": "Hoja de poses ilustradas: proporciones variables; revisar continuidad artística antes de combate final. Rectángulos revisados para conservar cuerpos completos."
+  },
+  {
+    "source": "Assets/Recursos/Sprites/Bosses/Axl/Axl_OriginalSpriteSheet.png",
+    "category": "Bosses",
+    "unit": "Axl",
+    "name": "JetRise",
+    "rects": [
+      [
+        643,
+        1062,
+        82,
+        86
+      ],
+      [
+        727,
+        1060,
+        67,
+        90
+      ],
+      [
+        811,
+        1064,
+        64,
+        92
+      ],
+      [
+        888,
+        1064,
+        56,
+        92
+      ],
+      [
+        957,
+        1064,
+        52,
+        92
+      ]
+    ],
+    "fps": 12,
+    "loop": false,
+    "backgroundMode": "neutral",
+    "isolateComponent": true,
+    "notes": "Hoja de poses ilustradas: proporciones variables; revisar continuidad artística antes de combate final. Rectángulos revisados para conservar cuerpos completos."
+  },
+  {
+    "source": "Assets/Recursos/Sprites/Bosses/Axl/Axl_OriginalSpriteSheet.png",
+    "category": "Bosses",
+    "unit": "Axl",
+    "name": "Hurt",
+    "rects": [
+      [
+        22,
+        1160,
+        91,
+        73
+      ],
+      [
+        140,
+        1159,
+        118,
+        74
+      ],
+      [
+        260,
+        1160,
+        94,
+        72
+      ],
+      [
+        364,
+        1158,
+        114,
+        79
+      ]
+    ],
+    "fps": 10,
+    "loop": false,
+    "backgroundMode": "neutral",
+    "isolateComponent": true,
+    "notes": "Hoja de poses ilustradas: proporciones variables; revisar continuidad artística antes de combate final. Rectángulos revisados para conservar cuerpos completos."
+  },
+  {
+    "source": "Assets/Recursos/Sprites/Bosses/Axl/Axl_OriginalSpriteSheet.png",
+    "category": "Bosses",
+    "unit": "Axl",
+    "name": "HurtRecover",
+    "rects": [
+      [
+        489,
+        1158,
+        82,
+        78
+      ]
+    ],
+    "fps": 1,
+    "loop": false,
+    "backgroundMode": "neutral",
+    "isolateComponent": true,
+    "notes": "Hoja de poses ilustradas: proporciones variables; revisar continuidad artística antes de combate final. Rectángulos revisados para conservar cuerpos completos."
+  },
+  {
+    "source": "Assets/Recursos/Sprites/Bosses/Axl/Axl_OriginalSpriteSheet.png",
+    "category": "Bosses",
+    "unit": "Axl",
+    "name": "Knockdown",
+    "rects": [
+      [
+        578,
+        1160,
+        71,
+        65
+      ],
+      [
+        661,
+        1159,
+        83,
+        68
+      ],
+      [
+        756,
+        1176,
+        65,
+        52
+      ],
+      [
+        835,
+        1181,
+        84,
+        47
+      ],
+      [
+        932,
+        1188,
+        77,
+        40
+      ]
+    ],
+    "fps": 10,
+    "loop": false,
+    "backgroundMode": "neutral",
+    "isolateComponent": true,
+    "notes": "Hoja de poses ilustradas: proporciones variables; revisar continuidad artística antes de combate final. Rectángulos revisados para conservar cuerpos completos."
+  },
+  {
+    "source": "Assets/Recursos/Sprites/Bosses/Axl/Axl_OriginalSpriteSheet.png",
+    "category": "Bosses",
+    "unit": "Axl",
+    "name": "Hover",
+    "rects": [
+      [
+        19,
+        1251,
+        73,
+        93
+      ],
+      [
+        109,
+        1251,
+        61,
+        93
+      ],
+      [
+        189,
+        1248,
+        82,
+        90
+      ],
+      [
+        278,
+        1246,
+        82,
+        108
+      ],
+      [
+        370,
+        1251,
+        61,
+        103
+      ],
+      [
+        444,
+        1251,
+        45,
+        103
+      ],
+      [
+        500,
+        1245,
+        40,
+        108
+      ]
+    ],
+    "fps": 10,
+    "loop": true,
+    "backgroundMode": "neutral",
+    "isolateComponent": true,
+    "notes": "Hoja de poses ilustradas: proporciones variables; revisar continuidad artística antes de combate final. Rectángulos revisados para conservar cuerpos completos."
+  },
+  {
+    "source": "Assets/Recursos/Sprites/Bosses/Axl/Axl_OriginalSpriteSheet.png",
+    "category": "Bosses",
+    "unit": "Axl",
+    "name": "TeleportOut",
+    "rects": [
+      [
+        553,
+        1244,
+        36,
+        85
+      ],
+      [
+        598,
+        1244,
+        43,
+        84
+      ],
+      [
+        649,
+        1242,
+        40,
+        86
+      ],
+      [
+        699,
+        1241,
+        40,
+        87
+      ],
+      [
+        755,
+        1241,
+        29,
+        88
+      ],
+      [
+        796,
+        1246,
+        60,
+        85
+      ],
+      [
+        869,
+        1252,
+        40,
+        79
+      ],
+      [
+        919,
+        1253,
+        34,
+        77
+      ],
+      [
+        964,
+        1257,
+        33,
+        72
+      ]
+    ],
+    "fps": 10,
+    "loop": false,
+    "backgroundMode": "neutral",
+    "isolateComponent": true,
+    "notes": "Hoja de poses ilustradas: proporciones variables; revisar continuidad artística antes de combate final. Rectángulos revisados para conservar cuerpos completos."
+  },
+  {
+    "source": "Assets/Recursos/Sprites/Bosses/Axl/Axl_OriginalSpriteSheet.png",
+    "category": "Bosses",
+    "unit": "Axl",
+    "name": "Victory",
+    "rects": [
+      [
+        24,
+        1366,
+        54,
+        72
+      ],
+      [
+        93,
+        1365,
+        53,
+        74
+      ],
+      [
+        161,
+        1366,
+        54,
+        72
+      ],
+      [
+        230,
+        1369,
+        53,
+        69
+      ],
+      [
+        298,
+        1366,
+        61,
+        73
+      ],
+      [
+        383,
+        1364,
+        45,
+        75
+      ],
+      [
+        451,
+        1364,
+        46,
+        74
+      ]
+    ],
+    "fps": 8,
+    "loop": false,
+    "backgroundMode": "neutral",
+    "isolateComponent": true,
+    "notes": "Hoja de poses ilustradas: proporciones variables; revisar continuidad artística antes de combate final. Rectángulos revisados para conservar cuerpos completos."
+  },
+  {
+    "source": "Assets/Recursos/Sprites/Bosses/Axl/Axl_OriginalSpriteSheet.png",
+    "category": "Bosses",
+    "unit": "Axl",
+    "name": "TeleportIn",
+    "rects": [
+      [
+        508,
+        1365,
+        50,
+        70
+      ],
+      [
+        567,
+        1348,
+        52,
+        87
+      ],
+      [
+        626,
+        1349,
+        58,
+        86
+      ],
+      [
+        695,
+        1349,
+        56,
+        86
+      ]
+    ],
+    "fps": 10,
+    "loop": false,
+    "backgroundMode": "neutral",
+    "isolateComponent": true,
+    "notes": "Hoja de poses ilustradas: proporciones variables; revisar continuidad artística antes de combate final. Rectángulos revisados para conservar cuerpos completos."
+  },
+  {
+    "source": "Assets/Recursos/Sprites/Bosses/Axl/Axl_OriginalSpriteSheet.png",
+    "category": "Bosses",
+    "unit": "Axl",
+    "name": "TeleportFinish",
+    "rects": [
+      [
+        771,
+        1348,
+        58,
+        86
+      ]
+    ],
+    "fps": 1,
+    "loop": false,
+    "backgroundMode": "neutral",
+    "isolateComponent": true,
+    "notes": "Hoja de poses ilustradas: proporciones variables; revisar continuidad artística antes de combate final. Rectángulos revisados para conservar cuerpos completos."
+  },
+  {
+    "source": "Assets/Recursos/Sprites/Bosses/Axl/Axl_OriginalSpriteSheet.png",
+    "category": "Bosses",
+    "unit": "Axl",
+    "name": "TeleportBeam",
+    "rects": [
+      [
+        842,
+        1349,
+        52,
+        86
+      ],
+      [
+        911,
+        1349,
+        14,
+        86
+      ]
+    ],
+    "fps": 10,
+    "loop": false,
+    "backgroundMode": "neutral",
+    "isolateComponent": true,
+    "notes": "Hoja de poses ilustradas: proporciones variables; revisar continuidad artística antes de combate final. Rectángulos revisados para conservar cuerpos completos."
+  },
+  {
+    "source": "Assets/Recursos/Sprites/Bosses/Axl/Axl_OriginalSpriteSheet.png",
+    "category": "Bosses",
+    "unit": "Axl",
+    "name": "TeleportArrivalPose",
+    "rects": [
+      [
+        940,
+        1349,
+        60,
+        85
+      ]
+    ],
+    "fps": 1,
+    "loop": true,
+    "backgroundMode": "neutral",
+    "isolateComponent": true,
+    "notes": "Hoja de poses ilustradas: proporciones variables; revisar continuidad artística antes de combate final. Rectángulos revisados para conservar cuerpos completos."
+  },
+  {
+    "source": "Assets/Recursos/Sprites/Bosses/Axl/Axl_OriginalSpriteSheet.png",
+    "category": "Bosses",
+    "unit": "Axl",
+    "name": "AlternateIdle",
+    "rects": [
+      [
+        23,
+        1452,
+        56,
+        71
+      ],
+      [
+        97,
+        1450,
+        55,
+        73
+      ],
+      [
+        167,
+        1450,
+        67,
+        73
+      ]
+    ],
+    "fps": 6,
+    "loop": true,
+    "backgroundMode": "neutral",
+    "isolateComponent": true,
+    "notes": "Hoja de poses ilustradas: proporciones variables; revisar continuidad artística antes de combate final. Rectángulos revisados para conservar cuerpos completos."
+  },
+  {
+    "source": "Assets/Recursos/Sprites/Bosses/Axl/Axl_OriginalSpriteSheet.png",
+    "category": "Bosses",
+    "unit": "Axl",
+    "name": "TeleportArrivalBeam",
+    "rects": [
+      [
+        47,
+        19,
+        12,
+        94
+      ],
+      [
+        70,
+        18,
+        14,
+        96
+      ]
+    ],
+    "fps": 10,
+    "loop": false,
+    "backgroundMode": "neutral",
+    "isolateComponent": true,
+    "notes": "Hoja de poses ilustradas: proporciones variables; revisar continuidad artística antes de combate final. Rectángulos revisados para conservar cuerpos completos."
+  },
+  {
+    "source": "Assets/Recursos/Sprites/Bosses/Axl/Axl_OriginalSpriteSheet.png",
+    "category": "Bosses",
+    "unit": "Axl",
+    "name": "TeleportArrivalEnergy",
+    "rects": [
+      [
+        97,
+        55,
+        45,
+        27
+      ],
+      [
+        152,
+        37,
+        61,
+        61
+      ],
+      [
+        226,
+        19,
+        108,
+        96
+      ],
+      [
+        358,
+        17,
+        102,
+        100
+      ],
+      [
+        486,
+        14,
+        100,
+        105
+      ],
+      [
+        607,
+        14,
+        102,
+        105
+      ],
+      [
+        732,
+        18,
+        99,
+        97
+      ],
+      [
+        862,
+        16,
+        121,
+        108
+      ]
+    ],
+    "fps": 10,
+    "loop": false,
+    "backgroundMode": "neutral",
+    "isolateComponent": true,
+    "notes": "Hoja de poses ilustradas: proporciones variables; revisar continuidad artística antes de combate final. Rectángulos revisados para conservar cuerpos completos."
+  },
+  {
+    "source": "Assets/Recursos/Sprites/Bosses/Axl/Axl_OriginalSpriteSheet.png",
+    "category": "Effects",
+    "unit": "AxlFX",
+    "name": "HitBurst",
+    "rects": [
+      [
+        240,
+        1444,
+        74,
+        92
+      ],
+      [
+        314,
+        1444,
+        75,
+        92
+      ],
+      [
+        389,
+        1444,
+        73,
+        92
+      ],
+      [
+        462,
+        1444,
+        72,
+        92
+      ],
+      [
+        534,
+        1444,
+        76,
+        92
+      ]
+    ],
+    "fps": 12,
+    "loop": false,
+    "backgroundMode": "neutral",
+    "isolateComponent": false,
+    "notes": "Hoja de poses ilustradas: proporciones variables; revisar continuidad artística antes de combate final. Rectángulos revisados para conservar cuerpos completos."
+  },
+  {
+    "source": "Assets/Recursos/Sprites/Bosses/Axl/Axl_OriginalSpriteSheet.png",
+    "category": "Effects",
+    "unit": "AxlFX",
+    "name": "Sparkle",
+    "rects": [
+      [
+        612,
+        1444,
+        46,
+        92
+      ],
+      [
+        663,
+        1444,
+        46,
+        92
+      ],
+      [
+        710,
+        1444,
+        55,
+        92
+      ],
+      [
+        767,
+        1444,
+        58,
+        92
+      ],
+      [
+        826,
+        1444,
+        32,
+        92
+      ]
+    ],
+    "fps": 10,
+    "loop": true,
+    "backgroundMode": "neutral",
+    "isolateComponent": false,
+    "notes": "Hoja de poses ilustradas: proporciones variables; revisar continuidad artística antes de combate final. Rectángulos revisados para conservar cuerpos completos."
+  },
+  {
+    "source": "Assets/Recursos/Sprites/Bosses/Axl/Axl_OriginalSpriteSheet.png",
+    "category": "Effects",
+    "unit": "AxlFX",
+    "name": "Smoke",
+    "rects": [
+      [
+        855,
+        1444,
+        77,
+        92
+      ],
+      [
+        932,
+        1444,
+        80,
+        92
+      ]
+    ],
+    "fps": 8,
+    "loop": false,
+    "backgroundMode": "neutral",
+    "isolateComponent": false,
+    "notes": "Hoja de poses ilustradas: proporciones variables; revisar continuidad artística antes de combate final. Rectángulos revisados para conservar cuerpos completos."
+  },
+  {
+    "source": "Assets/Recursos/UI/Menus/MainMenu/Retro CRT Spanish Game Menu Sprite Sheet.png",
+    "category": "UI",
+    "unit": "MainMenu",
+    "name": "StartSelectedCRT",
+    "rects": [
+      [
+        0,
+        0,
+        482,
+        543
+      ],
+      [
+        483,
+        0,
+        482,
+        543
+      ],
+      [
+        966,
+        0,
+        482,
+        543
+      ]
+    ],
+    "fps": 6,
+    "loop": true,
+    "keyColors": [],
+    "notes": "Variantes completas del menú; se reproduce como una superficie UI."
+  },
+  {
+    "source": "Assets/Recursos/UI/Menus/MainMenu/Retro CRT Spanish Game Menu Sprite Sheet.png",
+    "category": "UI",
+    "unit": "MainMenu",
+    "name": "OptionsSelected",
+    "rects": [
+      [
+        483,
+        543,
+        482,
+        543
+      ]
+    ],
+    "fps": 1,
+    "loop": true,
+    "keyColors": [],
+    "notes": "Estado estático de selección."
+  },
+  {
+    "source": "Assets/Recursos/UI/Menus/MainMenu/Retro CRT Spanish Game Menu Sprite Sheet.png",
+    "category": "UI",
+    "unit": "MainMenu",
+    "name": "ExitSelected",
+    "rects": [
+      [
+        966,
+        543,
+        482,
+        543
+      ]
+    ],
+    "fps": 1,
+    "loop": true,
+    "keyColors": [],
+    "notes": "Estado estático de selección."
+  }
+]

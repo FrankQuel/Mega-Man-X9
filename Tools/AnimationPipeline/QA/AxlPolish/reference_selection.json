@@ -1,0 +1,146 @@
+[
+  {
+    "clip": "Idle",
+    "frame": 1,
+    "source": "Assets/Recursos/Sprites/Bosses/Axl/Axl_OriginalSpriteSheet.png",
+    "rect": [
+      100,
+      136,
+      58,
+      82
+    ],
+    "role": "CANONICAL design"
+  },
+  {
+    "clip": "Aim",
+    "frame": 3,
+    "source": "Assets/Recursos/Sprites/Bosses/Axl/Axl_OriginalSpriteSheet.png",
+    "rect": [
+      926,
+      136,
+      73,
+      82
+    ],
+    "role": "Horizontal arm pose"
+  },
+  {
+    "clip": "Shoot",
+    "frame": 0,
+    "source": "Assets/Recursos/Sprites/Bosses/Axl/Axl_OriginalSpriteSheet.png",
+    "rect": [
+      24,
+      440,
+      74,
+      82
+    ],
+    "role": "Standing shot pose"
+  },
+  {
+    "clip": "Crouch",
+    "frame": 0,
+    "source": "Assets/Recursos/Sprites/Bosses/Axl/Axl_OriginalSpriteSheet.png",
+    "rect": [
+      915,
+      248,
+      74,
+      72
+    ],
+    "role": "Crouch key pose"
+  },
+  {
+    "clip": "Run",
+    "frame": 3,
+    "source": "Assets/Recursos/Sprites/Bosses/Axl/Axl_OriginalSpriteSheet.png",
+    "rect": [
+      234,
+      235,
+      61,
+      86
+    ],
+    "role": "Run contact pose"
+  },
+  {
+    "clip": "Run",
+    "frame": 7,
+    "source": "Assets/Recursos/Sprites/Bosses/Axl/Axl_OriginalSpriteSheet.png",
+    "rect": [
+      521,
+      233,
+      56,
+      87
+    ],
+    "role": "Run passing pose"
+  },
+  {
+    "clip": "AirDash",
+    "frame": 2,
+    "source": "Assets/Recursos/Sprites/Bosses/Axl/Axl_OriginalSpriteSheet.png",
+    "rect": [
+      194,
+      339,
+      66,
+      88
+    ],
+    "role": "Air dash key pose"
+  },
+  {
+    "clip": "AirAimUp",
+    "frame": 3,
+    "source": "Assets/Recursos/Sprites/Bosses/Axl/Axl_OriginalSpriteSheet.png",
+    "rect": [
+      298,
+      1064,
+      82,
+      85
+    ],
+    "role": "Air aim key pose"
+  },
+  {
+    "clip": "Hover",
+    "frame": 4,
+    "source": "Assets/Recursos/Sprites/Bosses/Axl/Axl_OriginalSpriteSheet.png",
+    "rect": [
+      370,
+      1251,
+      61,
+      103
+    ],
+    "role": "Jet hover key pose"
+  },
+  {
+    "clip": "Hurt",
+    "frame": 0,
+    "source": "Assets/Recursos/Sprites/Bosses/Axl/Axl_OriginalSpriteSheet.png",
+    "rect": [
+      22,
+      1160,
+      91,
+      73
+    ],
+    "role": "Air hit key pose"
+  },
+  {
+    "clip": "Knockdown",
+    "frame": 4,
+    "source": "Assets/Recursos/Sprites/Bosses/Axl/Axl_OriginalSpriteSheet.png",
+    "rect": [
+      932,
+      1188,
+      77,
+      40
+    ],
+    "role": "Defeat end pose"
+  },
+  {
+    "clip": "Victory",
+    "frame": 6,
+    "source": "Assets/Recursos/Sprites/Bosses/Axl/Axl_OriginalSpriteSheet.png",
+    "rect": [
+      451,
+      1364,
+      46,
+      74
+    ],
+    "role": "Victory end pose"
+  }
+]

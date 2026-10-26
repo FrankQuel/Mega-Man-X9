@@ -1,0 +1,274 @@
+[
+  {
+    "originalPath": "Assets/Recursos/Sprites/Bosses/Dragon/Dragon.png",
+    "sha256": "2d5e5b73cfb7f879251bd29caa74bee2d318a94a8d5aee428b7870efbec6e60e",
+    "width": 700,
+    "height": 1728,
+    "mode": "P",
+    "embeddedFrames": 1
+  },
+  {
+    "originalPath": "Assets/Recursos/Sprites/Bosses/Axl/Axl_OriginalSpriteSheet.png",
+    "sha256": "f7cadbad6972bc2555bfe956d1b01f24604cd49e8a84d31e928a15460ef4da7f",
+    "width": 1024,
+    "height": 1536,
+    "mode": "RGB",
+    "embeddedFrames": 1
+  },
+  {
+    "originalPath": "Assets/Recursos/Sprites/Effects/bossdoor.gif",
+    "sha256": "0d57aa42b0add8738cff4b8b80d14187b1b154193a0f65a8e05e80ae0be646da",
+    "width": 245,
+    "height": 227,
+    "mode": "P",
+    "embeddedFrames": 1
+  },
+  {
+    "originalPath": "Assets/Recursos/Sprites/Effects/Explosion.gif",
+    "sha256": "5bf2582d2c1d6f46e38709efeafc0b116ca9b91351f9047e0bd4b64351c91349",
+    "width": 650,
+    "height": 280,
+    "mode": "P",
+    "embeddedFrames": 1
+  },
+  {
+    "originalPath": "Assets/Recursos/Sprites/Effects/meteor1.gif",
+    "sha256": "25a5bf134baaa10df6101d07627b2fa4f3e721360dd0926a3935a65ecfd5f660",
+    "width": 703,
+    "height": 238,
+    "mode": "P",
+    "embeddedFrames": 1
+  },
+  {
+    "originalPath": "Assets/Recursos/Sprites/Effects/Rain Effect.png",
+    "sha256": "1eafb8d15bf9f07dffda5bed403b1a64b066c15741f30c7ddf301280d7213583",
+    "width": 514,
+    "height": 503,
+    "mode": "RGB",
+    "embeddedFrames": 1
+  },
+  {
+    "originalPath": "Assets/Recursos/Sprites/Effects/Ready Text - Stage Intro Screen.png",
+    "sha256": "b00f098dd3f9d064eb11a3a8b503eb7f218d810a6a477fea45fd19f35a4d15c4",
+    "width": 641,
+    "height": 362,
+    "mode": "RGBA",
+    "embeddedFrames": 1
+  },
+  {
+    "originalPath": "Assets/Recursos/Sprites/Enemies/bird.gif",
+    "sha256": "c9b94dab5b6dd74ab498a4e11d2c62ce098d6efab65e7ed0f9c346c355b0d7fa",
+    "width": 169,
+    "height": 124,
+    "mode": "P",
+    "embeddedFrames": 1
+  },
+  {
+    "originalPath": "Assets/Recursos/Sprites/Enemies/burnout.gif",
+    "sha256": "5854d919749d48489f76eda8c7e6c1d108a218c10e1bdf11a49e5c8ca2443ea6",
+    "width": 536,
+    "height": 168,
+    "mode": "P",
+    "embeddedFrames": 1
+  },
+  {
+    "originalPath": "Assets/Recursos/Sprites/Enemies/gigadeath.gif",
+    "sha256": "105d9c3fe0e202c54fa28dde447918ea5b1679c8f288680c9fdcf70ab4a03be4",
+    "width": 328,
+    "height": 354,
+    "mode": "P",
+    "embeddedFrames": 1
+  },
+  {
+    "originalPath": "Assets/Recursos/Sprites/Enemies/grenademan.gif",
+    "sha256": "d1741e40cc76952af5f23bcdd06e1375e38854e14864ee648ca41c967bb5a99f",
+    "width": 500,
+    "height": 400,
+    "mode": "P",
+    "embeddedFrames": 1
+  },
+  {
+    "originalPath": "Assets/Recursos/Sprites/Enemies/grenademan2.gif",
+    "sha256": "43079e5f12b679c99545d85b890e594574f713c4d8abcbf21b41e2c5efc57cc3",
+    "width": 500,
+    "height": 404,
+    "mode": "P",
+    "embeddedFrames": 1
+  },
+  {
+    "originalPath": "Assets/Recursos/Sprites/Enemies/minilasercannon.gif",
+    "sha256": "6e67d4821e246f3dcc69a2f4ab4dc3d8106cdc3194ddd06ab7d9fc13fc7563f0",
+    "width": 430,
+    "height": 354,
+    "mode": "P",
+    "embeddedFrames": 1
+  },
+  {
+    "originalPath": "Assets/Recursos/Sprites/Enemies/spikeball.gif",
+    "sha256": "a821b8ef0a8a0af6eb08f18f57ea3b94f94b256fc356323ad08c05a61f69baab",
+    "width": 329,
+    "height": 139,
+    "mode": "P",
+    "embeddedFrames": 1
+  },
+  {
+    "originalPath": "Assets/Recursos/Sprites/Environment/escenario jugable.png",
+    "sha256": "b22da1c026f9fe912c8afe8d27b201d476e01c3352f32c736686a42180a55c0b",
+    "width": 5192,
+    "height": 1248,
+    "mode": "RGBA",
+    "embeddedFrames": 1
+  },
+  {
+    "originalPath": "Assets/Recursos/Sprites/Items/items.png",
+    "sha256": "710a40c77346c2d823c29e7958db3575f59a18928b0abcde015c0926b676a0b9",
+    "width": 389,
+    "height": 465,
+    "mode": "P",
+    "embeddedFrames": 1
+  },
+  {
+    "originalPath": "Assets/Recursos/Sprites/Player/Robot futuristico azul/armadura definitiva del robot futuristico azul.png",
+    "sha256": "dabacca1d65d596fa703fcaf4504fe99d22d6713d273e749f140b86cc9322665",
+    "width": 520,
+    "height": 2048,
+    "mode": "RGBA",
+    "embeddedFrames": 1
+  },
+  {
+    "originalPath": "Assets/Recursos/Sprites/Player/Robot futuristico azul/paleta de colores para la armadura definitiva del robot futuristico azul.gif",
+    "sha256": "2804f2b24313d17a212328078c4c17a00339646c6eb9621d366ff9d1c9b8c954",
+    "width": 386,
+    "height": 90,
+    "mode": "P",
+    "embeddedFrames": 1
+  },
+  {
+    "originalPath": "Assets/Recursos/Sprites/Player/Robot futuristico azul/paleta de colores para robot futuristico azul.gif",
+    "sha256": "f879c2b201e283338eb0d3cff51320b07b5f101f8884232c27703f89ecd10d4e",
+    "width": 386,
+    "height": 90,
+    "mode": "P",
+    "embeddedFrames": 1
+  },
+  {
+    "originalPath": "Assets/Recursos/Sprites/Player/Robot futuristico azul/robot futuristico azul extra.png",
+    "sha256": "ecf7dc487786211285a5f37c1379701c741b7827a4819187f676e25d4e72a080",
+    "width": 420,
+    "height": 485,
+    "mode": "RGB",
+    "embeddedFrames": 1
+  },
+  {
+    "originalPath": "Assets/Recursos/Sprites/Player/Robot futuristico azul/robot futuristico azul principal.png",
+    "sha256": "835b15b3184bbc28df97915010c6a5d90c0806fe4f3d3266df5a70c228ede2b9",
+    "width": 590,
+    "height": 1470,
+    "mode": "RGBA",
+    "embeddedFrames": 1
+  },
+  {
+    "originalPath": "Assets/Recursos/Sprites/Player/Robot futuristico rojo/ataques especiales del robot futuristico rojo.gif",
+    "sha256": "f33170b0934f19382a7f739997bb1b4e3ec508645c2eac51db088bed79922b0f",
+    "width": 256,
+    "height": 248,
+    "mode": "P",
+    "embeddedFrames": 1
+  },
+  {
+    "originalPath": "Assets/Recursos/Sprites/Player/Robot futuristico rojo/paleta de colores del robot futuristico rojo.png",
+    "sha256": "f971eb27a5075eb985bda62aa11e45b259eddef5afbfbb73e169860e75e30580",
+    "width": 416,
+    "height": 115,
+    "mode": "P",
+    "embeddedFrames": 1
+  },
+  {
+    "originalPath": "Assets/Recursos/Sprites/Player/Robot futuristico rojo/robot futuristico rojo extra 1.gif",
+    "sha256": "c7b9de03209f60741f591595eac92dae95193648b5e3c226d3e749ae0c3edafc",
+    "width": 580,
+    "height": 450,
+    "mode": "P",
+    "embeddedFrames": 1
+  },
+  {
+    "originalPath": "Assets/Recursos/Sprites/Player/Robot futuristico rojo/robot futuristico rojo extra 2.gif",
+    "sha256": "775418a9ca386d0c327097df9710404bfeb588656dc0b467731a9d8427237a58",
+    "width": 647,
+    "height": 544,
+    "mode": "P",
+    "embeddedFrames": 1
+  },
+  {
+    "originalPath": "Assets/Recursos/Sprites/Player/Robot futuristico rojo/robot futuristico rojo extra 3.gif",
+    "sha256": "63f75165a5bf3d685060fa60394e47ca645219aeff1a419e16a4c798e1e3bd75",
+    "width": 650,
+    "height": 1795,
+    "mode": "P",
+    "embeddedFrames": 1
+  },
+  {
+    "originalPath": "Assets/Recursos/Sprites/Player/Robot futuristico rojo/robot futuristico rojo principal.gif",
+    "sha256": "f3536a0bd9434f53861e9d2d47e2fc4235bedec65ffb4a3c5c61348ab64d8ce7",
+    "width": 622,
+    "height": 1604,
+    "mode": "P",
+    "embeddedFrames": 1
+  },
+  {
+    "originalPath": "Assets/Recursos/Sprites/Player/Robot futuristico rojo/segunda paleta de colores del robot futuristico rojo.gif",
+    "sha256": "f67af73b47da5996dbd0cbc2d3a42f4cf9caac8a3c4dee4cf7fe82ae8c41b345",
+    "width": 439,
+    "height": 117,
+    "mode": "P",
+    "embeddedFrames": 1
+  },
+  {
+    "originalPath": "Assets/Recursos/UI/HUD/HUD Elements.png",
+    "sha256": "38f30233e5b4b7e4faaeb2014769cc8d80231965a1d9bf56519eaefae586a753",
+    "width": 395,
+    "height": 495,
+    "mode": "RGBA",
+    "embeddedFrames": 1
+  },
+  {
+    "originalPath": "Assets/Recursos/UI/HUD/hud.png",
+    "sha256": "7a4a6ef4ebf6e595db68d071e6c43985cf612ec52653248f3861c8ec93d52637",
+    "width": 228,
+    "height": 151,
+    "mode": "P",
+    "embeddedFrames": 1
+  },
+  {
+    "originalPath": "Assets/Recursos/UI/Menus/Character Select/Character Select.png",
+    "sha256": "a5794bafc40eac27fc9cbd0736f9cf98f81086dc4cbf22396418fdf69c7cc2a9",
+    "width": 677,
+    "height": 403,
+    "mode": "RGB",
+    "embeddedFrames": 1
+  },
+  {
+    "originalPath": "Assets/Recursos/UI/Menus/MainMenu/Back-to-Back Cybernetic Heroes.png",
+    "sha256": "f0db7c627dfbf9944cb0d8b715e520c8154c933f9837f8bc11caff5a43827e86",
+    "width": 1671,
+    "height": 941,
+    "mode": "RGB",
+    "embeddedFrames": 1
+  },
+  {
+    "originalPath": "Assets/Recursos/UI/Menus/MainMenu/gallery_10621_80_42351.png",
+    "sha256": "5979530480d6898edc4ca265b6dfc74842e54b87bafbcd678a37b99bd207198d",
+    "width": 500,
+    "height": 200,
+    "mode": "RGBA",
+    "embeddedFrames": 1
+  },
+  {
+    "originalPath": "Assets/Recursos/UI/Menus/MainMenu/Retro CRT Spanish Game Menu Sprite Sheet.png",
+    "sha256": "97b5a59033cb711e8f6753661a44d62da3fa52fde2858a42ef91b2a76a55ec60",
+    "width": 1448,
+    "height": 1086,
+    "mode": "RGB",
+    "embeddedFrames": 1
+  }
+]

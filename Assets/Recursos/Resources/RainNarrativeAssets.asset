@@ -1,0 +1,110 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9232fe7b6ff749dda184885107c65cf2, type: 3}
+  m_Name: RainNarrativeAssets
+  m_EditorClassIdentifier: Assembly-CSharp::MegaManX9.Gameplay.RainNarrativeAssets
+  xPortrait: {fileID: 2800000, guid: 6508eee1f5e16624da6af98d7ade8e3b, type: 3}
+  zeroPortrait: {fileID: 2800000, guid: 18ae119aa62872d46bf2159c5367e63e, type: 3}
+  axlPortrait: {fileID: 2800000, guid: 2e87abd48e91b0e428af6dcffa762cf2, type: 3}
+  introduction:
+  - speaker: 0
+    speakerName: 
+    text: Tras derrotar a Lumine, X, Zero y Axl descienden del elevador Jakob. Axl sigue inconsciente; X lo lleva en brazos mientras Zero vigila el regreso.
+    image: {fileID: 2800000, guid: d5a773a2d3831ff4a9efa0411edcb28f, type: 3}
+  - speaker: 0
+    speakerName: 
+    text: "En la base, Axl permanece en recuperaci\xF3n. Los sistemas m\xE9dicos estabilizan su energ\xEDa, pero a\xFAn no despierta. X y Zero esperan una se\xF1al de mejor\xEDa."
+    image: {fileID: 2800000, guid: 26819c04175b98146873378ac73a96c0, type: 3}
+  - speaker: 0
+    speakerName: 
+    text: "Un estruendo rompe el silencio junto a la sala de Axl. X y Zero corren a buscarlo: encuentran la sala destrozada y una enorme brecha en la pared. Axl ya no est\xE1."
+    image: {fileID: 2800000, guid: f3e35bbf06450ea468749f45350b1322, type: 3}
+  - speaker: 0
+    speakerName: 
+    text: "Una alerta de los monitores se\xF1ala una nueva ubicaci\xF3n. La firma energ\xE9tica coincide con Axl. X y Zero confirman la se\xF1al y preparan el rescate."
+    image: {fileID: 2800000, guid: 0b645b44698fa004d93eb0503480b1f6, type: 3}
+  - speaker: 0
+    speakerName: 
+    text: X y Zero se dirigen a Central Highway.
+    image: {fileID: 0}
+  confrontation:
+  - speaker: 1
+    speakerName: X
+    text: "\xA1AXL!"
+    image: {fileID: 0}
+  - speaker: 2
+    speakerName: Zero
+    text: "\xA1Axl! \xBFQu\xE9 haces aqu\xED? \xBFPor qu\xE9 nos est\xE1s atacando?"
+    image: {fileID: 0}
+  - speaker: 3
+    speakerName: Axl
+    text: "\xBFAxl...? Ja... ja, ja, ja."
+    image: {fileID: 0}
+  - speaker: 1
+    speakerName: X
+    text: "Esa voz... No. T\xFA no eres Axl."
+    image: {fileID: 0}
+  - speaker: 3
+    speakerName: Axl
+    text: Por fin lo entienden. Su cuerpo me ha dado una nueva oportunidad.
+    image: {fileID: 0}
+  - speaker: 2
+    speakerName: Zero
+    text: "\xA1Lumine! Est\xE1s controlando a Axl. \xA1D\xE9jalo libre!"
+    image: {fileID: 0}
+  - speaker: 3
+    speakerName: "Lumine \xB7 en Axl"
+    text: "Este cuerpo ahora me pertenece. Si quieren recuperarlo, tendr\xE1n que sobrevivir."
+    image: {fileID: 0}
+  ending:
+  - speaker: 1
+    speakerName: X
+    text: "Lumine... \xBFc\xF3mo pudiste sobrevivir?"
+    image: {fileID: 0}
+  - speaker: 3
+    speakerName: "Lumine \xB7 en Axl"
+    text: "Antes de mi derrota, introduje una parte de m\xED en Axl."
+    image: {fileID: 0}
+  - speaker: 2
+    speakerName: Zero
+    text: Lo usaste para esconderte... y ahora intentas convertirlo en tu arma.
+    image: {fileID: 0}
+  - speaker: 3
+    speakerName: "Lumine \xB7 en Axl"
+    text: "No ser\xE1 la \xFAltima vez que nos encontremos. Axl vendr\xE1 conmigo."
+    image: {fileID: 0}
+  - speaker: 1
+    speakerName: X
+    text: Puedes huir, pero no vamos a abandonarlo.
+    image: {fileID: 0}
+  - speaker: 2
+    speakerName: Zero
+    text: Te encontraremos, Lumine. Rescataremos a Axl.
+    image: {fileID: 0}
+  missionArrivalX:
+  - speaker: 1
+    speakerName: X
+    text: "La se\xF1al de Axl est\xE1 m\xE1s adelante."
+    image: {fileID: 0}
+  - speaker: 2
+    speakerName: Zero
+    text: Entonces vamos a buscarlo.
+    image: {fileID: 0}
+  missionArrivalZero:
+  - speaker: 2
+    speakerName: Zero
+    text: "La se\xF1al de Axl est\xE1 m\xE1s adelante."
+    image: {fileID: 0}
+  - speaker: 1
+    speakerName: X
+    text: Entonces vamos a buscarlo.
+    image: {fileID: 0}

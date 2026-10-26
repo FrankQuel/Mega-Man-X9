@@ -1,0 +1,150 @@
+{
+    "atlas": "Assets/Recursos/Sprites/Bosses/AxlRig/AxlRigParts-v2.png",
+    "prefab": "Assets/Recursos/Prefabs/Bosses/AxlRig/AxlRig_Animated.prefab",
+    "controller": "Assets/Recursos/Animations/Bosses/AxlRig/AxlRig.controller",
+    "validation": "Asset construction completed; pose rendering and animation playback still require visual verification in Unity.",
+    "canonicalClips": [
+        "Idle",
+        "Run",
+        "RunShoot",
+        "Jump",
+        "Dash",
+        "DashAttack",
+        "DashStop",
+        "Crouch",
+        "Aim",
+        "AimUp",
+        "Shoot",
+        "CrouchShoot",
+        "AirShoot",
+        "ChargeShot",
+        "AirChargeShot",
+        "AirAimUp",
+        "JetRise",
+        "Hover",
+        "Hurt",
+        "Death",
+        "Victory",
+        "ArmRaise",
+        "Shield",
+        "TeleportIn",
+        "TeleportOut"
+    ],
+    "aliases": [
+        {
+            "state": "PointDiagonal",
+            "clip": "AimUp",
+            "notes": "Compatibility alias to the coherent rig clip AimUp; not an independently redrawn sequence."
+        },
+        {
+            "state": "MaterializeSilhouette",
+            "clip": "TeleportIn",
+            "notes": "Compatibility alias to the coherent rig clip TeleportIn; not an independently redrawn sequence."
+        },
+        {
+            "state": "AirDash",
+            "clip": "Dash",
+            "notes": "Compatibility alias to the coherent rig clip Dash; not an independently redrawn sequence."
+        },
+        {
+            "state": "ShootUp",
+            "clip": "AimUp",
+            "notes": "Compatibility alias to the coherent rig clip AimUp; not an independently redrawn sequence."
+        },
+        {
+            "state": "LowShoot",
+            "clip": "CrouchShoot",
+            "notes": "Compatibility alias to the coherent rig clip CrouchShoot; not an independently redrawn sequence."
+        },
+        {
+            "state": "ShootRecover",
+            "clip": "Aim",
+            "notes": "Compatibility alias to the coherent rig clip Aim; not an independently redrawn sequence."
+        },
+        {
+            "state": "Charge",
+            "clip": "ChargeShot",
+            "notes": "Compatibility alias to the coherent rig clip ChargeShot; not an independently redrawn sequence."
+        },
+        {
+            "state": "AirSpreadShot",
+            "clip": "AirShoot",
+            "notes": "Compatibility alias: one aimed aerial shot; a distinct spread attack is not implemented."
+        },
+        {
+            "state": "DashAttackReady",
+            "clip": "Aim",
+            "notes": "Compatibility alias to the coherent rig clip Aim; not an independently redrawn sequence."
+        },
+        {
+            "state": "DashAttackStartup",
+            "clip": "ChargeShot",
+            "notes": "Compatibility alias to the coherent rig clip ChargeShot; not an independently redrawn sequence."
+        },
+        {
+            "state": "AirCharge",
+            "clip": "AirChargeShot",
+            "notes": "Compatibility alias to the coherent rig clip AirChargeShot; not an independently redrawn sequence."
+        },
+        {
+            "state": "DashAfterimage",
+            "clip": "Dash",
+            "notes": "Compatibility alias: articulated dash; no duplicated afterimage renderers."
+        },
+        {
+            "state": "ShieldReady",
+            "clip": "Aim",
+            "notes": "Compatibility alias to the coherent rig clip Aim; not an independently redrawn sequence."
+        },
+        {
+            "state": "ShieldRecover",
+            "clip": "Idle",
+            "notes": "Compatibility alias to the coherent rig clip Idle; not an independently redrawn sequence."
+        },
+        {
+            "state": "ChargedShot",
+            "clip": "ChargeShot",
+            "notes": "Compatibility alias to the coherent rig clip ChargeShot; not an independently redrawn sequence."
+        },
+        {
+            "state": "HurtRecover",
+            "clip": "Idle",
+            "notes": "Compatibility alias to the coherent rig clip Idle; not an independently redrawn sequence."
+        },
+        {
+            "state": "Knockdown",
+            "clip": "Death",
+            "notes": "Compatibility alias to the coherent rig clip Death; not an independently redrawn sequence."
+        },
+        {
+            "state": "TeleportFinish",
+            "clip": "Idle",
+            "notes": "Compatibility alias: articulated pose plus energy fade, not the original illustrated beam frames."
+        },
+        {
+            "state": "TeleportBeam",
+            "clip": "TeleportIn",
+            "notes": "Compatibility alias: articulated pose plus energy fade, not the original illustrated beam frames."
+        },
+        {
+            "state": "TeleportArrivalPose",
+            "clip": "Idle",
+            "notes": "Compatibility alias: articulated pose plus energy fade, not the original illustrated beam frames."
+        },
+        {
+            "state": "AlternateIdle",
+            "clip": "Idle",
+            "notes": "Compatibility alias to the coherent rig clip Idle; not an independently redrawn sequence."
+        },
+        {
+            "state": "TeleportArrivalBeam",
+            "clip": "TeleportIn",
+            "notes": "Compatibility alias: articulated pose plus energy fade, not the original illustrated beam frames."
+        },
+        {
+            "state": "TeleportArrivalEnergy",
+            "clip": "TeleportIn",
+            "notes": "Compatibility alias: articulated pose plus energy fade, not the original illustrated beam frames."
+        }
+    ]
+}

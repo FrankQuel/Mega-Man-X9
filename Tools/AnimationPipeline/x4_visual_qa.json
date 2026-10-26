@@ -1,0 +1,22 @@
+{
+    "success": true,
+    "captures": [
+        "Previews/X4References/01_READY_Line.png",
+        "Previews/X4References/02_READY_Flash.png",
+        "Previews/X4References/03_READY_Hold.png",
+        "Previews/X4References/04_READY_Exit.png",
+        "Previews/X4References/05_Entrance_Blue.png",
+        "Previews/X4References/05_Entrance_BlueUltimate.png",
+        "Previews/X4References/05_Entrance_Red.png",
+        "Previews/X4References/06_Dragon_FireBreath.png",
+        "Previews/X4References/06_Dragon_Fireball.png",
+        "Previews/X4References/06_Dragon_RisingFlame.png",
+        "Previews/X4References/06_Dragon_FlamingKick.png",
+        "Previews/X4References/06_Dragon_GroundFireWave.png",
+        "Previews/X4References/06_Dragon_HurtFlash.png",
+        "Previews/X4References/07_Health_Damage.png",
+        "Previews/X4References/08_All_OriginalWhite_QuietUltimate.png"
+    ],
+    "errors": [],
+    "scene": "Assets/Recursos/Scenes/Testing/AnimationTestStage.unity"
+}

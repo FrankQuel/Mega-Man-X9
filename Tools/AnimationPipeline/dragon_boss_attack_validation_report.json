@@ -1,0 +1,162 @@
+{
+    "attacks": [
+        {
+            "attack": "FireBreath",
+            "emitted": 7,
+            "activeAtMiddle": 6,
+            "lastWorldOrigin": {
+                "x": -0.13279575109481812,
+                "y": 0.590867280960083,
+                "z": 0.0
+            },
+            "lastWorldVelocity": {
+                "x": -2.5,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "pauseStopsTimeline": true,
+            "projectileLifetimeClean": true
+        },
+        {
+            "attack": "Fireball",
+            "emitted": 2,
+            "activeAtMiddle": 1,
+            "lastWorldOrigin": {
+                "x": -0.22049580514431,
+                "y": 0.45820000767707825,
+                "z": 0.0
+            },
+            "lastWorldVelocity": {
+                "x": -2.799999952316284,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "pauseStopsTimeline": true,
+            "projectileLifetimeClean": true
+        },
+        {
+            "attack": "RisingFlame",
+            "emitted": 7,
+            "activeAtMiddle": 7,
+            "lastWorldOrigin": {
+                "x": -0.053496792912483215,
+                "y": 1.3074592351913452,
+                "z": 0.0
+            },
+            "lastWorldVelocity": {
+                "x": -0.18000000715255737,
+                "y": 1.399999976158142,
+                "z": 0.0
+            },
+            "pauseStopsTimeline": true,
+            "projectileLifetimeClean": true
+        },
+        {
+            "attack": "FlamingKick",
+            "emitted": 8,
+            "activeAtMiddle": 6,
+            "lastWorldOrigin": {
+                "x": -0.5583961606025696,
+                "y": 0.432553231716156,
+                "z": 0.0
+            },
+            "lastWorldVelocity": {
+                "x": 0.3499999940395355,
+                "y": 0.15000000596046448,
+                "z": 0.0
+            },
+            "pauseStopsTimeline": true,
+            "projectileLifetimeClean": true
+        },
+        {
+            "attack": "GroundFireWave",
+            "emitted": 6,
+            "activeAtMiddle": 6,
+            "lastWorldOrigin": {
+                "x": -0.9800000190734863,
+                "y": 0.014999999664723873,
+                "z": 0.0
+            },
+            "lastWorldVelocity": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "pauseStopsTimeline": true,
+            "projectileLifetimeClean": true
+        },
+        {
+            "attack": "ClawAttack",
+            "emitted": 1,
+            "activeAtMiddle": 1,
+            "lastWorldOrigin": {
+                "x": -0.03146783262491226,
+                "y": 0.33894774317741394,
+                "z": 0.0
+            },
+            "lastWorldVelocity": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "pauseStopsTimeline": true,
+            "projectileLifetimeClean": true
+        },
+        {
+            "attack": "HurtFlash",
+            "emitted": 0,
+            "activeAtMiddle": 0,
+            "lastWorldOrigin": {
+                "x": -0.03146783262491226,
+                "y": 0.33894774317741394,
+                "z": 0.0
+            },
+            "lastWorldVelocity": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "pauseStopsTimeline": true,
+            "projectileLifetimeClean": true
+        },
+        {
+            "attack": "Landing",
+            "emitted": 1,
+            "activeAtMiddle": 1,
+            "lastWorldOrigin": {
+                "x": 0.0,
+                "y": 0.019999999552965164,
+                "z": 0.0
+            },
+            "lastWorldVelocity": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "pauseStopsTimeline": true,
+            "projectileLifetimeClean": true
+        },
+        {
+            "attack": "Crouch",
+            "emitted": 0,
+            "activeAtMiddle": 0,
+            "lastWorldOrigin": {
+                "x": 0.0,
+                "y": 0.019999999552965164,
+                "z": 0.0
+            },
+            "lastWorldVelocity": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "pauseStopsTimeline": true,
+            "projectileLifetimeClean": true
+        }
+    ],
+    "projectileMoved": true,
+    "mirroredProjectileReversed": true,
+    "manualAdvanceNotDoubleScaled": true,
+    "flashShaderActive": true,
+    "errors": []
+}

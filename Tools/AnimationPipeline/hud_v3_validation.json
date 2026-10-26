@@ -1,0 +1,9 @@
+{
+    "success": true,
+    "healthUnits": 28,
+    "styles": 7,
+    "modelChecks": 8,
+    "source": "Assets/Recursos/UI/HUD/hud.png",
+    "elements": "SourceArt/UI/HUD/HUD Elements.png",
+    "assets": "Assets/Recursos/UI/HUD/Generated/HealthHUDAssets.asset"
+}

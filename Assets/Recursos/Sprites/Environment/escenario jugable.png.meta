@@ -1,0 +1,1874 @@
+fileFormatVersion: 2
+guid: 93d19330eb599944c953ded73a1cddbf
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8127600194757654616
+    second: escenario jugable_0
+  - first:
+      213: -7006061093015526592
+    second: escenario jugable_1
+  - first:
+      213: 7186550133594599314
+    second: escenario jugable_2
+  - first:
+      213: -5772835562055817502
+    second: escenario jugable_3
+  - first:
+      213: -3909237427378410619
+    second: escenario jugable_4
+  - first:
+      213: -1547554538403238184
+    second: escenario jugable_5
+  - first:
+      213: -1150779436525924098
+    second: escenario jugable_6
+  - first:
+      213: -4080424064102413796
+    second: escenario jugable_7
+  - first:
+      213: -7483807907000539137
+    second: escenario jugable_8
+  - first:
+      213: 2595516893018751345
+    second: escenario jugable_9
+  - first:
+      213: -690053606273995856
+    second: escenario jugable_10
+  - first:
+      213: -2908306939494637949
+    second: escenario jugable_11
+  - first:
+      213: 4830248625319539410
+    second: escenario jugable_12
+  - first:
+      213: -4535666852084813033
+    second: escenario jugable_13
+  - first:
+      213: 6727591630981282587
+    second: escenario jugable_14
+  - first:
+      213: -7372740994853529918
+    second: escenario jugable_15
+  - first:
+      213: 714599297713108238
+    second: escenario jugable_16
+  - first:
+      213: 45469495863791472
+    second: escenario jugable_17
+  - first:
+      213: 6908285999022792337
+    second: escenario jugable_18
+  - first:
+      213: -5408910643023090537
+    second: escenario jugable_19
+  - first:
+      213: -7180923921220624722
+    second: escenario jugable_20
+  - first:
+      213: 1944155573838823399
+    second: escenario jugable_21
+  - first:
+      213: -948843635861805293
+    second: escenario jugable_22
+  - first:
+      213: -2890272602543741513
+    second: escenario jugable_23
+  - first:
+      213: -5879326993193526469
+    second: escenario jugable_24
+  - first:
+      213: 4468545379630844269
+    second: escenario jugable_25
+  - first:
+      213: -5058172679857498498
+    second: escenario jugable_26
+  - first:
+      213: -1742619557121523384
+    second: escenario jugable_27
+  - first:
+      213: 888439107716311244
+    second: escenario jugable_28
+  - first:
+      213: 3779499012077955810
+    second: escenario jugable_29
+  - first:
+      213: -7274490006069563577
+    second: escenario jugable_30
+  - first:
+      213: -7206699046520377653
+    second: escenario jugable_31
+  - first:
+      213: 2032117099018730821
+    second: escenario jugable_32
+  - first:
+      213: 5055564784080938006
+    second: escenario jugable_33
+  - first:
+      213: -7622333892226200100
+    second: escenario jugable_34
+  - first:
+      213: -8716247273434324949
+    second: escenario jugable_35
+  - first:
+      213: 2325704525106932848
+    second: escenario jugable_36
+  - first:
+      213: -2789024631311505778
+    second: escenario jugable_37
+  - first:
+      213: 2301838702897652470
+    second: escenario jugable_38
+  - first:
+      213: -1319137849071441559
+    second: escenario jugable_39
+  - first:
+      213: -9149784006018165101
+    second: escenario jugable_40
+  - first:
+      213: 541503952247552969
+    second: escenario jugable_41
+  - first:
+      213: 7176233087634845804
+    second: escenario jugable_42
+  - first:
+      213: -7586158404085458995
+    second: escenario jugable_43
+  - first:
+      213: -8335986086729531671
+    second: escenario jugable_44
+  - first:
+      213: -1300679962895678893
+    second: escenario jugable_45
+  - first:
+      213: 6498729358573432527
+    second: escenario jugable_46
+  - first:
+      213: -166496330850530628
+    second: escenario jugable_47
+  - first:
+      213: -4293316019739967939
+    second: escenario jugable_48
+  - first:
+      213: -3400895254591092798
+    second: escenario jugable_49
+  - first:
+      213: -6879115955695404735
+    second: escenario jugable_50
+  - first:
+      213: 6585338670324066499
+    second: escenario jugable_51
+  - first:
+      213: 7509334901847905761
+    second: escenario jugable_52
+  - first:
+      213: 250363079293272063
+    second: escenario jugable_53
+  - first:
+      213: -6751599659323910882
+    second: escenario jugable_54
+  - first:
+      213: 8347309635604677719
+    second: escenario jugable_55
+  - first:
+      213: -4248288303714135474
+    second: escenario jugable_56
+  - first:
+      213: -1607796172772415232
+    second: escenario jugable_57
+  - first:
+      213: 290291184077771516
+    second: escenario jugable_58
+  - first:
+      213: -7901730410939724031
+    second: escenario jugable_59
+  - first:
+      213: 8381663675500845535
+    second: escenario jugable_60
+  - first:
+      213: -5105949475619195583
+    second: escenario jugable_61
+  - first:
+      213: 999987419290665929
+    second: escenario jugable_62
+  - first:
+      213: 8009203398015492568
+    second: escenario jugable_63
+  - first:
+      213: 1761026190689130645
+    second: escenario jugable_64
+  - first:
+      213: 2624028375682355914
+    second: escenario jugable_65
+  - first:
+      213: 6831412632126770451
+    second: escenario jugable_66
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: escenario jugable_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 747
+        width: 5186
+        height: 498
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a7031b4fa6f43f80800000000000000
+      internalID: -8127600194757654616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: escenario jugable_1
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 247
+        width: 5181
+        height: 498
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 043ef1c3e8875ce90800000000000000
+      internalID: -7006061093015526592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: escenario jugable_2
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 3
+        width: 2306
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29f21714541cbb360800000000000000
+      internalID: 7186550133594599314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: escenario jugable_3
+      rect:
+        serializedVersion: 2
+        x: 3970
+        y: 149
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e6abe064a4c2efa0800000000000000
+      internalID: -5772835562055817502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: escenario jugable_4
+      rect:
+        serializedVersion: 2
+        x: 3977
+        y: 149
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58ba27695499fb9c0800000000000000
+      internalID: -3909237427378410619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: escenario jugable_5
+      rect:
+        serializedVersion: 2
+        x: 3983
+        y: 147
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8de6eebb85bf58ae0800000000000000
+      internalID: -1547554538403238184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: escenario jugable_6
+      rect:
+        serializedVersion: 2
+        x: 3992
+        y: 149
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef05c07133c9700f0800000000000000
+      internalID: -1150779436525924098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: escenario jugable_7
+      rect:
+        serializedVersion: 2
+        x: 3998
+        y: 149
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1a4836ceeb6f57c0800000000000000
+      internalID: -4080424064102413796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: escenario jugable_8
+      rect:
+        serializedVersion: 2
+        x: 4004
+        y: 147
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff729f70c5c242890800000000000000
+      internalID: -7483807907000539137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: escenario jugable_9
+      rect:
+        serializedVersion: 2
+        x: 4010
+        y: 149
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17188e0dcd0250420800000000000000
+      internalID: 2595516893018751345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: escenario jugable_10
+      rect:
+        serializedVersion: 2
+        x: 4016
+        y: 149
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bbaf02b6ef6c66f0800000000000000
+      internalID: -690053606273995856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: escenario jugable_11
+      rect:
+        serializedVersion: 2
+        x: 4022
+        y: 149
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38e5e955f3e93a7d0800000000000000
+      internalID: -2908306939494637949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: escenario jugable_12
+      rect:
+        serializedVersion: 2
+        x: 4032
+        y: 149
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d27df0788d780340800000000000000
+      internalID: 4830248625319539410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: escenario jugable_13
+      rect:
+        serializedVersion: 2
+        x: 4041
+        y: 149
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71378fd67031e01c0800000000000000
+      internalID: -4535666852084813033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: escenario jugable_14
+      rect:
+        serializedVersion: 2
+        x: 4050
+        y: 149
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1bb78ea1f43d5d50800000000000000
+      internalID: 6727591630981282587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: escenario jugable_15
+      rect:
+        serializedVersion: 2
+        x: 4056
+        y: 149
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c69bcca023cea990800000000000000
+      internalID: -7372740994853529918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: escenario jugable_16
+      rect:
+        serializedVersion: 2
+        x: 4069
+        y: 149
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e05fee07644cae900800000000000000
+      internalID: 714599297713108238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: escenario jugable_17
+      rect:
+        serializedVersion: 2
+        x: 4078
+        y: 149
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07fc31df34a81a000800000000000000
+      internalID: 45469495863791472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: escenario jugable_18
+      rect:
+        serializedVersion: 2
+        x: 4084
+        y: 147
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19ede82b3892fdf50800000000000000
+      internalID: 6908285999022792337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: escenario jugable_19
+      rect:
+        serializedVersion: 2
+        x: 4090
+        y: 149
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79c67c48d60bfe4b0800000000000000
+      internalID: -5408910643023090537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: escenario jugable_20
+      rect:
+        serializedVersion: 2
+        x: 4099
+        y: 149
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eae1a846dbb385c90800000000000000
+      internalID: -7180923921220624722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: escenario jugable_21
+      rect:
+        serializedVersion: 2
+        x: 4108
+        y: 149
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ef32ce91370bfa10800000000000000
+      internalID: 1944155573838823399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: escenario jugable_22
+      rect:
+        serializedVersion: 2
+        x: 4114
+        y: 149
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31721198db705d2f0800000000000000
+      internalID: -948843635861805293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: escenario jugable_23
+      rect:
+        serializedVersion: 2
+        x: 4124
+        y: 149
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b5265d9160b3e7d0800000000000000
+      internalID: -2890272602543741513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: escenario jugable_24
+      rect:
+        serializedVersion: 2
+        x: 4130
+        y: 149
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3b955cef3f686ea0800000000000000
+      internalID: -5879326993193526469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: escenario jugable_25
+      rect:
+        serializedVersion: 2
+        x: 3982
+        y: 125
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d690c9fe856730e30800000000000000
+      internalID: 4468545379630844269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: escenario jugable_26
+      rect:
+        serializedVersion: 2
+        x: 3991
+        y: 123
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e76128c3fb2cdc9b0800000000000000
+      internalID: -5058172679857498498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: escenario jugable_27
+      rect:
+        serializedVersion: 2
+        x: 3997
+        y: 123
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8418f1fdeb8f0d7e0800000000000000
+      internalID: -1742619557121523384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: escenario jugable_28
+      rect:
+        serializedVersion: 2
+        x: 4004
+        y: 125
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc8eefb49ae545c00800000000000000
+      internalID: 888439107716311244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: escenario jugable_29
+      rect:
+        serializedVersion: 2
+        x: 4010
+        y: 125
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2eaa8dba35a737430800000000000000
+      internalID: 3779499012077955810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: escenario jugable_30
+      rect:
+        serializedVersion: 2
+        x: 4019
+        y: 125
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74f2812a1e1db0b90800000000000000
+      internalID: -7274490006069563577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: escenario jugable_31
+      rect:
+        serializedVersion: 2
+        x: 4026
+        y: 123
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcea1016669acfb90800000000000000
+      internalID: -7206699046520377653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: escenario jugable_32
+      rect:
+        serializedVersion: 2
+        x: 4035
+        y: 125
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54d32052cb7833c10800000000000000
+      internalID: 2032117099018730821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: escenario jugable_33
+      rect:
+        serializedVersion: 2
+        x: 4045
+        y: 124
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6146e16b269f82640800000000000000
+      internalID: 5055564784080938006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: escenario jugable_34
+      rect:
+        serializedVersion: 2
+        x: 4058
+        y: 125
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cddcf6ab5b7083690800000000000000
+      internalID: -7622333892226200100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: escenario jugable_35
+      rect:
+        serializedVersion: 2
+        x: 4066
+        y: 125
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b20ea74194ba90780800000000000000
+      internalID: -8716247273434324949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: escenario jugable_36
+      rect:
+        serializedVersion: 2
+        x: 4072
+        y: 123
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07c648781ff864020800000000000000
+      internalID: 2325704525106932848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: escenario jugable_37
+      rect:
+        serializedVersion: 2
+        x: 4079
+        y: 125
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e86ecdcefd46b49d0800000000000000
+      internalID: -2789024631311505778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: escenario jugable_38
+      rect:
+        serializedVersion: 2
+        x: 4098
+        y: 125
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f2e578ca16c1ff10800000000000000
+      internalID: 2301838702897652470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: escenario jugable_39
+      rect:
+        serializedVersion: 2
+        x: 4106
+        y: 125
+        width: 20
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 969e2588d1b71bde0800000000000000
+      internalID: -1319137849071441559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: escenario jugable_40
+      rect:
+        serializedVersion: 2
+        x: 4007
+        y: 101
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3969cb59cef650180800000000000000
+      internalID: -9149784006018165101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: escenario jugable_41
+      rect:
+        serializedVersion: 2
+        x: 4014
+        y: 101
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cb7f2eb9fec38700800000000000000
+      internalID: 541503952247552969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: escenario jugable_42
+      rect:
+        serializedVersion: 2
+        x: 4020
+        y: 99
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6031edc8f9179360800000000000000
+      internalID: 7176233087634845804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: escenario jugable_43
+      rect:
+        serializedVersion: 2
+        x: 4027
+        y: 99
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc754aaef1d88b690800000000000000
+      internalID: -7586158404085458995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: escenario jugable_44
+      rect:
+        serializedVersion: 2
+        x: 4037
+        y: 99
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ee33efe1d0a05c80800000000000000
+      internalID: -8335986086729531671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: escenario jugable_45
+      rect:
+        serializedVersion: 2
+        x: 4046
+        y: 101
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 352822d077e03fde0800000000000000
+      internalID: -1300679962895678893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: escenario jugable_46
+      rect:
+        serializedVersion: 2
+        x: 4059
+        y: 101
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fceeb2d7bef103a50800000000000000
+      internalID: 6498729358573432527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: escenario jugable_47
+      rect:
+        serializedVersion: 2
+        x: 4066
+        y: 101
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cba8f3f187c70bdf0800000000000000
+      internalID: -166496330850530628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: escenario jugable_48
+      rect:
+        serializedVersion: 2
+        x: 4072
+        y: 99
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3eb7e6b3d31b64c0800000000000000
+      internalID: -4293316019739967939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: escenario jugable_49
+      rect:
+        serializedVersion: 2
+        x: 4079
+        y: 101
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c749cfd8c79dc0d0800000000000000
+      internalID: -3400895254591092798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: escenario jugable_50
+      rect:
+        serializedVersion: 2
+        x: 4084
+        y: 101
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 149bd044c787880a0800000000000000
+      internalID: -6879115955695404735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: escenario jugable_51
+      rect:
+        serializedVersion: 2
+        x: 4090
+        y: 101
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c82f4a41a2d36b50800000000000000
+      internalID: 6585338670324066499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: escenario jugable_52
+      rect:
+        serializedVersion: 2
+        x: 3999
+        y: 77
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e5561c9e44863860800000000000000
+      internalID: 7509334901847905761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: escenario jugable_53
+      rect:
+        serializedVersion: 2
+        x: 4010
+        y: 77
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffff526e4e7797300800000000000000
+      internalID: 250363079293272063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: escenario jugable_54
+      rect:
+        serializedVersion: 2
+        x: 4016
+        y: 77
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e159950a1ef7d42a0800000000000000
+      internalID: -6751599659323910882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: escenario jugable_55
+      rect:
+        serializedVersion: 2
+        x: 4023
+        y: 77
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 754896c33e997d370800000000000000
+      internalID: 8347309635604677719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: escenario jugable_56
+      rect:
+        serializedVersion: 2
+        x: 4029
+        y: 77
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e421ca1db4c0b05c0800000000000000
+      internalID: -4248288303714135474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: escenario jugable_57
+      rect:
+        serializedVersion: 2
+        x: 4038
+        y: 77
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 009eaaa36e5ffa9e0800000000000000
+      internalID: -1607796172772415232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: escenario jugable_58
+      rect:
+        serializedVersion: 2
+        x: 4044
+        y: 77
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf2126c3b42570400800000000000000
+      internalID: 290291184077771516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: escenario jugable_59
+      rect:
+        serializedVersion: 2
+        x: 4058
+        y: 77
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10f49017e0a675290800000000000000
+      internalID: -7901730410939724031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: escenario jugable_60
+      rect:
+        serializedVersion: 2
+        x: 4064
+        y: 77
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd9d50574b6a15470800000000000000
+      internalID: 8381663675500845535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: escenario jugable_61
+      rect:
+        serializedVersion: 2
+        x: 4070
+        y: 77
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14530a021060429b0800000000000000
+      internalID: -5105949475619195583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: escenario jugable_62
+      rect:
+        serializedVersion: 2
+        x: 4075
+        y: 77
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c30eaa724ba0ed00800000000000000
+      internalID: 999987419290665929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: escenario jugable_63
+      rect:
+        serializedVersion: 2
+        x: 4081
+        y: 77
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d1a0905e08662f60800000000000000
+      internalID: 8009203398015492568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: escenario jugable_64
+      rect:
+        serializedVersion: 2
+        x: 4086
+        y: 77
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5985f287dfb607810800000000000000
+      internalID: 1761026190689130645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: escenario jugable_65
+      rect:
+        serializedVersion: 2
+        x: 4092
+        y: 77
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac2971da7eb6a6420800000000000000
+      internalID: 2624028375682355914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: escenario jugable_66
+      rect:
+        serializedVersion: 2
+        x: 4098
+        y: 75
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31d4804389d0ece50800000000000000
+      internalID: 6831412632126770451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      escenario jugable_0: -8127600194757654616
+      escenario jugable_1: -7006061093015526592
+      escenario jugable_10: -690053606273995856
+      escenario jugable_11: -2908306939494637949
+      escenario jugable_12: 4830248625319539410
+      escenario jugable_13: -4535666852084813033
+      escenario jugable_14: 6727591630981282587
+      escenario jugable_15: -7372740994853529918
+      escenario jugable_16: 714599297713108238
+      escenario jugable_17: 45469495863791472
+      escenario jugable_18: 6908285999022792337
+      escenario jugable_19: -5408910643023090537
+      escenario jugable_2: 7186550133594599314
+      escenario jugable_20: -7180923921220624722
+      escenario jugable_21: 1944155573838823399
+      escenario jugable_22: -948843635861805293
+      escenario jugable_23: -2890272602543741513
+      escenario jugable_24: -5879326993193526469
+      escenario jugable_25: 4468545379630844269
+      escenario jugable_26: -5058172679857498498
+      escenario jugable_27: -1742619557121523384
+      escenario jugable_28: 888439107716311244
+      escenario jugable_29: 3779499012077955810
+      escenario jugable_3: -5772835562055817502
+      escenario jugable_30: -7274490006069563577
+      escenario jugable_31: -7206699046520377653
+      escenario jugable_32: 2032117099018730821
+      escenario jugable_33: 5055564784080938006
+      escenario jugable_34: -7622333892226200100
+      escenario jugable_35: -8716247273434324949
+      escenario jugable_36: 2325704525106932848
+      escenario jugable_37: -2789024631311505778
+      escenario jugable_38: 2301838702897652470
+      escenario jugable_39: -1319137849071441559
+      escenario jugable_4: -3909237427378410619
+      escenario jugable_40: -9149784006018165101
+      escenario jugable_41: 541503952247552969
+      escenario jugable_42: 7176233087634845804
+      escenario jugable_43: -7586158404085458995
+      escenario jugable_44: -8335986086729531671
+      escenario jugable_45: -1300679962895678893
+      escenario jugable_46: 6498729358573432527
+      escenario jugable_47: -166496330850530628
+      escenario jugable_48: -4293316019739967939
+      escenario jugable_49: -3400895254591092798
+      escenario jugable_5: -1547554538403238184
+      escenario jugable_50: -6879115955695404735
+      escenario jugable_51: 6585338670324066499
+      escenario jugable_52: 7509334901847905761
+      escenario jugable_53: 250363079293272063
+      escenario jugable_54: -6751599659323910882
+      escenario jugable_55: 8347309635604677719
+      escenario jugable_56: -4248288303714135474
+      escenario jugable_57: -1607796172772415232
+      escenario jugable_58: 290291184077771516
+      escenario jugable_59: -7901730410939724031
+      escenario jugable_6: -1150779436525924098
+      escenario jugable_60: 8381663675500845535
+      escenario jugable_61: -5105949475619195583
+      escenario jugable_62: 999987419290665929
+      escenario jugable_63: 8009203398015492568
+      escenario jugable_64: 1761026190689130645
+      escenario jugable_65: 2624028375682355914
+      escenario jugable_66: 6831412632126770451
+      escenario jugable_7: -4080424064102413796
+      escenario jugable_8: -7483807907000539137
+      escenario jugable_9: 2595516893018751345
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

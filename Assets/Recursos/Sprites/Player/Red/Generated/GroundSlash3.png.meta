@@ -1,0 +1,496 @@
+fileFormatVersion: 2
+guid: 4152499558df7214085b603749db9523
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 217788159862883607
+    second: GroundSlash3_0
+  - first:
+      213: -1472201815305018331
+    second: GroundSlash3_1
+  - first:
+      213: -3667473146826376255
+    second: GroundSlash3_2
+  - first:
+      213: -9105576060427776491
+    second: GroundSlash3_3
+  - first:
+      213: 8092286468919124024
+    second: GroundSlash3_4
+  - first:
+      213: -3603984185441449742
+    second: GroundSlash3_5
+  - first:
+      213: 6075459607055006908
+    second: GroundSlash3_6
+  - first:
+      213: -5528148333573993036
+    second: GroundSlash3_7
+  - first:
+      213: -7550956761837875207
+    second: GroundSlash3_8
+  - first:
+      213: 3028012368322278279
+    second: GroundSlash3_9
+  - first:
+      213: 2143432997733342250
+    second: GroundSlash3_10
+  - first:
+      213: 7815838638767849863
+    second: GroundSlash3_11
+  - first:
+      213: -4825243926309187661
+    second: GroundSlash3_12
+  - first:
+      213: 4729616436733650167
+    second: GroundSlash3_13
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GroundSlash3_000
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 118
+        height: 77
+      alignment: 9
+      pivot: {x: 0.30508474, y: 0.14285715}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa044e7e8f8ea6e00d2768c52b976e04
+      internalID: -1967432847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundSlash3_001
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 0
+        width: 118
+        height: 77
+      alignment: 9
+      pivot: {x: 0.30508474, y: 0.14285715}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 808a3b19bd9221369af71ef8e7ee0818
+      internalID: -567340200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundSlash3_002
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 0
+        width: 118
+        height: 77
+      alignment: 9
+      pivot: {x: 0.30508474, y: 0.14285715}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb9597c6726b0a0057859c498d549469
+      internalID: -2030446363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundSlash3_003
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 0
+        width: 118
+        height: 77
+      alignment: 9
+      pivot: {x: 0.30508474, y: 0.14285715}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a19681512979990d452c8d004cfb4719
+      internalID: -1312643776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundSlash3_004
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 0
+        width: 118
+        height: 77
+      alignment: 9
+      pivot: {x: 0.30508474, y: 0.14285715}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 103ec152492e5946a6c9347745b700c5
+      internalID: 654174263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundSlash3_005
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 0
+        width: 118
+        height: 77
+      alignment: 9
+      pivot: {x: 0.30508474, y: 0.14285715}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dbb35e7aca1b192d53a0083ce6f8579
+      internalID: 201050072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundSlash3_006
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 0
+        width: 118
+        height: 77
+      alignment: 9
+      pivot: {x: 0.30508474, y: 0.14285715}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50357546f65fea96d7fc2603e2c7b8b8
+      internalID: -1092453375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundSlash3_007
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 0
+        width: 118
+        height: 77
+      alignment: 9
+      pivot: {x: 0.30508474, y: 0.14285715}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b94125fc88187456ee2c4de4d6e5ca0
+      internalID: -1122191577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundSlash3_008
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 0
+        width: 118
+        height: 77
+      alignment: 9
+      pivot: {x: 0.30508474, y: 0.14285715}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a574edf74c6da3c46d265df50c5c3059
+      internalID: -2121828312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundSlash3_009
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 0
+        width: 118
+        height: 77
+      alignment: 9
+      pivot: {x: 0.30508474, y: 0.14285715}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39d01c753a12a717cf1da8412770e32a
+      internalID: 2104354858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundSlash3_010
+      rect:
+        serializedVersion: 2
+        x: 1180
+        y: 0
+        width: 118
+        height: 77
+      alignment: 9
+      pivot: {x: 0.30508474, y: 0.14285715}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e98b724ba23285cd7d6f5cf84c9413dd
+      internalID: -1040260693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundSlash3_011
+      rect:
+        serializedVersion: 2
+        x: 1298
+        y: 0
+        width: 118
+        height: 77
+      alignment: 9
+      pivot: {x: 0.30508474, y: 0.14285715}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 516036bc75549781d441dc6990c9f936
+      internalID: 735148526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundSlash3_012
+      rect:
+        serializedVersion: 2
+        x: 1416
+        y: 0
+        width: 118
+        height: 77
+      alignment: 9
+      pivot: {x: 0.30508474, y: 0.14285715}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e54cb27daa0e8607bd08629574490a9d
+      internalID: 546160316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundSlash3_013
+      rect:
+        serializedVersion: 2
+        x: 1534
+        y: 0
+        width: 118
+        height: 77
+      alignment: 9
+      pivot: {x: 0.30508474, y: 0.14285715}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f2dc2f2765ddcb6634484dd7f240208
+      internalID: 1178771446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: e97e5460ecc23fe4280ab1da454ac112
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      GroundSlash3_000: -1967432847
+      GroundSlash3_001: -567340200
+      GroundSlash3_002: -2030446363
+      GroundSlash3_003: -1312643776
+      GroundSlash3_004: 654174263
+      GroundSlash3_005: 201050072
+      GroundSlash3_006: -1092453375
+      GroundSlash3_007: -1122191577
+      GroundSlash3_008: -2121828312
+      GroundSlash3_009: 2104354858
+      GroundSlash3_010: -1040260693
+      GroundSlash3_011: 735148526
+      GroundSlash3_012: 546160316
+      GroundSlash3_013: 1178771446
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

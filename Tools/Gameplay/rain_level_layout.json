@@ -1,0 +1,405 @@
+{
+    "scene": "Assets/Recursos/Scenes/Levels/RainyFoundry.unity",
+    "length": 264.0,
+    "largestGroundGap": 4.5,
+    "jumpApex": 1.850000023841858,
+    "dashJumpGap": 5.179999828338623,
+    "ladders": 8,
+    "checkpoints": 6,
+    "enemies": 17,
+    "bosses": 2,
+    "solids": [
+        {
+            "name": "Azotea inicial",
+            "left": -2.0,
+            "right": 26.0,
+            "top": 0.0,
+            "depth": 1.7999999523162842
+        },
+        {
+            "name": "Azotea y acceso vertical",
+            "left": 28.0,
+            "right": 58.0,
+            "top": 0.0,
+            "depth": 1.7999999523162842
+        },
+        {
+            "name": "Peldaño de recuperacion",
+            "left": 58.900001525878906,
+            "right": 61.79999923706055,
+            "top": 0.699999988079071,
+            "depth": 0.44999998807907104
+        },
+        {
+            "name": "Recuperacion bajo pasarelas",
+            "left": 63.0,
+            "right": 66.0,
+            "top": 1.2000000476837158,
+            "depth": 1.0
+        },
+        {
+            "name": "Isla entre tuberias",
+            "left": 68.0,
+            "right": 73.0,
+            "top": 2.5999999046325684,
+            "depth": 0.6499999761581421
+        },
+        {
+            "name": "Descanso de mantenimiento",
+            "left": 76.0,
+            "right": 83.0,
+            "top": 0.0,
+            "depth": 1.7999999523162842
+        },
+        {
+            "name": "Fosa de condensadores",
+            "left": 86.0,
+            "right": 95.0,
+            "top": -1.2000000476837158,
+            "depth": 1.7999999523162842
+        },
+        {
+            "name": "Drenaje bajo",
+            "left": 99.0,
+            "right": 112.0,
+            "top": -2.0,
+            "depth": 1.7999999523162842
+        },
+        {
+            "name": "Entrada a fundicion",
+            "left": 115.0,
+            "right": 139.0,
+            "top": -2.0,
+            "depth": 1.7999999523162842
+        },
+        {
+            "name": "Maquinas de fundicion",
+            "left": 143.0,
+            "right": 155.0,
+            "top": -2.0,
+            "depth": 1.7999999523162842
+        },
+        {
+            "name": "Descanso de hornos",
+            "left": 159.0,
+            "right": 169.0,
+            "top": -2.0,
+            "depth": 1.7999999523162842
+        },
+        {
+            "name": "Base de la torre",
+            "left": 169.0,
+            "right": 181.0,
+            "top": 0.0,
+            "depth": 1.7999999523162842
+        },
+        {
+            "name": "Escalon inferior torre",
+            "left": 181.0,
+            "right": 187.0,
+            "top": 1.399999976158142,
+            "depth": 1.2000000476837158
+        },
+        {
+            "name": "Escalon central torre",
+            "left": 190.0,
+            "right": 197.0,
+            "top": 2.799999952316284,
+            "depth": 1.2000000476837158
+        },
+        {
+            "name": "Patio del reactor",
+            "left": 201.5,
+            "right": 212.0,
+            "top": 0.0,
+            "depth": 1.7999999523162842
+        },
+        {
+            "name": "Reactor, esclusa y arena",
+            "left": 212.0,
+            "right": 265.0,
+            "top": 0.0,
+            "depth": 1.7999999523162842
+        },
+        {
+            "name": "Caja de aproximacion",
+            "left": 9.5,
+            "right": 11.0,
+            "top": 0.800000011920929,
+            "depth": 0.800000011920929
+        },
+        {
+            "name": "Peldaño de aprendizaje",
+            "left": 12.0,
+            "right": 13.199999809265137,
+            "top": 1.100000023841858,
+            "depth": 0.4000000059604645
+        },
+        {
+            "name": "Plataforma de salto",
+            "left": 14.0,
+            "right": 17.5,
+            "top": 1.7999999523162842,
+            "depth": 0.5
+        },
+        {
+            "name": "Pasarela de drenaje",
+            "left": 22.5,
+            "right": 24.200000762939453,
+            "top": 1.5,
+            "depth": 0.4000000059604645
+        },
+        {
+            "name": "Muro de subida",
+            "left": 48.70000076293945,
+            "right": 49.599998474121094,
+            "top": 4.599999904632568,
+            "depth": 4.599999904632568
+        },
+        {
+            "name": "Descanso izquierdo escalera",
+            "left": 43.5,
+            "right": 45.29999923706055,
+            "top": 4.800000190734863,
+            "depth": 0.44999998807907104
+        },
+        {
+            "name": "Desembarco escalera oeste",
+            "left": 45.29999923706055,
+            "right": 46.79999923706055,
+            "top": 4.800000190734863,
+            "depth": 0.44999998807907104
+        },
+        {
+            "name": "Pasarela elevada",
+            "left": 46.79999923706055,
+            "right": 57.0,
+            "top": 4.800000190734863,
+            "depth": 0.44999998807907104
+        },
+        {
+            "name": "Techo de tuberias",
+            "left": 58.5,
+            "right": 64.5999984741211,
+            "top": 6.199999809265137,
+            "depth": 0.5
+        },
+        {
+            "name": "Pasarela alta de antenas",
+            "left": 65.80000305175781,
+            "right": 70.0,
+            "top": 7.599999904632568,
+            "depth": 0.5
+        },
+        {
+            "name": "Descenso de antenas",
+            "left": 71.80000305175781,
+            "right": 75.5999984741211,
+            "top": 6.099999904632568,
+            "depth": 0.5
+        },
+        {
+            "name": "Descanso de escalera central",
+            "left": 77.0,
+            "right": 82.0,
+            "top": 3.0,
+            "depth": 0.5
+        },
+        {
+            "name": "Ascenso a condensadores",
+            "left": 83.19999694824219,
+            "right": 89.0,
+            "top": 4.400000095367432,
+            "depth": 0.44999998807907104
+        },
+        {
+            "name": "Muro de condensadores",
+            "left": 94.0,
+            "right": 95.0,
+            "top": 4.199999809265137,
+            "depth": 5.400000095367432
+        },
+        {
+            "name": "Cumbre de condensadores",
+            "left": 90.19999694824219,
+            "right": 97.0,
+            "top": 5.800000190734863,
+            "depth": 0.44999998807907104
+        },
+        {
+            "name": "Pasarela de bajada uno",
+            "left": 99.0,
+            "right": 104.0,
+            "top": 4.5,
+            "depth": 0.44999998807907104
+        },
+        {
+            "name": "Pasarela de bajada dos",
+            "left": 106.0,
+            "right": 111.0,
+            "top": 2.5999999046325684,
+            "depth": 0.44999998807907104
+        },
+        {
+            "name": "Pasarela de bajada tres",
+            "left": 113.0,
+            "right": 117.5,
+            "top": 0.800000011920929,
+            "depth": 0.44999998807907104
+        },
+        {
+            "name": "Plataforma de horno uno",
+            "left": 126.0,
+            "right": 132.0,
+            "top": 0.0,
+            "depth": 0.44999998807907104
+        },
+        {
+            "name": "Plataforma de horno dos",
+            "left": 133.1999969482422,
+            "right": 139.0,
+            "top": 1.399999976158142,
+            "depth": 0.44999998807907104
+        },
+        {
+            "name": "Plataforma de horno tres",
+            "left": 140.1999969482422,
+            "right": 146.0,
+            "top": 2.799999952316284,
+            "depth": 0.44999998807907104
+        },
+        {
+            "name": "Puente sobre la maquina",
+            "left": 147.1999969482422,
+            "right": 154.0,
+            "top": 4.199999809265137,
+            "depth": 0.44999998807907104
+        },
+        {
+            "name": "Barrera de fundicion",
+            "left": 153.0,
+            "right": 154.0,
+            "top": 3.5,
+            "depth": 5.5
+        },
+        {
+            "name": "Descenso del horno",
+            "left": 157.0,
+            "right": 162.0,
+            "top": 2.799999952316284,
+            "depth": 0.44999998807907104
+        },
+        {
+            "name": "Salida de fundicion",
+            "left": 164.0,
+            "right": 169.0,
+            "top": 0.0,
+            "depth": 0.44999998807907104
+        },
+        {
+            "name": "Descanso de torre",
+            "left": 170.5,
+            "right": 176.0,
+            "top": 4.800000190734863,
+            "depth": 0.5
+        },
+        {
+            "name": "Muro de torre",
+            "left": 176.1999969482422,
+            "right": 177.1999969482422,
+            "top": 6.0,
+            "depth": 6.0
+        },
+        {
+            "name": "Torre primer nivel",
+            "left": 177.5,
+            "right": 182.5,
+            "top": 6.199999809265137,
+            "depth": 0.5
+        },
+        {
+            "name": "Torre segundo nivel",
+            "left": 183.6999969482422,
+            "right": 188.8000030517578,
+            "top": 7.599999904632568,
+            "depth": 0.5
+        },
+        {
+            "name": "Torre cima",
+            "left": 189.5,
+            "right": 195.0,
+            "top": 9.0,
+            "depth": 0.5
+        },
+        {
+            "name": "Torre descenso uno",
+            "left": 197.0,
+            "right": 201.5,
+            "top": 7.400000095367432,
+            "depth": 0.5
+        },
+        {
+            "name": "Torre descenso dos",
+            "left": 203.1999969482422,
+            "right": 208.0,
+            "top": 4.599999904632568,
+            "depth": 0.5
+        },
+        {
+            "name": "Torre descenso tres",
+            "left": 209.0,
+            "right": 214.0,
+            "top": 2.0,
+            "depth": 0.44999998807907104
+        },
+        {
+            "name": "Escalera de acceso reactor",
+            "left": 213.5,
+            "right": 218.0,
+            "top": 3.0,
+            "depth": 0.44999998807907104
+        },
+        {
+            "name": "Muro del reactor",
+            "left": 219.0,
+            "right": 220.0,
+            "top": 4.199999809265137,
+            "depth": 4.199999809265137
+        },
+        {
+            "name": "Pasarela del reactor",
+            "left": 220.0,
+            "right": 225.0,
+            "top": 4.400000095367432,
+            "depth": 0.44999998807907104
+        },
+        {
+            "name": "Descenso antes de esclusa",
+            "left": 227.0,
+            "right": 231.1999969482422,
+            "top": 2.4000000953674316,
+            "depth": 0.44999998807907104
+        },
+        {
+            "name": "Arco superior de puerta",
+            "left": 235.1999969482422,
+            "right": 237.8000030517578,
+            "top": 11.0,
+            "depth": 7.0
+        },
+        {
+            "name": "Techo de arena",
+            "left": 237.8000030517578,
+            "right": 261.0,
+            "top": 11.0,
+            "depth": 0.3499999940395355
+        },
+        {
+            "name": "Muro oriental de la arena final",
+            "left": 260.0,
+            "right": 261.0,
+            "top": 11.0,
+            "depth": 11.0
+        }
+    ]
+}

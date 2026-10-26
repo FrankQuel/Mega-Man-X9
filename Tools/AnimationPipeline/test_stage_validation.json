@@ -1,0 +1,10 @@
+{
+    "success": true,
+    "scene": "Assets/Recursos/Scenes/Testing/AnimationTestStage.unity",
+    "backgroundSource": "Assets/Recursos/Sprites/Environment/escenario jugable.png",
+    "libraryClips": 361,
+    "rigClips": 17,
+    "units": 31,
+    "pages": 6,
+    "simultaneousStations": 6
+}
