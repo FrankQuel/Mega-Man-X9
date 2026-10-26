@@ -72,8 +72,10 @@ def release(token,state,tag,paths):
             uploaded.append({k:asset[k] for k in ['id','name','size','browser_download_url']})
         else:uploaded.append(upload(token,item['upload_url'],path))
         state.update(release_url=item['html_url'],release_tag=tag,release_assets=uploaded);write_state(state)
-    api(token,repository+'/releases/'+str(item['id']),'PATCH',{'draft':False})
-    state.update(published=True);write_state(state)
+    published=api(token,repository+'/releases/'+str(item['id']),'PATCH',{'draft':False})
+    state.update(published=not published['draft'],release_url=published['html_url'],
+        release_assets=[{k:asset.get(k) for k in ['id','name','size','browser_download_url','digest']} for asset in published['assets']])
+    write_state(state)
     return state
 
 def main():
